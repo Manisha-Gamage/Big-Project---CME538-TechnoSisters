@@ -1,0 +1,685 @@
+Street address,City,State,Zip/Postal Code,Country,Latitude,Longitude,Neighbourhood,Region
+1787 Saint Clair Ave W #414, Toronto,ON,M6N1H9,Canada,43.673553,-79.461868,The Junction North,York
+509 Beecroft Rd #1209, Toronto,ON,M2N0A3,Canada,43.778652,-79.417947,Willowdale South,North York
+472 Crawford St, Toronto,ON,M6G3J8,Canada,43.656967,-79.42006,Christie,Downtown Toronto
+186 Macpherson Ave, Toronto,ON,M5R1W8,Canada,43.677945,-79.396728,The Annex,Central Toronto
+195 McCaul St #909, Toronto,ON,M5T0E5,Canada,43.6567,-79.392206,Chinatown,Downtown Toronto
+30 Roehampton Ave UNIT 1902, Toronto,ON,M4P0B9,Canada,43.708432,-79.397532,Davisville North,Central Toronto
+84 Old Forest Hill Rd, Toronto,ON,M5P2R5,Canada,43.698984,-79.418189,Forest Hill North,Central Toronto
+625 Queen St E #607, Toronto,ON,M4M1G7,Canada,43.658001,-79.352987,Studio District,East Toronto
+320 Dixon Rd #506, Toronto,ON,M9R1S8,Canada,43.696822,-79.552528,Kingsview Village,Etobicoke
+45 Manning Ave, Toronto,ON,M6J2K3,Canada,43.647598,-79.408882,Little Portugal,West Toronto
+41 Pinto Dr, Toronto,ON,M2J3T9,Canada,43.791871,-79.339242,Fairview,North York
+3 Chilcot Ave, Toronto,ON,M9W1T9,Canada,43.713267,-79.551602,Northwest,Etobicoke
+2 Sonic Way #1708, Toronto,ON,M3C0P2,Canada,43.719497,-79.336408,Flemingdon Park,North York
+53 Hazelton Ave, Toronto,ON,M5R2E3,Canada,43.672448,-79.393529,The Annex,Central Toronto
+80 John St #3201, Toronto,ON,M5V3X4,Canada,43.646874,-79.390188,CN Tower,Downtown Toronto
+7 Carlton St #704, Toronto,ON,M5B2M3,Canada,43.661094,-79.38259,Ryerson,Downtown Toronto
+37 Pringdale Gardens Cir, Toronto,ON,M1J0B1,Canada,43.742145,-79.24373,Scarborough Village,Scarborough
+10 Ed Clark Gdns #14, Toronto,ON,M6N3A9,Canada,43.674272,-79.46257,The Junction North,York
+12 Waring Ct, Toronto,ON,M2N4G7,Canada,43.776906,-79.401025,Willowdale South,North York
+60 Colborne St #1608, Toronto,ON,M5E0B7,Canada,43.649288,-79.374406,Berczy Park,Downtown Toronto
+185 Roehampton Ave #2907, Toronto,ON,M4P0C6,Canada,43.708956,-79.392982,Davisville North,Central Toronto
+1 Sudbury St #101, Toronto,ON,M6J3W6,Canada,43.641055,-79.417998,Little Portugal,West Toronto
+51 Harrison Garden Blvd #707, Toronto,ON,M2N7G4,Canada,43.756666,-79.407784,Willowdale South,North York
+36 Lisgar St #1010, Toronto,ON,M6J0C7,Canada,43.641739,-79.423316,Little Portugal,West Toronto
+5765 Yonge St #1204, Toronto,ON,M2M4H9,Canada,43.783102,-79.415166,Newtonbrook,North York
+41 Dearham Wood, Toronto,ON,M1E1S2,Canada,43.752788,-79.189511,Guildwood,Scarborough
+17 Bathurst St #4205, Toronto,ON,M5V0N1,Canada,43.637435,-79.398908,CN Tower,Downtown Toronto
+25 Finchley Rd, Toronto,ON,M9A2X4,Canada,43.657715,-79.526342,Islington Avenue,Etobicoke
+665 Queen St E #412, Toronto,ON,M4M1G6,Canada,43.658361,-79.351159,Studio District,East Toronto
+3865 Lake Shore Blvd W #217, Toronto,ON,M8W0A2,Canada,43.589859,-79.545165,Alderwood,Etobicoke
+270 Queens Quay W #805, Toronto,ON,M5V3J2,Canada,43.639173,-79.386389,CN Tower,Downtown Toronto
+20 Amesbury Dr, Toronto,ON,M6M4H4,Canada,43.701261,-79.481426,Del Ray,York
+160 The Donway W #403, Toronto,ON,M3C2G1,Canada,43.73383,-79.34844,Flemingdon Park,North York
+30 Western Battery Rd #316, Toronto,ON,M6K3N9,Canada,43.639688,-79.412489,Brockton,West Toronto
+56 Grierson Rd, Toronto,ON,M9W3R3,Canada,43.715143,-79.545919,Northwest,Etobicoke
+41 Markbrook Ln #614, Toronto,ON,M9V5E6,Canada,43.75828,-79.58639,Albion Gardens,Etobicoke
+600 Fleet St #717, Toronto,ON,M5V1B7,Canada,43.636698,-79.400078,CN Tower,Downtown Toronto
+170 Bayview Ave #711, Toronto,ON,M5A0M4,Canada,43.655305,-79.35375,Harbourfront,Downtown Toronto
+11 Wellesley St W #612, Toronto,ON,M4Y0G4,Canada,43.664526,-79.385583,Church and Wellesley,Downtown Toronto
+295 Downsview Park Blvd, Toronto,ON,M3K0B6,Canada,43.73797,-79.476415,CFB Toronto,North York
+333 Adelaide St E #410, Toronto,ON,M5A4T4,Canada,43.651843,-79.369052,Harbourfront,Downtown Toronto
+62 Schell Ave, Toronto,ON,M6E2S9,Canada,43.698338,-79.45509,Caledonia-Fairbanks,York
+64 Glengowan Rd, Toronto,ON,M4N1G4,Canada,43.721159,-79.392357,Lawrence Park,Central Toronto
+501 Adelaide St W #1108, Toronto,ON,M5V0R3,Canada,43.645422,-79.401295,CN Tower,Downtown Toronto
+260 Queens Quay W #1304, Toronto,ON,M5J2N3,Canada,43.63928,-79.385715,Harbourfront East,Downtown Toronto
+70 Annie Craig Dr #4802, Toronto,ON,M8V0G2,Canada,43.624739,-79.478962,Humber Bay Shores,Etobicoke
+801 King St W #325, Toronto,ON,M5V3C9,Canada,43.642734,-79.40707,CN Tower,Downtown Toronto
+43 Millburn Dr, Toronto,ON,M9B2W8,Canada,43.663271,-79.56261,Cloverdale,Etobicoke
+32 Lyme Regis Cres, Toronto,ON,M1M1E4,Canada,43.718741,-79.228161,Cliffcrest,Scarborough
+278 Dawlish Ave, Toronto,ON,M4N1J5,Canada,43.724134,-79.383185,Lawrence Park,Central Toronto
+52 Amiens Rd, Toronto,ON,M1E3S8,Canada,43.776204,-79.188186,Guildwood,Scarborough
+120 Harrison Garden Blvd #2003, Toronto,ON,M2N,Canada,43.757733,-79.403149,Willowdale South,North York
+21 Grand Magazine St #1907, Toronto,ON,M5V1B5,Canada,43.636466,-79.402056,CN Tower,Downtown Toronto
+215 Fort York Blvd #301, Toronto,ON,M5V4A2,Canada,43.636466,-79.404588,CN Tower,Downtown Toronto
+11 Beaumont Rd, Toronto,ON,M4W1V4,Canada,43.679924,-79.371459,Rosedale,Downtown Toronto
+5 Dewbourne Ave, Toronto,ON,M5P1Z1,Canada,43.699375,-79.420442,Forest Hill North,Central Toronto
+542 Delaware Ave N, Toronto,ON,M6H2V2,Canada,43.672077,-79.432791,Dovercourt Village,West Toronto
+16 Yonge St SUITE 4006, Toronto,ON,M5E2A3,Canada,43.64325,-79.3764,Berczy Park,Downtown Toronto
+185 Roehampton Ave #3201, Toronto,ON,M4P0C6,Canada,43.708956,-79.392982,Davisville North,Central Toronto
+3845 Lake Shore Blvd W UNIT 1601, Toronto,ON,M8W4Y3,Canada,43.590672,-79.544208,Alderwood,Etobicoke
+50 Lombard St #1903, Toronto,ON,M5C2X4,Canada,43.651856,-79.376003,St. James Town,Downtown Toronto
+455 Wellington St W #509, Toronto,ON,M5V0V8,Canada,43.643152,-79.397171,CN Tower,Downtown Toronto
+87 Peter St UNIT 2915, Toronto,ON,M5V2G4,Canada,43.646776,-79.392435,CN Tower,Downtown Toronto
+408 Browns Line E #308, Toronto,ON,M8W0C3,Canada,43.601488,-79.54545,Alderwood,Etobicoke
+40 Homewood Ave #2803, Toronto,ON,M4Y2K2,Canada,43.664229,-79.375535,Church and Wellesley,Downtown Toronto
+1150 Briar Hill Ave #306, Toronto,ON,M6B0A9,Canada,43.703091,-79.452004,Glencairn,North York
+369 Albany Ave #5, Toronto,ON,M5R3E2,Canada,43.676334,-79.414275,The Annex,Central Toronto
+38 Joe Shuster Way #106, Toronto,ON,M6K0A5,Canada,43.640417,-79.424649,Brockton,West Toronto
+1926 Lake Shore Blvd W #1805, Toronto,ON,M6S1A1,Canada,43.635856,-79.467386,Runnymede,West Toronto
+60 Town Centre Ct #306, Toronto,ON,M1P0B1,Canada,43.7734,-79.255862,Dorset Park,Scarborough
+190 Borough Dr #302, Toronto,ON,M1P0B6,Canada,43.772874,-79.253995,Dorset Park,Scarborough
+1400 Kingston Rd #501, Toronto,ON,M1N0C2,Canada,43.686959,-79.272431,Birch Cliff,Scarborough
+102 George Henry Blvd #15, Toronto,ON,M2J1E7,Canada,43.77432,-79.348116,Fairview,North York
+9 Valhalla Inn Rd #501, Toronto,ON,M9B0B2,Canada,43.639837,-79.559418,Cloverdale,Etobicoke
+31 Twyford Rd, Toronto,ON,M9A1W3,Canada,43.665533,-79.539719,Islington Avenue,Etobicoke
+861 Sheppard Ave W #15, Toronto,ON,M3H2T5,Canada,43.752102,-79.453675,Bathurst Manor,North York
+125 Western Battery Rd #2207, Toronto,ON,M6K3R8,Canada,43.639868,-79.416734,Brockton,West Toronto
+3220 Sheppard Ave E #318, Toronto,ON,M1T0B7,Canada,43.777968,-79.312305,Clarks Corners,Scarborough
+1 Oregon Trl, Toronto,ON,M9B1P4,Canada,43.639976,-79.552582,Cloverdale,Etobicoke
+111 Newton Dr, Toronto,ON,M2M2N2,Canada,43.794606,-79.410102,Newtonbrook,North York
+278 Bloor St E #905, Toronto,ON,M4W3M4,Canada,43.672265,-79.380454,Rosedale,Downtown Toronto
+30 Anglesey Blvd #G2, Toronto,ON,M9A3B5,Canada,43.663784,-79.522679,Islington Avenue,Etobicoke
+55 Stewart St UNIT 625, Toronto,ON,M5V2V1,Canada,43.643237,-79.401278,CN Tower,Downtown Toronto
+2191 Yonge St #1708, Toronto,ON,M4S3H8,Canada,43.705666,-79.39739,Davisville,Central Toronto
+271 Park Home Ave, Toronto,ON,M2R1A1,Canada,43.764323,-79.434004,Willowdale West,North York
+1 King St W #2402, Toronto,ON,M5H1A1,Canada,43.648987,-79.37807,Adelaide,Downtown Toronto
+34 Greengate Rd, Toronto,ON,M3B1E8,Canada,43.739958,-79.364228,Don Mills North,North York
+10 Wilby Cres #1603, Toronto,ON,M9N0B6,Canada,43.697794,-79.512333,Weston,York
+85 Drewry Ave, Toronto,ON,M2M1C9,Canada,43.78598,-79.421249,Newtonbrook,North York
+5 Whitehall Rd, Toronto,ON,M4W2C5,Canada,43.683971,-79.38242,Rosedale,Downtown Toronto
+66 Fontainbleau Dr, Toronto,ON,M2M1N9,Canada,43.793138,-79.432029,Newtonbrook,North York
+57 Saint Joseph St #523, Toronto,ON,M5S0C5,Canada,43.665388,-79.388021,Harbord,Downtown Toronto
+365 Beech Ave #219, Toronto,ON,M4E0C2,Canada,43.680037,-79.29045,The Beaches,East Toronto
+80 Palace Pier Ct #101, Toronto,ON,M8V4C1,Canada,43.630714,-79.474027,Humber Bay Shores,Etobicoke
+100 Harrison Garden Blvd #L02, Toronto,ON,M2N0C2,Canada,43.756982,-79.4044,Willowdale South,North York
+70 Forest Manor Rd #3410, Toronto,ON,M2J0A9,Canada,43.689144,-79.404683,Fairview,North York
+284 Ellis Ave, Toronto,ON,M6S2X2,Canada,43.645729,-79.472703,Runnymede,West Toronto
+86 17th St, Toronto,ON,M8V3K4,Canada,43.602095,-79.517563,Humber Bay Shores,Etobicoke
+3 Dailing Gate, Toronto,ON,M1B1Z3,Canada,43.791382,-79.22969,Rouge,Scarborough
+120 Parliament St PENTHOUSE 2404, Toronto,ON,M5A0N6,Canada,43.653856,-79.363933,Harbourfront,Downtown Toronto
+218 Pleasant Ave, Toronto,ON,M2M1M5,Canada,43.790667,-79.430102,Newtonbrook,North York
+210 Westmount Ave, Toronto,ON,M6E3M8,Canada,43.680554,-79.443098,Caledonia-Fairbanks,York
+11 Carisbrooke Sq, Toronto,ON,M1B4M2,Canada,43.81623,-79.214484,Rouge,Scarborough
+2335 1/2 Gerrard St E, Toronto,ON,M4E2E6,Canada,43.685302,-79.293178,The Beaches,East Toronto
+160 Flemington Rd #512, Toronto,ON,M6A0A9,Canada,43.723077,-79.448251,Lawrence Heights,North York
+39 Bushell Ave, Toronto,ON,M4M3B8,Canada,43.671322,-79.334877,Studio District,East Toronto
+133 Westminster Ave, Toronto,ON,M6R1N6,Canada,43.646774,-79.450533,Parkdale,West Toronto
+11B Crawford St #11B, Toronto,ON,M6K3M3,Canada,43.640922,-79.413315,Brockton,West Toronto
+86 Sloping Sky Mews #TOWNHOUSE 6, Toronto,ON,M5V0B3,Canada,43.636887,-79.403026,CN Tower,Downtown Toronto
+993 Queen St W #223, Toronto,ON,M6J1H2,Canada,43.644646,-79.415649,Little Portugal,West Toronto
+32 Brookfield Rd, Toronto,ON,M2P1A9,Canada,43.741523,-79.400732,York Mills West,North York
+535 Brunswick Ave, Toronto,ON,M5R2Z6,Canada,43.673818,-79.410137,The Annex,Central Toronto
+88 Anthony Rd, Toronto,ON,M3K1B4,Canada,43.729155,-79.466301,CFB Toronto,North York
+36 Park Lawn Rd #203, Toronto,ON,M8V0E5,Canada,43.623467,-79.484321,Humber Bay Shores,Etobicoke
+82 Greensides Ave, Toronto,ON,M6G3P7,Canada,43.679843,-79.429992,Christie,Downtown Toronto
+259 Claremont St, Toronto,ON,M6J2N1,Canada,43.652938,-79.412094,Little Portugal,West Toronto
+570 Wellington St W #13A, Toronto,ON,M5V2X5,Canada,43.642841,-79.403108,CN Tower,Downtown Toronto
+51 Lady Bank Rd #501, Toronto,ON,M8Z0C9,Canada,43.624575,-79.511602,Kingsway Park South West,Etobicoke
+8 The Esplanade #1908, Toronto,ON,M5E0A6,Canada,43.646227,-79.376346,Berczy Park,Downtown Toronto
+58 Lytton Blvd, Toronto,ON,M4R1L3,Canada,43.71588,-79.403981,North Toronto West,Central Toronto
+676 Richmond St W #106, Toronto,ON,M6J1C3,Canada,43.646269,-79.405919,Little Portugal,West Toronto
+80 North Dr, Toronto,ON,M9A4R2,Canada,43.678079,-79.501451,Islington Avenue,Etobicoke
+8 Eglinton Ave E #1910, Toronto,ON,M4P0C1,Canada,43.707141,-79.397703,Davisville North,Central Toronto
+2639 Lake Shore Blvd W, Toronto,ON,M8V1G5,Canada,43.603501,-79.492054,Humber Bay Shores,Etobicoke
+321 Concord Ave, Toronto,ON,M6H2P7,Canada,43.662575,-79.426988,Dovercourt Village,West Toronto
+11 Park Manor Dr, Toronto,ON,M9B5C1,Canada,43.650254,-79.557219,Cloverdale,Etobicoke
+38 Dan Leckie Way #2209, Toronto,ON,M5V2V6,Canada,43.637492,-79.398104,CN Tower,Downtown Toronto
+65 Spring Garden Ave #1802, Toronto,ON,M2N6H9,Canada,43.764832,-79.409426,Willowdale South,North York
+83 Anthony Rd, Toronto,ON,M3K1B5,Canada,43.72897,-79.465612,CFB Toronto,North York
+31 Russell Hill Rd, Toronto,ON,M4V2S9,Canada,43.681167,-79.402842,Deer Park,Central Toronto
+3 Pemberton Ave #2106, Toronto,ON,M2M4M1,Canada,43.780486,-79.413866,Newtonbrook,North York
+17 Regal Rd, Toronto,ON,M6H2J5,Canada,43.674962,-79.433701,Dovercourt Village,West Toronto
+60 Brian Harrison Way #302, Toronto,ON,M1P5J5,Canada,43.774024,-79.258007,Dorset Park,Scarborough
+399 Lake Promenade, Toronto,ON,M8W1C3,Canada,43.586922,-79.539539,Alderwood,Etobicoke
+141 Eastwood Ave, Toronto,ON,M1N3H4,Canada,43.694987,-79.269234,Birch Cliff,Scarborough
+19 Western Battery Rd #1803, Toronto,ON,M6K3N9,Canada,43.63957,-79.411329,Brockton,West Toronto
+43 Rusholme Rd, Toronto,ON,M6J3H3,Canada,43.650755,-79.426961,Little Portugal,West Toronto
+6 Newmarket Ave, Toronto,ON,M4C1V7,Canada,43.689384,-79.307654,Woodbine Heights,East York
+7 Ashley Park Rd, Toronto,ON,M9A4C9,Canada,43.662619,-79.516617,Islington Avenue,Etobicoke
+54 Judy Sgro Ave, Toronto,ON,M3L0E4,Canada,43.727778,-79.523194,Downsview West,North York
+50 Yorkville Ave #4403, Toronto,ON,M4W0A3,Canada,43.671667,-79.389667,Rosedale,Downtown Toronto
+100 Ardwold Gate, Toronto,ON,M5R2W2,Canada,43.680418,-79.409322,The Annex,Central Toronto
+111 Knowles Dr, Toronto,ON,M1X1T4,Canada,43.825488,-79.213639,Upper Rouge,Scarborough
+231 Falstaff Ave, Toronto,ON,M6L2G6,Canada,43.718179,-79.490279,Downsview,North York
+50 Bruyeres Mews #718, Toronto,ON,M5V0H8,Canada,43.637658,-79.402351,CN Tower,Downtown Toronto
+48 Lockwood Rd, Toronto,ON,M4L3M8,Canada,43.669468,-79.310099,The Beaches West,East Toronto
+200 Manitoba St #210, Toronto,ON,M8Y3Y9,Canada,43.623676,-79.492078,Humber Bay,Etobicoke
+1787 Saint Clair Ave W #917, Toronto,ON,M6N1H9,Canada,43.673553,-79.461868,The Junction North,York
+84 Chad Cres, Toronto,ON,M1B2Z6,Canada,43.814889,-79.209796,Rouge,Scarborough
+176 Castlefield Ave, Toronto,ON,M4R1G7,Canada,43.710283,-79.40786,North Toronto West,Central Toronto
+42 Fishleigh Dr, Toronto,ON,M1N1H2,Canada,43.700556,-79.248654,Birch Cliff,Scarborough
+43 Florida Cres, Toronto,ON,M9M1P4,Canada,43.735016,-79.543367,Emery,North York
+34 Kippendavie Ave, Toronto,ON,M4L3R4,Canada,43.666604,-79.303104,The Beaches West,East Toronto
+203 Parkmount Rd, Toronto,ON,M4J4V5,Canada,43.682084,-79.32556,East Toronto,East York
+7 Doncaster Ave, Toronto,ON,M4C1Y4,Canada,43.690493,-79.308029,Woodbine Heights,East York
+42 Charles St E #2810, Toronto,ON,M4Y0B7,Canada,43.669355,-79.384182,Church and Wellesley,Downtown Toronto
+1659 Gerrard St E, Toronto,ON,M4L2A9,Canada,43.675632,-79.31876,The Beaches West,East Toronto
+29 Tarsus Cres, Toronto,ON,M1C3W6,Canada,43.79372,-79.183513,Highland Creek,Scarborough
+101 Dunloe Rd, Toronto,ON,M5P2T7,Canada,43.696392,-79.413647,Forest Hill North,Central Toronto
+2 Bellefair Ave UNIT 306, Toronto,ON,M4L3T8,Canada,43.670263,-79.300053,The Beaches West,East Toronto
+225 Sumach St #2511, Toronto,ON,M5A0P8,Canada,43.661007,-79.360355,Harbourfront,Downtown Toronto
+20 Edward St #1719, Toronto,ON,M5G0C5,Canada,43.657059,-79.382187,Central Bay Street,Downtown Toronto
+117 Omni Dr #15, Toronto,ON,M1P5A5,Canada,43.771256,-79.261225,Dorset Park,Scarborough
+8 Telegram Mews #622, Toronto,ON,M5V3Z5,Canada,43.640493,-79.394916,CN Tower,Downtown Toronto
+104 Albany Ave, Toronto,ON,M5R3C4,Canada,43.668716,-79.411569,The Annex,Central Toronto
+4060 Lawrence Ave E #108, Toronto,ON,M1E4V4,Canada,43.766351,-79.197594,Guildwood,Scarborough
+20 Blue Jays Way #1106, Toronto,ON,M5V3W6,Canada,43.643797,-79.391668,CN Tower,Downtown Toronto
+17 Zorra St #701, Toronto,ON,M8Z0C8,Canada,43.621292,-79.52083,Kingsway Park South West,Etobicoke
+897 Sheppard Ave W #202, Toronto,ON,M3H2T4,Canada,43.751649,-79.455201,Bathurst Manor,North York
+77 Charles St W #906, Toronto,ON,M5S0B2,Canada,43.667717,-79.390434,Harbord,Downtown Toronto
+125 Alicewood Ct, Toronto,ON,M9V3Y1,Canada,43.730833,-79.596435,Albion Gardens,Etobicoke
+300 Mill Rd #A31, Toronto,ON,M9C4W7,Canada,43.638084,-79.583984,Bloordale Gardens,Etobicoke
+40 Fern Ave, Toronto,ON,M6R1K1,Canada,43.646039,-79.441856,Parkdale,West Toronto
+290 Adelaide St W #2405, Toronto,ON,M5V1N1,Canada,43.647816,-79.391122,CN Tower,Downtown Toronto
+78 Harrison Garden Blvd #2305, Toronto,ON,M2N7E2,Canada,43.756049,-79.407113,Willowdale South,North York
+104 Natal Ave, Toronto,ON,M1N3V6,Canada,43.714075,-79.254723,Birch Cliff,Scarborough
+214 Antibes Dr, Toronto,ON,M2R3H8,Canada,43.781975,-79.448556,Willowdale West,North York
+503 Beecroft Rd #515, Toronto,ON,M2N0A2,Canada,43.778232,-79.417772,Willowdale South,North York
+163 Brickworks Ln, Toronto,ON,M6N5H8,Canada,43.675475,-79.468816,The Junction North,York
+56 Amiens Rd, Toronto,ON,M1E3S8,Canada,43.776434,-79.188258,Guildwood,Scarborough
+50 Ordnance St #1703, Toronto,ON,M6K0C9,Canada,43.639789,-79.409842,Brockton,West Toronto
+140 Brookside Dr, Toronto,ON,M4E2M2,Canada,43.680619,-79.306407,The Beaches,East Toronto
+130 River St #2806, Toronto,ON,M5A0R8,Canada,43.661484,-79.358579,Harbourfront,Downtown Toronto
+2885 Bayview Ave UNIT 717, Toronto,ON,M2K0A3,Canada,43.768608,-79.388063,Bayview Village,North York
+20 Gladstone Ave #417, Toronto,ON,M6J0E9,Canada,43.643481,-79.427721,Little Portugal,West Toronto
+570 Oriole Pkwy, Toronto,ON,M4R2C2,Canada,43.705679,-79.406974,North Toronto West,Central Toronto
+23 Radwell Cres, Toronto,ON,M1V2J4,Canada,43.81922,-79.289585,Agincourt North,Scarborough
+1603 Eglinton Ave W #504, Toronto,ON,M6E0A1,Canada,43.697042,-79.443072,Caledonia-Fairbanks,York
+801 Midland Ave, Toronto,ON,M1K4E8,Canada,43.733573,-79.257355,East Birchmount Park,Scarborough
+48 Gondola Cres, Toronto,ON,M1G2J3,Canada,43.767244,-79.209421,Woburn,Scarborough
+314 Rosemary Rd, Toronto,ON,M5P3E3,Canada,43.696839,-79.421627,Forest Hill North,Central Toronto
+18 Oaken Gtwy #18, North York,ON,M2P2A1,Canada,43.753729,-79.405545,York Mills West,North York
+88 Turtle Island Rd #5, Toronto,ON,M6A2M7,Canada,43.722474,-79.444115,Lawrence Heights,North York
+2 Garden Cir, Toronto,ON,M4G2X8,Canada,43.694975,-79.375138,Leaside,East York
+4978 Yonge St UNIT 1911, Toronto,ON,M2N7G8,Canada,43.76562,-79.412725,Willowdale South,North York
+18 Earnbridge St, Toronto,ON,M6K1N3,Canada,43.643518,-79.432357,Brockton,West Toronto
+73 Maclean Ave, Toronto,ON,M4E2Z8,Canada,43.670799,-79.290289,The Beaches,East Toronto
+3 Biggar Ave, Toronto,ON,M6H2N5,Canada,43.678959,-79.433611,Dovercourt Village,West Toronto
+20 Fletcher Pl, Toronto,ON,M9R1K6,Canada,43.6912,-79.546078,Kingsview Village,Etobicoke
+20 Niagara St #PENTHOUSE 1, Toronto,ON,M5V3L8,Canada,43.642374,-79.400916,CN Tower,Downtown Toronto
+474 Russell Hill Rd, Toronto,ON,M5P2S7,Canada,43.697789,-79.413426,Forest Hill North,Central Toronto
+1346 Danforth Rd #901, Toronto,ON,M1J0A9,Canada,43.743558,-79.244826,Scarborough Village,Scarborough
+112 Laurel Ave, Toronto,ON,M1K3J9,Canada,43.72521,-79.258113,East Birchmount Park,Scarborough
+20 Joe Shuster Way #202, Toronto,ON,M6K0A3,Canada,43.640144,-79.423917,Brockton,West Toronto
+11 Kingsway Cres, Toronto,ON,M8X2P9,Canada,43.653748,-79.504572,The Kingsway,Etobicoke
+270 Brighton Ave, Toronto,ON,M3H4E9,Canada,43.757593,-79.458141,Bathurst Manor,North York
+38 S Kingslea Dr, Toronto,ON,M8Y2A4,Canada,43.641624,-79.496401,Humber Bay,Etobicoke
+63 Ward St, Toronto,ON,M6H4A5,Canada,43.664115,-79.446402,Dovercourt Village,West Toronto
+816 Lansdowne Ave #1015, Toronto,ON,M6H4K6,Canada,43.665661,-79.447378,Dovercourt Village,West Toronto
+80 Chiswell Cres, Toronto,ON,M2N6E1,Canada,43.780901,-79.391894,Willowdale South,North York
+6 Esterbrooke Ave #82, Toronto,ON,M2J2C2,Canada,43.779624,-79.352763,Fairview,North York
+160 Howland Ave, Toronto,ON,M5R3B6,Canada,43.670989,-79.411014,The Annex,Central Toronto
+58 Marine Parade Dr #1110, Toronto,ON,M8V4G1,Canada,43.627469,-79.477128,Humber Bay Shores,Etobicoke
+223 Kennedy Rd, Toronto,ON,M1N3P4,Canada,43.706363,-79.257097,Birch Cliff,Scarborough
+28A Wilberton Rd, Toronto,ON,M4V1Z3,Canada,43.694932,-79.401617,Deer Park,Central Toronto
+20 Stewart St #204, Toronto,ON,M5V1H6,Canada,43.643775,-79.400667,CN Tower,Downtown Toronto
+17 Maughan Cres, Toronto,ON,M4L3E4,Canada,43.670022,-79.316003,The Beaches West,East Toronto
+101 Clearbrooke Cir, Toronto,ON,M9W2E9,Canada,43.721799,-79.561522,Northwest,Etobicoke
+85 The Bridle Path, Toronto,ON,M3C2P1,Canada,43.732687,-79.364782,Flemingdon Park,North York
+85 Emmett Ave #1012, Toronto,ON,M6M5A2,Canada,43.686963,-79.50605,Del Ray,York
+212 Saint Clair Ave W, Toronto,ON,M4V1R2,Canada,43.686366,-79.404449,Deer Park,Central Toronto
+11 Thornwood Rd, Toronto,ON,M4W2R8,Canada,43.681926,-79.385029,Rosedale,Downtown Toronto
+10 Blakley Ave, Toronto,ON,M6N3Y5,Canada,43.671732,-79.481226,The Junction North,York
+17 Strath Humber Ct, Toronto,ON,M9A4C8,Canada,43.661667,-79.515797,Islington Avenue,Etobicoke
+7 Appleby Ct, Toronto,ON,M9B5A1,Canada,43.654048,-79.549576,Cloverdale,Etobicoke
+18 Munro Park Ave, Toronto,ON,M4E3M3,Canada,43.671794,-79.283123,The Beaches,East Toronto
+7 Brimley Rd S #D78, Toronto,ON,M1M3W3,Canada,43.706276,-79.231863,Cliffcrest,Scarborough
+20/22 Park Lane Cir,Toronto,ON,M3B1Z7,Canada,43.633001,-79.354953,Don Mills North,North York
+19 Country Ln,Toronto,ON,M2L1E1,Canada,43.74036,-79.380766,Silver Hills,North York
+88 Forest Heights Blvd,Toronto,ON,M2L2K8,Canada,43.760595,-79.378477,Silver Hills,North York
+45 Park Lane Cir,Toronto,ON,M3C2N3,Canada,43.730085,-79.369058,Flemingdon Park,North York
+27 South Dr,Toronto,ON,M4W1R2,Canada,43.677229,-79.382582,Rosedale,Downtown Toronto
+17 Ardwold Gate,Toronto,ON,M5R2W1,Canada,43.678881,-79.407258,The Annex,Central Toronto
+36 Old Colony Rd,Toronto,ON,M2L2J8,Canada,43.758104,-79.382893,Silver Hills,North York
+253 Dunvegan Rd,Toronto,ON,M5P2P5,Canada,43.699453,-79.414977,Forest Hill North,Central Toronto
+45 Bayview Rdg,Toronto,ON,M2L1E3,Canada,43.741938,-79.387871,Silver Hills,North York
+112 Mason Blvd,Toronto,ON,M5M3E3,Canada,43.741214,-79.412096,Bedford Park,North York
+220 Victoria St #806,Toronto,ON,M5B2R6,Canada,43.654877,-79.379218,Ryerson,Downtown Toronto
+27 Devondale Ave,Toronto,ON,M2R2C9,Canada,43.777838,-79.435334,Willowdale West,North York
+45 Pegasus Trl,Toronto,ON,M1G3N6,Canada,43.780196,-79.221561,Woburn,Scarborough
+73 Fishleigh Dr,Toronto,ON,M1N1H3,Canada,43.701371,-79.245529,Birch Cliff,Scarborough
+1 Lake Shore Dr,Toronto,ON,M8V1Y9,Canada,43.601114,-79.497504,Humber Bay Shores,Etobicoke
+12 Gradwell Dr,Toronto,ON,M1M2M9,Canada,43.71325,-79.235129,Cliffcrest,Scarborough
+79 John St,Toronto,ON,M9N1J6,Canada,43.703998,-79.515164,Weston,York
+20 Moccasin Trl,Toronto,ON,M3C1Y7,Canada,43.731688,-79.339069,Flemingdon Park,North York
+55 Lynnhaven Rd,Toronto,ON,M6A2K7,Canada,43.721312,-79.439612,Lawrence Heights,North York
+129 Clansman Blvd,Toronto,ON,M2H1Y3,Canada,43.802346,-79.361476,Hillcrest Village,North York
+62 Portico Dr,Toronto,ON,M1G3R6,Canada,43.780543,-79.219347,Woburn,Scarborough
+579 Indian Rd,Toronto,ON,M6P2C3,Canada,43.65804,-79.456608,High Park,West Toronto
+6 Elward Blvd,Toronto,ON,M1L3L2,Canada,43.691459,-79.281882,Clairlea,Scarborough
+483 Dupont St #103,Toronto,ON,M6G1Y6,Canada,43.672797,-79.415295,Christie,Downtown Toronto
+55 Regency Sq,Toronto,ON,M1E1N4,Canada,43.752281,-79.194912,Guildwood,Scarborough
+30 High Point Rd,Toronto,ON,M3C2R3,Canada,43.731817,-79.368833,Flemingdon Park,North York
+200 Murison Blvd UNIT 67,Toronto,ON,M1B3R9,Canada,43.800088,-79.202935,Rouge,Scarborough
+10 Greenyards Dr,Toronto,ON,M2M2R6,Canada,43.79625,-79.40879,Newtonbrook,North York
+23 Elba Ave,Toronto,ON,M1L4E9,Canada,43.699375,-79.274278,Clairlea,Scarborough
+24 Sophia Dr, Toronto,ON,M1H1Z4,Canada,43.762867,-79.227694,Cedarbrae,Scarborough
+1 Strathgowan Ave #403, Toronto,ON,M4N0B3,Canada,43.718724,-79.400268,Lawrence Park,Central Toronto
+501 Adelaide St W #909, Toronto,ON,M5V0R3,Canada,43.645422,-79.401295,CN Tower,Downtown Toronto
+15 Helmsdale Cres, Toronto,ON,M9V3X8,Canada,43.747239,-79.603316,Albion Gardens,Etobicoke
+55 Deanscroft Sq, Toronto,ON,M1E4W8,Canada,43.764897,-79.176426,Guildwood,Scarborough
+191 Parkmount Rd, Toronto,ON,M4J4V5,Canada,43.681804,-79.325548,East Toronto,East York
+21 Iceboat Ter PENTHOUSE 10, Toronto,ON,M5V4A9,Canada,43.640393,-79.397362,CN Tower,Downtown Toronto
+78 Carr St #TOWNHOUSE 32, Toronto,ON,M5T1B7,Canada,43.649695,-79.403974,Chinatown,Downtown Toronto
+650 Sheppard Ave E #215, Toronto,ON,M2K3E4,Canada,43.768577,-79.381429,Bayview Village,North York
+1778 Dufferin St, Toronto,ON,M6E3P4,Canada,43.680272,-79.444278,Caledonia-Fairbanks,York
+33 Shore Breeze Dr E #1208, Toronto,ON,M8V0G1,Canada,43.623886,-79.479223,Humber Bay Shores,Etobicoke
+24 Coventry St, Toronto,ON,M1L0H1,Canada,43.692746,-79.276677,Clairlea,Scarborough
+21 Groverdale Rd, Toronto,ON,M9C3M7,Canada,43.650171,-79.575026,Bloordale Gardens,Etobicoke
+80 Curzon St, Toronto,ON,M4M3B4,Canada,43.665284,-79.332659,Studio District,East Toronto
+8 Trent Ave #1205, Toronto,ON,M4C0A6,Canada,43.688207,-79.295862,Woodbine Heights,East York
+65 Huntingdale Blvd UNIT 1507, Toronto,ON,M1W2P1,Canada,43.795184,-79.324378,L'Amoreaux West,Scarborough
+198 Lawlor Ave, Toronto,ON,M4E3M1,Canada,43.685388,-79.290756,The Beaches,East Toronto
+408 Browns Line S #312, Toronto,ON,M5W3T9,Canada,43.601697,-79.545232,Stn A PO Boxes 25 The Esplanade,Downtown Toronto
+1 King St W #1501, Toronto,ON,M5H1A1,Canada,43.648987,-79.37807,Adelaide,Downtown Toronto
+25 Clark St, Toronto,ON,M4M1M5,Canada,43.660183,-79.347772,Studio District,East Toronto
+64 Chandler Dr, Toronto,ON,M1G1Z3,Canada,43.765412,-79.220644,Woburn,Scarborough
+10 Capreol Ct #902, Toronto,ON,M5V4B3,Canada,43.640268,-79.396014,CN Tower,Downtown Toronto
+215 Mill Rd, Toronto,ON,M9C1Y1,Canada,43.633835,-79.57625,Bloordale Gardens,Etobicoke
+100 Rosethorn Ave, Toronto,ON,M6N3L1,Canada,43.679352,-79.463314,The Junction North,York
+98 Spruce Hill Rd, Toronto,ON,M4E3G4,Canada,43.675156,-79.290203,The Beaches,East Toronto
+63 Bannatyne Dr, Toronto,ON,M2L2P2,Canada,43.761125,-79.370406,Silver Hills,North York
+533 Richmond St W PENTHOUSE 2, Toronto,ON,M5V3Y1,Canada,43.646874,-79.400841,CN Tower,Downtown Toronto
+8 Lee Centre Dr #702, Toronto,ON,M1H3H8,Canada,43.780823,-79.247602,Cedarbrae,Scarborough
+30 Nelson St #PENTHOUSE 101, Toronto,ON,M5V0H5,Canada,43.649062,-79.388476,CN Tower,Downtown Toronto
+9 Overton Pl, Toronto,ON,M3B1H1,Canada,43.741095,-79.345984,Don Mills North,North York
+1328 Birchmount Rd #PENTHOUSE 9, Toronto,ON,M1R0B6,Canada,43.748506,-79.286068,Maryvale,Scarborough
+717 Greenwood Ave, Toronto,ON,M4J4B6,Canada,43.683375,-79.332915,East Toronto,East York
+200 Woodbine Ave #601, Toronto,ON,M4L3P2,Canada,43.668935,-79.306142,The Beaches West,East Toronto
+8 Attila Ct, Toronto,ON,M9V4E5,Canada,43.736459,-79.597189,Albion Gardens,Etobicoke
+62 Kent Rd, Toronto,ON,M4L2X6,Canada,43.667307,-79.321014,The Beaches West,East Toronto
+200 Russell Hill Rd #502, Toronto,ON,M4V0B6,Canada,43.681737,-79.406631,Deer Park,Central Toronto
+45 Oldham Rd, Toronto,ON,M9A2B9,Canada,43.677488,-79.542254,Islington Avenue,Etobicoke
+29 Portico Dr, Toronto,ON,M1G3R5,Canada,43.779069,-79.22196,Woburn,Scarborough
+11 Brunel Ct #5005, Toronto,ON,M5V3Y3,Canada,43.639441,-79.393173,CN Tower,Downtown Toronto
+103 Old Colony Rd, Toronto,ON,M2L2K3,Canada,43.758834,-79.374583,Silver Hills,North York
+175 Teddington Park Ave, Toronto,ON,M4N2C7,Canada,43.734233,-79.396869,Lawrence Park,Central Toronto
+6 Wyndcliff Cres, Toronto,ON,M4A2K1,Canada,43.735574,-79.318059,Victoria Village,North York
+40 Sylvan Valleyway #523, Toronto,ON,M5M4M3,Canada,43.724203,-79.415282,Bedford Park,North York
+167 Wineva Ave, Toronto,ON,M4E2T5,Canada,43.672156,-79.295951,The Beaches,East Toronto
+10 Gateway Blvd #402, Toronto,ON,M3C3A1,Canada,43.709781,-79.332708,Flemingdon Park,North York
+2200 Lake Shore Blvd W #818, Toronto,ON,M8V1A4,Canada,43.622743,-79.481934,Humber Bay Shores,Etobicoke
+8 Rosebank Dr #7H, Toronto,ON,M1B5Z3,Canada,43.791844,-79.237284,Rouge,Scarborough
+31 Antler St, Toronto,ON,M6P3R2,Canada,43.663867,-79.44993,High Park,West Toronto
+799 Midland Ave, Toronto,ON,M1K4E8,Canada,43.733446,-79.25729,East Birchmount Park,Scarborough
+130 Neptune Dr #607, Toronto,ON,M6A1X5,Canada,43.730295,-79.441115,Lawrence Heights,North York
+557 Logan Ave, Toronto,ON,M4K3B6,Canada,43.669004,-79.345758,The Danforth West,East Toronto
+302 Richview Ave, Toronto,ON,M5P3G5,Canada,43.695952,-79.422548,Forest Hill North,Central Toronto
+1 Monarchdale Ave, Toronto,ON,M6M2S6,Canada,43.698966,-79.493874,Del Ray,York
+5 Wray Ct, Toronto,ON,M9V4K4,Canada,43.755083,-79.593103,Albion Gardens,Etobicoke
+56 Branstone Rd, Toronto,ON,M6E4E4,Canada,43.692013,-79.453838,Caledonia-Fairbanks,York
+5 Mabelle Ave #2328, Toronto,ON,M9A0C8,Canada,43.646719,-79.525449,Islington Avenue,Etobicoke
+437 Westmount Ave, Toronto,ON,M6E3N4,Canada,43.686951,-79.445233,Caledonia-Fairbanks,York
+35 Kirkdene Dr, Toronto,ON,M1C3A5,Canada,43.793789,-79.141364,Highland Creek,Scarborough
+136 Collier St, Toronto,ON,M4W1M3,Canada,43.67275,-79.384146,Rosedale,Downtown Toronto
+130 Morningview Trl, Toronto,ON,M1B5L2,Canada,43.815394,-79.199609,Rouge,Scarborough
+2800 Warden Ave #1004, Toronto,ON,M1W3Z6,Canada,43.795721,-79.315724,L'Amoreaux West,Scarborough
+4737 Jane St, Toronto,ON,M3N2K8,Canada,43.771431,-79.519798,Downsview Northwest,North York
+28 Fishleigh Dr, Toronto,ON,M1N1G9,Canada,43.700665,-79.250643,Birch Cliff,Scarborough
+4673 Jane St #318, Toronto,ON,M3N2L1,Canada,43.770357,-79.520128,Downsview Northwest,North York
+850 Danforth Rd, Toronto,ON,M1K1H5,Canada,43.726901,-79.253184,East Birchmount Park,Scarborough
+303 Maria St, Toronto,ON,M6P1W6,Canada,43.666219,-79.482138,High Park,West Toronto
+631 Richmond St W, Toronto,ON,M6J1C2,Canada,43.646133,-79.404423,Little Portugal,West Toronto
+90 Broadview Ave #526, Toronto,ON,M4M0A7,Canada,43.65794,-79.349786,Studio District,East Toronto
+18 Burnt Log Cres, Toronto,ON,M9C2J8,Canada,43.633137,-79.58094,Bloordale Gardens,Etobicoke
+10 De Boers Dr #905, Toronto,ON,M3J0L6,Canada,43.752055,-79.464264,Northwood Park,North York
+825 Adelaide St W, Toronto,ON,M6J1B5,Canada,43.643556,-79.410684,Little Portugal,West Toronto
+15 Edenbrook Hl, Toronto,ON,M9A3Z7,Canada,43.671624,-79.524004,Islington Avenue,Etobicoke
+10 Deerlick Ct #518, Toronto,ON,M3A0A7,Canada,43.759433,-79.332085,Parkwoods,North York
+11 Wellesley St W #4711, Toronto,ON,M4Y0G4,Canada,43.664526,-79.385583,Church and Wellesley,Downtown Toronto
+37 Saint Andrews Gdns, Toronto,ON,M4W2C9,Canada,43.685552,-79.374772,Rosedale,Downtown Toronto
+8 Colborne St #PENTHOUSE 2701, Toronto,ON,M5E1E1,Canada,43.648745,-79.377021,Berczy Park,Downtown Toronto
+102 Pennyhill Dr, Toronto,ON,M1B4K7,Canada,43.813775,-79.216708,Rouge,Scarborough
+333 Brighton Ave, Toronto,ON,M3H4G4,Canada,43.756128,-79.462889,Bathurst Manor,North York
+20 Blue Jays Way #319, Toronto,ON,M5V3W6,Canada,43.643797,-79.391668,CN Tower,Downtown Toronto
+2737 Keele St #821, Toronto,ON,M3M2E9,Canada,43.725799,-79.480604,Downsview Central,North York
+24 Masseygrove Cres, Toronto,ON,M9V3C9,Canada,43.736326,-79.584228,Albion Gardens,Etobicoke
+1 De Vere Gdns, Toronto,ON,M5M3E4,Canada,43.736381,-79.407697,Bedford Park,North York
+36 Astley Ave, Toronto,ON,M4W3B4,Canada,43.688906,-79.369921,Rosedale,Downtown Toronto
+222 The Esplanade #713, Toronto,ON,M5A4M8,Canada,43.649611,-79.365545,Harbourfront,Downtown Toronto
+629 King St W #1307, Toronto,ON,M5V0G9,Canada,43.643972,-79.401585,CN Tower,Downtown Toronto
+228 Westview Blvd, Toronto,ON,M4B3J5,Canada,43.71338,-79.305617,Woodbine Gardens,East York
+357 King St W #1601, Toronto,ON,M5V0S7,Canada,43.645835,-79.392529,CN Tower,Downtown Toronto
+55 Hambly Ave, Toronto,ON,M4E2R5,Canada,43.673307,-79.297707,The Beaches,East Toronto
+74 Connolly St, Toronto,ON,M6N5G3,Canada,43.671959,-79.455369,The Junction North,York
+17A S Woodrow Blvd, Toronto,ON,M1N3L5,Canada,43.699423,-79.260028,Birch Cliff,Scarborough
+23 Dewbourne Ave, Toronto,ON,M5P1Z5,Canada,43.699157,-79.423254,Forest Hill North,Central Toronto
+271 Victoria Park Ave, Toronto,ON,M4E3S6,Canada,43.683316,-79.284726,The Beaches,East Toronto
+2A Battenberg Ave, Toronto,ON,M4L1J8,Canada,43.667336,-79.316773,The Beaches West,East Toronto
+235 Sherway Gardens Rd #2010, Toronto,ON,M9C0A2,Canada,43.609301,-79.559016,Bloordale Gardens,Etobicoke
+14 Pinegrove Ave, Toronto,ON,M1N2G4,Canada,43.698491,-79.263913,Birch Cliff,Scarborough
+180 Patricia Ave, Toronto,ON,M2M1J5,Canada,43.788611,-79.426393,Newtonbrook,North York
+1815 Yonge St #1801, Toronto,ON,M4T2A4,Canada,43.695918,-79.395842,Moore Park,Central Toronto
+740 Eglinton Ave W #301, Toronto,ON,M5N1C4,Canada,43.702079,-79.421814,Roselawn,Central Toronto
+114 Saskatoon Dr, Toronto,ON,M9P2G4,Canada,43.69309,-79.544397,Westmount,Etobicoke
+353 Driftwood Ave #2, Toronto,ON,M3N2P2,Canada,43.768082,-79.512841,Downsview Northwest,North York
+181 Dundas St E UNIT 3811, Toronto,ON,M5A0N5,Canada,43.656969,-79.374122,Harbourfront,Downtown Toronto
+59 Annie Craig Dr #3604, Toronto,ON,M8V0C4,Canada,43.624949,-79.478244,Humber Bay Shores,Etobicoke
+391 Beechgrove Dr #79, Scarborough,ON,M1E2R1,Canada,43.776785,-79.172058,Guildwood,Scarborough
+77 Magellan Dr, Toronto,ON,M3L1T3,Canada,43.736555,-79.508517,Downsview West,North York
+70 Byng Ave #6, Toronto,ON,M2N7L9,Canada,43.777634,-79.411524,Willowdale South,North York
+585 Bloor St E #4218, Toronto,ON,M4W0B3,Canada,43.671653,-79.371638,Rosedale,Downtown Toronto
+97 Lawton Blvd #704, Toronto,ON,M4V1Z6,Canada,43.693514,-79.396234,Deer Park,Central Toronto
+44 Waverley Rd, Toronto,ON,M4L3T1,Canada,43.667585,-79.300136,The Beaches West,East Toronto
+812 Duplex Ave, Toronto,ON,M4R1W7,Canada,43.718239,-79.403956,North Toronto West,Central Toronto
+127 Boardwalk Dr, Toronto,ON,M4L3X9,Canada,43.666435,-79.305807,The Beaches West,East Toronto
+215 Strathallan Wood, Toronto,ON,M5N1T5,Canada,43.712754,-79.421209,Roselawn,Central Toronto
+63 Hammersmith Ave, Toronto,ON,M4E2W3,Canada,43.670396,-79.293932,The Beaches,East Toronto
+990 Dovercourt Rd, Toronto,ON,M6H2X5,Canada,43.666907,-79.431852,Dovercourt Village,West Toronto
+47 Stephen Dr, Toronto,ON,M8Y3M8,Canada,43.632836,-79.485005,Humber Bay,Etobicoke
+415 Wellesley St E, Toronto,ON,M4X1H5,Canada,43.668911,-79.364947,Cabbagetown,Downtown Toronto
+200 Cumberland St #3802, Toronto,ON,M5R0B7,Canada,43.669867,-79.394244,The Annex,Central Toronto
+30 Forge Dr, Toronto,ON,M3N2R3,Canada,43.759536,-79.513985,Downsview Northwest,North York
+4 Tredvalley Grve, Toronto,ON,M1C3J4,Canada,43.776477,-79.148234,Highland Creek,Scarborough
+83 Lillian St #15, Toronto,ON,M4S2H7,Canada,43.706583,-79.393516,Davisville,Central Toronto
+168 Pinewood Ave, Toronto,ON,M6C2V5,Canada,43.688172,-79.427079,Humewood-Cedarvale,York
+101 Charles St E #4202, Toronto,ON,M4Y0A9,Canada,43.669643,-79.380555,Church and Wellesley,Downtown Toronto
+127 Bellwoods Ave, Toronto,ON,M6J2P6,Canada,43.64966,-79.41204,Little Portugal,West Toronto
+9 Bogert Ave #2801, Toronto,ON,M2N0H3,Canada,43.760385,-79.411435,Willowdale South,North York
+65 Mutual St #3004, Toronto,ON,M5H2A9,Canada,43.655802,-79.374984,Adelaide,Downtown Toronto
+195 Redpath Ave #3307, Toronto,ON,M4P0E4,Canada,43.7101,-79.393425,Davisville North,Central Toronto
+28 Rosebank Dr #1009, Toronto,ON,M1B5Z1,Canada,43.792518,-79.235348,Rouge,Scarborough
+36 Lisgar St #708W, Toronto,ON,M6J0C7,Canada,43.641739,-79.423316,Little Portugal,West Toronto
+5444 Yonge St #108, Toronto,ON,M2N6J4,Canada,43.776373,-79.415758,Willowdale South,North York
+2053 Gerrard St E, Toronto,ON,M4E2B4,Canada,43.68208,-79.307469,The Beaches,East Toronto
+64 Marion St, Toronto,ON,M6R1E7,Canada,43.642017,-79.443304,Parkdale,West Toronto
+248 Garden Ave, Toronto,ON,M6R1J3,Canada,43.6432,-79.450769,Parkdale,West Toronto
+6 Croft St, Toronto,ON,M5S2N8,Canada,43.657306,-79.406124,Harbord,Downtown Toronto
+236 Browning Ave, Toronto,ON,M4K1X2,Canada,43.683222,-79.34711,The Danforth West,East Toronto
+6 Creekwood Dr, Toronto,ON,M1E4L7,Canada,43.785981,-79.215279,Guildwood,Scarborough
+830 Lawrence Ave W #2207, Toronto,ON,M6A0B6,Canada,43.71445,-79.454208,Lawrence Heights,North York
+48 Coe Hill Dr, Toronto,ON,M6S3C8,Canada,43.639264,-79.469882,Runnymede,West Toronto
+68 Abell St UNIT 1001, Toronto,ON,M6J0B1,Canada,43.642434,-79.424538,Little Portugal,West Toronto
+301 Prudential Dr #1701, Toronto,ON,M1P4V3,Canada,43.749918,-79.268628,Dorset Park,Scarborough
+2901 Kipling Ave #907, Toronto,ON,M9V5E5,Canada,43.758185,-79.588513,Albion Gardens,Etobicoke
+341 Military Trl #20, Toronto,ON,M1E4E4,Canada,43.786061,-79.212348,Guildwood,Scarborough
+29 Glen Stewart Ave, Toronto,ON,M4E1P6,Canada,43.678355,-79.295885,The Beaches,East Toronto
+364 The East Mall #243, Toronto,ON,M9B6C5,Canada,43.642465,-79.559589,Cloverdale,Etobicoke
+309 Ranee Ave, Toronto,ON,M6A1N9,Canada,43.722361,-79.451974,Lawrence Heights,North York
+2737 Keele St #402, Toronto,ON,M3M2E9,Canada,43.725799,-79.480604,Downsview Central,North York
+403 Church St #2413, Toronto,ON,M4Y0C9,Canada,43.662103,-79.379236,Church and Wellesley,Downtown Toronto
+76 Arjay Cres, Toronto,ON,M2L1C7,Canada,43.739075,-79.384916,Silver Hills,North York
+147 Cameron Ave, Toronto,ON,M6M1R5,Canada,43.689775,-79.471368,Del Ray,York
+78 Cameron Ave, Toronto,ON,M2N1E2,Canada,43.75622,-79.415729,Willowdale South,North York
+28 Freeland St #4404, Toronto,ON,M5E1L7,Canada,43.643622,-79.373959,Berczy Park,Downtown Toronto
+663 Windermere Ave, Toronto,ON,M6S3M2,Canada,43.656998,-79.48273,Runnymede,West Toronto
+27 Shaftesbury Ave, Toronto,ON,M4T3B3,Canada,43.68211,-79.390162,Moore Park,Central Toronto
+1950 Kennedy Rd #706, Toronto,ON,M1P4S9,Canada,43.767632,-79.282853,Dorset Park,Scarborough
+32 Ava Rd, Toronto,ON,M5P1Y4,Canada,43.697906,-79.421226,Forest Hill North,Central Toronto
+5418 Yonge St #901, Toronto,ON,M2N6X4,Canada,43.775522,-79.415248,Willowdale South,North York
+125 Peter St #1301, Toronto,ON,M5V0M2,Canada,43.648321,-79.392887,CN Tower,Downtown Toronto
+7 Merredin Pl, Toronto,ON,M3B1S7,Canada,43.748513,-79.35726,Don Mills North,North York
+564 Pharmacy Ave, Toronto,ON,M1L3G9,Canada,43.707103,-79.289985,Clairlea,Scarborough
+14 Kildonan Dr, Toronto,ON,M1N3B5,Canada,43.687027,-79.266351,Birch Cliff,Scarborough
+180 Markham Rd SUITE 707, Toronto,ON,M1M2Z9,Canada,43.652934,-79.407872,Cliffcrest,Scarborough
+27 Glen Elm Ave, Toronto,ON,M4T1T9,Canada,43.691389,-79.393694,Moore Park,Central Toronto
+20 Cedar Ave E, Toronto,ON,M4E1K2,Canada,43.674795,-79.287507,The Beaches,East Toronto
+4 Daysland Rd, Toronto,ON,M9W4A9,Canada,43.718979,-79.56295,Northwest,Etobicoke
+59 Arundel Ave, Toronto,ON,M4K3A3,Canada,43.679799,-79.351218,The Danforth West,East Toronto
+390 Hopewell Ave #130, Toronto,ON,M6E2S2,Canada,43.700641,-79.444449,Caledonia-Fairbanks,York
+21 Mayberry Rd, Toronto,ON,M3N2A5,Canada,43.741518,-79.518308,Downsview Northwest,North York
+30 Fieldway Rd #98, Toronto,ON,M8Z0E3,Canada,43.642292,-79.528276,Kingsway Park South West,Etobicoke
+1 Hawthorn Ave, Toronto,ON,M4W2Z1,Canada,43.675042,-79.36985,Rosedale,Downtown Toronto
+15 Sewells Rd #410, Toronto,ON,M1B3V7,Canada,43.806694,-79.217112,Rouge,Scarborough
+5 Saint Joseph St #4309, Toronto,ON,M4Y0B6,Canada,43.665776,-79.385633,Church and Wellesley,Downtown Toronto
+4 Burleigh Heights Dr, Toronto,ON,M2K1Y7,Canada,43.779657,-79.390466,Bayview Village,North York
+580 Christie St #807, Toronto,ON,M6G3E3,Canada,43.679182,-79.425403,Christie,Downtown Toronto
+217 Richview Ave, Toronto,ON,M5P3G2,Canada,43.695007,-79.421605,Forest Hill North,Central Toronto
+10 Eva Rd #601, Toronto,ON,M9C0B3,Canada,43.641355,-79.562771,Bloordale Gardens,Etobicoke
+80 Old Forest Hill Rd, Toronto,ON,M5P2R5,Canada,43.698893,-79.417749,Forest Hill North,Central Toronto
+34 Green Valley Rd, Toronto,ON,M2P1A6,Canada,43.739774,-79.388924,York Mills West,North York
+56 Rockcliffe Blvd, Toronto,ON,M6N4R5,Canada,43.679689,-79.4908,The Junction North,York
+48 Crescent Rd, Toronto,ON,M4W1S9,Canada,43.677803,-79.387068,Rosedale,Downtown Toronto
+816 Lansdowne Ave #216, Toronto,ON,M6H4K6,Canada,43.665661,-79.447378,Dovercourt Village,West Toronto
+91 Fulwell Cres, Toronto,ON,M3J1Y4,Canada,43.750867,-79.50285,Northwood Park,North York
+225 Christie St, Toronto,ON,M6G3B5,Canada,43.669398,-79.420453,Christie,Downtown Toronto
+127 Joicey Blvd, Toronto,ON,M2M2T8,Canada,43.736904,-79.416255,Newtonbrook,North York
+104 3rd St, Toronto,ON,M8V2X9,Canada,43.60352,-79.501782,Humber Bay Shores,Etobicoke
+12 Lark St, Toronto,ON,M4L3M6,Canada,43.668319,-79.310823,The Beaches West,East Toronto
+490 Caledonia Rd, Toronto,ON,M6E4V2,Canada,43.689821,-79.461148,Caledonia-Fairbanks,York
+101 Russell Hill Rd, Toronto,ON,M4V2S9,Canada,43.68178,-79.404985,Deer Park,Central Toronto
+47 Cherrylawn Ave, Toronto,ON,M9L2B3,Canada,43.752537,-79.559192,Humber Summit,North York
+23 Cavell Ave, Toronto,ON,M4K1L5,Canada,43.676192,-79.344974,The Danforth West,East Toronto
+11 Shorncliffe Ave, Toronto,ON,M4V1S9,Canada,43.68559,-79.410873,Deer Park,Central Toronto
+211 Woodycrest Ave, Toronto,ON,M4J3C4,Canada,43.687915,-79.344644,East Toronto,East York
+1 Silvergrove Rd, Toronto,ON,M2L2N5,Canada,43.763519,-79.374045,Silver Hills,North York
+43 Edenvale Cres, Toronto,ON,M9A4A5,Canada,43.680741,-79.52895,Islington Avenue,Etobicoke
+3 Everson Dr #637, Toronto,ON,M2N7C2,Canada,43.756938,-79.406496,Willowdale South,North York
+23 Strathdee Dr, Toronto,ON,M9R1A6,Canada,43.681424,-79.544171,Kingsview Village,Etobicoke
+861 Sheppard Ave W #61,Toronto,ON,M3H0E9,Canada,43.752102,-79.453675,Bathurst Manor,North York
+6 Lankin Blvd, Toronto,ON,M4J4W8,Canada,43.692293,-79.328633,East Toronto,East York
+161 Roehampton Ave #PENTHOUSE 05, Toronto,ON,M4P0C8,Canada,43.70876,-79.393794,Davisville North,Central Toronto
+4689 Jane St #503, Toronto,ON,M3N2T6,Canada,43.770863,-79.520254,Downsview Northwest,North York
+57 Saint Nicholas St, Toronto,ON,M4Y1W6,Canada,43.667191,-79.386232,Church and Wellesley,Downtown Toronto
+173 Dunvegan Rd, Toronto,ON,M5P2P1,Canada,43.696803,-79.408729,Forest Hill North,Central Toronto
+65 Harbour Sq #3306, Toronto,ON,M5J2L4,Canada,43.640082,-79.378599,Harbourfront East,Downtown Toronto
+353 Driftwood Ave #7, Toronto,ON,M3N2P2,Canada,43.768082,-79.512841,Downsview Northwest,North York
+1195 The Queensway E #102, Toronto,ON,M8Z0H1,Canada,43.621626,-79.522481,Kingsway Park South West,Etobicoke
+66 Cliff St, Toronto,ON,M6N4M1,Canada,43.679993,-79.485042,The Junction North,York
+5 Pheasant Ln, Toronto,ON,M9A1T1,Canada,43.662472,-79.534898,Islington Avenue,Etobicoke
+73 Pendrith St, Toronto,ON,M6G1R8,Canada,43.666638,-79.422778,Christie,Downtown Toronto
+25 Boustead Ave, Toronto,ON,M6R1Y7,Canada,43.653133,-79.452791,Parkdale,West Toronto
+15 Lenthall Ave, Toronto,ON,M1B2C7,Canada,43.797531,-79.238536,Rouge,Scarborough
+127 Queen St E #406, Toronto,ON,M5C1S3,Canada,43.653471,-79.373755,St. James Town,Downtown Toronto
+295 Adelaide St W #2303, Toronto,ON,M5V0L4,Canada,43.647594,-79.390757,CN Tower,Downtown Toronto
+5791 Yonge St #PENTHOUSE 205, Toronto,ON,M2M0A8,Canada,43.783997,-79.41604,Newtonbrook,North York
+130 Shuter St, Toronto,ON,M5A1V8,Canada,43.655956,-79.371864,Harbourfront,Downtown Toronto
+408 Ontario St, Toronto,ON,M5A2W1,Canada,43.662083,-79.370042,Harbourfront,Downtown Toronto
+1785 Eglinton Ave E #203, Toronto,ON,M4A2Y6,Canada,43.724765,-79.307151,Victoria Village,North York
+1994 Dufferin St, Toronto,ON,M6E3R2,Canada,43.684965,-79.446149,Caledonia-Fairbanks,York
+37 Drewry Ave UNIT 9, Toronto,ON,M2M0B4,Canada,43.786348,-79.419345,Newtonbrook,North York
+60 Alexandra Wood, Toronto,ON,M5N2S5,Canada,43.71411,-79.425653,Roselawn,Central Toronto
+95 Vine Ave, Toronto,ON,M6P1V8,Canada,43.66645,-79.468112,High Park,West Toronto
+33 Sheppard Ave E #1800, Toronto,ON,M2N7K1,Canada,43.761229,-79.408934,Willowdale South,North York
+82 York Rd, Toronto,ON,M2L1H8,Canada,43.746179,-79.384607,Silver Hills,North York
+2152 Bayview Ave, Toronto,ON,M4N0A4,Canada,43.723305,-79.379711,Lawrence Park,Central Toronto
+585 Bloor St E #521, Toronto,ON,M4W0B3,Canada,43.671653,-79.371638,Rosedale,Downtown Toronto
+60 Manorglen Cres, Toronto,ON,M1S1W4,Canada,43.780125,-79.271026,Agincourt,Scarborough
+212 Cocksfield Ave, Toronto,ON,M3H3T7,Canada,43.753818,-79.454186,Bathurst Manor,North York
+99 Broadway Ave #2902, Toronto,ON,M4P0E3,Canada,43.710514,-79.393306,Davisville North,Central Toronto
+5 Pembury Ave, Toronto,ON,M4N3K4,Canada,43.725688,-79.381034,Lawrence Park,Central Toronto
+155 Grenadier Rd, Toronto,ON,M6R1R5,Canada,43.648363,-79.45151,Parkdale,West Toronto
+50 Yorkville Ave #5202, Toronto,ON,M4W0A3,Canada,43.671667,-79.389667,Rosedale,Downtown Toronto
+108 Sandringham Dr, Toronto,ON,M3H1C9,Canada,43.746887,-79.420259,Bathurst Manor,North York
+208 Queens Quay W #511, Toronto,ON,M5J2Y5,Canada,43.64009,-79.381499,Harbourfront East,Downtown Toronto
+12 Madison Ave, Toronto,ON,M5R2S1,Canada,43.667759,-79.403321,The Annex,Central Toronto
+32 Roxborough St E, Toronto,ON,M4W1V6,Canada,43.678482,-79.387974,Rosedale,Downtown Toronto
+4 Allen Ave, Toronto,ON,M8V1R8,Canada,43.612936,-79.49066,Humber Bay Shores,Etobicoke
+58 Masseygrove Cres, Toronto,ON,M9V3C9,Canada,43.737847,-79.58269,Albion Gardens,Etobicoke
+22 Malamute Cres, Toronto,ON,M1T2C7,Canada,43.777993,-79.302685,Clarks Corners,Scarborough
+9 Windermere Ave #TOWNHOUSE 94, Toronto,ON,M6S5A4,Canada,43.636805,-79.468161,Runnymede,West Toronto
+62 Elm Ave, Toronto,ON,M4W1N7,Canada,43.67613,-79.375547,Rosedale,Downtown Toronto
+271 Major St, Toronto,ON,M5S2L5,Canada,43.665445,-79.405732,Harbord,Downtown Toronto
+194 Clendenan Ave, Toronto,ON,M6P2X2,Canada,43.656977,-79.471809,High Park,West Toronto
+297 Oriole Pkwy, Toronto,ON,M5P2H6,Canada,43.70077,-79.404051,Forest Hill North,Central Toronto
+1244 College St, Toronto,ON,M6H1C2,Canada,43.651641,-79.438166,Dovercourt Village,West Toronto
+330 Dixon Rd #2705, Toronto,ON,M9R1S9,Canada,43.695777,-79.553152,Kingsview Village,Etobicoke
+11 Livonia Pl #18, Toronto,ON,M1E4W5,Canada,43.785465,-79.205888,Guildwood,Scarborough
+35 Balmuto St #2101, Toronto,ON,M4Y0A3,Canada,43.669472,-79.387488,Church and Wellesley,Downtown Toronto
+335 Mill Rd #703, Toronto,ON,M9C1Y6,Canada,43.639973,-79.584581,Bloordale Gardens,Etobicoke
+66 Loradeen Cres, Toronto,ON,M1B1T8,Canada,43.81339,-79.232371,Rouge,Scarborough
+44 Branstone Rd, Toronto,ON,M6E4E4,Canada,43.691621,-79.453661,Caledonia-Fairbanks,York
+42 Mossbank Dr, Toronto,ON,M1G2C3,Canada,43.765598,-79.212505,Woburn,Scarborough
+2 1st Ave, Toronto,ON,M4M1W8,Canada,43.664898,-79.351918,Studio District,East Toronto
+16 Muskoka Ave, Toronto,ON,M8W1H3,Canada,43.59184,-79.532076,Alderwood,Etobicoke
+106 Varna Dr #TOWNHOUSE 10, Toronto,ON,M6A0C8,Canada,43.723122,-79.445784,Lawrence Heights,North York
+575 Avenue Rd #704, Toronto,ON,M4V2K2,Canada,43.688637,-79.401726,Deer Park,Central Toronto
+8 Swansdown Dr, Toronto,ON,M2L2N1,Canada,43.759947,-79.373036,Silver Hills,North York
+15 Holmes Ave #2405, Toronto,ON,M2N4L8,Canada,43.777812,-79.413863,Willowdale South,North York
+10 Avery Ave, Toronto,ON,M9C1K2,Canada,43.633967,-79.564557,Bloordale Gardens,Etobicoke
+35 Emerald Cres, Toronto,ON,M8V2B3,Canada,43.59614,-79.502746,Humber Bay Shores,Etobicoke
+3151 Bridletowne Cir #1901, Toronto,ON,M1W2T1,Canada,43.797559,-79.319846,L'Amoreaux West,Scarborough
+590 Briar Hill Ave, Toronto,ON,M5N1M9,Canada,43.709509,-79.420538,Roselawn,Central Toronto
+3 Thornhill Ave, Toronto,ON,M6S4C3,Canada,43.65734,-79.488801,Runnymede,West Toronto
+17 Lesmount Ave, Toronto,ON,M4J3V5,Canada,43.690336,-79.339941,East Toronto,East York
+100 Mornelle Ct #1039, Toronto,ON,M1E4X2,Canada,43.78722,-79.194677,Guildwood,Scarborough
+70 Distillery Ln #1508, Toronto,ON,M5A0E3,Canada,43.650118,-79.357935,Harbourfront,Downtown Toronto
+91 Bedford Rd, Toronto,ON,M5R2K4,Canada,43.671488,-79.398264,The Annex,Central Toronto
+340 Dixon Rd #1508, Toronto,ON,M9R1T1,Canada,43.695609,-79.553852,Kingsview Village,Etobicoke
+237 McRoberts Ave, Toronto,ON,M6E4P3,Canada,43.681676,-79.455673,Caledonia-Fairbanks,York
+262 Saint Helens Ave #106, Toronto,ON,M6H4A4,Canada,43.656487,-79.443717,Dovercourt Village,West Toronto
+241 B Evelyn Ave, Toronto,ON,M6P2Z8,Canada,43.662514,-79.475521,High Park,West Toronto
+32 Windsor Rd, Toronto,ON,M9R3G4,Canada,43.699963,-79.556916,Kingsview Village,Etobicoke
+62 Martin Grove Rd, Toronto,ON,M9B4K4,Canada,43.643724,-79.547155,Cloverdale,Etobicoke
+44 Standish Ave, Toronto,ON,M4W3B1,Canada,43.688505,-79.371183,Rosedale,Downtown Toronto
+25 Ritchie Ave #PENTHOUSE 510, Toronto,ON,M6R2J6,Canada,43.652358,-79.450119,Parkdale,West Toronto
+80 John St #1603, Toronto,ON,M5V3X4,Canada,43.646874,-79.390188,CN Tower,Downtown Toronto
+39 Standish Ave, Toronto,ON,M4W3B2,Canada,43.6885,-79.370482,Rosedale,Downtown Toronto
+77 Glenmore Rd, Toronto,ON,M4L3M2,Canada,43.678005,-79.310652,The Beaches West,East Toronto
+30 Northland Ave, Toronto,ON,M6N2C6,Canada,43.678734,-79.47552,The Junction North,York
+17 Edilou Dr, Toronto,ON,M8W4B1,Canada,43.605996,-79.531532,Alderwood,Etobicoke
+2130 Weston Rd #304, Toronto,ON,M9N3R9,Canada,43.702433,-79.524659,Weston,York
+186 Phyllis Ave, Toronto,ON,M1M1Y8,Canada,43.730854,-79.230523,Cliffcrest,Scarborough
+132 Grey Rd, Toronto,ON,M5M4G1,Canada,43.731779,-79.423122,Bedford Park,North York
+4645 Jane St #720, Toronto,ON,M3N2K9,Canada,43.769446,-79.519808,Downsview Northwest,North York
+100 Glenvale Blvd, Toronto,ON,M4G2V9,Canada,43.717745,-79.371309,Leaside,East York
+319 Betty Ann Dr, Toronto,ON,M2R1B4,Canada,43.764741,-79.436434,Willowdale West,North York
+335 Lonsdale Rd #406, Toronto,ON,M5P1R4,Canada,43.68827,-79.413549,Forest Hill North,Central Toronto
+37 Marjory Ave, Toronto,ON,M4M2Y2,Canada,43.667421,-79.336653,Studio District,East Toronto
+10 Livonia Pl #149, Toronto,ON,M1E4W6,Canada,43.785922,-79.206031,Guildwood,Scarborough
+4645 Jane St #818, Toronto,ON,M3N2K9,Canada,43.769446,-79.519808,Downsview Northwest,North York
+42 Heathview Ave, Toronto,ON,M2K2C1,Canada,43.783169,-79.385634,Bayview Village,North York
+561 Arlington Ave, Toronto,ON,M6C3A6,Canada,43.694701,-79.434216,Humewood-Cedarvale,York
+2088 Lawrence Ave W #603, Toronto,ON,M9N3Z9,Canada,43.699951,-79.518563,Weston,York
+210 Gowan Ave, Toronto,ON,M4J2K6,Canada,43.689278,-79.345064,East Toronto,East York
+52 Sproat Ave, Toronto,ON,M4M1W4,Canada,43.668518,-79.33323,Studio District,East Toronto
+311 Bay St #4801, Toronto,ON,M5H4G5,Canada,43.649756,-79.380323,Adelaide,Downtown Toronto
+35 Brian Peck Cres #807, Toronto,ON,M4G0A5,Canada,43.714593,-79.354388,Leaside,East York
+40 Thorny Vine Way, Toronto,ON,M2J4J2,Canada,43.785524,-79.368264,Fairview,North York
+166 Gordon Rd, Toronto,ON,M2P1E8,Canada,43.749409,-79.388568,York Mills West,North York
+365 Beech Ave #PENTHOUSE 1, Toronto,ON,M4E0C2,Canada,43.680037,-79.29045,The Beaches,East Toronto
+926 Willowdale Ave, Toronto,ON,M2M3C1,Canada,43.785882,-79.409553,Newtonbrook,North York
+2 Josephine Rd, Toronto,ON,M3H3G4,Canada,43.743761,-79.447819,Bathurst Manor,North York
+39B Oriole Rd, Toronto,ON,M4V2E6,Canada,43.688419,-79.40019,Deer Park,Central Toronto
+50 Grandravine Dr #8, Toronto,ON,M3J1B1,Canada,43.753029,-79.489411,Northwood Park,North York
+170 Strathallan Blvd, Toronto,ON,M5N1T1,Canada,43.714008,-79.417412,Roselawn,Central Toronto
+85 Bloor St E #1709, Toronto,ON,M4W3Y1,Canada,43.670479,-79.384571,Rosedale,Downtown Toronto
+29 Checkendon Dr, Toronto,ON,M9W2Y8,Canada,43.732732,-79.57325,Northwest,Etobicoke
+418 Davenport Rd, Toronto,ON,M4V1B5,Canada,43.678098,-79.406458,Deer Park,Central Toronto
+65 Scadding Ave #422, Toronto,ON,M5A4L1,Canada,43.648874,-79.365216,Harbourfront,Downtown Toronto
+524 Scarborough Golf Club Rd, Toronto,ON,M1G1H2,Canada,43.760083,-79.215919,Woburn,Scarborough
+42 Old Bridle Path, Toronto,ON,M4T1A7,Canada,43.687267,-79.376363,Moore Park,Central Toronto
+368 Markham St, Toronto,ON,M6G2K9,Canada,43.658121,-79.410024,Christie,Downtown Toronto
+24A Massey St, Toronto,ON,M6J3T7,Canada,43.642716,-79.413217,Little Portugal,West Toronto
+428 Connaught Ave, Toronto,ON,M2R2M3,Canada,43.784968,-79.43885,Willowdale West,North York
+650 Queens Quay W #921, Toronto,ON,M5V3N2,Canada,43.635702,-79.398839,CN Tower,Downtown Toronto
+277 Indian Rd, Toronto,ON,M6R2X4,Canada,43.652109,-79.455322,Parkdale,West Toronto
+61 Arjay Cres, Toronto,ON,M2L1C6,Canada,43.73848,-79.383368,Silver Hills,North York
+113 Burrows Hall Blvd, Toronto,ON,M1B1Z7,Canada,43.791652,-79.231091,Rouge,Scarborough
+21 Kirk Bradden Rd W, Toronto,ON,M8Y2G1,Canada,43.638302,-79.502855,Humber Bay,Etobicoke
+272 Rumsey Rd, Toronto,ON,M4G1P9,Canada,43.712369,-79.369841,Leaside,East York
+115 10th St, Toronto,ON,M8V3E9,Canada,43.599655,-79.508115,Humber Bay Shores,Etobicoke
+200 AC Merton St, Toronto,ON,M4S1A1,Canada,43.697552,-79.390292,Davisville,Central Toronto
+700 King St W UNIT 604, Toronto,ON,M5V2Y6,Canada,43.644124,-79.403262,CN Tower,Downtown Toronto
+91 Valecrest Dr, Toronto,ON,M9A4P5,Canada,43.675971,-79.520516,Islington Avenue,Etobicoke
+135 Holborne Ave, Toronto,ON,M4C2R5,Canada,43.69443,-79.318652,Woodbine Heights,East York
+1 Bolingbroke Rd, Toronto,ON,M6B3L5,Canada,43.712749,-79.448179,Glencairn,North York
+1285 Dupont St #2301, Toronto,ON,M6H0E3,Canada,43.667732,-79.442661,Dovercourt Village,West Toronto
+491 Jane St, Toronto,ON,M6S4A1,Canada,43.661375,-79.489035,Runnymede,West Toronto
+152 Stanley Ave, Toronto,ON,M8V1N9,Canada,43.614753,-79.496794,Humber Bay Shores,Etobicoke
+5795 Yonge St UNIT 611, Toronto,ON,M2M4J3,Canada,43.784366,-79.415164,Newtonbrook,North York
+75 Queens Wharf Rd #3901, Toronto,ON,M5V0J8,Canada,43.63836,-79.398657,CN Tower,Downtown Toronto
+21 Tinbury Pl, Toronto,ON,M1B1J7,Canada,43.793992,-79.225331,Rouge,Scarborough
+4 Flatwoods Dr, Toronto,ON,M1V4H4,Canada,43.826499,-79.285113,Agincourt North,Scarborough
+1438A Dufferin St, Toronto,ON,M6H3L1,Canada,43.67111,-79.440411,Dovercourt Village,West Toronto
+38 Smithwood Dr, Toronto,ON,M9B4R9,Canada,43.643535,-79.552893,Cloverdale,Etobicoke
+88 Willowridge Rd, Toronto,ON,M9R3Z4,Canada,43.678549,-79.57346,Kingsview Village,Etobicoke
+27 Burkwood Cres, Toronto,ON,M1B1N8,Canada,43.802005,-79.213927,Rouge,Scarborough
+63 Cleveland St, Toronto,ON,M4S2W3,Canada,43.701838,-79.37765,Davisville,Central Toronto
+52 Rosedale Rd, Toronto,ON,M4W2P6,Canada,43.676621,-79.384891,Rosedale,Downtown Toronto
+62 Kay Dr, Toronto,ON,M9V4X7,Canada,43.757867,-79.592178,Albion Gardens,Etobicoke
+155 Dalhousie St #1054, Toronto,ON,M5B2P7,Canada,43.657615,-79.376789,Ryerson,Downtown Toronto
+5949 Yonge St #803, Toronto,ON,M2M3V8,Canada,43.787691,-79.416986,Newtonbrook,North York
+38 Ravensbourne Cres, Toronto,ON,M9A2A8,Canada,43.67637,-79.539166,Islington Avenue,Etobicoke
+9 Greenview Ave, Toronto,ON,M2M4M7,Canada,43.779808,-79.418417,Newtonbrook,North York
+68 Yorkville Ave #304, Toronto,ON,M5R3V7,Canada,43.671482,-79.390514,The Annex,Central Toronto
+375 King St W #2302, Toronto,ON,M5V1K5,Canada,43.6457,-79.393154,CN Tower,Downtown Toronto
+274 Carlton St, Toronto,ON,M5A2L5,Canada,43.664973,-79.366388,Harbourfront,Downtown Toronto
+70 Pynford Cres, Toronto,ON,M3A1W8,Canada,43.758039,-79.318002,Parkwoods,North York
+75 The Donway W #805, Toronto,ON,M3C2E9,Canada,43.732752,-79.345652,Flemingdon Park,North York
+80 Crescent Rd UNIT 300, Toronto,ON,M4W1T5,Canada,43.67805,-79.384721,Rosedale,Downtown Toronto
+4 Bowman St, Toronto,ON,M4X1T9,Canada,43.665666,-79.364223,Cabbagetown,Downtown Toronto
+53 Lynnford Dr, Toronto,ON,M9B1H8,Canada,43.633447,-79.553653,Cloverdale,Etobicoke
+185 Dawlish Ave, Toronto,ON,M4N1H6,Canada,43.722026,-79.390921,Lawrence Park,Central Toronto
+40 Exmoor Dr, Toronto,ON,M8W1R5,Canada,43.592477,-79.543761,Alderwood,Etobicoke
+131 Brickworks Ln #BL131, Toronto,ON,M6N5H8,Canada,43.67497,-79.468291,The Junction North,York
+195 Upper Canada Dr, Toronto,ON,M2P1T2,Canada,43.759994,-79.394588,York Mills West,North York
+36 Wilson Park Rd, Toronto,ON,M6K3B5,Canada,43.637544,-79.44199,Brockton,West Toronto
+197 S Woodrow Blvd, Toronto,ON,M1N3M1,Canada,43.703661,-79.261775,Birch Cliff,Scarborough
+391 Wellesley St E, Toronto,ON,M4X1H5,Canada,43.668839,-79.365713,Cabbagetown,Downtown Toronto
+488 University Ave #2507, Toronto,ON,M5G0C1,Canada,43.655154,-79.38905,Central Bay Street,Downtown Toronto
+76 Dalegrove Cres, Toronto,ON,M9B6A9,Canada,43.672876,-79.566173,Cloverdale,Etobicoke
+67 Hillholm Rd, Toronto,ON,M5P1M4,Canada,43.697374,-79.411721,Forest Hill North,Central Toronto
+26 Crimson Millway, Toronto,ON,M2L1T6,Canada,43.752006,-79.382613,Silver Hills,North York
+83 Bayview Rdg, Toronto,ON,M2L1E3,Canada,43.740734,-79.385072,Silver Hills,North York
+25 Laidlaw St #516, Toronto,ON,M6K1X3,Canada,43.640554,-79.426294,Brockton,West Toronto
+70 Oriole Rd, Toronto,ON,M4V2G1,Canada,43.689811,-79.401305,Deer Park,Central Toronto
+59 Annie Craig Dr #1003, Toronto,ON,M8V0C4,Canada,43.624949,-79.478244,Humber Bay Shores,Etobicoke
+16 Brookers Ln #2207, Toronto,ON,M8V0A5,Canada,43.62693,-79.47851,Humber Bay Shores,Etobicoke
+95 Gaydon Ave, Toronto,ON,M9M1G8,Canada,43.721696,-79.530577,Emery,North York
+77 McMurrich St #308, Toronto,ON,M5R3V3,Canada,43.674812,-79.39012,The Annex,Central Toronto
+37 Vine Ave, Toronto,ON,M6P1V6,Canada,43.66642,-79.466366,High Park,West Toronto
+25 Janus Ct, Toronto,ON,M2H1S3,Canada,43.807397,-79.369761,Hillcrest Village,North York
+19 Hedgewood Rd, Toronto,ON,M2L1L4,Canada,43.743342,-79.397858,Silver Hills,North York
+500 Donlands Ave, Toronto,ON,M4J3S7,Canada,43.696155,-79.346168,East Toronto,East York
+435 Meadowvale Rd, Toronto,ON,M1C1S6,Canada,43.78853,-79.161669,Highland Creek,Scarborough
+133 Cordella Ave, Toronto,ON,M6N2K1,Canada,43.679261,-79.4857,The Junction North,York
+97 Post Rd, Toronto,ON,M3B1J3,Canada,43.738724,-79.367822,Don Mills North,North York
+7 Wortham Dr, Toronto,ON,M1G1W5,Canada,43.762929,-79.224939,Woburn,Scarborough
+25 Lower Simcoe St #318, Toronto,ON,M5J3A1,Canada,43.641411,-79.383308,Harbourfront East,Downtown Toronto
+503 Beecroft Rd #905, Toronto,ON,M2N0A2,Canada,43.778232,-79.417772,Willowdale South,North York
+52 Forest Manor Rd #521, Toronto,ON,M2J0E2,Canada,43.772384,-79.344395,Fairview,North York
+30 Herons Hill Way #506, Toronto,ON,M2J0A7,Canada,43.774938,-79.335458,Fairview,North York
+25 Bamburgh Cir #929, Toronto,ON,M1W3W2,Canada,43.815497,-79.325582,L'Amoreaux West,Scarborough
+13 Riverlea Rd, Toronto,ON,M9P2B1,Canada,43.699382,-79.522934,Westmount,Etobicoke
+70 Annie Craig Dr #807, Toronto,ON,M8V0G2,Canada,43.624739,-79.478962,Humber Bay Shores,Etobicoke
+50 Merchant Ln #105, Toronto,ON,M6P4J6,Canada,43.656875,-79.445518,High Park,West Toronto
+2 Dailing Gate #19, Toronto,ON,M1B1Z8,Canada,43.791144,-79.229702,Rouge,Scarborough
+61 Fulbert Cres, Toronto,ON,M1S1C5,Canada,43.790312,-79.287079,Agincourt,Scarborough
+435 Middlefield Rd #56, Toronto,ON,M1S5W1,Canada,43.808839,-79.256579,Agincourt,Scarborough
+10 Edgecliff Golfway #317, Toronto,ON,M3C3A3,Canada,43.719222,-79.326516,Flemingdon Park,North York
+460 Adelaide St E #820, Toronto,ON,M5A0E7,Canada,43.652787,-79.3668,Harbourfront,Downtown Toronto
+203 Medland St, Toronto,ON,M6P2N6,Canada,43.66441,-79.466577,High Park,West Toronto
+21 Markbrook Ln #407, Toronto,ON,M9V5E4,Canada,43.758626,-79.587586,Albion Gardens,Etobicoke
+3 Marine Parade Dr #808, Toronto,ON,M8V3Z5,Canada,43.630233,-79.47622,Humber Bay Shores,Etobicoke
+4 Park Vis #1006, Toronto,ON,M4B3M8,Canada,43.697968,-79.299349,Woodbine Gardens,East York
+135 Village Green Sq #418, Toronto,ON,M1S0G4,Canada,43.777872,-79.280751,Agincourt,Scarborough
+61 Markbrook Ln #509, Toronto,ON,M9V5E7,Canada,43.759225,-79.585149,Albion Gardens,Etobicoke
+67 Lake Promenade, Toronto,ON,M8W1A2,Canada,43.590523,-79.522767,Alderwood,Etobicoke
+296 Torresdale Ave #17, Toronto,ON,M2R3N3,Canada,43.7896,-79.45287,Willowdale West,North York
+262 Senlac Rd, Toronto,ON,M2R1P8,Canada,43.770953,-79.428126,Willowdale West,North York
+32 Forest Manor Rd #416, Toronto,ON,M2J0C2,Canada,43.771726,-79.344794,Fairview,North York
+423 Guildwood Pkwy, Toronto,ON,M1E1R3,Canada,43.750362,-79.185067,Guildwood,Scarborough
+470 Front St W #1301, Toronto,ON,M5V0V6,Canada,43.642512,-79.395988,CN Tower,Downtown Toronto
+3237 Bayview Ave #510, Toronto,ON,M2K0G1,Canada,43.790112,-79.392793,Bayview Village,North York
+25 Broadway Ave UNIT 1105, Toronto,ON,M4P1T7,Canada,43.709918,-79.395912,Davisville North,Central Toronto
+70 Thomas Mulholland Dr #8, Toronto,ON,M3K0A5,Canada,43.73587,-79.478063,CFB Toronto,North York
+15 B Medford Ave, Toronto,ON,M1L4G1,Canada,43.695692,-79.271575,Clairlea,Scarborough
+106 Yardley Ave, Toronto,ON,M4B2B1,Canada,43.713354,-79.300924,Woodbine Gardens,East York
+129 McMahon Dr #TOWNHOUSE 03, Toronto,ON,M2K0C2,Canada,43.767654,-79.371136,Bayview Village,North York
+73 Richmond St W #L02, Toronto,ON,M5H4E8,Canada,43.650733,-79.382286,Adelaide,Downtown Toronto
+213 Macdonell Ave, Toronto,ON,M6R2A4,Canada,43.64631,-79.439954,Parkdale,West Toronto
+38 Dan Leckie Way #1607, Toronto,ON,M5V2V6,Canada,43.637492,-79.398104,CN Tower,Downtown Toronto
+11 Charlotte St #402, Toronto,ON,M5V0M6,Canada,43.646378,-79.39367,CN Tower,Downtown Toronto
+9 Michael Power Pl E #615, Toronto,ON,M9A0A5,Canada,43.644663,-79.529405,Islington Avenue,Etobicoke
+3220 Sheppard Ave E #1506, Toronto,ON,M1T3K3,Canada,43.777968,-79.312305,Clarks Corners,Scarborough
+8 Tippett Rd #801, Toronto,ON,M3H0E7,Canada,43.732384,-79.446637,Bathurst Manor,North York
+3 Everson Dr #528, Toronto,ON,M2N7C2,Canada,43.756938,-79.406496,Willowdale South,North York
+121 Ford St #109, Toronto,ON,M6N3A1,Canada,43.673343,-79.462184,The Junction North,York
+20 Tubman Ave #2307, Toronto,ON,M5A0M8,Canada,43.660593,-79.359349,Harbourfront,Downtown Toronto
+19 Western Battery Rd #2310, Toronto,ON,M6K3N9,Canada,43.63957,-79.411329,Brockton,West Toronto
+111 3rd St, Toronto,ON,M8V2Y1,Canada,43.603827,-79.501393,Humber Bay Shores,Etobicoke
+45 Strader Ave, Toronto,ON,M6C1R1,Canada,43.693481,-79.44039,Humewood-Cedarvale,York
+224 Coronation Dr, Toronto,ON,M1E2J4,Canada,43.762523,-79.181993,Guildwood,Scarborough
+8 Rosebank Dr #16H, Toronto,ON,M1B5Z3,Canada,43.791844,-79.237284,Rouge,Scarborough
+28 Empress Ave #1916, Toronto,ON,M2N6Z7,Canada,43.769982,-79.411745,Willowdale South,North York
+319 Laird Dr, Toronto,ON,M4G3X7,Canada,43.716006,-79.365486,Leaside,East York
+128 Hazelton Ave #801, Toronto,ON,M5R2E5,Canada,43.674903,-79.39488,The Annex,Central Toronto
+18 Kipling Grove Ct, Toronto,ON,M9B0C6,Canada,43.662635,-79.551649,Cloverdale,Etobicoke
+488 Roselawn Ave, Toronto,ON,M5N1J8,Canada,43.70797,-79.414299,Roselawn,Central Toronto
+3 Sutherland Ave, Toronto,ON,M4C1R8,Canada,43.691634,-79.289858,Woodbine Heights,East York
+33 Edwin Ave, Toronto,ON,M6P3Z5,Canada,43.662925,-79.454429,High Park,West Toronto
+21 Fusilier Dr, Toronto,ON,M1L0C2,Canada,43.717232,-79.279496,Clairlea,Scarborough
+121 Valley Stream Dr, Toronto,ON,M1V2A4,Canada,43.821396,-79.262866,Agincourt North,Scarborough

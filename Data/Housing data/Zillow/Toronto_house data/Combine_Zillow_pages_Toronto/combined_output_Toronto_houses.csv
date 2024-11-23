@@ -1,0 +1,801 @@
+Street,City,Province,Zip,Price,Bedrooms,Bathrooms,Square Footage
+1787 Saint Clair Ave W #414, Toronto,ON,M6N1H9,"C$525,000",2 bds,1 ba,N/A
+509 Beecroft Rd #1209, Toronto,ON,M2N0A3,"C$848,000",3 bds,2 ba,N/A
+472 Crawford St, Toronto,ON,M6G3J8,C$1,5 bds,3 ba,N/A
+186 Macpherson Ave, Toronto,ON,M5R1W8,"C$2,218,000",3 bds,3 ba,N/A
+195 McCaul St #909, Toronto,ON,M5T0E5,"C$449,900",Studio,1 ba,N/A
+30 Roehampton Ave UNIT 1902, Toronto,ON,M4P0B9,"C$630,000",2 bds,2 ba,N/A
+84 Old Forest Hill Rd, Toronto,ON,M5P2R5,"C$16,950,000",7 bds,8 ba,N/A
+625 Queen St E #607, Toronto,ON,M4M1G7,"C$769,900",2 bds,1 ba,N/A
+320 Dixon Rd #506, Toronto,ON,M9R1S8,"C$399,900",2 bds,1 ba,N/A
+45 Manning Ave, Toronto,ON,M6J2K3,"C$999,999",3 bds,1 ba,N/A
+41 Pinto Dr, Toronto,ON,M2J3T9,"C$1,149,000",6 bds,3 ba,"1,855 sqft"
+3 Chilcot Ave, Toronto,ON,M9W1T9,"C$798,000",4 bds,2 ba,N/A
+2 Sonic Way #1708, Toronto,ON,M3C0P2,"C$499,000",1 bd,1 ba,N/A
+53 Hazelton Ave, Toronto,ON,M5R2E3,"C$6,880,000",3 bds,4 ba,N/A
+80 John St #3201, Toronto,ON,M5V3X4,"C$1,550,000",2 bds,2 ba,N/A
+7 Carlton St #704, Toronto,ON,M5B2M3,"C$628,888",1 bd,1 ba,670 sqft
+37 Pringdale Gardens Cir, Toronto,ON,M1J0B1,"C$899,900",5 bds,4 ba,N/A
+10 Ed Clark Gdns #14, Toronto,ON,M6N3A9,"C$949,900",3 bds,2 ba,"1,231 sqft"
+12 Waring Ct, Toronto,ON,M2N4G7,"C$3,998,800",5 bds,7 ba,N/A
+60 Colborne St #1608, Toronto,ON,M5E0B7,"C$475,000",1 bd,1 ba,N/A
+185 Roehampton Ave #2907, Toronto,ON,M4P0C6,"C$550,000",1 bd,1 ba,N/A
+1 Sudbury St #101, Toronto,ON,M6J3W6,"C$679,000",2 bds,1 ba,N/A
+51 Harrison Garden Blvd #707, Toronto,ON,M2N7G4,"C$498,800",2 bds,2 ba,N/A
+36 Lisgar St #1010, Toronto,ON,M6J0C7,"C$499,900",2 bds,2 ba,N/A
+5765 Yonge St #1204, Toronto,ON,M2M4H9,"C$598,800",3 bds,2 ba,N/A
+41 Dearham Wood, Toronto,ON,M1E1S2,"C$1,106,600",4 bds,2 ba,N/A
+17 Bathurst St #4205, Toronto,ON,M5V0N1,"C$619,995",1 bd,1 ba,N/A
+25 Finchley Rd, Toronto,ON,M9A2X4,"C$3,450,000",4 bds,4 ba,N/A
+665 Queen St E #412, Toronto,ON,M4M1G6,"C$849,900",2 bds,2 ba,N/A
+3865 Lake Shore Blvd W #217, Toronto,ON,M8W0A2,"C$650,000",2 bds,2 ba,N/A
+270 Queens Quay W #805, Toronto,ON,M5V3J2,"C$685,900",3 bds,1 ba,N/A
+20 Amesbury Dr, Toronto,ON,M6M4H4,"C$1,099,000",3 bds,2 ba,N/A
+25 Finchley Rd, Toronto,ON,M9A2X4,"C$3,450,000",4 bds,4 ba,N/A
+665 Queen St E #412, Toronto,ON,M4M1G6,"C$849,900",2 bds,2 ba,N/A
+3865 Lake Shore Blvd W #217, Toronto,ON,M8W0A2,"C$650,000",2 bds,2 ba,N/A
+270 Queens Quay W #805, Toronto,ON,M5V3J2,"C$685,900",3 bds,1 ba,N/A
+20 Amesbury Dr, Toronto,ON,M6M4H4,"C$1,099,000",3 bds,2 ba,N/A
+160 The Donway W #403, Toronto,ON,M3C2G1,"C$424,900",2 bds,1 ba,N/A
+30 Western Battery Rd #316, Toronto,ON,M6K3N9,"C$549,900",1 bd,1 ba,N/A
+56 Grierson Rd, Toronto,ON,M9W3R3,"C$799,000",3 bds,2 ba,N/A
+41 Markbrook Ln #614, Toronto,ON,M9V5E6,"C$554,999",1 bd,2 ba,776 sqft
+600 Fleet St #717, Toronto,ON,M5V1B7,"C$748,800",2 bds,2 ba,N/A
+170 Bayview Ave #711, Toronto,ON,M5A0M4,"C$625,000",1 bd,1 ba,N/A
+11 Wellesley St W #612, Toronto,ON,M4Y0G4,"C$699,000",2 bds,1 ba,N/A
+295 Downsview Park Blvd, Toronto,ON,M3K0B6,"C$995,000",5 bds,4 ba,N/A
+333 Adelaide St E #410, Toronto,ON,M5A4T4,"C$599,000",1 bd,1 ba,N/A
+62 Schell Ave, Toronto,ON,M6E2S9,"C$1,299,900",4 bds,3 ba,N/A
+64 Glengowan Rd, Toronto,ON,M4N1G4,"C$9,950,000",6 bds,6 ba,N/A
+501 Adelaide St W #1108, Toronto,ON,M5V0R3,"C$629,000",1 bd,1 ba,N/A
+260 Queens Quay W #1304, Toronto,ON,M5J2N3,"C$629,000",1 bd,1 ba,N/A
+70 Annie Craig Dr #4802, Toronto,ON,M8V0G2,"C$769,800",2 bds,2 ba,N/A
+801 King St W #325, Toronto,ON,M5V3C9,"C$499,000",2 bds,1 ba,N/A
+43 Millburn Dr, Toronto,ON,M9B2W8,"C$2,699,000",7 bds,5 ba,N/A
+32 Lyme Regis Cres, Toronto,ON,M1M1E4,"C$3,350,000",5 bds,5 ba,N/A
+278 Dawlish Ave, Toronto,ON,M4N1J5,"C$4,395,000",5 bds,5 ba,N/A
+52 Amiens Rd, Toronto,ON,M1E3S8,"C$1,299,000",4 bds,2 ba,N/A
+120 Harrison Garden Blvd #2003, Toronto,ON,M2N,"C$788,000",2 bds,2 ba,N/A
+21 Grand Magazine St #1907, Toronto,ON,M5V1B5,"C$799,900",2 bds,2 ba,N/A
+215 Fort York Blvd #301, Toronto,ON,M5V4A2,"C$599,900",2 bds,1 ba,N/A
+11 Beaumont Rd, Toronto,ON,M4W1V4,"C$19,995,000",4 bds,4 ba,N/A
+5 Dewbourne Ave, Toronto,ON,M5P1Z1,"C$14,850,000",6 bds,6 ba,N/A
+542 Delaware Ave N, Toronto,ON,M6H2V2,"C$1,199,000",4 bds,2 ba,N/A
+16 Yonge St SUITE 4006, Toronto,ON,M5E2A3,"C$1,649,999",3 bds,2 ba,"1,266 sqft"
+185 Roehampton Ave #3201, Toronto,ON,M4P0C6,"C$759,000",2 bds,2 ba,N/A
+3845 Lake Shore Blvd W UNIT 1601, Toronto,ON,M8W4Y3,"C$750,000",3 bds,2 ba,N/A
+50 Lombard St #1903, Toronto,ON,M5C2X4,"C$549,000",1 bd,1 ba,N/A
+455 Wellington St W #509, Toronto,ON,M5V0V8,"C$2,250,000",3 bds,3 ba,N/A
+87 Peter St UNIT 2915, Toronto,ON,M5V2G4,"C$595,000",1 bd,1 ba,N/A
+408 Browns Line E #308, Toronto,ON,M8W0C3,"C$508,000",1 bd,1 ba,N/A
+40 Homewood Ave #2803, Toronto,ON,M4Y2K2,"C$465,000",1 bd,1 ba,N/A
+1150 Briar Hill Ave #306, Toronto,ON,M6B0A9,"C$599,000",3 bds,2 ba,N/A
+369 Albany Ave #5, Toronto,ON,M5R3E2,"C$889,000",2 bds,1 ba,N/A
+38 Joe Shuster Way #106, Toronto,ON,M6K0A5,"C$619,900",2 bds,1 ba,N/A
+1926 Lake Shore Blvd W #1805, Toronto,ON,M6S1A1,"C$766,900",2 bds,2 ba,N/A
+60 Town Centre Ct #306, Toronto,ON,M1P0B1,"C$448,800",1 bd,1 ba,N/A
+190 Borough Dr #302, Toronto,ON,M1P0B6,"C$759,900",3 bds,2 ba,N/A
+1400 Kingston Rd #501, Toronto,ON,M1N0C2,"C$679,000",2 bds,2 ba,N/A
+102 George Henry Blvd #15, Toronto,ON,M2J1E7,"C$499,999",3 bds,2 ba,N/A
+9 Valhalla Inn Rd #501, Toronto,ON,M9B0B2,"C$549,000",2 bds,1 ba,N/A
+31 Twyford Rd, Toronto,ON,M9A1W3,"C$6,285,000",5 bds,7 ba,N/A
+861 Sheppard Ave W #15, Toronto,ON,M3H2T5,"C$888,000",2 bds,2 ba,N/A
+125 Western Battery Rd #2207, Toronto,ON,M6K3R8,"C$895,000",3 bds,2 ba,N/A
+3220 Sheppard Ave E #318, Toronto,ON,M1T0B7,"C$897,880",2 bds,2 ba,N/A
+1 Oregon Trl, Toronto,ON,M9B1P4,"C$3,489,000",6 bds,6 ba,N/A
+111 Newton Dr, Toronto,ON,M2M2N2,"C$2,268,000",7 bds,4 ba,N/A
+278 Bloor St E #905, Toronto,ON,M4W3M4,"C$1,525,000",3 bds,2 ba,N/A
+30 Anglesey Blvd #G2, Toronto,ON,M9A3B5,"C$1,075,000",2 bds,2 ba,N/A
+55 Stewart St UNIT 625, Toronto,ON,M5V2V1,"C$625,000",1 bd,1 ba,N/A
+2191 Yonge St #1708, Toronto,ON,M4S3H8,"C$888,000",3 bds,2 ba,N/A
+271 Park Home Ave, Toronto,ON,M2R1A1,"C$1,499,000",4 bds,3 ba,N/A
+1 King St W #2402, Toronto,ON,M5H1A1,"C$339,900",1 bd,1 ba,N/A
+34 Greengate Rd, Toronto,ON,M3B1E8,"C$7,785,000",7 bds,7 ba,N/A
+10 Wilby Cres #1603, Toronto,ON,M9N0B6,"C$859,000",3 bds,2 ba,N/A
+85 Drewry Ave, Toronto,ON,M2M1C9,"C$2,745,000",2 bds,1 ba,N/A
+5 Whitehall Rd, Toronto,ON,M4W2C5,"C$9,488,000",5 bds,8 ba,N/A
+66 Fontainbleau Dr, Toronto,ON,M2M1N9,"C$999,800",6 bds,4 ba,N/A
+57 Saint Joseph St #523, Toronto,ON,M5S0C5,"C$989,000",3 bds,2 ba,N/A
+365 Beech Ave #219, Toronto,ON,M4E0C2,"C$999,900",2 bds,2 ba,N/A
+80 Palace Pier Ct #101, Toronto,ON,M8V4C1,"C$999,000",2 bds,2 ba,N/A
+100 Harrison Garden Blvd #L02, Toronto,ON,M2N0C2,"C$599,900",1 bd,1 ba,N/A
+70 Forest Manor Rd #3410, Toronto,ON,M2J0A9,"C$885,000",2 bds,2 ba,N/A
+284 Ellis Ave, Toronto,ON,M6S2X2,"C$4,250,000",6 bds,7 ba,N/A
+86 17th St, Toronto,ON,M8V3K4,"C$999,999",4 bds,4 ba,N/A
+3 Dailing Gate, Toronto,ON,M1B1Z3,"C$699,000",4 bds,3 ba,N/A
+120 Parliament St PENTHOUSE 2404, Toronto,ON,M5A0N6,"C$1,069,000",3 bds,2 ba,N/A
+218 Pleasant Ave, Toronto,ON,M2M1M5,"C$3,490,000",5 bds,7 ba,N/A
+210 Westmount Ave, Toronto,ON,M6E3M8,"C$899,000",4 bds,3 ba,N/A
+11 Carisbrooke Sq, Toronto,ON,M1B4M2,"C$1,325,000",6 bds,5 ba,N/A
+2335 1/2 Gerrard St E, Toronto,ON,M4E2E6,"C$699,900",3 bds,2 ba,N/A
+160 Flemington Rd #512, Toronto,ON,M6A0A9,"C$574,900",2 bds,2 ba,N/A
+39 Bushell Ave, Toronto,ON,M4M3B8,"C$1,189,000",4 bds,2 ba,N/A
+133 Westminster Ave, Toronto,ON,M6R1N6,"C$3,129,999",5 bds,5 ba,N/A
+11B Crawford St #11B, Toronto,ON,M6K3M3,"C$999,900",3 bds,3 ba,N/A
+86 Sloping Sky Mews #TOWNHOUSE 6, Toronto,ON,M5V0B3,"C$1,550,000",4 bds,3 ba,N/A
+993 Queen St W #223, Toronto,ON,M6J1H2,"C$999,990",1 bd,1 ba,N/A
+80 John St #3201, Toronto,ON,M5V3X4,"C$1,550,000",2 bds,2 ba,N/A
+32 Brookfield Rd, Toronto,ON,M2P1A9,"C$5,749,000",4 bds,5 ba,N/A
+535 Brunswick Ave, Toronto,ON,M5R2Z6,"C$1,729,000",6 bds,3 ba,N/A
+88 Anthony Rd, Toronto,ON,M3K1B4,"C$1,198,800",3 bds,3 ba,N/A
+36 Park Lawn Rd #203, Toronto,ON,M8V0E5,"C$1,299,999",2 bds,3 ba,N/A
+34 Greengate Rd, Toronto,ON,M3B1E8,"C$7,785,000",7 bds,7 ba,N/A
+82 Greensides Ave, Toronto,ON,M6G3P7,"C$1,399,000",6 bds,3 ba,N/A
+259 Claremont St, Toronto,ON,M6J2N1,"C$1,299,900",5 bds,4 ba,N/A
+111 Newton Dr, Toronto,ON,M2M2N2,"C$2,268,000",7 bds,4 ba,N/A
+570 Wellington St W #13A, Toronto,ON,M5V2X5,"C$1,300,000",3 bds,2 ba,N/A
+51 Lady Bank Rd #501, Toronto,ON,M8Z0C9,"C$1,099,999",3 bds,1 ba,N/A
+8 The Esplanade #1908, Toronto,ON,M5E0A6,"C$670,000",2 bds,1 ba,N/A
+58 Lytton Blvd, Toronto,ON,M4R1L3,"C$3,995,000",7 bds,5 ba,N/A
+676 Richmond St W #106, Toronto,ON,M6J1C3,"C$879,000",1 bd,1 ba,N/A
+80 North Dr, Toronto,ON,M9A4R2,"C$8,500,000",3 bds,5 ba,N/A
+8 Eglinton Ave E #1910, Toronto,ON,M4P0C1,"C$569,900",1 bd,1 ba,N/A
+1 Oregon Trl, Toronto,ON,M9B1P4,"C$3,489,000",6 bds,6 ba,N/A
+2639 Lake Shore Blvd W, Toronto,ON,M8V1G5,"C$5,600,000",7 bds,4 ba,N/A
+321 Concord Ave, Toronto,ON,M6H2P7,"C$1,199,000",4 bds,2 ba,N/A
+11 Park Manor Dr, Toronto,ON,M9B5C1,"C$1,699,900",4 bds,3 ba,N/A
+38 Dan Leckie Way #2209, Toronto,ON,M5V2V6,"C$689,000",2 bds,1 ba,N/A
+65 Spring Garden Ave #1802, Toronto,ON,M2N6H9,"C$1,498,000",2 bds,2 ba,N/A
+83 Anthony Rd, Toronto,ON,M3K1B5,"C$2,400,000",4 bds,5 ba,N/A
+31 Russell Hill Rd, Toronto,ON,M4V2S9,"C$11,500,000",7 bds,9 ba,N/A
+3 Pemberton Ave #2106, Toronto,ON,M2M4M1,"C$559,000",1 bd,1 ba,N/A
+17 Regal Rd, Toronto,ON,M6H2J5,"C$1,219,000",4 bds,2 ba,N/A
+60 Brian Harrison Way #302, Toronto,ON,M1P5J5,"C$699,900",3 bds,2 ba,N/A
+399 Lake Promenade, Toronto,ON,M8W1C3,"C$3,495,000",4 bds,3 ba,N/A
+41 Pinto Dr, Toronto,ON,M2J3T9,"C$1,149,000",6 bds,3 ba,"1,855 sqft"
+102 George Henry Blvd #15, Toronto,ON,M2J1E7,"C$499,999",3 bds,2 ba,N/A
+141 Eastwood Ave, Toronto,ON,M1N3H4,"C$799,900",3 bds,2 ba,N/A
+32 Lyme Regis Cres, Toronto,ON,M1M1E4,"C$3,350,000",5 bds,5 ba,N/A
+19 Western Battery Rd #1803, Toronto,ON,M6K3N9,"C$659,900",2 bds,2 ba,N/A
+43 Rusholme Rd, Toronto,ON,M6J3H3,"C$2,899,000",5 bds,4 ba,N/A
+6 Newmarket Ave, Toronto,ON,M4C1V7,"C$999,000",2 bds,2 ba,N/A
+7 Ashley Park Rd, Toronto,ON,M9A4C9,"C$9,495,000",7 bds,7 ba,N/A
+54 Judy Sgro Ave, Toronto,ON,M3L0E4,"C$868,000",3 bds,3 ba,N/A
+50 Yorkville Ave #4403, Toronto,ON,M4W0A3,"C$9,975,000",2 bds,3 ba,N/A
+100 Ardwold Gate, Toronto,ON,M5R2W2,"C$11,288,000",5 bds,7 ba,N/A
+111 Knowles Dr, Toronto,ON,M1X1T4,"C$1,179,000",4 bds,3 ba,N/A
+231 Falstaff Ave, Toronto,ON,M6L2G6,"C$1,999,999",5 bds,5 ba,N/A
+50 Bruyeres Mews #718, Toronto,ON,M5V0H8,"C$588,000",2 bds,1 ba,N/A
+48 Lockwood Rd, Toronto,ON,M4L3M8,"C$1,529,000",4 bds,3 ba,N/A
+200 Manitoba St #210, Toronto,ON,M8Y3Y9,"C$789,000",2 bds,2 ba,N/A
+1787 Saint Clair Ave W #917, Toronto,ON,M6N1H9,"C$759,900",2 bds,2 ba,N/A
+84 Chad Cres, Toronto,ON,M1B2Z6,"C$1,079,000",4 bds,3 ba,N/A
+176 Castlefield Ave, Toronto,ON,M4R1G7,"C$1,719,000",4 bds,2 ba,N/A
+42 Fishleigh Dr, Toronto,ON,M1N1H2,"C$2,699,900",6 bds,5 ba,N/A
+43 Florida Cres, Toronto,ON,M9M1P4,"C$1,388,000",4 bds,3 ba,N/A
+34 Kippendavie Ave, Toronto,ON,M4L3R4,"C$1,769,000",3 bds,2 ba,N/A
+203 Parkmount Rd, Toronto,ON,M4J4V5,"C$799,000",4 bds,3 ba,N/A
+7 Doncaster Ave, Toronto,ON,M4C1Y4,"C$1,389,000",3 bds,4 ba,N/A
+11 Beaumont Rd, Toronto,ON,M4W1V4,"C$19,995,000",4 bds,4 ba,N/A
+42 Charles St E #2810, Toronto,ON,M4Y0B7,"C$649,000",1 bd,1 ba,N/A
+1659 Gerrard St E, Toronto,ON,M4L2A9,C$1,8 bds,8 ba,N/A
+29 Tarsus Cres, Toronto,ON,M1C3W6,"C$1,250,000",5 bds,4 ba,N/A
+101 Dunloe Rd, Toronto,ON,M5P2T7,"C$13,990,000",5 bds,7 ba,N/A
+2 Bellefair Ave UNIT 306, Toronto,ON,M4L3T8,"C$707,000",1 bd,1 ba,N/A
+225 Sumach St #2511, Toronto,ON,M5A0P8,"C$749,900",2 bds,2 ba,N/A
+20 Edward St #1719, Toronto,ON,M5G0C5,"C$579,000",1 bd,1 ba,N/A
+117 Omni Dr #15, Toronto,ON,M1P5A5,"C$599,900",3 bds,3 ba,N/A
+8 Telegram Mews #622, Toronto,ON,M5V3Z5,"C$499,000",2 bds,2 ba,N/A
+104 Albany Ave, Toronto,ON,M5R3C4,"C$2,790,000",5 bds,4 ba,N/A
+4060 Lawrence Ave E #108, Toronto,ON,M1E4V4,"C$483,900",3 bds,3 ba,N/A
+20 Blue Jays Way #1106, Toronto,ON,M5V3W6,"C$850,000",3 bds,2 ba,N/A
+17 Zorra St #701, Toronto,ON,M8Z0C8,"C$469,900",1 bd,1 ba,N/A
+897 Sheppard Ave W #202, Toronto,ON,M3H2T4,"C$489,000",1 bd,1 ba,713 sqft
+77 Charles St W #906, Toronto,ON,M5S0B2,"C$2,999,000",2 bds,2 ba,N/A
+125 Alicewood Ct, Toronto,ON,M9V3Y1,"C$899,999",4 bds,2 ba,940 sqft
+284 Ellis Ave, Toronto,ON,M6S2X2,"C$4,250,000",6 bds,7 ba,N/A
+300 Mill Rd #A31, Toronto,ON,M9C4W7,"C$649,000",2 bds,2 ba,N/A
+40 Fern Ave, Toronto,ON,M6R1K1,"C$1,799,000",4 bds,3 ba,N/A
+290 Adelaide St W #2405, Toronto,ON,M5V1N1,"C$988,000",3 bds,2 ba,N/A
+78 Harrison Garden Blvd #2305, Toronto,ON,M2N7E2,"C$978,000",3 bds,3 ba,N/A
+104 Natal Ave, Toronto,ON,M1N3V6,"C$1,059,000",3 bds,2 ba,N/A
+214 Antibes Dr, Toronto,ON,M2R3H8,"C$768,000",4 bds,3 ba,N/A
+20 Amesbury Dr, Toronto,ON,M6M4H4,"C$1,099,000",3 bds,2 ba,N/A
+503 Beecroft Rd #515, Toronto,ON,M2N0A2,"C$648,800",2 bds,1 ba,N/A
+163 Brickworks Ln, Toronto,ON,M6N5H8,"C$910,000",3 bds,4 ba,N/A
+56 Amiens Rd, Toronto,ON,M1E3S8,"C$900,000",4 bds,2 ba,N/A
+50 Ordnance St #1703, Toronto,ON,M6K0C9,"C$549,900",1 bd,1 ba,N/A
+140 Brookside Dr, Toronto,ON,M4E2M2,"C$999,888",4 bds,3 ba,N/A
+130 River St #2806, Toronto,ON,M5A0R8,"C$429,900",1 bd,2 ba,N/A
+2885 Bayview Ave UNIT 717, Toronto,ON,M2K0A3,"C$689,000",2 bds,2 ba,N/A
+20 Gladstone Ave #417, Toronto,ON,M6J0E9,"C$729,000",2 bds,2 ba,N/A
+570 Oriole Pkwy, Toronto,ON,M4R2C2,"C$2,395,000",5 bds,4 ba,N/A
+23 Radwell Cres, Toronto,ON,M1V2J4,"C$899,000",5 bds,4 ba,N/A
+1603 Eglinton Ave W #504, Toronto,ON,M6E0A1,"C$768,000",3 bds,2 ba,N/A
+801 Midland Ave, Toronto,ON,M1K4E8,C$1,4 bds,3 ba,N/A
+48 Gondola Cres, Toronto,ON,M1G2J3,"C$899,000",4 bds,2 ba,N/A
+314 Rosemary Rd, Toronto,ON,M5P3E3,"C$10,995,000",6 bds,9 ba,N/A
+18 Oaken Gtwy #18, North York,ON,M2P2A1,"C$999,000",3 bds,2 ba,N/A
+21 Grand Magazine St #1907, Toronto,ON,M5V1B5,"C$799,900",2 bds,2 ba,N/A
+88 Turtle Island Rd #5, Toronto,ON,M6A2M7,"C$899,500",3 bds,3 ba,N/A
+2 Garden Cir, Toronto,ON,M4G2X8,"C$2,150,000",4 bds,2 ba,N/A
+4978 Yonge St UNIT 1911, Toronto,ON,M2N7G8,"C$529,900",1 bd,1 ba,N/A
+18 Earnbridge St, Toronto,ON,M6K1N3,"C$1,999,999",4 bds,4 ba,"2,148 sqft"
+73 Maclean Ave, Toronto,ON,M4E2Z8,"C$2,349,000",5 bds,5 ba,N/A
+3 Biggar Ave, Toronto,ON,M6H2N5,"C$1,795,000",5 bds,3 ba,N/A
+455 Wellington St W #509, Toronto,ON,M5V0V8,"C$2,250,000",3 bds,3 ba,N/A
+20 Fletcher Pl, Toronto,ON,M9R1K6,"C$899,000",3 bds,2 ba,N/A
+20 Niagara St #PENTHOUSE 1, Toronto,ON,M5V3L8,"C$6,298,800",2 bds,3 ba,"4,022 sqft"
+3 Dailing Gate, Toronto,ON,M1B1Z3,"C$699,000",4 bds,3 ba,N/A
+474 Russell Hill Rd, Toronto,ON,M5P2S7,"C$16,895,000",5 bds,6 ba,N/A
+1346 Danforth Rd #901, Toronto,ON,M1J0A9,"C$475,000",2 bds,1 ba,N/A
+112 Laurel Ave, Toronto,ON,M1K3J9,"C$829,900",4 bds,2 ba,N/A
+51 Harrison Garden Blvd #707, Toronto,ON,M2N7G4,"C$498,800",2 bds,2 ba,N/A
+20 Joe Shuster Way #202, Toronto,ON,M6K0A3,"C$399,000",1 bd,1 ba,N/A
+11 Kingsway Cres, Toronto,ON,M8X2P9,"C$7,950,000",5 bds,7 ba,N/A
+270 Brighton Ave, Toronto,ON,M3H4E9,"C$1,898,000",5 bds,3 ba,N/A
+38 S Kingslea Dr, Toronto,ON,M8Y2A4,"C$5,000,000",5 bds,6 ba,N/A
+63 Ward St, Toronto,ON,M6H4A5,"C$899,900",4 bds,2 ba,N/A
+816 Lansdowne Ave #1015, Toronto,ON,M6H4K6,"C$580,000",1 bd,1 ba,N/A
+80 Chiswell Cres, Toronto,ON,M2N6E1,"C$1,678,000",4 bds,4 ba,N/A
+6 Esterbrooke Ave #82, Toronto,ON,M2J2C2,"C$579,000",2 bds,1 ba,N/A
+160 Howland Ave, Toronto,ON,M5R3B6,"C$2,999,999",4 bds,4 ba,N/A
+58 Marine Parade Dr #1110, Toronto,ON,M8V4G1,"C$1,110,000",3 bds,2 ba,"1,275 sqft"
+223 Kennedy Rd, Toronto,ON,M1N3P4,"C$699,900",4 bds,3 ba,N/A
+28A Wilberton Rd, Toronto,ON,M4V1Z3,"C$3,848,000",5 bds,5 ba,N/A
+20 Stewart St #204, Toronto,ON,M5V1H6,"C$595,900",1 bd,1 ba,N/A
+17 Maughan Cres, Toronto,ON,M4L3E4,"C$1,749,000",3 bds,3 ba,N/A
+2 Sonic Way #1708, Toronto,ON,M3C0P2,"C$499,000",1 bd,1 ba,N/A
+101 Clearbrooke Cir, Toronto,ON,M9W2E9,"C$998,800",4 bds,3 ba,N/A
+85 The Bridle Path, Toronto,ON,M3C2P1,"C$28,900,000",9 bds,11 ba,N/A
+85 Emmett Ave #1012, Toronto,ON,M6M5A2,"C$499,999",4 bds,2 ba,N/A
+212 Saint Clair Ave W, Toronto,ON,M4V1R2,C$1,6 bds,6 ba,N/A
+11 Thornwood Rd, Toronto,ON,M4W2R8,"C$20,000,000",5 bds,8 ba,N/A
+472 Crawford St, Toronto,ON,M6G3J8,C$1,5 bds,3 ba,N/A
+10 Blakley Ave, Toronto,ON,M6N3Y5,"C$548,000",3 bds,2 ba,N/A
+17 Strath Humber Ct, Toronto,ON,M9A4C8,"C$2,289,000",6 bds,5 ba,N/A
+7 Appleby Ct, Toronto,ON,M9B5A1,"C$16,900,000",7 bds,9 ba,N/A
+18 Munro Park Ave, Toronto,ON,M4E3M3,"C$6,999,000",5 bds,5 ba,N/A
+7 Brimley Rd S #D78, Toronto,ON,M1M3W3,"C$490,000",1 bd,2 ba,N/A
+20/22 Park Lane Cir, Toronto,ON,M3B1Z7,"C$29,990,000",8bds,9ba,N/A
+19 Country Ln, Toronto,ON,M2L1E1,"C$19,388,000",7bds,11ba,N/A
+88 Forest Heights Blvd, Toronto,ON,M2L2K8,"C$29,800,000",8bds,11ba,N/A
+45 Park Lane Cir, Toronto,ON,M3C2N3,"C$29,800,000",6bds,9ba,N/A
+27 South Dr, Toronto,ON,M4W1R2,"C$20,800,000",6bds,9ba,N/A
+17 Ardwold Gate, Toronto,ON,M5R2W1,"C$34,500,000",8bds,11ba,N/A
+1150 Briar Hill Ave #306, Toronto,ON,M6B0A9,"C$599,000",3bds,2ba,N/A
+36 Old Colony Rd, Toronto,ON,M2L2J8,"C$6,380,000",4bds,4ba,N/A
+253 Dunvegan Rd, Toronto,ON,M5P2P5,"C$9,885,000",7bds,9ba,N/A
+45 Bayview Rdg, Toronto,ON,M2L1E3,"C$22,500,000",8bds,10ba,N/A
+112 Mason Blvd, Toronto,ON,M5M3E3,"C$4,249,990",4bds,4ba,N/A
+220 Victoria St #806, Toronto,ON,M5B2R6,"C$599,000",3bds,2ba,N/A
+27 Devondale Ave, Toronto,ON,M2R2C9,"C$2,388,000",4bds,4ba,N/A
+45 Pegasus Trl, Toronto,ON,M1G3N6,"C$1,188,000",7bds,4ba,N/A
+2335 1/2 Gerrard St E, Toronto,ON,M4E2E6,"C$699,900",3bds,2ba,N/A
+73 Fishleigh Dr, Toronto,ON,M1N1H3,"C$2,580,000",5bds,2ba,N/A
+1 Lake Shore Dr, Toronto,ON,M8V1Y9,"C$4,250,000",4bds,4ba,N/A
+12 Gradwell Dr, Toronto,ON,M1M2M9,"C$2,750,000",5bds,4ba,N/A
+79 John St, Toronto,ON,M9N1J6,"C$799,000",5bds,2ba,N/A
+20 Moccasin Trl, Toronto,ON,M3C1Y7,"C$1,498,800",4bds,3ba,N/A
+55 Lynnhaven Rd, Toronto,ON,M6A2K7,"C$3,269,999",6bds,7ba,N/A
+129 Clansman Blvd, Toronto,ON,M2H1Y3,"C$1,399,900",4bds,4ba,N/A
+62 Portico Dr, Toronto,ON,M1G3R6,"C$999,900",5bds,2ba,N/A
+579 Indian Rd, Toronto,ON,M6P2C3,"C$2,999,999",9bds,5ba,N/A
+6 Elward Blvd, Toronto,ON,M1L3L2,"C$569,900",3bds,2ba,N/A
+483 Dupont St #103, Toronto,ON,M6G1Y6,"C$849,900",0bds,1ba,N/A
+55 Regency Sq, Toronto,ON,M1E1N4,"C$1,299,000",5bds,2ba,N/A
+30 High Point Rd, Toronto,ON,M3C2R3,"C$28,000,000",8bds,13ba,N/A
+200 Murison Blvd UNIT 67, Toronto,ON,M1B3R9,"C$499,900",3bds,2ba,N/A
+10 Greenyards Dr, Toronto,ON,M2M2R6,"C$1,799,000",5bds,3ba,N/A
+23 Elba Ave, Toronto,ON,M1L4E9,"C$499,999",3bds,2ba,N/A
+24 Sophia Dr, Toronto,ON,M1H1Z4,"C$799,000",3 bds,1 ba,N/A
+1 Strathgowan Ave #403, Toronto,ON,M4N0B3,"C$1,700,000",2 bds,3 ba,N/A
+501 Adelaide St W #909, Toronto,ON,M5V0R3,"C$539,900",1 bd,1 ba,N/A
+15 Helmsdale Cres, Toronto,ON,M9V3X8,"C$1,199,900",7 bds,4 ba,N/A
+55 Deanscroft Sq, Toronto,ON,M1E4W8,"C$875,000",4 bds,3 ba,N/A
+191 Parkmount Rd, Toronto,ON,M4J4V5,"C$1,139,000",4 bds,4 ba,N/A
+21 Iceboat Ter PENTHOUSE 10, Toronto,ON,M5V4A9,"C$2,950,000",4 bds,4 ba,N/A
+78 Carr St #TOWNHOUSE 32, Toronto,ON,M5T1B7,"C$699,000",2 bds,2 ba,N/A
+650 Sheppard Ave E #215, Toronto,ON,M2K3E4,"C$569,988",2 bds,1 ba,N/A
+1778 Dufferin St, Toronto,ON,M6E3P4,"C$997,000",5 bds,4 ba,N/A
+33 Shore Breeze Dr E #1208, Toronto,ON,M8V0G1,"C$685,000",2 bds,1 ba,N/A
+24 Coventry St, Toronto,ON,M1L0H1,"C$929,900",3 bds,3 ba,N/A
+21 Groverdale Rd, Toronto,ON,M9C3M7,"C$1,275,000",3 bds,2 ba,N/A
+80 Curzon St, Toronto,ON,M4M3B4,"C$988,000",3 bds,2 ba,N/A
+8 Trent Ave #1205, Toronto,ON,M4C0A6,"C$749,900",3 bds,2 ba,N/A
+65 Huntingdale Blvd UNIT 1507, Toronto,ON,M1W2P1,"C$685,000",3 bds,2 ba,N/A
+198 Lawlor Ave, Toronto,ON,M4E3M1,"C$1,324,900",4 bds,2 ba,N/A
+408 Browns Line S #312, Toronto,ON,M5W3T9,"C$689,900",2 bds,2 ba,N/A
+1 King St W #1501, Toronto,ON,M5H1A1,"C$399,900",2 bds,1 ba,N/A
+509 Beecroft Rd #1209, Toronto,ON,M2N0A3,"C$848,000",3 bds,2 ba,N/A
+25 Clark St, Toronto,ON,M4M1M5,"C$1,475,000",3 bds,3 ba,N/A
+64 Chandler Dr, Toronto,ON,M1G1Z3,"C$899,000",5 bds,2 ba,N/A
+10 Capreol Ct #902, Toronto,ON,M5V4B3,"C$599,000",2 bds,1 ba,N/A
+215 Mill Rd, Toronto,ON,M9C1Y1,"C$1,479,000",4 bds,3 ba,N/A
+100 Rosethorn Ave, Toronto,ON,M6N3L1,"C$1,250,000",3 bds,2 ba,N/A
+98 Spruce Hill Rd, Toronto,ON,M4E3G4,"C$2,899,999",4 bds,4 ba,N/A
+63 Bannatyne Dr, Toronto,ON,M2L2P2,"C$5,598,000",5 bds,7 ba,N/A
+533 Richmond St W PENTHOUSE 2, Toronto,ON,M5V3Y1,"C$3,800,000",3 bds,3 ba,N/A
+8 Lee Centre Dr #702, Toronto,ON,M1H3H8,"C$375,888",1 bd,1 ba,N/A
+30 Nelson St #PENTHOUSE 101, Toronto,ON,M5V0H5,"C$3,950,000",3 bds,3 ba,N/A
+36 Lisgar St #1010, Toronto,ON,M6J0C7,"C$499,900",2 bds,2 ba,N/A
+9 Overton Pl, Toronto,ON,M3B1H1,"C$1,850,000",4 bds,4 ba,N/A
+1328 Birchmount Rd #PENTHOUSE 9, Toronto,ON,M1R0B6,"C$698,000",3 bds,2 ba,"1,115 sqft"
+11B Crawford St #11B, Toronto,ON,M6K3M3,"C$999,900",3 bds,3 ba,N/A
+717 Greenwood Ave, Toronto,ON,M4J4B6,"C$1,029,000",3 bds,2 ba,N/A
+200 Woodbine Ave #601, Toronto,ON,M4L3P2,"C$4,899,000",4 bds,5 ba,N/A
+8 Attila Ct, Toronto,ON,M9V4E5,"C$949,900",4 bds,3 ba,N/A
+62 Kent Rd, Toronto,ON,M4L2X6,"C$995,000",3 bds,2 ba,N/A
+200 Russell Hill Rd #502, Toronto,ON,M4V0B6,"C$16,995,000",6 bds,7 ba,N/A
+45 Oldham Rd, Toronto,ON,M9A2B9,"C$1,629,000",4 bds,3 ba,N/A
+29 Portico Dr, Toronto,ON,M1G3R5,"C$1,249,999",7 bds,4 ba,N/A
+11 Brunel Ct #5005, Toronto,ON,M5V3Y3,"C$570,000",1 bd,1 ba,N/A
+103 Old Colony Rd, Toronto,ON,M2L2K3,"C$19,995,000",6 bds,11 ba,N/A
+175 Teddington Park Ave, Toronto,ON,M4N2C7,"C$14,680,000",6 bds,9 ba,N/A
+6 Wyndcliff Cres, Toronto,ON,M4A2K1,"C$1,429,900",4 bds,2 ba,N/A
+40 Sylvan Valleyway #523, Toronto,ON,M5M4M3,"C$889,000",2 bds,2 ba,N/A
+24 Sophia Dr, Toronto,ON,M1H1Z4,"C$799,000",3 bds,1 ba,N/A
+1 Strathgowan Ave #403, Toronto,ON,M4N0B3,"C$1,700,000",2 bds,3 ba,N/A
+501 Adelaide St W #909, Toronto,ON,M5V0R3,"C$539,900",1 bd,1 ba,N/A
+15 Helmsdale Cres, Toronto,ON,M9V3X8,"C$1,199,900",7 bds,4 ba,N/A
+55 Deanscroft Sq, Toronto,ON,M1E4W8,"C$875,000",4 bds,3 ba,N/A
+191 Parkmount Rd, Toronto,ON,M4J4V5,"C$1,139,000",4 bds,4 ba,N/A
+21 Iceboat Ter PENTHOUSE 10, Toronto,ON,M5V4A9,"C$2,950,000",4 bds,4 ba,N/A
+78 Carr St #TOWNHOUSE 32, Toronto,ON,M5T1B7,"C$699,000",2 bds,2 ba,N/A
+650 Sheppard Ave E #215, Toronto,ON,M2K3E4,"C$569,988",2 bds,1 ba,N/A
+1778 Dufferin St, Toronto,ON,M6E3P4,"C$997,000",5 bds,4 ba,N/A
+33 Shore Breeze Dr E #1208, Toronto,ON,M8V0G1,"C$685,000",2 bds,1 ba,N/A
+24 Coventry St, Toronto,ON,M1L0H1,"C$929,900",3 bds,3 ba,N/A
+21 Groverdale Rd, Toronto,ON,M9C3M7,"C$1,275,000",3 bds,2 ba,N/A
+80 Curzon St, Toronto,ON,M4M3B4,"C$988,000",3 bds,2 ba,N/A
+8 Trent Ave #1205, Toronto,ON,M4C0A6,"C$749,900",3 bds,2 ba,N/A
+65 Huntingdale Blvd UNIT 1507, Toronto,ON,M1W2P1,"C$685,000",3 bds,2 ba,N/A
+198 Lawlor Ave, Toronto,ON,M4E3M1,"C$1,324,900",4 bds,2 ba,N/A
+408 Browns Line S #312, Toronto,ON,M5W3T9,"C$689,900",2 bds,2 ba,N/A
+1 King St W #1501, Toronto,ON,M5H1A1,"C$399,900",2 bds,1 ba,N/A
+509 Beecroft Rd #1209, Toronto,ON,M2N0A3,"C$848,000",3 bds,2 ba,N/A
+25 Clark St, Toronto,ON,M4M1M5,"C$1,475,000",3 bds,3 ba,N/A
+64 Chandler Dr, Toronto,ON,M1G1Z3,"C$899,000",5 bds,2 ba,N/A
+10 Capreol Ct #902, Toronto,ON,M5V4B3,"C$599,000",2 bds,1 ba,N/A
+215 Mill Rd, Toronto,ON,M9C1Y1,"C$1,479,000",4 bds,3 ba,N/A
+100 Rosethorn Ave, Toronto,ON,M6N3L1,"C$1,250,000",3 bds,2 ba,N/A
+98 Spruce Hill Rd, Toronto,ON,M4E3G4,"C$2,899,999",4 bds,4 ba,N/A
+63 Bannatyne Dr, Toronto,ON,M2L2P2,"C$5,598,000",5 bds,7 ba,N/A
+533 Richmond St W PENTHOUSE 2, Toronto,ON,M5V3Y1,"C$3,800,000",3 bds,3 ba,N/A
+8 Lee Centre Dr #702, Toronto,ON,M1H3H8,"C$375,888",1 bd,1 ba,N/A
+30 Nelson St #PENTHOUSE 101, Toronto,ON,M5V0H5,"C$3,950,000",3 bds,3 ba,N/A
+36 Lisgar St #1010, Toronto,ON,M6J0C7,"C$499,900",2 bds,2 ba,N/A
+9 Overton Pl, Toronto,ON,M3B1H1,"C$1,850,000",4 bds,4 ba,N/A
+1328 Birchmount Rd #PENTHOUSE 9, Toronto,ON,M1R0B6,"C$698,000",3 bds,2 ba,"1,115 sqft"
+11B Crawford St #11B, Toronto,ON,M6K3M3,"C$999,900",3 bds,3 ba,N/A
+717 Greenwood Ave, Toronto,ON,M4J4B6,"C$1,029,000",3 bds,2 ba,N/A
+200 Woodbine Ave #601, Toronto,ON,M4L3P2,"C$4,899,000",4 bds,5 ba,N/A
+62 Kent Rd, Toronto,ON,M4L2X6,"C$995,000",3 bds,2 ba,N/A
+200 Russell Hill Rd #502, Toronto,ON,M4V0B6,"C$16,995,000",6 bds,7 ba,N/A
+45 Oldham Rd, Toronto,ON,M9A2B9,"C$1,629,000",4 bds,3 ba,N/A
+29 Portico Dr, Toronto,ON,M1G3R5,"C$1,249,999",7 bds,4 ba,N/A
+5765 Yonge St #1204, Toronto,ON,M2M4H9,"C$598,800",3 bds,2 ba,N/A
+167 Wineva Ave, Toronto,ON,M4E2T5,"C$1,649,900",4 bds,4 ba,N/A
+10 Gateway Blvd #402, Toronto,ON,M3C3A1,"C$499,000",2 bds,2 ba,N/A
+2200 Lake Shore Blvd W #818, Toronto,ON,M8V1A4,"C$530,000",1 bd,1 ba,N/A
+8 Rosebank Dr #7H, Toronto,ON,M1B5Z3,"C$528,000",2 bds,1 ba,N/A
+31 Antler St, Toronto,ON,M6P3R2,"C$1,099,900",5 bds,2 ba,N/A
+799 Midland Ave, Toronto,ON,M1K4E8,C$1,4 bds,3 ba,N/A
+130 Neptune Dr #607, Toronto,ON,M6A1X5,"C$539,333",3 bds,2 ba,N/A
+70 Annie Craig Dr #4802, Toronto,ON,M8V0G2,"C$769,800",2 bds,2 ba,N/A
+557 Logan Ave, Toronto,ON,M4K3B6,"C$799,000",3 bds,2 ba,N/A
+302 Richview Ave, Toronto,ON,M5P3G5,"C$2,799,000",4 bds,5 ba,N/A
+1 Monarchdale Ave, Toronto,ON,M6M2S6,"C$849,900",4 bds,3 ba,N/A
+5 Wray Ct, Toronto,ON,M9V4K4,"C$799,990",4 bds,3 ba,N/A
+56 Branstone Rd, Toronto,ON,M6E4E4,"C$1,150,000",3 bds,2 ba,N/A
+16 Yonge St SUITE 4006, Toronto,ON,M5E2A3,"C$1,649,999",3 bds,2 ba,"1,266 sqft"
+5 Mabelle Ave #2328, Toronto,ON,M9A0C8,"C$749,000",3 bds,2 ba,N/A
+437 Westmount Ave, Toronto,ON,M6E3N4,"C$799,000",4 bds,2 ba,N/A
+35 Kirkdene Dr, Toronto,ON,M1C3A5,"C$1,246,000",4 bds,4 ba,N/A
+136 Collier St, Toronto,ON,M4W1M3,"C$1,850,000",5 bds,3 ba,N/A
+130 Morningview Trl, Toronto,ON,M1B5L2,"C$1,349,000",6 bds,4 ba,N/A
+2800 Warden Ave #1004, Toronto,ON,M1W3Z6,"C$399,900",2 bds,2 ba,N/A
+4737 Jane St, Toronto,ON,M3N2K8,"C$499,000",4 bds,2 ba,N/A
+28 Fishleigh Dr, Toronto,ON,M1N1G9,"C$1,299,000",6 bds,4 ba,N/A
+4673 Jane St #318, Toronto,ON,M3N2L1,"C$330,000",2 bds,1 ba,N/A
+850 Danforth Rd, Toronto,ON,M1K1H5,"C$799,900",5 bds,2 ba,N/A
+303 Maria St, Toronto,ON,M6P1W6,"C$799,000",2 bds,2 ba,N/A
+631 Richmond St W, Toronto,ON,M6J1C2,"C$799,000",3 bds,1 ba,N/A
+90 Broadview Ave #526, Toronto,ON,M4M0A7,"C$689,000",2 bds,1 ba,N/A
+18 Burnt Log Cres, Toronto,ON,M9C2J8,"C$1,999,999",4 bds,3 ba,"3,180 sqft"
+10 De Boers Dr #905, Toronto,ON,M3J0L6,"C$499,000",2 bds,1 ba,N/A
+825 Adelaide St W, Toronto,ON,M6J1B5,"C$1,599,000",3 bds,2 ba,N/A
+15 Edenbrook Hl, Toronto,ON,M9A3Z7,"C$7,750,000",5 bds,7 ba,N/A
+10 Deerlick Ct #518, Toronto,ON,M3A0A7,"C$599,990",2 bds,2 ba,N/A
+11 Wellesley St W #4711, Toronto,ON,M4Y0G4,"C$714,900",1 bd,1 ba,N/A
+37 Saint Andrews Gdns, Toronto,ON,M4W2C9,"C$6,495,000",6 bds,5 ba,N/A
+295 Downsview Park Blvd, Toronto,ON,M3K0B6,"C$995,000",5 bds,4 ba,N/A
+8 Colborne St #PENTHOUSE 2701, Toronto,ON,M5E1E1,"C$3,495,000",5 bds,4 ba,N/A
+102 Pennyhill Dr, Toronto,ON,M1B4K7,"C$749,900",3 bds,3 ba,"1,280 sqft"
+333 Brighton Ave, Toronto,ON,M3H4G4,"C$3,438,000",6 bds,7 ba,N/A
+20 Blue Jays Way #319, Toronto,ON,M5V3W6,"C$639,000",1 bd,1 ba,N/A
+2737 Keele St #821, Toronto,ON,M3M2E9,"C$299,990",Studio,1 ba,N/A
+24 Masseygrove Cres, Toronto,ON,M9V3C9,"C$899,999",6 bds,3 ba,N/A
+1 De Vere Gdns, Toronto,ON,M5M3E4,"C$4,995,000",5 bds,6 ba,N/A
+210 Westmount Ave, Toronto,ON,M6E3M8,"C$899,000",4 bds,3 ba,N/A
+36 Astley Ave, Toronto,ON,M4W3B4,"C$3,499,000",5 bds,6 ba,N/A
+222 The Esplanade #713, Toronto,ON,M5A4M8,"C$449,900",2 bds,1 ba,N/A
+629 King St W #1307, Toronto,ON,M5V0G9,"C$399,880",1 bd,1 ba,N/A
+228 Westview Blvd, Toronto,ON,M4B3J5,"C$998,000",3 bds,2 ba,N/A
+357 King St W #1601, Toronto,ON,M5V0S7,"C$399,000",1 bd,1 ba,N/A
+55 Hambly Ave, Toronto,ON,M4E2R5,"C$3,299,900",4 bds,4 ba,N/A
+74 Connolly St, Toronto,ON,M6N5G3,"C$498,800",2 bds,1 ba,N/A
+17A S Woodrow Blvd, Toronto,ON,M1N3L5,"C$1,269,000",4 bds,2 ba,N/A
+23 Dewbourne Ave, Toronto,ON,M5P1Z5,"C$5,995,000",8 bds,8 ba,N/A
+271 Victoria Park Ave, Toronto,ON,M4E3S6,"C$600,000",1 bd,1 ba,N/A
+2A Battenberg Ave, Toronto,ON,M4L1J8,"C$695,000",2 bds,1 ba,N/A
+235 Sherway Gardens Rd #2010, Toronto,ON,M9C0A2,"C$650,000",2 bds,2 ba,N/A
+14 Pinegrove Ave, Toronto,ON,M1N2G4,"C$799,000",4 bds,2 ba,N/A
+1787 Saint Clair Ave W #414, Toronto,ON,M6N1H9,"C$525,000",2 bds,1 ba,N/A
+180 Patricia Ave, Toronto,ON,M2M1J5,"C$1,088,000",4 bds,3 ba,N/A
+320 Dixon Rd #506, Toronto,ON,M9R1S8,"C$399,900",2 bds,1 ba,N/A
+1815 Yonge St #1801, Toronto,ON,M4T2A4,"C$849,000",2 bds,1 ba,N/A
+740 Eglinton Ave W #301, Toronto,ON,M5N1C4,"C$499,000",2 bds,1 ba,N/A
+114 Saskatoon Dr, Toronto,ON,M9P2G4,"C$1,549,900",6 bds,4 ba,N/A
+353 Driftwood Ave #2, Toronto,ON,M3N2P2,"C$535,000",5 bds,3 ba,N/A
+181 Dundas St E UNIT 3811, Toronto,ON,M5A0N5,"C$699,000",2 bds,1 ba,N/A
+59 Annie Craig Dr #3604, Toronto,ON,M8V0C4,"C$1,336,000",3 bds,3 ba,N/A
+1 Sudbury St #101, Toronto,ON,M6J3W6,"C$679,000",2 bds,1 ba,N/A
+391 Beechgrove Dr #79, Scarborough,ON,M1E2R1,"C$599,000",3 bds,3 ba,"1,100 sqft"
+77 Magellan Dr, Toronto,ON,M3L1T3,"C$855,900",3 bds,1 ba,N/A
+70 Byng Ave #6, Toronto,ON,M2N7L9,"C$799,000",3 bds,3 ba,N/A
+56 Grierson Rd, Toronto,ON,M9W3R3,"C$799,000",3 bds,2 ba,N/A
+585 Bloor St E #4218, Toronto,ON,M4W0B3,"C$1,550,000",3 bds,2 ba,N/A
+97 Lawton Blvd #704, Toronto,ON,M4V1Z6,"C$549,000",2 bds,1 ba,N/A
+44 Waverley Rd, Toronto,ON,M4L3T1,"C$2,978,000",5 bds,5 ba,N/A
+812 Duplex Ave, Toronto,ON,M4R1W7,"C$1,895,000",4 bds,2 ba,N/A
+127 Boardwalk Dr, Toronto,ON,M4L3X9,"C$2,595,000",4 bds,4 ba,N/A
+215 Strathallan Wood, Toronto,ON,M5N1T5,"C$10,900,000",4 bds,6 ba,N/A
+127 Boardwalk Dr, Toronto,ON,M4L3X9,"C$2,595,000",4 bds,4 ba,N/A
+215 Strathallan Wood, Toronto,ON,M5N1T5,"C$10,900,000",4 bds,6 ba,N/A
+63 Hammersmith Ave, Toronto,ON,M4E2W3,"C$2,989,000",5 bds,6 ba,N/A
+990 Dovercourt Rd, Toronto,ON,M6H2X5,"C$699,000",3 bds,2 ba,N/A
+47 Stephen Dr, Toronto,ON,M8Y3M8,"C$849,000",3 bds,1 ba,N/A
+415 Wellesley St E, Toronto,ON,M4X1H5,"C$1,195,000",4 bds,3 ba,N/A
+200 Cumberland St #3802, Toronto,ON,M5R0B7,"C$17,800,000",3 bds,4 ba,N/A
+30 Forge Dr, Toronto,ON,M3N2R3,"C$849,999",5 bds,2 ba,N/A
+4 Tredvalley Grve, Toronto,ON,M1C3J4,"C$2,388,000",5 bds,5 ba,N/A
+83 Lillian St #15, Toronto,ON,M4S2H7,"C$899,000",2 bds,2 ba,N/A
+168 Pinewood Ave, Toronto,ON,M6C2V5,"C$1,529,000",3 bds,2 ba,N/A
+101 Charles St E #4202, Toronto,ON,M4Y0A9,"C$875,000",2 bds,1 ba,N/A
+127 Bellwoods Ave, Toronto,ON,M6J2P6,"C$1,799,900",4 bds,2 ba,N/A
+9 Bogert Ave #2801, Toronto,ON,M2N0H3,"C$728,000",2 bds,2 ba,N/A
+65 Mutual St #3004, Toronto,ON,M5H2A9,"C$899,000",3 bds,2 ba,N/A
+195 Redpath Ave #3307, Toronto,ON,M4P0E4,"C$399,000",Studio,1 ba,N/A
+28 Rosebank Dr #1009, Toronto,ON,M1B5Z1,"C$799,000",5 bds,3 ba,N/A
+36 Lisgar St #708W, Toronto,ON,M6J0C7,"C$399,900",2 bds,1 ba,N/A
+5444 Yonge St #108, Toronto,ON,M2N6J4,"C$1,898,000",3 bds,3 ba,N/A
+2053 Gerrard St E, Toronto,ON,M4E2B4,"C$999,900",4 bds,2 ba,N/A
+64 Marion St, Toronto,ON,M6R1E7,"C$1,599,000",6 bds,2 ba,N/A
+248 Garden Ave, Toronto,ON,M6R1J3,"C$1,149,000",6 bds,4 ba,N/A
+6 Croft St, Toronto,ON,M5S2N8,"C$1,949,000",4 bds,3 ba,N/A
+236 Browning Ave, Toronto,ON,M4K1X2,"C$1,649,000",4 bds,2 ba,N/A
+6 Creekwood Dr, Toronto,ON,M1E4L7,"C$1,375,000",4 bds,5 ba,N/A
+830 Lawrence Ave W #2207, Toronto,ON,M6A0B6,"C$499,900",2 bds,1 ba,N/A
+48 Coe Hill Dr, Toronto,ON,M6S3C8,"C$1,198,000",5 bds,2 ba,N/A
+68 Abell St UNIT 1001, Toronto,ON,M6J0B1,"C$698,000",2 bds,2 ba,N/A
+301 Prudential Dr #1701, Toronto,ON,M1P4V3,"C$325,000",2 bds,1 ba,N/A
+2901 Kipling Ave #907, Toronto,ON,M9V5E5,"C$549,000",2 bds,2 ba,N/A
+341 Military Trl #20, Toronto,ON,M1E4E4,"C$549,900",3 bds,2 ba,N/A
+29 Glen Stewart Ave, Toronto,ON,M4E1P6,"C$1,849,000",3 bds,2 ba,N/A
+364 The East Mall #243, Toronto,ON,M9B6C5,"C$625,000",3 bds,3 ba,N/A
+309 Ranee Ave, Toronto,ON,M6A1N9,"C$3,220,000",6 bds,7 ba,N/A
+2737 Keele St #402, Toronto,ON,M3M2E9,"C$418,888",3 bds,2 ba,N/A
+403 Church St #2413, Toronto,ON,M4Y0C9,"C$698,000",2 bds,1 ba,N/A
+76 Arjay Cres, Toronto,ON,M2L1C7,"C$13,995,000",6 bds,10 ba,N/A
+147 Cameron Ave, Toronto,ON,M6M1R5,"C$799,000",3 bds,2 ba,N/A
+78 Cameron Ave, Toronto,ON,M2N1E2,"C$2,835,000",3 bds,5 ba,N/A
+62 Schell Ave, Toronto,ON,M6E2S9,"C$1,299,900",4 bds,3 ba,N/A
+28 Freeland St #4404, Toronto,ON,M5E1L7,"C$10,428,000",2 bds,1 ba,N/A
+663 Windermere Ave, Toronto,ON,M6S3M2,"C$1,695,000",3 bds,2 ba,N/A
+27 Shaftesbury Ave, Toronto,ON,M4T3B3,"C$1,899,000",2 bds,3 ba,N/A
+1950 Kennedy Rd #706, Toronto,ON,M1P4S9,"C$539,000",3 bds,1 ba,N/A
+32 Ava Rd, Toronto,ON,M5P1Y4,"C$5,995,000",6 bds,6 ba,N/A
+133 Westminster Ave, Toronto,ON,M6R1N6,"C$3,129,999",5 bds,5 ba,N/A
+5418 Yonge St #901, Toronto,ON,M2N6X4,"C$729,000",3 bds,2 ba,N/A
+125 Peter St #1301, Toronto,ON,M5V0M2,"C$928,900",3 bds,2 ba,N/A
+7 Merredin Pl, Toronto,ON,M3B1S7,"C$3,880,000",6 bds,6 ba,N/A
+564 Pharmacy Ave, Toronto,ON,M1L3G9,"C$850,000",4 bds,2 ba,N/A
+14 Kildonan Dr, Toronto,ON,M1N3B5,"C$2,690,000",5 bds,4 ba,N/A
+180 Markham Rd SUITE 707, Toronto,ON,M1M2Z9,"C$389,900",1 bd,1 ba,N/A
+27 Glen Elm Ave, Toronto,ON,M4T1T9,"C$4,999,999",8 bds,7 ba,N/A
+20 Cedar Ave E, Toronto,ON,M4E1K2,"C$1,699,000",3 bds,4 ba,N/A
+4 Daysland Rd, Toronto,ON,M9W4A9,"C$998,000",5 bds,3 ba,N/A
+59 Arundel Ave, Toronto,ON,M4K3A3,"C$1,589,000",2 bds,3 ba,N/A
+390 Hopewell Ave #130, Toronto,ON,M6E2S2,"C$529,900",2 bds,2 ba,N/A
+160 Flemington Rd #512, Toronto,ON,M6A0A9,"C$574,900",2 bds,2 ba,N/A
+21 Mayberry Rd, Toronto,ON,M3N2A5,"C$650,000",3 bds,2 ba,N/A
+30 Fieldway Rd #98, Toronto,ON,M8Z0E3,"C$699,900",2 bds,2 ba,N/A
+1 Hawthorn Ave, Toronto,ON,M4W2Z1,"C$6,600,000",5 bds,4 ba,N/A
+15 Sewells Rd #410, Toronto,ON,M1B3V7,"C$349,000",2 bds,1 ba,N/A
+160 The Donway W #403, Toronto,ON,M3C2G1,"C$424,900",2 bds,1 ba,N/A
+5 Saint Joseph St #4309, Toronto,ON,M4Y0B6,"C$698,000",2 bds,1 ba,N/A
+4 Burleigh Heights Dr, Toronto,ON,M2K1Y7,"C$3,980,000",5 bds,6 ba,N/A
+580 Christie St #807, Toronto,ON,M6G3E3,"C$379,000",1 bd,1 ba,N/A
+217 Richview Ave, Toronto,ON,M5P3G2,"C$7,695,000",6 bds,8 ba,N/A
+10 Eva Rd #601, Toronto,ON,M9C0B3,"C$680,000",3 bds,2 ba,N/A
+80 Old Forest Hill Rd, Toronto,ON,M5P2R5,"C$7,995,000",5 bds,5 ba,N/A
+34 Green Valley Rd, Toronto,ON,M2P1A6,"C$14,995,000",6 bds,8 ba,N/A
+56 Rockcliffe Blvd, Toronto,ON,M6N4R5,"C$959,900",4 bds,2 ba,N/A
+48 Crescent Rd, Toronto,ON,M4W1S9,"C$4,450,000",4 bds,5 ba,N/A
+816 Lansdowne Ave #216, Toronto,ON,M6H4K6,"C$399,000",1 bd,1 ba,N/A
+91 Fulwell Cres, Toronto,ON,M3J1Y4,"C$999,999",4 bds,3 ba,N/A
+225 Christie St, Toronto,ON,M6G3B5,"C$1,988,000",4 bds,4 ba,N/A
+2191 Yonge St #1708, Toronto,ON,M4S3H8,"C$888,000",3 bds,2 ba,N/A
+127 Joicey Blvd, Toronto,ON,M2M2T8,"C$5,135,000",5 bds,7 ba,N/A
+104 3rd St, Toronto,ON,M8V2X9,"C$899,900",3 bds,2 ba,N/A
+12 Lark St, Toronto,ON,M4L3M6,"C$1,199,900",4 bds,3 ba,N/A
+490 Caledonia Rd, Toronto,ON,M6E4V2,"C$875,000",3 bds,2 ba,N/A
+104 3rd St, Toronto,ON,M8V2X9,"C$899,900",3 bds,2 ba,N/A
+12 Lark St, Toronto,ON,M4L3M6,"C$1,199,900",4 bds,3 ba,N/A
+490 Caledonia Rd, Toronto,ON,M6E4V2,"C$875,000",3 bds,2 ba,N/A
+101 Russell Hill Rd, Toronto,ON,M4V2S9,"C$4,425,000",4 bds,4 ba,N/A
+47 Cherrylawn Ave, Toronto,ON,M9L2B3,"C$899,000",6 bds,2 ba,"1,178 sqft"
+23 Cavell Ave, Toronto,ON,M4K1L5,"C$2,850,000",5 bds,5 ba,N/A
+11 Shorncliffe Ave, Toronto,ON,M4V1S9,"C$5,200,000",5 bds,4 ba,N/A
+211 Woodycrest Ave, Toronto,ON,M4J3C4,"C$2,489,000",5 bds,5 ba,N/A
+1 Silvergrove Rd, Toronto,ON,M2L2N5,"C$6,295,000",5 bds,7 ba,N/A
+43 Edenvale Cres, Toronto,ON,M9A4A5,"C$4,745,000",4 bds,4 ba,N/A
+3 Everson Dr #637, Toronto,ON,M2N7C2,"C$659,000",3 bds,2 ba,N/A
+23 Strathdee Dr, Toronto,ON,M9R1A6,"C$1,749,888",5 bds,3 ba,N/A
+861 Sheppard Ave W #61, Blkb Toronto,ON,M3H0E9,C$1,3 bds,3 ba,N/A
+6 Lankin Blvd, Toronto,ON,M4J4W8,"C$1,099,000",4 bds,3 ba,N/A
+161 Roehampton Ave #PENTHOUSE 05, Toronto,ON,M4P0C8,"C$1,588,000",3 bds,2 ba,N/A
+4689 Jane St #503, Toronto,ON,M3N2T6,"C$259,900",2 bds,1 ba,N/A
+11 Carisbrooke Sq, Toronto,ON,M1B4M2,"C$1,325,000",6 bds,5 ba,N/A
+57 Saint Nicholas St, Toronto,ON,M4Y1W6,"C$1,889,000",3 bds,4 ba,N/A
+173 Dunvegan Rd, Toronto,ON,M5P2P1,"C$13,800,000",4 bds,7 ba,N/A
+65 Harbour Sq #3306, Toronto,ON,M5J2L4,"C$1,349,900",3 bds,2 ba,N/A
+353 Driftwood Ave #7, Toronto,ON,M3N2P2,"C$550,000",5 bds,3 ba,N/A
+45 Manning Ave, Toronto,ON,M6J2K3,"C$999,999",3 bds,1 ba,N/A
+1195 The Queensway E #102, Toronto,ON,M8Z0H1,"C$399,999",1 bd,1 ba,N/A
+66 Cliff St, Toronto,ON,M6N4M1,"C$999,900",4 bds,2 ba,N/A
+5 Pheasant Ln, Toronto,ON,M9A1T1,"C$6,899,000",5 bds,5 ba,N/A
+73 Pendrith St, Toronto,ON,M6G1R8,"C$1,288,000",3 bds,2 ba,N/A
+25 Boustead Ave, Toronto,ON,M6R1Y7,"C$1,999,900",5 bds,3 ba,"2,250 sqft"
+15 Lenthall Ave, Toronto,ON,M1B2C7,"C$950,000",4 bds,4 ba,N/A
+127 Queen St E #406, Toronto,ON,M5C1S3,"C$484,000",1 bd,1 ba,N/A
+295 Adelaide St W #2303, Toronto,ON,M5V0L4,"C$599,000",1 bd,1 ba,N/A
+5791 Yonge St #PENTHOUSE 205, Toronto,ON,M2M0A8,"C$650,000",3 bds,2 ba,N/A
+130 Shuter St, Toronto,ON,M5A1V8,"C$1,199,000",6 bds,4 ba,N/A
+408 Ontario St, Toronto,ON,M5A2W1,"C$2,288,800",5 bds,5 ba,N/A
+1785 Eglinton Ave E #203, Toronto,ON,M4A2Y6,"C$549,000",2 bds,2 ba,N/A
+1994 Dufferin St, Toronto,ON,M6E3R2,"C$899,999",6 bds,3 ba,N/A
+37 Drewry Ave UNIT 9, Toronto,ON,M2M0B4,"C$738,000",3 bds,2 ba,N/A
+60 Alexandra Wood, Toronto,ON,M5N2S5,"C$8,950,000",5 bds,7 ba,N/A
+60 Alexandra Wood, Toronto,ON,M5N2S5,"C$8,950,000",5 bds,7 ba,N/A
+95 Vine Ave, Toronto,ON,M6P1V8,"C$1,149,900",4 bds,2 ba,N/A
+33 Sheppard Ave E #1800, Toronto,ON,M2N7K1,"C$575,000",1 bd,1 ba,N/A
+218 Pleasant Ave, Toronto,ON,M2M1M5,"C$3,490,000",5 bds,7 ba,N/A
+82 York Rd, Toronto,ON,M2L1H8,"C$6,289,000",7 bds,7 ba,N/A
+2152 Bayview Ave, Toronto,ON,M4N0A4,"C$1,328,000",4 bds,3 ba,N/A
+585 Bloor St E #521, Toronto,ON,M4W0B3,"C$498,888",2 bds,2 ba,N/A
+60 Manorglen Cres, Toronto,ON,M1S1W4,"C$1,199,000",4 bds,3 ba,N/A
+212 Cocksfield Ave, Toronto,ON,M3H3T7,"C$999,000",4 bds,2 ba,N/A
+99 Broadway Ave #2902, Toronto,ON,M4P0E3,"C$588,000",2 bds,2 ba,N/A
+5 Pembury Ave, Toronto,ON,M4N3K4,"C$4,095,000",5 bds,5 ba,N/A
+155 Grenadier Rd, Toronto,ON,M6R1R5,"C$3,980,000",5 bds,5 ba,N/A
+10 Wilby Cres #1603, Toronto,ON,M9N0B6,"C$859,000",3 bds,2 ba,N/A
+50 Yorkville Ave #5202, Toronto,ON,M4W0A3,"C$18,800,000",4 bds,4 ba,N/A
+3845 Lake Shore Blvd W UNIT 1601, Toronto,ON,M8W4Y3,"C$750,000",3 bds,2 ba,N/A
+108 Sandringham Dr, Toronto,ON,M3H1C9,"C$14,998,000",6 bds,8 ba,N/A
+208 Queens Quay W #511, Toronto,ON,M5J2Y5,"C$649,000",3 bds,2 ba,N/A
+12 Madison Ave, Toronto,ON,M5R2S1,"C$5,450,000",11 bds,3 ba,N/A
+32 Roxborough St E, Toronto,ON,M4W1V6,"C$6,250,000",6 bds,5 ba,N/A
+4 Allen Ave, Toronto,ON,M8V1R8,"C$1,198,000",2 bds,2 ba,N/A
+58 Masseygrove Cres, Toronto,ON,M9V3C9,"C$799,000",4 bds,2 ba,N/A
+22 Malamute Cres, Toronto,ON,M1T2C7,"C$1,090,000",6 bds,3 ba,N/A
+9 Windermere Ave #TOWNHOUSE 94, Toronto,ON,M6S5A4,"C$449,000",1 bd,1 ba,N/A
+62 Elm Ave, Toronto,ON,M4W1N7,"C$5,950,000",6 bds,5 ba,N/A
+271 Major St, Toronto,ON,M5S2L5,"C$1,995,000",3 bds,4 ba,N/A
+194 Clendenan Ave, Toronto,ON,M6P2X2,"C$1,499,000",3 bds,3 ba,N/A
+60 Town Centre Ct #306, Toronto,ON,M1P0B1,"C$448,800",1 bd,1 ba,N/A
+297 Oriole Pkwy, Toronto,ON,M5P2H6,"C$2,695,000",6 bds,4 ba,N/A
+1244 College St, Toronto,ON,M6H1C2,"C$1,049,900",4 bds,5 ba,N/A
+330 Dixon Rd #2705, Toronto,ON,M9R1S9,"C$399,999",2 bds,1 ba,N/A
+11 Livonia Pl #18, Toronto,ON,M1E4W5,"C$649,900",4 bds,4 ba,N/A
+35 Balmuto St #2101, Toronto,ON,M4Y0A3,"C$998,000",2 bds,2 ba,N/A
+335 Mill Rd #703, Toronto,ON,M9C1Y6,"C$450,000",2 bds,2 ba,"1,155 sqft"
+66 Loradeen Cres, Toronto,ON,M1B1T8,"C$999,950",7 bds,4 ba,N/A
+44 Branstone Rd, Toronto,ON,M6E4E4,"C$699,000",2 bds,2 ba,N/A
+42 Mossbank Dr, Toronto,ON,M1G2C3,"C$888,000",4 bds,3 ba,N/A
+2 1st Ave, Toronto,ON,M4M1W8,"C$1,750,000",3 bds,3 ba,N/A
+16 Muskoka Ave, Toronto,ON,M8W1H3,"C$2,449,000",8 bds,5 ba,N/A
+106 Varna Dr #TOWNHOUSE 10, Toronto,ON,M6A0C8,"C$729,000",2 bds,3 ba,N/A
+575 Avenue Rd #704, Toronto,ON,M4V2K2,"C$398,000",1 bd,1 ba,N/A
+575 Avenue Rd #704, Toronto,ON,M4V2K2,"C$398,000",1 bd,1 ba,N/A
+8 Swansdown Dr, Toronto,ON,M2L2N1,"C$10,499,000",5 bds,10 ba,N/A
+15 Holmes Ave #2405, Toronto,ON,M2N4L8,"C$388,888",1 bd,1 ba,N/A
+10 Avery Ave, Toronto,ON,M9C1K2,"C$3,199,000",5 bds,5 ba,N/A
+35 Emerald Cres, Toronto,ON,M8V2B3,"C$2,499,000",5 bds,6 ba,N/A
+3151 Bridletowne Cir #1901, Toronto,ON,M1W2T1,"C$599,900",3 bds,2 ba,N/A
+590 Briar Hill Ave, Toronto,ON,M5N1M9,"C$5,790,000",4 bds,8 ba,N/A
+3 Thornhill Ave, Toronto,ON,M6S4C3,"C$1,898,000",3 bds,4 ba,N/A
+17 Lesmount Ave, Toronto,ON,M4J3V5,"C$1,299,000",3 bds,2 ba,N/A
+100 Mornelle Ct #1039, Toronto,ON,M1E4X2,"C$489,900",3 bds,2 ba,N/A
+70 Distillery Ln #1508, Toronto,ON,M5A0E3,"C$899,000",2 bds,2 ba,N/A
+91 Bedford Rd, Toronto,ON,M5R2K4,"C$7,888,000",5 bds,5 ba,N/A
+340 Dixon Rd #1508, Toronto,ON,M9R1T1,"C$395,000",2 bds,1 ba,N/A
+237 McRoberts Ave, Toronto,ON,M6E4P3,"C$699,000",4 bds,2 ba,N/A
+262 Saint Helens Ave #106, Toronto,ON,M6H4A4,"C$799,900",2 bds,2 ba,N/A
+241 B Evelyn Ave, Toronto,ON,M6P2Z8,"C$2,998,000",6 bds,5 ba,N/A
+32 Windsor Rd, Toronto,ON,M9R3G4,"C$1,280,000",4 bds,2 ba,N/A
+62 Martin Grove Rd, Toronto,ON,M9B4K4,"C$3,799,000",4 bds,5 ba,N/A
+44 Standish Ave, Toronto,ON,M4W3B1,"C$3,395,000",5 bds,5 ba,N/A
+25 Ritchie Ave #PENTHOUSE 510, Toronto,ON,M6R2J6,"C$2,198,000",4 bds,3 ba,N/A
+80 John St #1603, Toronto,ON,M5V3X4,"C$1,068,900",2 bds,2 ba,"1,010 sqft"
+39 Standish Ave, Toronto,ON,M4W3B2,"C$2,395,000",5 bds,4 ba,N/A
+77 Glenmore Rd, Toronto,ON,M4L3M2,"C$1,399,000",4 bds,3 ba,N/A
+30 Northland Ave, Toronto,ON,M6N2C6,"C$717,000",2 bds,2 ba,N/A
+17 Edilou Dr, Toronto,ON,M8W4B1,"C$1,248,000",4 bds,2 ba,N/A
+2130 Weston Rd #304, Toronto,ON,M9N3R9,"C$369,000",2 bds,1 ba,N/A
+186 Phyllis Ave, Toronto,ON,M1M1Y8,"C$2,750,000",6 bds,7 ba,N/A
+132 Grey Rd, Toronto,ON,M5M4G1,"C$2,395,000",3 bds,2 ba,N/A
+4645 Jane St #720, Toronto,ON,M3N2K9,"C$278,000",1 bd,1 ba,N/A
+100 Glenvale Blvd, Toronto,ON,M4G2V9,"C$3,848,000",5 bds,5 ba,N/A
+319 Betty Ann Dr, Toronto,ON,M2R1B4,"C$4,660,000",7 bds,7 ba,N/A
+335 Lonsdale Rd #406, Toronto,ON,M5P1R4,"C$509,000",2 bds,1 ba,N/A
+37 Marjory Ave, Toronto,ON,M4M2Y2,"C$1,399,000",4 bds,2 ba,N/A
+10 Livonia Pl #149, Toronto,ON,M1E4W6,"C$599,000",4 bds,4 ba,N/A
+4645 Jane St #818, Toronto,ON,M3N2K9,"C$228,800",1 bd,1 ba,N/A
+42 Heathview Ave, Toronto,ON,M2K2C1,"C$3,799,000",4 bds,3 ba,N/A
+561 Arlington Ave, Toronto,ON,M6C3A6,"C$2,298,000",3 bds,4 ba,N/A
+2088 Lawrence Ave W #603, Toronto,ON,M9N3Z9,"C$539,000",3 bds,2 ba,N/A
+210 Gowan Ave, Toronto,ON,M4J2K6,"C$999,000",4 bds,2 ba,N/A
+52 Sproat Ave, Toronto,ON,M4M1W4,"C$998,000",3 bds,1 ba,N/A
+561 Arlington Ave, Toronto,ON,M6C3A6,"C$2,298,000",3 bds,4 ba,N/A
+2088 Lawrence Ave W #603, Toronto,ON,M9N3Z9,"C$539,000",3 bds,2 ba,N/A
+210 Gowan Ave, Toronto,ON,M4J2K6,"C$999,000",4 bds,2 ba,N/A
+52 Sproat Ave, Toronto,ON,M4M1W4,"C$998,000",3 bds,1 ba,N/A
+311 Bay St #4801, Toronto,ON,M5H4G5,"C$7,880,000",3 bds,5 ba,N/A
+35 Brian Peck Cres #807, Toronto,ON,M4G0A5,"C$1,299,000",3 bds,2 ba,N/A
+40 Thorny Vine Way, Toronto,ON,M2J4J2,"C$749,000",4 bds,3 ba,N/A
+166 Gordon Rd, Toronto,ON,M2P1E8,"C$4,799,900",6 bds,6 ba,N/A
+120 Harrison Garden Blvd #2003, Toronto,ON,M2N,"C$788,000",2 bds,2 ba,N/A
+365 Beech Ave #PENTHOUSE 1, Toronto,ON,M4E0C2,"C$3,799,000",3 bds,3 ba,N/A
+271 Park Home Ave, Toronto,ON,M2R1A1,"C$1,499,000",4 bds,3 ba,N/A
+926 Willowdale Ave, Toronto,ON,M2M3C1,"C$1,529,000",6 bds,2 ba,N/A
+2 Josephine Rd, Toronto,ON,M3H3G4,"C$1,879,000",5 bds,4 ba,N/A
+39B Oriole Rd, Toronto,ON,M4V2E6,"C$4,749,000",4 bds,6 ba,N/A
+50 Grandravine Dr #8, Toronto,ON,M3J1B1,"C$559,900",4 bds,2 ba,N/A
+190 Borough Dr #302, Toronto,ON,M1P0B6,"C$759,900",3 bds,2 ba,N/A
+170 Strathallan Blvd, Toronto,ON,M5N1T1,"C$3,399,000",5 bds,3 ba,N/A
+85 Bloor St E #1709, Toronto,ON,M4W3Y1,"C$485,000",2 bds,1 ba,N/A
+29 Checkendon Dr, Toronto,ON,M9W2Y8,"C$989,000",3 bds,2 ba,"1,092 sqft"
+418 Davenport Rd, Toronto,ON,M4V1B5,"C$1,448,888",3 bds,2 ba,N/A
+65 Scadding Ave #422, Toronto,ON,M5A4L1,"C$618,000",3 bds,2 ba,N/A
+524 Scarborough Golf Club Rd, Toronto,ON,M1G1H2,"C$1,048,800",4 bds,3 ba,N/A
+42 Old Bridle Path, Toronto,ON,M4T1A7,"C$3,295,000",5 bds,5 ba,N/A
+368 Markham St, Toronto,ON,M6G2K9,"C$5,250,000",3 bds,5 ba,N/A
+24A Massey St, Toronto,ON,M6J3T7,"C$1,299,000",3 bds,3 ba,N/A
+30 Anglesey Blvd #G2, Toronto,ON,M9A3B5,"C$1,075,000",2 bds,2 ba,N/A
+428 Connaught Ave, Toronto,ON,M2R2M3,"C$3,368,000",7 bds,7 ba,N/A
+650 Queens Quay W #921, Toronto,ON,M5V3N2,"C$389,000",1 bd,1 ba,N/A
+277 Indian Rd, Toronto,ON,M6R2X4,"C$5,499,000",6 bds,5 ba,N/A
+61 Arjay Cres, Toronto,ON,M2L1C6,"C$5,249,888",6 bds,6 ba,N/A
+113 Burrows Hall Blvd, Toronto,ON,M1B1Z7,"C$650,000",3 bds,2 ba,N/A
+21 Kirk Bradden Rd W, Toronto,ON,M8Y2G1,"C$3,955,000",5 bds,5 ba,N/A
+272 Rumsey Rd, Toronto,ON,M4G1P9,"C$1,675,000",4 bds,2 ba,"1,692 sqft"
+115 10th St, Toronto,ON,M8V3E9,"C$1,499,000",9 bds,7 ba,N/A
+200 AC Merton St, Toronto,ON,M4S1A1,"C$1,500,000",4 bds,3 ba,N/A
+700 King St W UNIT 604, Toronto,ON,M5V2Y6,"C$490,000",2 bds,1 ba,N/A
+91 Valecrest Dr, Toronto,ON,M9A4P5,"C$10,499,000",5 bds,8 ba,N/A
+135 Holborne Ave, Toronto,ON,M4C2R5,"C$949,000",3 bds,2 ba,N/A
+1 Bolingbroke Rd, Toronto,ON,M6B3L5,"C$1,625,000",3 bds,3 ba,"1,210 sqft"
+1285 Dupont St #2301, Toronto,ON,M6H0E3,"C$749,900",2 bds,2 ba,N/A
+195 McCaul St #909, Toronto,ON,M5T0E5,"C$449,900",Studio,1 ba,N/A
+491 Jane St, Toronto,ON,M6S4A1,"C$879,900",3 bds,2 ba,N/A
+152 Stanley Ave, Toronto,ON,M8V1N9,"C$1,898,000",3 bds,3 ba,N/A
+5795 Yonge St UNIT 611, Toronto,ON,M2M4J3,"C$535,000",2 bds,2 ba,N/A
+75 Queens Wharf Rd #3901, Toronto,ON,M5V0J8,"C$1,049,000",2 bds,2 ba,"1,008 sqft"
+21 Tinbury Pl, Toronto,ON,M1B1J7,"C$899,000",5 bds,3 ba,N/A
+4 Flatwoods Dr, Toronto,ON,M1V4H4,"C$899,000",5 bds,3 ba,N/A
+1438A Dufferin St, Toronto,ON,M6H3L1,"C$1,998,000",3 bds,6 ba,N/A
+38 Smithwood Dr, Toronto,ON,M9B4R9,"C$4,449,000",6 bds,7 ba,N/A
+88 Willowridge Rd, Toronto,ON,M9R3Z4,"C$899,900",3 bds,3 ba,N/A
+27 Burkwood Cres, Toronto,ON,M1B1N8,"C$799,900",6 bds,3 ba,N/A
+63 Cleveland St, Toronto,ON,M4S2W3,"C$949,999",2 bds,2 ba,N/A
+10 Ed Clark Gdns #14, Toronto,ON,M6N3A9,"C$949,900",3 bds,2 ba,"1,231 sqft"
+52 Rosedale Rd, Toronto,ON,M4W2P6,"C$10,500,000",6 bds,7 ba,N/A
+365 Beech Ave #219, Toronto,ON,M4E0C2,"C$999,900",2 bds,2 ba,N/A
+62 Kay Dr, Toronto,ON,M9V4X7,"C$999,000",4 bds,3 ba,N/A
+155 Dalhousie St #1054, Toronto,ON,M5B2P7,"C$2,695,000",5 bds,4 ba,N/A
+5949 Yonge St #803, Toronto,ON,M2M3V8,"C$348,800",1 bd,1 ba,N/A
+38 Ravensbourne Cres, Toronto,ON,M9A2A8,"C$4,588,000",6 bds,5 ba,N/A
+9 Greenview Ave, Toronto,ON,M2M4M7,"C$1,598,000",3 bds,3 ba,N/A
+68 Yorkville Ave #304, Toronto,ON,M5R3V7,"C$3,750,000",2 bds,3 ba,"2,490 sqft"
+375 King St W #2302, Toronto,ON,M5V1K5,"C$1,089,000",3 bds,2 ba,N/A
+274 Carlton St, Toronto,ON,M5A2L5,"C$3,898,000",6 bds,4 ba,N/A
+70 Pynford Cres, Toronto,ON,M3A1W8,"C$1,029,888",6 bds,2 ba,N/A
+75 The Donway W #805, Toronto,ON,M3C2E9,"C$499,000",Studio,1 ba,N/A
+125 Western Battery Rd #2207, Toronto,ON,M6K3R8,"C$895,000",3 bds,2 ba,N/A
+80 Crescent Rd UNIT 300, Toronto,ON,M4W1T5,"C$2,728,000",3 bds,2 ba,N/A
+4 Bowman St, Toronto,ON,M4X1T9,"C$3,450,000",5 bds,5 ba,N/A
+53 Lynnford Dr, Toronto,ON,M9B1H8,"C$1,179,000",4 bds,2 ba,N/A
+185 Dawlish Ave, Toronto,ON,M4N1H6,"C$9,990,000",6 bds,8 ba,N/A
+40 Exmoor Dr, Toronto,ON,M8W1R5,"C$1,458,000",3 bds,4 ba,N/A
+131 Brickworks Ln #BL131, Toronto,ON,M6N5H8,"C$879,000",3 bds,4 ba,"1,027 sqft"
+195 Upper Canada Dr, Toronto,ON,M2P1T2,"C$2,195,000",4 bds,3 ba,N/A
+36 Wilson Park Rd, Toronto,ON,M6K3B5,"C$1,299,000",4 bds,2 ba,N/A
+197 S Woodrow Blvd, Toronto,ON,M1N3M1,"C$699,000",2 bds,1 ba,N/A
+391 Wellesley St E, Toronto,ON,M4X1H5,"C$2,049,000",4 bds,3 ba,N/A
+488 University Ave #2507, Toronto,ON,M5G0C1,"C$1,350,000",3 bds,2 ba,N/A
+76 Dalegrove Cres, Toronto,ON,M9B6A9,"C$2,249,888",9 bds,5 ba,N/A
+67 Hillholm Rd, Toronto,ON,M5P1M4,"C$15,500,000",7 bds,7 ba,N/A
+26 Crimson Millway, Toronto,ON,M2L1T6,"C$1,198,000",5 bds,4 ba,N/A
+83 Bayview Rdg, Toronto,ON,M2L1E3,"C$10,800,000",5 bds,6 ba,N/A
+25 Laidlaw St #516, Toronto,ON,M6K1X3,"C$999,000",4 bds,3 ba,N/A
+70 Oriole Rd, Toronto,ON,M4V2G1,"C$5,350,000",5 bds,5 ba,"4,400 sqft"
+59 Annie Craig Dr #1003, Toronto,ON,M8V0C4,"C$1,197,000",2 bds,2 ba,N/A
+16 Brookers Ln #2207, Toronto,ON,M8V0A5,"C$1,149,900",2 bds,2 ba,N/A
+95 Gaydon Ave, Toronto,ON,M9M1G8,"C$1,399,900",6 bds,2 ba,N/A
+77 McMurrich St #308, Toronto,ON,M5R3V3,"C$1,295,000",3 bds,2 ba,N/A
+37 Vine Ave, Toronto,ON,M6P1V6,"C$1,199,000",4 bds,3 ba,N/A
+25 Janus Ct, Toronto,ON,M2H1S3,"C$3,688,000",5 bds,7 ba,"5,300 sqft"
+19 Hedgewood Rd, Toronto,ON,M2L1L4,"C$5,380,000",5 bds,5 ba,N/A
+500 Donlands Ave, Toronto,ON,M4J3S7,"C$799,900",3 bds,2 ba,N/A
+435 Meadowvale Rd, Toronto,ON,M1C1S6,"C$969,900",3 bds,5 ba,N/A
+133 Cordella Ave, Toronto,ON,M6N2K1,"C$899,000",6 bds,1 ba,N/A
+97 Post Rd, Toronto,ON,M3B1J3,"C$8,888,000",7 bds,10 ba,N/A
+7 Wortham Dr, Toronto,ON,M1G1W5,"C$1,149,000",6 bds,2 ba,N/A
+25 Lower Simcoe St #318, Toronto,ON,M5J3A1,"C$969,000",3 bds,2 ba,N/A
+503 Beecroft Rd #905, Toronto,ON,M2N0A2,"C$663,000",2 bds,2 ba,N/A
+52 Forest Manor Rd #521, Toronto,ON,M2J0E2,"C$629,900",2 bds,2 ba,N/A
+30 Herons Hill Way #506, Toronto,ON,M2J0A7,"C$668,000",2 bds,2 ba,N/A
+25 Bamburgh Cir #929, Toronto,ON,M1W3W2,"C$460,000",2 bds,2 ba,N/A
+13 Riverlea Rd, Toronto,ON,M9P2B1,"C$2,088,000",4 bds,4 ba,N/A
+70 Annie Craig Dr #807, Toronto,ON,M8V0G2,"C$889,900",3 bds,2 ba,N/A
+50 Merchant Ln #105, Toronto,ON,M6P4J6,"C$808,800",3 bds,2 ba,N/A
+2 Dailing Gate #19, Toronto,ON,M1B1Z8,"C$599,000",4 bds,3 ba,N/A
+61 Fulbert Cres, Toronto,ON,M1S1C5,"C$1,648,000",6 bds,4 ba,N/A
+435 Middlefield Rd #56, Toronto,ON,M1S5W1,"C$848,800",4 bds,4 ba,N/A
+542 Delaware Ave N, Toronto,ON,M6H2V2,"C$1,199,000",4 bds,2 ba,N/A
+10 Edgecliff Golfway #317, Toronto,ON,M3C3A3,"C$560,000",3 bds,2 ba,"1,100 sqft"
+460 Adelaide St E #820, Toronto,ON,M5A0E7,"C$675,000",1 bd,2 ba,N/A
+203 Medland St, Toronto,ON,M6P2N6,"C$1,998,000",4 bds,6 ba,N/A
+21 Markbrook Ln #407, Toronto,ON,M9V5E4,"C$569,999",2 bds,2 ba,N/A
+3 Marine Parade Dr #808, Toronto,ON,M8V3Z5,"C$499,000",2 bds,2 ba,N/A
+4 Park Vis #1006, Toronto,ON,M4B3M8,"C$565,000",2 bds,2 ba,N/A
+135 Village Green Sq #418, Toronto,ON,M1S0G4,"C$549,000",2 bds,2 ba,N/A
+61 Markbrook Ln #509, Toronto,ON,M9V5E7,"C$549,000",2 bds,2 ba,N/A
+67 Lake Promenade, Toronto,ON,M8W1A2,"C$9,200,000",5 bds,9 ba,N/A
+296 Torresdale Ave #17, Toronto,ON,M2R3N3,"C$699,000",4 bds,4 ba,N/A
+262 Senlac Rd, Toronto,ON,M2R1P8,"C$3,149,995",6 bds,6 ba,N/A
+32 Forest Manor Rd #416, Toronto,ON,M2J0C2,"C$688,888",2 bds,2 ba,809 sqft
+423 Guildwood Pkwy, Toronto,ON,M1E1R3,"C$2,999,990",5 bds,6 ba,N/A
+470 Front St W #1301, Toronto,ON,M5V0V6,"C$724,900",1 bd,1 ba,N/A
+3237 Bayview Ave #510, Toronto,ON,M2K0G1,"C$599,000",2 bds,2 ba,N/A
+28A Wilberton Rd, Toronto,ON,M4V1Z3,"C$3,848,000",5 bds,5 ba,N/A
+20 Stewart St #204, Toronto,ON,M5V1H6,"C$595,900",1 bd,1 ba,N/A
+17 Maughan Cres, Toronto,ON,M4L3E4,"C$1,749,000",3 bds,3 ba,N/A
+2 Sonic Way #1708, Toronto,ON,M3C0P2,"C$499,000",1 bd,1 ba,N/A
+25 Broadway Ave UNIT 1105, Toronto,ON,M4P1T7,"C$688,000",2 bds,1 ba,N/A
+70 Thomas Mulholland Dr #8, Toronto,ON,M3K0A5,"C$1,387,888",5 bds,4 ba,N/A
+801 King St W #325, Toronto,ON,M5V3C9,"C$499,000",2 bds,1 ba,N/A
+80 Palace Pier Ct #101, Toronto,ON,M8V4C1,"C$999,000",2 bds,2 ba,N/A
+278 Bloor St E #905, Toronto,ON,M4W3M4,"C$1,525,000",3 bds,2 ba,N/A
+15 B Medford Ave, Toronto,ON,M1L4G1,"C$1,399,900",4 bds,4 ba,N/A
+106 Yardley Ave, Toronto,ON,M4B2B1,"C$1,275,000",3 bds,3 ba,N/A
+129 McMahon Dr #TOWNHOUSE 03, Toronto,ON,M2K0C2,"C$1,368,000",3 bds,4 ba,N/A
+73 Richmond St W #L02, Toronto,ON,M5H4E8,"C$379,000",Studio,1 ba,N/A
+213 Macdonell Ave, Toronto,ON,M6R2A4,"C$1,399,900",4 bds,2 ba,N/A
+38 Dan Leckie Way #1607, Toronto,ON,M5V2V6,"C$628,000",2 bds,1 ba,N/A
+11 Charlotte St #402, Toronto,ON,M5V0M6,"C$575,000",1 bd,1 ba,N/A
+9 Michael Power Pl E #615, Toronto,ON,M9A0A5,"C$499,000",1 bd,1 ba,N/A
+3220 Sheppard Ave E #1506, Toronto,ON,M1T3K3,"C$508,000",1 bd,1 ba,N/A
+8 Tippett Rd #801, Toronto,ON,M3H0E7,"C$509,000",1 bd,1 ba,N/A
+3 Everson Dr #528, Toronto,ON,M2N7C2,"C$559,000",1 bd,1 ba,N/A
+121 Ford St #109, Toronto,ON,M6N3A1,"C$960,000",2 bds,3 ba,N/A
+41 Dearham Wood, Toronto,ON,M1E1S2,"C$1,106,600",4 bds,2 ba,N/A
+20 Tubman Ave #2307, Toronto,ON,M5A0M8,"C$559,999",2 bds,1 ba,N/A
+19 Western Battery Rd #2310, Toronto,ON,M6K3N9,"C$599,999",3 bds,2 ba,N/A
+186 Macpherson Ave, Toronto,ON,M5R1W8,"C$2,218,000",3 bds,3 ba,N/A
+111 3rd St, Toronto,ON,M8V2Y1,"C$999,988",3 bds,2 ba,N/A
+45 Strader Ave, Toronto,ON,M6C1R1,"C$699,999",3 bds,2 ba,N/A
+224 Coronation Dr, Toronto,ON,M1E2J4,"C$989,000",3 bds,2 ba,N/A
+8 Rosebank Dr #16H, Toronto,ON,M1B5Z3,"C$539,000",2 bds,1 ba,N/A
+28 Empress Ave #1916, Toronto,ON,M2N6Z7,"C$779,900",2 bds,2 ba,N/A
+319 Laird Dr, Toronto,ON,M4G3X7,"C$1,499,999",3 bds,2 ba,N/A
+128 Hazelton Ave #801, Toronto,ON,M5R2E5,"C$8,325,000",3 bds,4 ba,N/A
+18 Kipling Grove Ct, Toronto,ON,M9B0C6,"C$1,299,999",3 bds,4 ba,N/A
+488 Roselawn Ave, Toronto,ON,M5N1J8,"C$2,050,000",4 bds,2 ba,N/A
+3 Sutherland Ave, Toronto,ON,M4C1R8,"C$899,000",5 bds,3 ba,N/A
+33 Edwin Ave, Toronto,ON,M6P3Z5,"C$2,900,000",7 bds,10 ba,N/A
+21 Fusilier Dr, Toronto,ON,M1L0C2,"C$899,900",3 bds,3 ba,N/A
+121 Valley Stream Dr, Toronto,ON,M1V2A4,"C$799,800",5 bds,2 ba,N/A
+11 Brunel Ct #5005, Toronto,ON,M5V3Y3,"C$570,000",1 bd,1 ba,N/A

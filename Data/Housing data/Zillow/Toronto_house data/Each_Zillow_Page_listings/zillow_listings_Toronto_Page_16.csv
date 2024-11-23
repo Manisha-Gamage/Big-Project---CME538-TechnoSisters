@@ -1,0 +1,40 @@
+Address,Price,Bedrooms,Bathrooms,Square Footage,Home Type
+"104 3rd St, Toronto, ON M8V 2X9","C$899,900",3 bds,2 ba,N/A,N/A
+"12 Lark St, Toronto, ON M4L 3M6","C$1,199,900",4 bds,3 ba,N/A,N/A
+"490 Caledonia Rd, Toronto, ON M6E 4V2","C$875,000",3 bds,2 ba,N/A,N/A
+"101 Russell Hill Rd, Toronto, ON M4V 2S9","C$4,425,000",4 bds,4 ba,N/A,N/A
+"47 Cherrylawn Ave, Toronto, ON M9L 2B3","C$899,000",6 bds,2 ba,"1,178 sqft",N/A
+"23 Cavell Ave, Toronto, ON M4K 1L5","C$2,850,000",5 bds,5 ba,N/A,N/A
+"11 Shorncliffe Ave, Toronto, ON M4V 1S9","C$5,200,000",5 bds,4 ba,N/A,N/A
+"211 Woodycrest Ave, Toronto, ON M4J 3C4","C$2,489,000",5 bds,5 ba,N/A,N/A
+"1 Silvergrove Rd, Toronto, ON M2L 2N5","C$6,295,000",5 bds,7 ba,N/A,N/A
+"43 Edenvale Cres, Toronto, ON M9A 4A5","C$4,745,000",4 bds,4 ba,N/A,N/A
+"3 Everson Dr #637, Toronto, ON M2N 7C2","C$659,000",3 bds,2 ba,N/A,N/A
+"23 Strathdee Dr, Toronto, ON M9R 1A6","C$1,749,888",5 bds,3 ba,N/A,N/A
+"861 Sheppard Ave W #61, Blkb Toronto, ON M3H 0E9",C$1,3 bds,3 ba,N/A,N/A
+"6 Lankin Blvd, Toronto, ON M4J 4W8","C$1,099,000",4 bds,3 ba,N/A,N/A
+"161 Roehampton Ave #PENTHOUSE 05, Toronto, ON M4P 0C8","C$1,588,000",3 bds,2 ba,N/A,N/A
+"4689 Jane St #503, Toronto, ON M3N 2T6","C$259,900",2 bds,1 ba,N/A,N/A
+"11 Carisbrooke Sq, Toronto, ON M1B 4M2","C$1,325,000",6 bds,5 ba,N/A,N/A
+"57 Saint Nicholas St, Toronto, ON M4Y 1W6","C$1,889,000",3 bds,4 ba,N/A,N/A
+"173 Dunvegan Rd, Toronto, ON M5P 2P1","C$13,800,000",4 bds,7 ba,N/A,N/A
+"65 Harbour Sq #3306, Toronto, ON M5J 2L4","C$1,349,900",3 bds,2 ba,N/A,N/A
+"353 Driftwood Ave #7, Toronto, ON M3N 2P2","C$550,000",5 bds,3 ba,N/A,N/A
+"868 Broadview Ave, Toronto, ON M4K 2R1",C$1,Studio,-- ba,N/A,ba
+"45 Manning Ave, Toronto, ON M6J 2K3","C$999,999",3 bds,1 ba,N/A,N/A
+"1195 The Queensway E #102, Toronto, ON M8Z 0H1","C$399,999",1 bd,1 ba,N/A,N/A
+"66 Cliff St, Toronto, ON M6N 4M1","C$999,900",4 bds,2 ba,N/A,N/A
+"5 Pheasant Ln, Toronto, ON M9A 1T1","C$6,899,000",5 bds,5 ba,N/A,N/A
+"73 Pendrith St, Toronto, ON M6G 1R8","C$1,288,000",3 bds,2 ba,N/A,N/A
+"800 Lawrence Ave W, Toronto, ON M6A 0B1","C$38,888",-- bds,-- ba,N/A,ba
+"25 Boustead Ave, Toronto, ON M6R 1Y7","C$1,999,900",5 bds,3 ba,"2,250 sqft",N/A
+"15 Lenthall Ave, Toronto, ON M1B 2C7","C$950,000",4 bds,4 ba,N/A,N/A
+"127 Queen St E #406, Toronto, ON M5C 1S3","C$484,000",1 bd,1 ba,N/A,N/A
+"295 Adelaide St W #2303, Toronto, ON M5V 0L4","C$599,000",1 bd,1 ba,N/A,N/A
+"5791 Yonge St #PENTHOUSE 205, Toronto, ON M2M 0A8","C$650,000",3 bds,2 ba,N/A,N/A
+"130 Shuter St, Toronto, ON M5A 1V8","C$1,199,000",6 bds,4 ba,N/A,N/A
+"408 Ontario St, Toronto, ON M5A 2W1","C$2,288,800",5 bds,5 ba,N/A,N/A
+"1785 Eglinton Ave E #203, Toronto, ON M4A 2Y6","C$549,000",2 bds,2 ba,N/A,N/A
+"1994 Dufferin St, Toronto, ON M6E 3R2","C$899,999",6 bds,3 ba,N/A,N/A
+"37 Drewry Ave UNIT 9, Toronto, ON M2M 0B4","C$738,000",3 bds,2 ba,N/A,N/A
+"60 Alexandra Wood, Toronto, ON M5N 2S5","C$8,950,000",5 bds,7 ba,N/A,N/A

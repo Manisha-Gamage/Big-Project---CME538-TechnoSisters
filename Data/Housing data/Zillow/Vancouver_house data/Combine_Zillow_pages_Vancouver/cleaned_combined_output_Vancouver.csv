@@ -1,0 +1,713 @@
+Street,City,Province,Zip,Price,Bedrooms,Bathrooms,Square Footage
+1525 Coal Harbour Cay #B17, Vancouver,BC,V6G3E7,"C$375,000",1 bd,1 ba,484 sqft
+2106 SW Marine Dr, Vancouver,BC,V6P6B5,"C$27,500,000",6 bds,9 ba,"10,709 sqft"
+3440 Broadway W #126, Vancouver,BC,V6R4R2,"C$989,988",3 bds,2 ba,"1,266 sqft"
+8481 Portside Ct, Vancouver,BC,V5P4V4,"C$899,900",3 bds,3 ba,"1,404 sqft"
+2870 SW Marine Dr, Vancouver,BC,V6N3X9,"C$16,900,000",7 bds,11 ba,"11,271 sqft"
+3823 Cypress St, Vancouver,BC,V6J3P4,"C$23,999,000",8 bds,12 ba,"20,629 sqft"
+2815 Yale St, Vancouver,BC,V5K1C5,"C$1,950,000",4 bds,3 ba,"2,567 sqft"
+1219 Harwood St #201, Vancouver,BC,V6E1S5,"C$550,000",2 bds,2 ba,744 sqft
+1611 E 3rd Ave #107, Vancouver,BC,V5N1H1,"C$579,000",2 bds,1 ba,690 sqft
+1188 W 55th Ave, Vancouver,BC,V6P1R1,"C$28,880,000",8 bds,12 ba,"15,371 sqft"
+2478 W 5th Ave, Vancouver,BC,V6K1S8,"C$849,000",2 bds,2 ba,855 sqft
+4513 Nanaimo St, Vancouver,BC,V5N5J2,"C$748,800",1 bd,1 ba,678 sqft
+3462 Dartmoor Pl, Vancouver,BC,V5S4G2,"C$790,000",3 bds,2 ba,"1,268 sqft"
+838 Hamilton St #1009, Vancouver,BC,V6B6A2,"C$350,000",2 bds,1 ba,595 sqft
+1201 Lameys Mill Rd #22, Vancouver,BC,V6H3S8,"C$925,000",2 bds,2 ba,"1,499 sqft"
+3945 Alice St #2, Vancouver,BC,V5N4J6,"C$1,399,000",3 bds,3 ba,"1,111 sqft"
+1480 Howe St #P5-502, Vancouver,BC,V6Z0G5,"C$89,800",Studio,1ba,70 sqft
+2711 Point Grey Rd, Vancouver,BC,V6K1A4,"C$14,900,000",4 bds,6 ba,"4,870 sqft"
+1828 SE Marine Dr, Vancouver,BC,V5P2R3,"C$1,160,000",3 bds,3 ba,"1,431 sqft"
+4788 Belmont Ave, Vancouver,BC,V6T1A9,"C$28,888,000",7 bds,11 ba,"10,077 sqft"
+1042 Ironwork Pass, Vancouver,BC,V6H3P1,"C$1,399,000",3 bds,2 ba,"1,522 sqft"
+1611 Drummond Dr, Vancouver,BC,V6T1B7,"C$22,000,000",5 bds,6 ba,"6,487 sqft"
+159 W 2nd Ave #2/503, Vancouver,BC,V5Y0L8,"C$56,000",Studio,1ba,161 sqft
+1599 Angus Dr, Vancouver,BC,V6J4H2,"C$21,800,000",8 bds,9 ba,"11,963 sqft"
+8258 Tugboat Pl, Vancouver,BC,V6P6P8,"C$2,998,000",4 bds,4 ba,"3,495 sqft"
+1251 Cardero St #1808, Vancouver,BC,V6G2H9,"C$399,000",1 bd,1 ba,651 sqft
+3688 W 49th Ave, Vancouver,BC,V6N3T8,"C$3,488,000",4 bds,3 ba,"2,334 sqft"
+1675 Larch St, Vancouver,BC,V6K3N7,"C$2,128,000",2 bds,2 ba,"1,068 sqft"
+1159 Main St #505, Vancouver,BC,V6A4B6,"C$768,000",2 bds,2 ba,"1,061 sqft"
+1128 Georgia St W #4903, Vancouver,BC,V6E0A8,"C$19,988,000",4 bds,6 ba,"7,299 sqft"
+138 Hastings St E #206, Vancouver,BC,V6A0E6,"C$359,000",1 bd,1 ba,452 sqft
+1720 Barclay St #503, Vancouver,BC,V6G1K4,"C$395,000",1 bd,1 ba,615 sqft
+1895 E 50th Ave, Vancouver,BC,V5P1V1,"C$2,780,000",8 bds,7 ba,"2,949 sqft"
+1510 W 1st Ave #305, Vancouver,BC,V6J4S3,"C$749,900",2 bds,2 ba,"1,006 sqft"
+197 W King Edward Avenue St #8, Vancouver,BC,V5Y4B4,"C$1,999,900",3 bds,3 ba,"1,239 sqft"
+1784 Drummond Dr, Vancouver,BC,V6T1B6,"C$20,800,000",7 bds,2 ba,#NAME?
+1188 Howe St #2403, Vancouver,BC,V6Z2S8,"C$748,000",2 bds,2 ba,751 sqft
+1363 E 21st Ave, Vancouver,BC,V5V1R7,"C$1,399,900",3 bds,3 ba,"1,456 sqft"
+2795 W 37th Ave, Vancouver,BC,V6N2T5,"C$5,750,000",5 bds,7 ba,"4,059 sqft"
+1626 Avondale Ave, Vancouver,BC,V6M1S1,"C$14,980,000",5 bds,8 ba,"5,125 sqft"
+3337 Flagstaff Pl, Vancouver,BC,V5S4K9,"C$985,000",4 bds,3 ba,"1,672 sqft"
+1325 Rolston St #1513, Vancouver,BC,V6B0M2,"C$633,000",Studio,1 ba,461 sqft
+63 Keefer Pl #502, Vancouver,BC,V6B6N6,"C$970,000",3 bds,2 ba,962 sqft
+1189 Melville St #3404, Vancouver,BC,V6E4T8,"C$1,650,000",2 bds,3 ba,"1,414 sqft"
+86 Creelman Ave #2078, Vancouver,BC,V6J1C3,"C$4,999,999",8 bds,4 ba,"5,840 sqft"
+3635 W 14th Ave, Vancouver,BC,V6R2W6,"C$4,880,000",5 bds,6 ba,"3,604 sqft"
+2023 W 36th Ave, Vancouver,BC,V6M1L1,"C$7,500,000",6 bds,8 ba,"4,810 sqft"
+1925 SW Marine Dr, Vancouver,BC,V6P6B3,"C$7,880,000",5 bds,8 ba,"8,514 sqft"
+8588 Cornish St #1105, Vancouver,BC,V6P0C1,"C$918,888",2 bds,2 ba,"1,634 sqft"
+1499 W Pender St #1802, Vancouver,BC,V6G2S3,"C$2,798,000",2 bds,3 ba,"1,578 sqft"
+1527 Angus Dr, Vancouver,BC,V6J4H2,"C$8,890,000",5 bds,6 ba,"6,422 sqft"
+788 W 19th Ave, Vancouver,BC,V5Z1X2,"C$3,879,000",4 bds,4 ba,"2,448 sqft"
+2305 Turner St, Vancouver,BC,V5L2A6,"C$2,500,000",5 bds,2 ba,"2,051 sqft"
+53 Hastings St W #503, Vancouver,BC,V6B1G4,"C$499,900",1 bd,1 ba,718 sqft
+250 E 6th Ave #809, Vancouver,BC,V5T0B7,"C$1,099,000",2 bds,2 ba,834 sqft
+7021 Prescott St, Vancouver,BC,V6N1N2,"C$4,999,000",3 bds,3 ba,"2,614 sqft"
+8083 Angus Dr, Vancouver,BC,V6P5K9,"C$10,888,000",4 bds,7 ba,"5,900 sqft"
+4869 Lanark St, Vancouver,BC,V5N3S1,"C$1,598,000",3 bds,3 ba,"1,513 sqft"
+1483 King Edward Ave E #1056, Vancouver,BC,V5N5Z3,"C$899,900",2 bds,2 ba,916 sqft
+1270 Robson St #507, Vancouver,BC,V6E3Z6,"C$499,000",1 bd,1 ba,589 sqft
+3625 Monmouth Ave, Vancouver,BC,V5R5S4,"C$1,698,000",4 bds,2 ba,"1,480 sqft"
+560 Cardero St #603, Vancouver,BC,V6G3E9,"C$1,050,000",1 bd,1ba,710 sqft
+939 Homer St #2402, Vancouver,BC,V6B2W6,"C$698,000",2 bds,1 ba,770 sqft
+488 Helmcken St UNIT 605, Vancouver,BC,V6B6E4,"C$775,000",2 bds,2 ba,875 sqft
+2612 Balaclava St, Vancouver,BC,V6K4E2,"C$3,298,000",3 bds,3 ba,"1,682 sqft"
+1425 Lameys Mill Rd #10, Vancouver,BC,V6H3W2,"C$999,999",2 bds,2 ba,"1,340 sqft"
+453 E 47th Ave, Vancouver,BC,V5W2B3,"C$1,828,000",2 bds,2 ba,"1,876 sqft"
+583 Beach Cres #2903, Vancouver,BC,V6Z3E6,"C$2,098,000",2 bds,2 ba,"1,245 sqft"
+610 Granville St #811, Vancouver,BC,V6C3T3,"C$499,000",Studio,1 ba,420 sqft
+540 E 11th Ave, Vancouver,BC,V5T2C4,"C$1,198,000",2 bds,1 ba,871 sqft
+1201 Marinaside Cres #1602, Vancouver,BC,V6Z2V2,"C$1,398,000",2 bds,2 ba,"1,018 sqft"
+2850 Mackenzie St, Vancouver,BC,V6K4A2,"C$2,298,000",3 bds,4 ba,"1,555 sqft"
+1332 W 51st Ave, Vancouver,BC,V6P1C7,"C$6,480,000",5 bds,7 ba,"4,883 sqft"
+8988 Hudson St #116, Vancouver,BC,V6P6Z1,"C$465,000",1 bd,1 ba,465 sqft
+445 E 57th Ave #2, Vancouver,BC,V5X1S8,"C$1,478,000",5 bds,4 ba,"1,599 sqft"
+8555 Granville St #2108, Vancouver,BC,V6P0C3,"C$1,068,000",2 bds,2 ba,911 sqft
+555 Abbott St #312, Vancouver,BC,V6B6B8,"C$999,000",3 bds,1 ba,986 sqft
+1465 Walnut St, Vancouver,BC,V6J3R2,"C$1,580,000",2 bds,2 ba,"1,217 sqft"
+4422 Quesnel Dr, Vancouver,BC,V6L2X6,"C$8,680,000",5 bds,6 ba,"4,409 sqft"
+7450 Balaclava St, Vancouver,BC,V6N1M8,"C$3,875,000",3 bds,3 ba,"2,053 sqft"
+277 Thurlow St #3001, Vancouver,BC,V6C0C1,"C$13,800,000",3 bds,4 ba,"3,327 sqft"
+4053 W 32nd Ave, Vancouver,BC,V6S1Z5,"C$2,769,000",6 bds,4 ba,"2,408 sqft"
+168 Powell St #515, Vancouver,BC,V6A0B2,"C$399,888",1 bd,1 ba,566 sqft
+209 E 7th Ave #501, Vancouver,BC,V5T0H3,"C$1,425,000",3 bds,2 ba,"1,327 sqft"
+2453 W 10th Ave, Vancouver,BC,V6K2K7,"C$3,498,000",5 bds,4 ba,"2,327 sqft"
+2600 E 49th Ave #112, Vancouver,BC,V5S1J8,"C$529,999",2 bds,1 ba,882 sqft
+1101 W 8th Ave #11, Vancouver,BC,V6H1C5,"C$599,000",1 bd,1 ba,607 sqft
+2419 Grant St #201, Vancouver,BC,V6A2J6,"C$1,285,900",3 bds,2 ba,"1,167 sqft"
+2236 E 34th Ave, Vancouver,BC,V5P1B1,"C$1,988,000",7 bds,4 ba,"2,663 sqft"
+1288 Marinaside Cres #609, Vancouver,BC,V6Z2W5,"C$1,198,000",2 bds,2 ba,"1,069 sqft"
+888 Bute St #101, Vancouver,BC,V6E1Y5,"C$988,000",2 bds,2 ba,"1,063 sqft"
+1915 W 13th Ave, Vancouver,BC,V6J2H5,"C$2,399,000",3 bds,3 ba,"2,020 sqft"
+3623 Yale St, Vancouver,BC,V5K1B8,"C$1,976,000",6 bds,5 ba,"2,175 sqft"
+3437 E 49th Ave #80, Vancouver,BC,V5S1M1,"C$869,000",3 bds,1 ba,"1,380 sqft"
+428 Beach Cres #2802, Vancouver,BC,V6Z3G1,"C$7,598,000",3 bds,4 ba,"2,948 sqft"
+1019 Gilford St #8, Vancouver,BC,V6G2P1,"C$1,075,000",2 bds,2 ba,"1,177 sqft"
+7428 Alberta St #304, Vancouver,BC,V5X0J5,"C$1,498,000",2 bds,2 ba,"1,069 sqft"
+3542 W 16th Ave, Vancouver,BC,V6R3C1,"C$2,498,000",5 bds,2 ba,"2,037 sqft"
+275 E 65th Ave, Vancouver,BC,V5X2P3,"C$1,999,900",4 bds,4 ba,"2,259 sqft"
+183 Keefer Pl #1004, Vancouver,BC,V6B6B9,"C$1,100,000",3 bds,2 ba,"1,207 sqft"
+2889 E 1st Ave #215, Vancouver,BC,V5M0G2,"C$729,000",2 bds,2 ba,825 sqft
+1372 Seymour St #2701, Vancouver,BC,V6B0L1,"C$1,688,000",2 bds,2 ba,"1,196 sqft"
+53 Hastings St W #306, Vancouver,BC,V6B1G4,"C$499,900",1 bd,1 ba,764 sqft
+583 Beach Cres #3006, Vancouver,BC,V6Z3E6,"C$1,599,000",2 bds,2 ba,"1,065 sqft"
+2768 E 25th Ave, Vancouver,BC,V5R1H7,"C$2,998,000",7 bds,7 ba,"3,191 sqft"
+845 W 67th Ave, Vancouver,BC,V6P2S5,"C$1,499,000",3 bds,3 ba,"1,068 sqft"
+3290 Cypress St, Vancouver,BC,V6J3N6,"C$5,498,000",4 bds,4 ba,"4,599 sqft"
+885 Cambie St #2103, Vancouver,BC,V6B0R6,"C$1,838,000",2 bds,2 ba,"1,008 sqft"
+4900 Cartier St #306, Vancouver,BC,V6M4H2,"C$3,298,000",2 bds,3 ba,"2,000 sqft"
+1415 Walnut St, Vancouver,BC,V6J3R2,"C$2,198,000",3 bds,3 ba,"1,698 sqft"
+4818 Knight St, Vancouver,BC,V5N3N4,"C$1,880,000",6 bds,3 ba,"2,492 sqft"
+1350 W 6th Ave #17, Vancouver,BC,V6H1A7,"C$749,000",1 bd,1 ba,840 sqft
+1422 Parker St, Vancouver,BC,V5L2K1,"C$1,849,000",5 bds,3 ba,"2,380 sqft"
+3363 W 19th Ave, Vancouver,BC,V6S1C1,"C$4,680,000",4 bds,5 ba,"2,560 sqft"
+128 Cordova St W #303, Vancouver,BC,V6B0E6,"C$785,000",2 bds,2 ba,"1,056 sqft"
+1077 Marinaside Cres #1106, Vancouver,BC,V6Z2Z5,"C$1,130,000",2 bds,2 ba,925 sqft
+3987 Rupert St, Vancouver,BC,V5R2G9,"C$1,888,888",5 bds,4 ba,"2,393 sqft"
+1251 Cardero St #2001, Vancouver,BC,V6G2H9,"C$424,900",1 bd,1 ba,619 sqft
+2737 Oxford St, Vancouver,BC,V5L1E8,"C$2,198,888",5 bds,5 ba,"2,319 sqft"
+1238 Melville St #1205, Vancouver,BC,V6E4N2,"C$868,800",2 bds,2 ba,896 sqft
+3449 E 4th Ave, Vancouver,BC,V5M1M1,"C$2,788,000",7 bds,5 ba,"3,582 sqft"
+1159 Main St #406, Vancouver,BC,V6A4B6,"C$839,000",2 bds,2 ba,"1,106 sqft"
+2731 Duke St, Vancouver,BC,V5R4S8,"C$1,540,000",4 bds,4 ba,"2,049 sqft"
+231 E Pender St #209, Vancouver,BC,V6A0G3,"C$478,000",1 bd,1 ba,490 sqft
+1331 Homer St #B1201, Vancouver,BC,V6B5M5,"C$799,999",1 bd,1 ba,788 sqft
+4101 Yew St #304, Vancouver,BC,V6L3B7,"C$699,900",1 bd,1 ba,785 sqft
+3609 Turner St, Vancouver,BC,V5K2J2,"C$2,428,000",6 bds,6 ba,"3,156 sqft"
+1205 W 7th Ave, Vancouver,BC,V6H1B7,"C$2,298,000",3 bds,2 ba,"1,852 sqft"
+2550 Garden Dr #605, Vancouver,BC,V5N4X6,"C$1,499,900",3 bds,2 ba,"1,532 sqft"
+1667 W 40th Ave, Vancouver,BC,V6M1W1,"C$8,280,000",4 bds,5 ba,"4,596 sqft"
+2025 W 2nd Ave #201, Vancouver,BC,V6J1J6,"C$589,000",1 bd,1 ba,567 sqft
+1330 Harwood St #1202, Vancouver,BC,V6E1S8,"C$509,900",2 bds,2 ba,812 sqft
+3070 W 44th Ave, Vancouver,BC,V6N3K6,"C$6,480,000",5 bds,6 ba,"4,157 sqft"
+1372 Seymour St UNIT 2101, Vancouver,BC,V6B0L1,"C$1,328,000",2 bds,2 ba,"1,231 sqft"
+289 E 6th Ave #512, Vancouver,BC,V5T0E9,"C$629,900",1 bd,1 ba,464 sqft
+1281 Cordova St W #3402, Vancouver,BC,V6C3R5,"C$6,499,000",3 bds,3 ba,"2,723 sqft"
+455 SW Marine Dr #2006, Vancouver,BC,V5X2S9,"C$599,000",1 bd,1 ba,505 sqft
+1188 Quebec St #402, Vancouver,BC,V6A4B3,"C$999,900",2 bds,2 ba,"1,343 sqft"
+1500 Howe St #2201, Vancouver,BC,V6Z2N1,"C$1,358,000",2 bds,2 ba,"1,320 sqft"
+4930 Dunbar St, Vancouver,BC,V6N1V3,"C$2,099,000",6 bds,3 ba,"2,480 sqft"
+950 W 17th Ave, Vancouver,BC,V5Z1V4,"C$2,898,000",Studio,1ba,"2,315 sqft"
+2550 Garden Dr #414, Vancouver,BC,V5N4X6,"C$1,149,900",2 bds,2 ba,914 sqft
+1328 W Pender St #2201, Vancouver,BC,V6E4S9,"C$1,098,000",2 bds,2 ba,861 sqft
+1788 Georgia St W #601, Vancouver,BC,V6G2V7,"C$1,238,000",2 bds,2 ba,"1,344 sqft"
+360 E 36th Ave #213, Vancouver,BC,V5W4B9,"C$899,000",2 bds,2 ba,"1,124 sqft"
+460 W 16th Ave #12, Vancouver,BC,V5Y1Z3,"C$799,000",2 bds,1 ba,773 sqft
+3803 W 26th Ave, Vancouver,BC,V6S1P3,"C$7,380,000",5 bds,7 ba,"4,602 sqft"
+1415 Georgia St W #2203, Vancouver,BC,V6G3C8,"C$1,998,000",2 bds,2 ba,"1,957 sqft"
+1311 Beach Ave #1802, Vancouver,BC,V6E1V6,"C$2,598,000",2 bds,3 ba,"1,574 sqft"
+108 Cordova St W #1401, Vancouver,BC,V6B0G5,"C$875,000",1 bd,1 ba,800 sqft
+3615 Yale St, Vancouver,BC,V5K1B8,"C$2,278,000",7 bds,5 ba,"2,930 sqft"
+1333 Georgia St W #809, Vancouver,BC,V6E4V3,"C$989,900",2 bds,2 ba,968 sqft
+209 E 20th Ave #103, Vancouver,BC,V5V1M2,"C$819,900",1 bd,2 ba,635 sqft
+3731 W 6th Ave #203, Vancouver,BC,V6R1T8,"C$438,800",Studio,1 ba,478 sqft
+811 Helmcken St #1903, Vancouver,BC,V6Z1B1,"C$799,800",2 bds,2 ba,846 sqft
+1618 Grant St, Vancouver,BC,V5L2Y5,"C$1,499,000",3 bds,2 ba,"1,510 sqft"
+2272 Dundas St #105, Vancouver,BC,V5L1J8,"C$639,900",2 bds,1 ba,678 sqft
+5788 Vine St #206, Vancouver,BC,V6M4L8,"C$718,000",2 bds,1 ba,816 sqft
+1128 Quebec St #604, Vancouver,BC,V6A4E1,"C$1,249,000",2 bds,2 ba,"1,167 sqft"
+3240 Napier St, Vancouver,BC,V5K2X1,"C$2,250,000",6 bds,4 ba,"2,084 sqft"
+555 Jervis St #2204, Vancouver,BC,V6E4N1,"C$928,000",1 bd,1 ba,590 sqft
+3908 W 17th Ave, Vancouver,BC,V6S1A5,"C$4,198,000",5 bds,7 ba,"3,558 sqft"
+2765 W 15th Ave, Vancouver,BC,V6K2Z7,"C$4,250,000",4 bds,6 ba,"2,891 sqft"
+1133 Hornby St #809, Vancouver,BC,V6Z1W1,"C$660,000",2 bds,1 ba,610 sqft
+4990 McGeer St #315, Vancouver,BC,V5R6C1,"C$515,000",1 bd,1 ba,627 sqft
+1345 Comox St #204, Vancouver,BC,V6E4E4,"C$799,900",2 bds,2 ba,862 sqft
+937 W 18th Ave, Vancouver,BC,V5Z1W4,"C$2,850,000",5 bds,3 ba,"2,469 sqft"
+616 E 10th Ave, Vancouver,BC,V5T2A5,"C$1,950,000",5 bds,3 ba,"2,823 sqft"
+2699 Duke St, Vancouver,BC,V5R4S8,"C$999,999",3 bds,2 ba,"1,199 sqft"
+3457 Oxford St, Vancouver,BC,V5K1N8,"C$2,799,000",6 bds,5 ba,"3,196 sqft"
+110 Switchmen St #1707, Vancouver,BC,V6A0C6,"C$1,098,000",2 bds,2 ba,865 sqft
+2057 W 3rd Ave #PENTHOUSE 3, Vancouver,BC,V6J1L4,"C$848,000",2 bds,1 ba,711 sqft
+1869 Spyglass Pl #213, Vancouver,BC,V5Z4K7,"C$1,222,000",2 bds,2 ba,"1,106 sqft"
+474 E 43rd Ave #204, Vancouver,BC,V5W1T4,"C$429,000",1 bd,1 ba,603 sqft
+438 Seymour St #1708, Vancouver,BC,V6B6H4,"C$739,900",2 bds,2 ba,710 sqft
+2556 W 20th Ave, Vancouver,BC,V6L1G8,"C$4,290,000",6 bds,5 ba,"3,634 sqft"
+66 Cordova St W #1108, Vancouver,BC,V6B0L2,"C$539,000",1 bd,1 ba,543 sqft
+874 W 6th Ave #201, Vancouver,BC,V5Z1A6,"C$950,000",2 bds,2 ba,"1,025 sqft"
+3126 E 17th Ave, Vancouver,BC,V5M2N7,"C$2,690,000",8 bds,6 ba,"2,627 sqft"
+1596 W 14th Ave #1B, Vancouver,BC,V6J2H9,"C$12,875,000",3 bds,6 ba,"4,175 sqft"
+4166 Crown Cres, Vancouver,BC,V6R2A9,"C$6,298,000",6 bds,6 ba,"5,048 sqft"
+1155 Seymour St PENTHOUSE 2703, Vancouver,BC,V6B1K2,"C$2,099,000",2 bds,2 ba,"1,144 sqft"
+3538 W 30th Ave, Vancouver,BC,V6S1W5,"C$5,498,000",5 bds,7 ba,"4,396 sqft"
+2229 Oak St, Vancouver,BC,V6H3W6,"C$1,499,900",2 bds,2 ba,"1,419 sqft"
+2638 W 22nd Ave, Vancouver,BC,V6L1M2,"C$5,780,000",4 bds,5 ba,"4,183 sqft"
+1550 Coal Harbour Cay #L302, Vancouver,BC,V6G3G1,"C$3,599,000",4 bds,3 ba,"1,954 sqft"
+3516 Georgia St E, Vancouver,BC,V5K2L8,"C$1,868,000",7 bds,4 ba,"2,580 sqft"
+2693 Duke St, Vancouver,BC,V5R4S8,"C$1,028,000",3 bds,2 ba,"1,316 sqft"
+1987 W 35th Ave, Vancouver,BC,V6M1H8,"C$6,888,000",6 bds,6 ba,"4,410 sqft"
+1219 E 29th Ave, Vancouver,BC,V5V2T1,"C$2,598,000",6 bds,3 ba,"3,156 sqft"
+717 Jervis St #3101, Vancouver,BC,V6E4L5,"C$14,999,900",5 bds,9 ba,"9,186 sqft"
+33 Smithe St #802, Vancouver,BC,V6B0B5,"C$1,449,000",2 bds,2 ba,"1,109 sqft"
+2636 McGill St, Vancouver,BC,V5K1H3,"C$1,658,888",3 bds,1 ba,"2,174 sqft"
+1283 Howe St #2009, Vancouver,BC,V6Z0E3,"C$555,000",1 bd,1 ba,482 sqft
+1196 W 48th Ave, Vancouver,BC,V6M2N7,"C$6,990,000",6 bds,7 ba,"4,726 sqft"
+1492 Hornby St, Vancouver,BC,V6Z1X3,"C$1,659,000",3 bds,3 ba,"1,718 sqft"
+788 Richards St #1108, Vancouver,BC,V6B0C7,"C$1,190,000",3 bds,2 ba,"1,095 sqft"
+3221 Grant St, Vancouver,BC,V5K3J1,"C$1,698,000",4 bds,4 ba,"1,495 sqft"
+1180 Broughton St #1302, Vancouver,BC,V6G2B1,"C$2,598,000",2 bds,3 ba,"1,330 sqft"
+1210 W 8th Ave #207, Vancouver,BC,V6H3Y9,"C$638,000",1 bd,1 ba,690 sqft
+1165 Burnaby St #402, Vancouver,BC,V6E1P3,"C$919,000",2 bds,2 ba,"1,001 sqft"
+7638 Cambie St #103, Vancouver,BC,V6P3H7,"C$1,249,000",3 bds,2 ba,"1,075 sqft"
+250 E 6th Ave #451, Vancouver,BC,V5T0B7,"C$607,000",1 bd,1 ba,507 sqft
+1408 Robson St #2901, Vancouver,BC,V6G1B9,"C$9,680,000",4 bds,4 ba,"2,769 sqft"
+128 Cordova St W #706, Vancouver,BC,V6B0E6,"C$899,900",2 bds,2 ba,"1,161 sqft"
+4578 Puget Dr, Vancouver,BC,V6L2V8,"C$7,750,000",6 bds,7 ba,"4,473 sqft"
+2549 E 16th Ave, Vancouver,BC,V5M2L5,"C$3,298,000",10 bds,6 ba,"3,960 sqft"
+3661 E 27th Ave, Vancouver,BC,V5R1R3,"C$1,999,000",6 bds,4 ba,"2,168 sqft"
+161 Georgia St W #110, Vancouver,BC,V6B0K9,"C$1,099,000",2 bds,2 ba,"1,017 sqft"
+939 Homer St #3401, Vancouver,BC,V6B2W6,"C$2,499,000",3 bds,4 ba,"3,095 sqft"
+1717 W 13th Ave #115, Vancouver,BC,V6J2H2,"C$788,800",2 bds,1 ba,837 sqft
+3668 W 28th Ave, Vancouver,BC,V6S1S4,"C$3,280,000",5 bds,3 ba,"2,803 sqft"
+198 E 44th Ave, Vancouver,BC,V5W1V6,"C$1,250,000",3 bds,3 ba,"1,050 sqft"
+6384 Windsor St, Vancouver,BC,V5W3J5,"C$1,980,000",6 bds,3 ba,"2,565 sqft"
+2550 Garden Dr #203, Vancouver,BC,V5N4X6,"C$1,129,900",2 bds,2 ba,905 sqft
+55 Cordova St E #315, Vancouver,BC,V6A0A5,"C$738,000",1 bd,1 ba,933 sqft
+2848 W 17th Ave, Vancouver,BC,V6L1A2,"C$2,998,000",3 bds,4 ba,"1,879 sqft"
+352 W 62nd Ave, Vancouver,BC,V5X2E3,"C$1,249,900",2 bds,2 ba,"1,127 sqft"
+2632 Nanaimo St, Vancouver,BC,V5N5E7,"C$1,599,000",3 bds,2 ba,"1,460 sqft"
+1189 Melville St #2104, Vancouver,BC,V6E4T8,"C$827,000",1 bd,1 ba,710 sqft
+6010 Granville St, Vancouver,BC,V6M3E1,"C$3,198,000",4 bds,3 ba,"3,151 sqft"
+477 W 59th Ave #202, Vancouver,BC,V5X1X4,"C$1,350,000",3 bds,2 ba,"1,090 sqft"
+195 W 12th Ave, Vancouver,BC,V5Y1T6,"C$4,498,000",6 bds,5 ba,"2,917 sqft"
+2068 E 49th Ave, Vancouver,BC,V5P1T7,"C$2,688,000",8 bds,6 ba,"4,132 sqft"
+277 Thurlow St #2601, Vancouver,BC,V6C0C1,"C$9,988,000",3 bds,4 ba,"3,322 sqft"
+5595 Dumfries St, Vancouver,BC,V5P3A5,"C$1,899,999",8 bds,4 ba,"2,815 sqft"
+603 E 57th Ave, Vancouver,BC,V5X1T1,"C$2,998,000",7 bds,6 ba,"3,170 sqft"
+1817 W 15th Ave, Vancouver,BC,V6J2K9,"C$3,598,000",4 bds,4 ba,"2,422 sqft"
+2025 Stephens St #201, Vancouver,BC,V6K3W2,"C$545,000",1 bd,1 ba,497 sqft
+2172 Wall St, Vancouver,BC,V5L1B5,"C$939,000",2 bds,2 ba,965 sqft
+3220 W 4th Ave #303, Vancouver,BC,V6K1R9,"C$1,099,000",2 bds,2 ba,"1,049 sqft"
+3256 W 21st Ave, Vancouver,BC,V6L1L2,"C$5,580,000",4 bds,5 ba,"3,620 sqft"
+1958 E 47th Ave #406, Vancouver,BC,V5P3X5,"C$608,000",2 bds,1 ba,863 sqft
+2556 Hastings St E #L01, Vancouver,BC,V5K1Z3,"C$549,000",1 bd,1 ba,761 sqft
+2282 E 8th Ave #3, Vancouver,BC,V5N1V5,"C$1,799,900",3 bds,3 ba,"1,444 sqft"
+7303 Granville St, Vancouver,BC,V6P4Y3,"C$1,499,900",3 bds,3 ba,"1,475 sqft"
+128 Cordova St W #4004, Vancouver,BC,V6B0E6,"C$699,000",1 bd,1 ba,646 sqft
+4393 Puget Dr, Vancouver,BC,V6L2V7,"C$4,390,000",5 bds,4 ba,"3,573 sqft"
+710 Chilco St #303, Vancouver,BC,V6G2P9,"C$998,000",2 bds,1 ba,965 sqft
+1468 W 14th Ave #703, Vancouver,BC,V6H0A2,"C$1,188,000",2 bds,2 ba,900 sqft
+1048 E 7th Ave #3A, Vancouver,BC,V5T1P7,"C$699,000",2 bds,1 ba,698 sqft
+33 W Pender St #504, Vancouver,BC,V6B0E5,"C$650,000",1 bd,1 ba,770 sqft
+756 W 22nd Ave, Vancouver,BC,V5Z1Z7,"C$3,998,000",4 bds,4 ba,"2,773 sqft"
+4573 Slocan St #201, Vancouver,BC,V5R1Z8,"C$829,999",2 bds,2 ba,820 sqft
+3982 W 35th Ave, Vancouver,BC,V6N2P2,"C$5,600,000",5 bds,5 ba,"3,872 sqft"
+1633 W 8th Ave #506, Vancouver,BC,V6J5H7,"C$998,800",2 bds,2 ba,"1,032 sqft"
+239 W 16th Ave, Vancouver,BC,V5Y1Y8,"C$2,189,000",5 bds,3 ba,"2,306 sqft"
+1510 W 33rd Ave, Vancouver,BC,V6M1A7,"C$6,880,000",6 bds,10 ba,"7,748 sqft"
+3018 Knight St, Vancouver,BC,V5N3K4,"C$2,599,000",6 bds,4 ba,"2,480 sqft"
+730 Hawks Ave, Vancouver,BC,V6A3J3,"C$1,299,000",3 bds,3 ba,"1,361 sqft"
+638 W 17th Ave, Vancouver,BC,V5Z1T8,"C$2,899,999",8 bds,4 ba,"3,047 sqft"
+3491 E Pender St, Vancouver,BC,V5K2C9,"C$1,960,000",4 bds,4 ba,"2,532 sqft"
+885 Cambie St #2104, Vancouver,BC,V6B0R6,"C$2,438,000",3 bds,3 ba,"1,434 sqft"
+1502 Island Park Walk #301, Vancouver,BC,V6H3Z8,"C$1,249,000",2 bds,2 ba,"1,079 sqft"
+1508 W 61st Ave, Vancouver,BC,V5P2J4,"C$1,250,000",3 bds,3 ba,"1,100 sqft"
+1068 W 15th Ave, Vancouver,BC,V6H1R6,"C$1,499,999",3 bds,3 ba,"1,115 sqft"
+2618 W 15th Ave, Vancouver,BC,V6K2Z5,"C$2,998,000",4 bds,3 ba,"2,571 sqft"
+1534 Harwood St #702, Vancouver,BC,V6G1X9,"C$327,000",1 bd,1 ba,550 sqft
+1369 E 24th Ave, Vancouver,BC,V5V1Z4,"C$1,239,000",2 bds,2 ba,"1,173 sqft"
+1777 Bayshore Dr #1101, Vancouver,BC,V6G3H2,"C$2,899,900",3 bds,3 ba,"1,786 sqft"
+4815 Eldorado Mews #2401, Vancouver,BC,V5R0B2,"C$868,000",2 bds,2 ba,871 sqft
+431 Heatley Ave, Vancouver,BC,V6A3G6,"C$1,599,900",2 bds,3 ba,"1,469 sqft"
+7418 Paulson St #903, Vancouver,BC,V6P0K2,"C$1,400,000",2 bds,2 ba,"1,017 sqft"
+49 Cordova St E, Vancouver,BC,V6A1K3,"C$1,049,000",1 bd,2 ba,"1,049 sqft"
+1450 W 6th Ave #307, Vancouver,BC,V6H4H9,"C$1,298,000",2 bds,2 ba,"1,158 sqft"
+3707 Hudson St, Vancouver,BC,V6H3A6,"C$7,980,000",5 bds,4 ba,"4,896 sqft"
+1188 Richards St #402, Vancouver,BC,V6B3E6,"C$499,900",1 bd,1 ba,405 sqft
+2275 W 40th Ave #204, Vancouver,BC,V6M1W7,"C$949,000",2 bds,2 ba,"1,128 sqft"
+45 W 15th Ave, Vancouver,BC,V5Y1X7,"C$2,589,900",4 bds,4 ba,"2,077 sqft"
+1188 Howe St #607, Vancouver,BC,V6Z2S8,"C$789,000",2 bds,2 ba,821 sqft
+371 E 16th Ave, Vancouver,BC,V5T2T7,"C$1,575,000",3 bds,3 ba,"1,455 sqft"
+1501 Atlas Ln, Vancouver,BC,V6P0C9,"C$2,999,000",2 bds,3 ba,"2,951 sqft"
+1735 W 16th Ave, Vancouver,BC,V6J2L9,"C$2,388,000",2 bds,3 ba,"2,313 sqft"
+356 W 15th Ave #2, Vancouver,BC,V5Y1Y2,"C$1,098,000",2 bds,1 ba,876 sqft
+8131 Nunavut Ln #2502, Vancouver,BC,V5X0E2,"C$868,000",2 bds,2 ba,779 sqft
+4615 W 4th Ave, Vancouver,BC,V6R1R6,"C$3,368,000",5 bds,2 ba,"2,300 sqft"
+1383 W 32nd Ave, Vancouver,BC,V6H2J4,"C$10,280,000",4 bds,3 ba,"4,410 sqft"
+6511 Chambord Pl #40, Vancouver,BC,V5S4P2,"C$1,398,000",4 bds,2 ba,"1,820 sqft"
+2550 Garden Dr #302, Vancouver,BC,V5N4X6,"C$814,900",1 bd,1 ba,637 sqft
+3225 Clark Dr, Vancouver,BC,V5V4Y1,"C$1,699,900",4 bds,4 ba,"1,616 sqft"
+3835 Selkirk St, Vancouver,BC,V6H2Z1,"C$7,990,000",6 bds,7 ba,"6,257 sqft"
+1111 Richards St #2705, Vancouver,BC,V6B0S3,"C$2,999,000",3 bds,3 ba,"1,781 sqft"
+8283 Heather St, Vancouver,BC,V6P6S8,"C$1,990,000",4 bds,3 ba,"1,993 sqft"
+1375 Graveley St, Vancouver,BC,V5L3A1,"C$1,899,900",6 bds,3 ba,"2,620 sqft"
+557 Rupert St, Vancouver,BC,V5K4K6,"C$1,799,000",6 bds,2 ba,"1,776 sqft"
+1239 Georgia St W #2803, Vancouver,BC,V6E4R8,"C$2,199,000",4 bds,4 ba,"2,445 sqft"
+5755 Angus Dr, Vancouver,BC,V6M3N7,"C$10,880,000",7 bds,8 ba,"5,660 sqft"
+1419 E 27th Ave, Vancouver,BC,V5N2W6,"C$1,588,000",3 bds,2 ba,"1,359 sqft"
+2275 E Pender St, Vancouver,BC,V5L1X5,"C$1,599,000",4 bds,2 ba,"1,842 sqft"
+2888 Cambie St #702, Vancouver,BC,V5Z0H3,"C$1,300,000",2 bds,2 ba,"1,041 sqft"
+2277 E 30th Ave #309, Vancouver,BC,V5N5N1,"C$439,000",1 bd,1 ba,686 sqft
+8488 Cornish St #619, Vancouver,BC,V6P0C2,"C$918,900",2 bds,2 ba,898 sqft
+4455 W 1st Ave, Vancouver,BC,V6R4H9,"C$6,490,000",5 bds,6 ba,"3,995 sqft"
+2210 Willow St, Vancouver,BC,V5Z0C8,"C$1,848,000",4 bds,3 ba,"1,689 sqft"
+3061 E Kent Ave N #1205, Vancouver,BC,V5S2L7,"C$724,500",2 bds,2 ba,"1,247 sqft"
+1000 Beach Ave #704, Vancouver,BC,V6E4M2,"C$1,498,000",2 bds,2 ba,"1,280 sqft"
+2190 W 7th Ave #111, Vancouver,BC,V6K4K7,"C$649,900",1 bd,1 ba,496 sqft
+1283 Howe St #3208, Vancouver,BC,V6Z0E3,"C$1,078,000",2 bds,2 ba,785 sqft
+1499 W Pender St #1303, Vancouver,BC,V6G2S3,"C$1,638,000",2 bds,3 ba,"1,220 sqft"
+4007 W 19th Ave, Vancouver,BC,V6S1E2,"C$4,398,000",5 bds,6 ba,"2,967 sqft"
+4907 Walden St, Vancouver,BC,V5W2V6,"C$1,899,000",3 bds,2 ba,"1,749 sqft"
+3838 W 50th Ave, Vancouver,BC,V6N3V5,"C$5,135,555",5 bds,6 ba,"4,098 sqft"
+2437 W 1st Ave #1, Vancouver,BC,V6K1G5,"C$1,475,000",2 bds,2 ba,"1,209 sqft"
+1368 Minto Cres, Vancouver,BC,V6H2J5,"C$11,888,000",8 bds,10 ba,"8,677 sqft"
+8645 Osler St #301, Vancouver,BC,V6P4E6,"C$419,900",1 bd,1 ba,584 sqft
+4085 Puget Dr, Vancouver,BC,V6L2V3,"C$6,288,000",6 bds,6 ba,"4,664 sqft"
+2020 E Kent Ave SE #411, Vancouver,BC,V5P4X2,"C$925,000",2 bds,2 ba,"1,061 sqft"
+1616 W 13th Ave #502, Vancouver,BC,V6J2G6,"C$888,800",2 bds,2 ba,"1,049 sqft"
+499 Broughton St #1703, Vancouver,BC,V6G3K1,"C$1,688,000",2 bds,2 ba,"1,148 sqft"
+910 Beach Ave #503, Vancouver,BC,V6Z2W7,"C$525,000",Studio,1 ba,417 sqft
+180 E 2nd Ave #1012, Vancouver,BC,V5T1B5,"C$749,990",1 bd,1 ba,564 sqft
+2671 McBain Ave, Vancouver,BC,V6L2C7,"C$5,580,000",7 bds,7 ba,"4,207 sqft"
+2658 Morningstar Cres #17, Vancouver,BC,V5S4P4,"C$1,049,000",3 bds,2 ba,"1,544 sqft"
+1616 Bayshore Dr #202, Vancouver,BC,V6G3L1,"C$1,688,000",2 bds,2 ba,"1,365 sqft"
+1330 Harwood St #708, Vancouver,BC,V6E1S8,"C$518,300",1 bd,1 ba,620 sqft
+2509 W 37th Ave, Vancouver,BC,V6N2T2,"C$2,048,800",3 bds,2 ba,"1,348 sqft"
+1748 E 55th Ave, Vancouver,BC,V5P1Z6,"C$2,598,000",7 bds,6 ba,"3,339 sqft"
+1283 Howe St #3405, Vancouver,BC,V6Z0E3,"C$689,000",1 bd,1 ba,545 sqft
+1461 E 64th Ave, Vancouver,BC,V5P2M4,"C$1,999,999",5 bds,3 ba,"2,337 sqft"
+1919 E 3rd Ave, Vancouver,BC,V5N1H4,"C$1,399,000",3 bds,3 ba,"1,000 sqft"
+168 Powell St #302, Vancouver,BC,V6A0B2,"C$468,000",1 bd,1 ba,557 sqft
+1782 W 6th Ave, Vancouver,BC,V6J0E5,"C$1,399,000",2 bds,3 ba,"1,198 sqft"
+1330 Graveley St #302, Vancouver,BC,V5L3A2,"C$930,000",2 bds,1 ba,"1,139 sqft"
+289 Drake St #1405, Vancouver,BC,V6B5Z5,"C$1,458,000",3 bds,2 ba,"1,265 sqft"
+7176 Duff St, Vancouver,BC,V5P4B3,"C$1,938,000",5 bds,3 ba,"2,171 sqft"
+8006 Chester St, Vancouver,BC,V5X3Y6,"C$1,980,000",5 bds,4 ba,"2,400 sqft"
+1410 Bute St #500, Vancouver,BC,V6E2A7,"C$2,980,000",1 bd,2 ba,"1,600 sqft"
+1198 W 55th Ave, Vancouver,BC,V6P7A1,"C$10,990,000",4 bds,4 ba,"5,739 sqft"
+1189 Howe St #2703, Vancouver,BC,V6Z2X4,"C$1,199,000",3 bds,2 ba,"1,160 sqft"
+1289 Hornby St #3610, Vancouver,BC,V6Z2H7,"C$2,560,000",2 bds,3 ba,"1,413 sqft"
+4658 Elm St, Vancouver,BC,V6L2L2,"C$9,680,000",5 bds,6 ba,"5,375 sqft"
+646 Union St, Vancouver,BC,V6A2B9,"C$1,690,000",4 bds,2 ba,"2,354 sqft"
+2596 W 14th Ave, Vancouver,BC,V6K2W7,"C$5,875,000",7 bds,6 ba,"4,129 sqft"
+693 Moberly Rd, Vancouver,BC,V5Z4A4,"C$1,198,000",2 bds,3 ba,"1,412 sqft"
+6011 Adera St, Vancouver,BC,V6M3J3,"C$9,480,000",6 bds,7 ba,"5,388 sqft"
+455 SW Marine Dr #1005, Vancouver,BC,V5X2S9,"C$938,000",2 bds,2 ba,753 sqft
+1328 W 73rd Ave #8, Vancouver,BC,V6P3E7,"C$599,900",2 bds,1 ba,883 sqft
+2528 Maple St #407, Vancouver,BC,V6J0B5,"C$728,800",1 bd,1 ba,661 sqft
+2721 W 24th Ave, Vancouver,BC,V6L1R2,"C$4,988,000",5 bds,6 ba,"3,739 sqft"
+5912 Churchill St, Vancouver,BC,V6M3H5,"C$11,880,000",7 bds,8 ba,"6,175 sqft"
+1430 E 8th Ave, Vancouver,BC,V5N1T4,"C$1,388,000",5 bds,3 ba,"1,341 sqft"
+2033 W 7th Ave #306, Vancouver,BC,V6J1T3,"C$649,900",1 bd,1 ba,716 sqft
+1824 W 12th Ave, Vancouver,BC,V6J2E2,"C$849,900",1 bd,2 ba,672 sqft
+1199 Marinaside Cres #3203, Vancouver,BC,V6Z2Y2,"C$1,290,000",2 bds,2 ba,"1,079 sqft"
+2268 W 12th Ave #102, Vancouver,BC,V6K2N5,"C$559,000",1 bd,1 ba,624 sqft
+1487 Homer St, Vancouver,BC,V6Z3C8,"C$2,790,000",3 bds,3 ba,"2,112 sqft"
+4559 Beatrice St #1, Vancouver,BC,V5N4J1,"C$1,599,900",3 bds,4 ba,"1,510 sqft"
+3108 W 31st Ave, Vancouver,BC,V6L2A6,"C$6,375,000",6 bds,6 ba,"4,723 sqft"
+131 King Edward Ave E #1, Vancouver,BC,V5Y2H8,"C$2,199,000",4 bds,4 ba,"2,065 sqft"
+689 Abbott St #3703, Vancouver,BC,V6B0J2,"C$2,338,000",3 bds,3 ba,"1,663 sqft"
+39 W 12th Ave, Vancouver,BC,V5Y1T4,"C$1,438,000",2 bds,2 ba,"1,171 sqft"
+3589 W 35th Ave, Vancouver,BC,V6N2N4,"C$3,680,000",6 bds,6 ba,"3,435 sqft"
+63 W 13th Ave, Vancouver,BC,V5Y1V5,"C$1,765,000",3 bds,3 ba,"1,580 sqft"
+1600 Hornby St #203, Vancouver,BC,V6Z2S4,"C$2,688,000",3 bds,3 ba,"1,712 sqft"
+4006 W 34th Ave, Vancouver,BC,V6N2L7,"C$3,950,000",6 bds,4 ba,"3,961 sqft"
+168 Powell St #501, Vancouver,BC,V6A0B2,"C$699,000",2 bds,1 ba,990 sqft
+6076 Tisdall St #605, Vancouver,BC,V5Z3N2,"C$499,000",1 bd,1 ba,820 sqft
+1330 Burrard St #217, Vancouver,BC,V6Z2B8,"C$470,000",1 bd,1 ba,527 sqft
+1182 Quebec St #11, Vancouver,BC,V6A4B2,"C$1,689,000",2 bds,3 ba,"1,945 sqft"
+4528 Langara Ave, Vancouver,BC,V6R1C8,"C$9,980,000",5 bds,5 ba,"4,361 sqft"
+4333 Locarno Cres, Vancouver,BC,V6R1G2,"C$4,980,000",5 bds,5 ba,"3,118 sqft"
+142 E 27th Ave, Vancouver,BC,V5V2K4,"C$2,689,000",5 bds,3 ba,"2,592 sqft"
+1386 Nicola St #24, Vancouver,BC,V6G2G2,"C$2,999,999",2 bds,3 ba,"2,982 sqft"
+601 Jervis St, Vancouver,BC,V6E3M5,"C$1,349,000",2 bds,3 ba,"1,378 sqft"
+833 Seymour St #607, Vancouver,BC,V6B0G4,"C$699,900",1 bd,1 ba,855 sqft
+3161 W 4th Ave #205, Vancouver,BC,V6K1R6,"C$849,900",2 bds,2 ba,780 sqft
+1959 W 15th Ave, Vancouver,BC,V6J2L2,"C$2,499,000",2 bds,3 ba,"1,634 sqft"
+185 W 45th Ave, Vancouver,BC,V5Y2W2,"C$3,590,000",5 bds,5 ba,"3,403 sqft"
+1775 Quebec St #607, Vancouver,BC,V5T0E3,"C$749,999",1 bd,1 ba,640 sqft
+5288 Melbourne St #1205, Vancouver,BC,V5R6E6,"C$828,000",3 bds,2 ba,991 sqft
+1480 Howe St #5601, Vancouver,BC,V6Z0G5,"C$7,980,000",3 bds,4 ba,"3,107 sqft"
+2645 W 6th Ave, Vancouver,BC,V6K1W6,"C$2,399,000",5 bds,3 ba,"2,038 sqft"
+1372 Seymour St #4102, Vancouver,BC,V6B0L1,"C$3,399,888",4 bds,4 ba,"2,073 sqft"
+988 W 54th Ave #203, Vancouver,BC,V6P1M9,"C$788,000",2 bds,2 ba,973 sqft
+5665 Boundary Rd #2807, Vancouver,BC,V5R0E4,"C$799,000",2 bds,2 ba,786 sqft
+5650 Oak St #208, Vancouver,BC,V6M2V6,"C$849,000",2 bds,2 ba,"1,137 sqft"
+1288 Georgia St W PENTHOUSE 5, Vancouver,BC,V6E4R3,"C$1,799,000",2 bds,1 ba,"1,215 sqft"
+4309 Locarno Cres, Vancouver,BC,V6R1G2,"C$3,890,000",3 bds,2 ba,"2,864 sqft"
+1283 Howe St #2504, Vancouver,BC,V6Z0E3,"C$999,000",3 bds,2 ba,916 sqft
+4569 W 2nd Ave, Vancouver,BC,V6R1K7,"C$3,798,000",2 bds,2 ba,"1,730 sqft"
+2741 Hastings St E #200, Vancouver,BC,V5K1Z8,"C$438,800",1 bd,1 ba,468 sqft
+1080 Wolfe Ave, Vancouver,BC,V6H1V8,"C$9,580,000",5 bds,5 ba,"5,910 sqft"
+1500 Hornby St #1805, Vancouver,BC,V6Z2R1,"C$1,688,000",2 bds,2 ba,"1,273 sqft"
+51 E 27th Ave, Vancouver,BC,V5V2K2,"C$2,498,000",3 bds,4 ba,"1,751 sqft"
+830 E 7th Ave #211, Vancouver,BC,V5T4J2,"C$429,000",1 bd,1 ba,446 sqft
+311 E 6th Ave #405, Vancouver,BC,V5T0G9,"C$635,000",1 bd,1 ba,564 sqft
+750 W 6th Ave, Vancouver,BC,V5Z0C8,"C$1,649,900",3 bds,2 ba,"1,603 sqft"
+2925 McGill St, Vancouver,BC,V5K1H8,"C$1,685,000",4 bds,2 ba,"1,889 sqft"
+40 E 46th Ave #1, Vancouver,BC,V5W1Z1,"C$2,149,000",5 bds,4 ba,"1,825 sqft"
+1726 W 32nd Ave, Vancouver,BC,V6J3A7,"C$6,990,000",5 bds,5 ba,"5,760 sqft"
+2032 E 22nd Ave, Vancouver,BC,V5N2R4,"C$2,998,000",8 bds,7 ba,"3,577 sqft"
+3885 W 35th Ave, Vancouver,BC,V6N2N8,"C$3,998,000",8 bds,4 ba,"2,371 sqft"
+3138 Riverwalk Ave #312, Vancouver,BC,V5S0B6,"C$859,800",2 bds,2 ba,"1,024 sqft"
+1907 E 38th Ave, Vancouver,BC,V5P1G6,"C$2,230,000",6 bds,4 ba,"2,278 sqft"
+1502 Island Park Walk #107, Vancouver,BC,V6H3Z8,"C$1,299,900",2 bds,2 ba,"1,257 sqft"
+964 W 15th Ave, Vancouver,BC,V5Z1R9,"C$1,599,000",3 bds,2 ba,"1,976 sqft"
+4638 Gladstone St #1510, Vancouver,BC,V5N4Y8,"C$775,000",2 bds,2 ba,791 sqft
+2335 W 18th Ave, Vancouver,BC,V6L1A7,"C$7,180,000",5 bds,7 ba,"4,700 sqft"
+3888 W 13th Ave, Vancouver,BC,V6R2S8,"C$3,860,000",5 bds,5 ba,"2,458 sqft"
+1362 E 60th Ave, Vancouver,BC,V5X2A9,"C$1,580,000",5 bds,2 ba,"2,390 sqft"
+6011 Macdonald St, Vancouver,BC,V6N1E5,"C$3,798,000",6 bds,5 ba,"4,817 sqft"
+2033 W 7th Ave #305, Vancouver,BC,V6J1T3,"C$799,900",2 bds,1 ba,749 sqft
+2838 Birch St #3, Vancouver,BC,V6H2T6,"C$1,988,000",3 bds,3 ba,"1,956 sqft"
+7123 Selkirk St, Vancouver,BC,V6P6J4,"C$6,980,000",6 bds,8 ba,"6,502 sqft"
+939 W 7th Ave #26, Vancouver,BC,V5Z1C4,"C$649,900",1 bd,1 ba,624 sqft
+1211 Melville St #2404, Vancouver,BC,V6E0A7,"C$1,685,000",3 bds,3 ba,"1,372 sqft"
+8410 Cornerstone St, Vancouver,BC,V5S4S1,"C$998,000",3 bds,3 ba,"1,808 sqft"
+1375 King Edward Ave W, Vancouver,BC,V6H2A1,"C$11,998,000",4 bds,3 ba,"5,774 sqft"
+2311 W 8th Ave, Vancouver,BC,V6K2A8,"C$1,185,000",2 bds,2 ba,"1,000 sqft"
+1199 Marinaside Cres UNIT 3002, Vancouver,BC,V6Z2Y2,"C$1,999,000",2 bds,2 ba,"1,302 sqft"
+3998 Granville St, Vancouver,BC,V6H3L2,"C$7,980,000",4 bds,3 ba,"5,350 sqft"
+667 Howe St #4601, Vancouver,BC,V6C0B5,"C$8,900,000",4 bds,5 ba,"3,722 sqft"
+1591 Nanton Ave, Vancouver,BC,V6J2X3,"C$5,990,000",7 bds,6 ba,"4,979 sqft"
+2209 Alder St, Vancouver,BC,V6H2R8,"C$1,199,000",2 bds,2 ba,"1,550 sqft"
+1177 Hornby St #203, Vancouver,BC,V6Z2E9,"C$638,000",1 bd,1 ba,665 sqft
+2843 W 44th Ave, Vancouver,BC,V6N3K1,"C$5,990,000",6 bds,6 ba,"5,044 sqft"
+445 W 2nd Ave #TOWNHOUSE 101, Vancouver,BC,V5Y0E8,"C$1,328,000",2 bds,3 ba,"1,411 sqft"
+1408 Robson St #1006, Vancouver,BC,V6G1B9,"C$3,380,000",2 bds,2 ba,935 sqft
+557 E 20th Ave, Vancouver,BC,V5V1M7,"C$2,288,000",6 bds,4 ba,"1,981 sqft"
+822 Homer St #1303, Vancouver,BC,V6B6M3,"C$858,000",2 bds,2 ba,837 sqft
+1717 Haro St #401, Vancouver,BC,V6G1H1,"C$659,000",1 bd,1 ba,667 sqft
+583 Beach Cres #1003, Vancouver,BC,V6Z3E6,"C$1,849,900",2 bds,2 ba,"1,238 sqft"
+3814 W 15th Ave, Vancouver,BC,V6R2Z9,"C$1,880,000",3 bds,3 ba,"1,471 sqft"
+1191 W 40th Ave, Vancouver,BC,V6M1V1,"C$4,398,000",5 bds,2 ba,"3,470 sqft"
+1331 Alberni St #2701, Vancouver,BC,V6E4S1,"C$1,998,000",3 bds,3 ba,"1,614 sqft"
+455 Beach Cres #1102, Vancouver,BC,V6Z3E5,"C$1,338,000",2 bds,2 ba,"1,160 sqft"
+6210 Larch St, Vancouver,BC,V6M4C6,"C$4,199,000",6 bds,7 ba,"3,535 sqft"
+1050 Chilco St #503, Vancouver,BC,V6G2R8,"C$399,900",1 bd,1 ba,569 sqft
+1234 Pendrell St #102, Vancouver,BC,V6E1L6,"C$749,900",2 bds,1 ba,860 sqft
+1965 E 37th Ave, Vancouver,BC,V5P1E9,"C$2,100,000",5 bds,4 ba,"2,249 sqft"
+3615 Georgia St E, Vancouver,BC,V5K2M2,"C$1,938,000",6 bds,4 ba,"2,029 sqft"
+2715 E Pender St #2, Vancouver,BC,V5K2B9,"C$1,598,000",3 bds,3 ba,"2,006 sqft"
+688 Fairchild Rd #204, Vancouver,BC,V5Z4P7,"C$968,000",2 bds,2 ba,"1,056 sqft"
+1131 Homer St, Vancouver,BC,V6B0B1,"C$1,175,900",2 bds,2 ba,"1,130 sqft"
+46 King Edward Ave W, Vancouver,BC,V5Y2H7,"C$1,699,900",3 bds,3 ba,"1,484 sqft"
+928 Richards St #2002, Vancouver,BC,V6B6P6,"C$549,000",1 bd,1 ba,495 sqft
+550 Taylor St UNIT 1610, Vancouver,BC,V6B1R1,"C$649,000",1 bd,1 ba,589 sqft
+1159 Main St #805, Vancouver,BC,V6A4B6,"C$1,098,000",3 bds,2 ba,"1,183 sqft"
+871 W 33rd Ave, Vancouver,BC,V5V3A4,"C$849,900",1 bd,1 ba,542 sqft
+1255 Seymour St PENTHOUSE 3401, Vancouver,BC,V6B0H1,"C$2,349,000",2 bds,3 ba,"1,415 sqft"
+1837 Matthews Ave, Vancouver,BC,V6J2T4,"C$6,298,000",6 bds,7 ba,"7,871 sqft"
+4078 Knight St #523, Vancouver,BC,V5N5Y9,"C$799,900",2 bds,2 ba,807 sqft
+1238 W 45th Ave, Vancouver,BC,V6M2G7,"C$6,688,000",10 bds,10 ba,"6,057 sqft"
+2411 Heather St #1801, Vancouver,BC,V5Z0B7,"C$2,990,000",3 bds,2 ba,"1,556 sqft"
+2119 E 29th Ave #1, Vancouver,BC,V5N2Z2,"C$1,499,900",3 bds,4 ba,"1,443 sqft"
+4652 Victoria Dr, Vancouver,BC,V5N4N9,"C$1,180,000",3 bds,2 ba,"1,252 sqft"
+2055 Pendrell St #1605, Vancouver,BC,V6G1T9,"C$1,549,000",2 bds,2 ba,"1,114 sqft"
+16 Lakewood Dr #305, Vancouver,BC,V5L4L1,"C$570,000",2 bds,1 ba,807 sqft
+3806 W 3rd Ave, Vancouver,BC,V6R1M4,"C$3,568,000",3 bds,2 ba,"1,868 sqft"
+1136 E 10th Ave, Vancouver,BC,V5T2B7,"C$2,099,900",5 bds,2 ba,"2,168 sqft"
+1417 E 27th Ave, Vancouver,BC,V5N2W5,"C$1,399,000",3 bds,3 ba,"1,495 sqft"
+1637 Angus Dr, Vancouver,BC,V6J4H2,"C$12,988,000",12 bds,12 ba,"12,195 sqft"
+4769 Belmont Ave, Vancouver,BC,V6T1A8,"C$32,000,000",1 bd,1 ba,640 sqft
+5584 Mackenzie St, Vancouver,BC,V6N1H2,"C$3,098,000",5 bds,3 ba,"3,044 sqft"
+3402 Osler St, Vancouver,BC,V6H2W3,"C$19,990,000",6 bds,10 ba,"9,655 sqft"
+3852 W 50th Ave, Vancouver,BC,V6N3V5,"C$5,380,000",5 bds,6 ba,"4,027 sqft"
+1307 W 41st Ave, Vancouver,BC,V6M1X4,"C$4,399,000",4 bds,2 ba,"2,800 sqft"
+4575 Alexandra St, Vancouver,BC,V6J4C9,"C$4,777,000",5 bds,5 ba,"4,246 sqft"
+2112 Prince Edward St, Vancouver,BC,V5T3M3,"C$2,299,000",3 bds,4 ba,"1,720 sqft"
+1981 W 19th Ave, Vancouver,BC,V6J2P2,"C$7,990,000",7 bds,6 ba,"6,639 sqft"
+1238 Seymour St #1401, Vancouver,BC,V6B6J3,"C$4,218,000",7 bds,7 ba,"6,555 sqft"
+2239 Saint Catherines St #301, Vancouver,BC,V5T4M9,"C$875,000",2 bds,2 ba,869 sqft
+4417 W 16th Ave, Vancouver,BC,V6R3E7,"C$2,299,000",3 bds,3 ba,"1,589 sqft"
+1200 Alberni St #2903, Vancouver,BC,V6E1A6,"C$1,388,000",3 bds,2 ba,"1,141 sqft"
+5288 Melbourne St #1905, Vancouver,BC,V5R6E6,"C$869,000",3 bds,2 ba,996 sqft
+6836 Arbutus St, Vancouver,BC,V6P5S7,"C$9,980,000",8 bds,9 ba,"8,655 sqft"
+2047 Mannering Ave, Vancouver,BC,V5N3C2,"C$1,728,800",4 bds,2 ba,"2,018 sqft"
+1335 Howe St #1504, Vancouver,BC,V6Z0H1,"C$2,998,000",3 bds,3 ba,"1,720 sqft"
+6076 Angus Dr, Vancouver,BC,V6M3P1,"C$9,580,000",6 bds,7 ba,"5,209 sqft"
+889 Pacific St #1606, Vancouver,BC,V6Z2P5,"C$1,350,000",2 bds,2 ba,950 sqft
+2243 Oak St, Vancouver,BC,V6H3W6,"C$2,149,000",3 bds,2 ba,"1,991 sqft"
+5380 Oben St #1609, Vancouver,BC,V5R6H7,"C$699,000",2 bds,2 ba,913 sqft
+1691 W 41st Ave, Vancouver,BC,V6M1X9,"C$7,999,800",5 bds,3 ba,"5,467 sqft"
+939 Homer St #1907, Vancouver,BC,V6B2W6,"C$885,000",2 bds,2 ba,912 sqft
+2851 Heather St #604, Vancouver,BC,V5Z0A2,"C$1,250,000",3 bds,2 ba,"1,090 sqft"
+4863 Rupert St, Vancouver,BC,V5R2J6,"C$1,899,000",7 bds,2 ba,"2,208 sqft"
+1396 Burnaby St #201, Vancouver,BC,V6E1P9,"C$799,900",2 bds,1 ba,889 sqft
+760 Kingsway #208, Vancouver,BC,V5V3C1,"C$700,000",2 bds,1 ba,768 sqft
+260 W 63rd Ave, Vancouver,BC,V5X2H8,"C$2,460,000",5 bds,5 ba,"2,523 sqft"
+6299 Angus Dr, Vancouver,BC,V6M3P2,"C$9,880,000",6 bds,6 ba,"5,272 sqft"
+830 E 7th Ave #111, Vancouver,BC,V5T4J2,"C$399,900",Studio,1 ba,439 sqft
+6388 Wiltshire St, Vancouver,BC,V6M3M4,"C$12,980,000",6 bds,8 ba,"7,324 sqft"
+1178 Laurier Ave, Vancouver,BC,V6H1Y5,"C$13,800,000",6 bds,8 ba,"8,515 sqft"
+3166 E 5th Ave, Vancouver,BC,V5M1P1,"C$2,288,000",5 bds,4 ba,"2,232 sqft"
+4687 W 15th Ave, Vancouver,BC,V6R3B5,"C$2,550,000",3 bds,4 ba,"1,537 sqft"
+3088 Laurel St, Vancouver,BC,V5Z3T5,"C$979,000",2 bds,1 ba,874 sqft
+5884 Ormidale St, Vancouver,BC,V5R4R3,"C$1,899,000",5 bds,3 ba,"2,402 sqft"
+1355 Harwood St #203, Vancouver,BC,V6E3W3,"C$949,000",2 bds,2 ba,"1,063 sqft"
+288 E 59th Ave, Vancouver,BC,V5X1X9,"C$3,288,000",8 bds,8 ba,"3,513 sqft"
+2891 E 19th Ave, Vancouver,BC,V5M2R9,"C$1,680,000",5 bds,4 ba,"1,699 sqft"
+5723 Balsam St PENTHOUSE 1, Vancouver,BC,V6M4B8,"C$999,800",2 bds,2 ba,"1,062 sqft"
+938 Smithe St #1515, Vancouver,BC,V6Z3H8,"C$688,800",1 bd,1 ba,607 sqft
+88 W 1st Ave #602, Vancouver,BC,V5Y0K2,"C$710,000",1 bd,1 ba,563 sqft
+2415 W 6th Ave, Vancouver,BC,V6K1W2,"C$1,358,000",2 bds,2 ba,"1,072 sqft"
+3133 Riverwalk Ave #318, Vancouver,BC,V5S0A7,"C$769,900",2 bds,2 ba,901 sqft
+938 Beatty St, Vancouver,BC,V6Z3G6,"C$999,999",1 bd,2 ba,"1,093 sqft"
+1917 E 22nd Ave, Vancouver,BC,V5N2R2,"C$1,599,000",4 bds,2 ba,"1,787 sqft"
+1333 Hornby St #601, Vancouver,BC,V6Z2C1,"C$469,300",1 bd,1 ba,472 sqft
+3429 W 42nd Ave, Vancouver,BC,V6N3H3,"C$4,276,000",5 bds,4 ba,"2,888 sqft"
+1902 Blenheim St, Vancouver,BC,V6K4H9,"C$3,750,000",10 bds,7 ba,"4,445 sqft"
+3579 W 50th Ave, Vancouver,BC,V6N3V3,"C$3,880,000",5 bds,5 ba,"3,315 sqft"
+E 35th Ave #1391, Vancouver,BC,V5W1A6,"C$1,988,000",6 bds,3 ba,"2,420 sqft"
+1226 W 26th Ave, Vancouver,BC,V6H2A9,"C$2,049,900",3 bds,4 ba,"1,802 sqft"
+1568 Alberni St #PENTHOUSE 1, Vancouver,BC,V6G1A5,"C$18,900,000",3 bds,5 ba,"4,346 sqft"
+2731 Sophia St, Vancouver,BC,V5T3L1,"C$949,000",2 bds,1 ba,928 sqft
+1718 W 61st Ave, Vancouver,BC,V6P2C3,"C$5,998,000",6 bds,7 ba,"4,343 sqft"
+667 Howe St #4801, Vancouver,BC,V6C0B5,"C$18,880,000",4 bds,7 ba,"7,214 sqft"
+1564 W 26th Ave, Vancouver,BC,V6J2W9,"C$5,280,000",5 bds,4 ba,"3,877 sqft"
+1615 Frances St #201, Vancouver,BC,V5L1Z3,"C$878,000",2 bds,2 ba,927 sqft
+4677 Simpson Ave, Vancouver,BC,V6R1C2,"C$11,580,000",5 bds,5 ba,"4,190 sqft"
+5961 Churchill St, Vancouver,BC,V6M3H4,"C$14,588,000",5 bds,8 ba,"6,402 sqft"
+6615 Balsam St, Vancouver,BC,V6P5W8,"C$15,700,000",7 bds,8 ba,"6,912 sqft"
+6188 Adera St, Vancouver,BC,V6M3J6,"C$16,880,000",6 bds,8 ba,"7,103 sqft"
+2537 Trinity St, Vancouver,BC,V5K1E3,"C$1,999,000",5 bds,3 ba,"2,418 sqft"
+3592 Turner St, Vancouver,BC,V5K2H9,"C$1,099,000",3 bds,4 ba,"1,315 sqft"
+3449 W 7th Ave, Vancouver,BC,V6R1W2,"C$2,898,000",5 bds,4 ba,"2,489 sqft"
+4938 Arbutus St, Vancouver,BC,V6M3W1,"C$5,880,000",5 bds,3 ba,"2,374 sqft"
+3199 Saint George St, Vancouver,BC,V5T3R9,"C$1,499,000",3 bds,2 ba,"1,294 sqft"
+811 Helmcken St #1702, Vancouver,BC,V6Z1B1,"C$828,000",2 bds,2 ba,806 sqft
+3438 Sawmill Cres #319, Vancouver,BC,V5S0E3,"C$599,800",1 bd,1 ba,601 sqft
+1012 Beach Ave #402, Vancouver,BC,V6E1T7,"C$1,999,000",2 bds,2 ba,"1,606 sqft"
+3731 W 6th Ave #106, Vancouver,BC,V6R1T8,"C$585,800",1 bd,1 ba,735 sqft
+3746 Inverness St, Vancouver,BC,V5V4V9,"C$1,449,900",6 bds,4 ba,"2,050 sqft"
+5189 Connaught Dr, Vancouver,BC,V6M3G2,"C$8,800,000",6 bds,6 ba,"6,129 sqft"
+2248 E 3rd Ave, Vancouver,BC,V5N1J1,"C$1,625,000",3 bds,3 ba,"2,352 sqft"
+5266 Fraser St, Vancouver,BC,V5W2Y9,"C$1,498,800",3 bds,2 ba,"1,464 sqft"
+5555 Victoria Dr #225, Vancouver,BC,V5P4Y3,"C$699,000",2 bds,2 ba,"1,127 sqft"
+2783 W 8th Ave, Vancouver,BC,V6K2B7,"C$1,899,000",4 bds,3 ba,"1,380 sqft"
+1625 E 8th Ave, Vancouver,BC,V5N1T6,"C$1,545,000",3 bds,2 ba,"1,502 sqft"
+1332 W 47th Ave, Vancouver,BC,V6M2L8,"C$5,990,000",5 bds,7 ba,"4,732 sqft"
+2828 Wall St, Vancouver,BC,V5K1B2,"C$2,299,000",4 bds,4 ba,"2,083 sqft"
+2433 Broadway W, Vancouver,BC,V6K2E8,"C$1,798,000",3 bds,4 ba,"1,583 sqft"
+1130 Ironwork Pass, Vancouver,BC,V6H3P1,"C$1,248,800",2 bds,2 ba,"1,245 sqft"
+1251 Cardero St #1102, Vancouver,BC,V6G2H9,"C$399,000",1 bd,1 ba,592 sqft
+4465 Skeena St, Vancouver,BC,V5R2L8,"C$1,699,000",4 bds,4 ba,"2,520 sqft"
+548 Georgia St E #2, Vancouver,BC,V6A1Z9,"C$1,388,000",3 bds,2 ba,"1,832 sqft"
+3418 Adanac St #11, Vancouver,BC,V5K5H5,"C$969,000",3 bds,2 ba,"1,358 sqft"
+1559 E 41st Ave, Vancouver,BC,V5P1K3,"C$1,399,000",3 bds,2 ba,"1,642 sqft"
+1166 E 11th Ave #1, Vancouver,BC,V5T2G3,"C$1,998,800",4 bds,4 ba,"1,621 sqft"
+2238 Eton St PENTHOUSE 6, Vancouver,BC,V5L1C8,"C$543,000",1 bd,1 ba,650 sqft
+688 W 29th Ave, Vancouver,BC,V5Z2H9,"C$4,990,000",5 bds,4 ba,"1,998 sqft"
+3132 W 7th Ave, Vancouver,BC,V6K2A1,"C$1,628,000",2 bds,2 ba,"1,124 sqft"
+3850 Point Grey Rd, Vancouver,BC,V6R1B4,"C$6,888,000",4 bds,5 ba,"5,011 sqft"
+2707 E 26th Ave, Vancouver,BC,V5R1M1,"C$1,399,000",3 bds,4 ba,"1,285 sqft"
+2121 W 6th Ave #215, Vancouver,BC,V6K1V5,"C$1,449,000",3 bds,2 ba,"1,267 sqft"
+233 Abbott St #306, Vancouver,BC,V6B2K7,"C$419,900",1 bd,1 ba,510 sqft
+762 E Pender St, Vancouver,BC,V6A1V7,"C$1,698,000",3 bds,3 ba,"1,711 sqft"
+5187 Culloden St, Vancouver,BC,V5W3R5,"C$2,589,000",5 bds,4 ba,"2,894 sqft"
+1119 Pendrell St, Vancouver,BC,V6E1L3,"C$2,350,000",2 bds,3 ba,"1,675 sqft"
+3522 SW Marine Dr, Vancouver,BC,V6N3Z2,"C$3,999,999",3 bds,4 ba,"3,085 sqft"
+1460 Bute St #201, Vancouver,BC,V6E2A7,"C$2,980,000",2 bds,2 ba,"1,477 sqft"
+1937 Creelman Ave, Vancouver,BC,V6J1B8,"C$1,888,000",3 bds,2 ba,"1,479 sqft"
+501 Pacific St #203, Vancouver,BC,V6Z2X6,"C$899,900",2 bds,1 ba,866 sqft
+1133 Keefer St, Vancouver,BC,V6A1Z2,"C$1,490,000",5 bds,2 ba,"2,100 sqft"
+1790 Angus Dr, Vancouver,BC,V6J4H5,"C$13,800,000",7 bds,4 ba,"5,613 sqft"
+3186 Grant St, Vancouver,BC,V5K3H9,"C$1,828,000",4 bds,4 ba,"1,830 sqft"
+2550 Garden Dr #111, Vancouver,BC,V5N4X6,"C$594,900",Studio,1 ba,425 sqft
+2551 Triumph St, Vancouver,BC,V5K1S7,"C$1,479,000",3 bds,4 ba,"1,238 sqft"
+1533 Balfour Ave, Vancouver,BC,V6J2V1,"C$12,980,000",7 bds,9 ba,"11,543 sqft"
+4215 W 13th Ave #1, Vancouver,BC,V6R2T7,"C$2,499,000",4 bds,4 ba,"1,905 sqft"
+2450 Cornwall Ave #205, Vancouver,BC,V6K1B8,"C$949,900",2 bds,2 ba,917 sqft
+5189 Gaston St #1303, Vancouver,BC,V5R6C7,"C$599,000",2 bds,2 ba,759 sqft
+548 Georgia St E #1, Vancouver,BC,V6A1Z9,"C$799,000",2 bds,2 ba,815 sqft
+156 W 62nd Ave, Vancouver,BC,V5X2E1,"C$1,999,999",5 bds,3 ba,"2,656 sqft"
+464 E 12th Ave, Vancouver,BC,V5T2H4,"C$1,648,000",5 bds,2 ba,"2,040 sqft"
+2250 W 43rd Ave #203, Vancouver,BC,V6M2E3,"C$468,000",1 bd,1 ba,845 sqft
+2250 SE Marine Dr #202, Vancouver,BC,V5P2S2,"C$897,500",3 bds,2 ba,"1,238 sqft"
+3368 Main St #203, Vancouver,BC,V5V3M7,"C$1,060,000",3 bds,2 ba,"1,114 sqft"
+1236 Bidwell St #1601, Vancouver,BC,V6G2K9,"C$3,585,000",2 bds,3 ba,"1,855 sqft"
+1568 Alberni St #2903, Vancouver,BC,V6G1A5,"C$5,500,000",3 bds,3 ba,"2,066 sqft"
+1557 Mariner Walk, Vancouver,BC,V6J4X9,"C$869,000",1 bd,1 ba,965 sqft
+4755 Belmont Ave, Vancouver,BC,V6T1A8,"C$30,000,000",3 bds,2 ba,"2,000 sqft"
+428 E 24th Ave, Vancouver,BC,V5V2A1,"C$2,399,000",5 bds,3 ba,"2,301 sqft"
+308 Jervis Mews, Vancouver,BC,V6C3S6,"C$4,999,900",3 bds,3 ba,"2,483 sqft"
+1425 Lameys Mill Rd #33, Vancouver,BC,V6H3W2,"C$599,900",1 bd,1 ba,949 sqft
+2641 Charles St, Vancouver,BC,V5K3A4,"C$1,968,000",6 bds,5 ba,"1,988 sqft"
+4078 Columbia St #6, Vancouver,BC,V5Y0B6,"C$2,509,900",3 bds,3 ba,"1,583 sqft"
+812 E 51st Ave, Vancouver,BC,V5X1E5,"C$1,249,000",4 bds,3 ba,"1,300 sqft"
+930 Cambie St #1205, Vancouver,BC,V6B5X6,"C$749,000",2 bds,2 ba,830 sqft
+2293 E 37th Ave, Vancouver,BC,V5P1G4,"C$1,199,900",3 bds,3 ba,"1,144 sqft"
+528 E 12th Ave, Vancouver,BC,V5T2H5,"C$1,200,000",3 bds,3 ba,"1,278 sqft"
+4570 W 4th Ave, Vancouver,BC,V6R1R3,"C$3,388,000",4 bds,3 ba,"3,623 sqft"
+4341 Elgin St, Vancouver,BC,V5V4R5,"C$2,088,000",5 bds,2 ba,"2,116 sqft"
+3853 King Edward Ave W, Vancouver,BC,V6S1M9,"C$4,168,000",5 bds,6 ba,"3,284 sqft"
+907 Beach Ave #505, Vancouver,BC,V6Z2R3,"C$699,000",2 bds,2 ba,751 sqft
+250 E 54th Ave, Vancouver,BC,V5X1K9,"C$1,498,000",4 bds,4 ba,"1,381 sqft"
+1152 Georgia St E, Vancouver,BC,V6A2A8,"C$2,550,000",5 bds,4 ba,"2,971 sqft"
+1735 Victoria Dr, Vancouver,BC,V5N4J9,"C$1,750,000",7 bds,4 ba,"2,080 sqft"
+548 E 16th Ave, Vancouver,BC,V5T2V2,"C$1,799,000",6 bds,3 ba,"2,106 sqft"
+1275 Hamilton St #213, Vancouver,BC,V6B1E2,"C$848,000",2 bds,2 ba,834 sqft
+2403 Cambridge St, Vancouver,BC,V5K1L1,"C$1,998,000",6 bds,4 ba,"2,887 sqft"
+3649 Prince Albert St, Vancouver,BC,V5V4H9,"C$1,998,000",6 bds,3 ba,"2,053 sqft"
+1159 Main St #502, Vancouver,BC,V6A4B6,"C$756,000",2 bds,2 ba,"1,053 sqft"
+4560 Belmont Ave, Vancouver,BC,V6R1C4,"C$4,288,000",5 bds,4 ba,"2,314 sqft"
+110 Prior St, Vancouver,BC,V6A0A6,"C$1,299,000",3 bds,3 ba,"1,673 sqft"
+4190 W 11th Ave, Vancouver,BC,V6R2L6,"C$3,088,000",4 bds,3 ba,"3,006 sqft"
+1620 E 47th Ave, Vancouver,BC,V5P1P5,"C$1,399,000",3 bds,4 ba,"1,390 sqft"
+3689 Borham Cres, Vancouver,BC,V5S3X2,"C$918,000",2 bds,3 ba,"1,826 sqft"
+850 E 38th Ave, Vancouver,BC,V5W1J3,"C$1,628,000",3 bds,4 ba,"1,495 sqft"
+1919 Beach Ave #1600, Vancouver,BC,V6G1Z2,"C$5,500,000",4 bds,4 ba,"2,899 sqft"
+3518 King Edward Ave W, Vancouver,BC,V6S1M5,"C$2,780,000",6 bds,4 ba,"2,990 sqft"
+3232 Columbia St, Vancouver,BC,V5Y0B6,"C$1,399,900",2 bds,3 ba,"1,157 sqft"
+3628 W 5th Ave, Vancouver,BC,V6R1S2,"C$2,598,000",5 bds,3 ba,"1,890 sqft"
+433 SW Marine Dr #501, Vancouver,BC,V5X2P9,"C$918,000",2 bds,2 ba,875 sqft
+690 W 6th Ave, Vancouver,BC,V5Z1A3,"C$988,000",2 bds,2 ba,"1,025 sqft"
+2316 Prince Albert St, Vancouver,BC,V5T3W5,"C$1,399,000",6 bds,3 ba,"2,647 sqft"
+2729 Ward St, Vancouver,BC,V5R4S6,"C$999,000",3 bds,2 ba,965 sqft
+1055 W 57th Ave, Vancouver,BC,V6P1S6,"C$4,499,999",8 bds,6 ba,"6,190 sqft"
+1274 Barclay St #107, Vancouver,BC,V6E1H3,"C$749,000",2 bds,1 ba,881 sqft
+4627 W 15th Ave, Vancouver,BC,V6R3B5,"C$4,680,000",4 bds,6 ba,"2,760 sqft"
+888 E 12th Ave, Vancouver,BC,V5T2J2,"C$2,750,000",7 bds,7 ba,"3,255 sqft"
+1003 Burnaby St #1005, Vancouver,BC,V6E4R7,"C$485,000",1 bd,1 ba,403 sqft
+1487 Minto Cres, Vancouver,BC,V6H2J6,"C$12,888,000",6 bds,10 ba,"9,905 sqft"
+1625 Hornby St #1202, Vancouver,BC,V6Z2M2,"C$850,000",2 bds,2 ba,937 sqft
+1290 E 48th Ave, Vancouver,BC,V5W2E7,"C$2,198,000",7 bds,4 ba,"3,326 sqft"
+1315 Cardero St #604, Vancouver,BC,V6G2J2,"C$1,198,000",1 bd,2 ba,"1,027 sqft"
+5808 Crown St, Vancouver,BC,V6N2B7,"C$6,388,000",5 bds,7 ba,"6,012 sqft"
+2095 Beach Ave #503, Vancouver,BC,V6G1Z3,"C$1,099,000",2 bds,2 ba,"1,006 sqft"
+6038 Marguerite St, Vancouver,BC,V6M3L1,"C$12,880,000",5 bds,7 ba,"5,880 sqft"
+1238 Melville St #2601, Vancouver,BC,V6E4N2,"C$1,449,000",3 bds,2 ba,"1,187 sqft"
+4650 NW Marine Dr, Vancouver,BC,V6R1B9,"C$8,888,000",7 bds,5 ba,"3,621 sqft"
+758 E 60th Ave #1, Vancouver,BC,V5X2A4,"C$1,188,000",3 bds,3 ba,"1,097 sqft"
+1199 Marinaside Cres, Vancouver,BC,V6Z2Y2,"C$2,398,000",3 bds,2 ba,"1,589 sqft"
+1789 E 63rd Ave, Vancouver,BC,V5P2L9,"C$1,659,000",5 bds,5 ba,"2,659 sqft"
+3641 W 29th Ave #201, Vancouver,BC,V6S1T5,"C$1,198,000",3 bds,2 ba,"1,387 sqft"
+6975 Prescott St, Vancouver,BC,V6N1N2,"C$7,800,000",2 bds,3 ba,"2,254 sqft"
+5212 Maple St, Vancouver,BC,V6M3T5,"C$4,378,000",3 bds,4 ba,"3,092 sqft"
+1425 E 27th Ave, Vancouver,BC,V5N2W5,"C$1,588,000",3 bds,3 ba,"1,385 sqft"
+1861 Beach Ave #5, Vancouver,BC,V6G1Z1,"C$3,998,000",3 bds,3 ba,"2,457 sqft"
+3256 Georgia St E, Vancouver,BC,V5K2L3,"C$1,498,000",2 bds,2 ba,"1,452 sqft"
+1445 Marpole Ave #508, Vancouver,BC,V6H1S5,"C$1,149,000",3 bds,2 ba,"1,399 sqft"
+688 W 6th Ave, Vancouver,BC,V5Z1A3,"C$1,015,000",2 bds,2 ba,"1,071 sqft"
+1728 Cypress St, Vancouver,BC,V6J4W2,"C$1,489,500",2 bds,2 ba,"1,227 sqft"
+1511 Barclay St, Vancouver,BC,V6G1J8,"C$2,998,000",4 bds,3 ba,"2,542 sqft"
+2959 W 16th Ave, Vancouver,BC,V6K3C7,"C$3,998,000",5 bds,5 ba,"2,886 sqft"
+1133 Cypress St, Vancouver,BC,V6J3K8,"C$5,678,000",4 bds,6 ba,"4,857 sqft"
+1603 Matthews Ave, Vancouver,BC,V6J2T1,"C$19,000,000",7 bds,8 ba,"8,170 sqft"
+1349 E 14th Ave, Vancouver,BC,V5N2C7,"C$1,898,000",6 bds,2 ba,"1,917 sqft"
+4390 Kaslo St, Vancouver,BC,V5R2B7,"C$3,651,763",Studio,1 ba,"2,288 sqft"
+3941 W 33rd Ave, Vancouver,BC,V6N2H7,"C$2,790,000",5 bds,3 ba,"1,996 sqft"
+4655 Rupert St, Vancouver,BC,V5R2J4,"C$1,399,000",4 bds,2 ba,"2,200 sqft"
+1790 Bayshore Dr PENTHOUSE 3, Vancouver,BC,V6G3G5,"C$5,499,800",3 bds,4 ba,"2,528 sqft"
+830 E 14th Ave, Vancouver,BC,V5T2N6,"C$2,498,000",4 bds,4 ba,"3,299 sqft"
+2232 Renfrew St #1, Vancouver,BC,V5M3J7,"C$1,491,000",4 bds,3 ba,"1,710 sqft"
+1350 W 32nd Ave, Vancouver,BC,V6H2J3,"C$11,888,000",8 bds,9 ba,"9,087 sqft"
+827 E 16th Ave, Vancouver,BC,V5T2V7,"C$2,248,000",3 bds,2 ba,"2,688 sqft"
+2408 W 22nd Ave, Vancouver,BC,V6L1L9,"C$2,938,000",3 bds,2 ba,"2,279 sqft"
+3428 Adanac St #13, Vancouver,BC,V5K5H5,"C$989,000",3 bds,3 ba,"1,404 sqft"
+3557 Marshall St, Vancouver,BC,V5N4S2,"C$1,550,000",4 bds,2 ba,"1,666 sqft"
+1296 W 6th Ave, Vancouver,BC,V6H1A5,"C$1,199,000",2 bds,2 ba,"1,105 sqft"
+3337 Quesnel Dr, Vancouver,BC,V6S1Z7,"C$4,299,000",6 bds,4 ba,"2,555 sqft"
+5189 Cambie St #501, Vancouver,BC,V5Z0J4,"C$2,088,000",3 bds,3 ba,"1,686 sqft"
+1712 E 34th Ave, Vancouver,BC,V5P1A3,"C$1,998,000",7 bds,6 ba,"2,421 sqft"
+950 Cambie St #2104, Vancouver,BC,V6B5X5,"C$1,048,000",2 bds,2 ba,"1,108 sqft"
+2658 Waterloo St, Vancouver,BC,V6R3H7,"C$2,999,900",5 bds,5 ba,"1,925 sqft"
+4955 Somerville St, Vancouver,BC,V5W3H1,"C$2,099,000",5 bds,3 ba,"2,381 sqft"
+233 Robson St #603, Vancouver,BC,V6B0E8,"C$858,000",3 bds,1 ba,977 sqft
+5350 Balsam St #503, Vancouver,BC,V6M4B4,"C$798,000",2 bds,2 ba,880 sqft
+950 Bidwell St PENTHOUSE 2, Vancouver,BC,V6G2J9,"C$1,249,000",2 bds,2 ba,"1,068 sqft"
+2817 Clark Dr #201, Vancouver,BC,V5N3H7,"C$588,000",2 bds,2 ba,696 sqft
+3204 Coleridge Ave, Vancouver,BC,V5S3A5,"C$1,998,888",3 bds,2 ba,"1,726 sqft"
+138 Hastings St E #605, Vancouver,BC,V6A0E6,"C$385,000",1 bd,1 ba,443 sqft
+3379 Heather St, Vancouver,BC,V5Z3K6,"C$2,650,000",6 bds,3 ba,"2,386 sqft"
+4347 W 9th Ave, Vancouver,BC,V6R2C8,"C$4,999,000",5 bds,6 ba,"3,709 sqft"
+845 Chilco St #1501, Vancouver,BC,V6G2R2,"C$3,850,000",4 bds,3 ba,"2,041 sqft"
+3839 W 35th Ave, Vancouver,BC,V6N2N8,"C$6,388,000",8 bds,6 ba,"4,545 sqft"
+2545 Broadway W #216, Vancouver,BC,V6K2E9,"C$999,000",2 bds,2 ba,858 sqft
+4586 W 8th Ave, Vancouver,BC,V6R2A5,"C$2,880,000",5 bds,3 ba,"2,361 sqft"
+150 Cordova St E #903, Vancouver,BC,V6A0E7,"C$469,900",Studio,1 ba,519 sqft
+3315 Knight St, Vancouver,BC,V5N3K7,"C$1,388,000",3 bds,2 ba,"1,638 sqft"
+1077 Cordova St W PENTHOUSE 4201, Vancouver,BC,V6C2C6,"C$18,880,000",3 bds,5 ba,"6,041 sqft"
+885 Cambie St #2500, Vancouver,BC,V6B0R6,"C$9,898,000",5 bds,6 ba,"4,591 sqft"
+1050 Chilco St #606, Vancouver,BC,V6G2R8,"C$479,000",1 bd,1 ba,752 sqft
+1222 Victoria Dr, Vancouver,BC,V5L4H3,"C$2,375,000",5 bds,4 ba,"2,069 sqft"
+1066 Hamilton St #205, Vancouver,BC,V6B2R9,"C$949,000",1 bd,1 ba,"1,002 sqft"
+3644 E 28th Ave #3, Vancouver,BC,V5R1T7,"C$1,299,000",3 bds,3 ba,"1,609 sqft"
+2549 E Kent Ave N, Vancouver,BC,V5S2H7,"C$2,750,000",3 bds,4 ba,"3,004 sqft"
+1777 Bayshore Dr PENTHOUSE 2, Vancouver,BC,V6G3H2,"C$7,000,000",4 bds,4 ba,"3,046 sqft"
+1895 E 39th Ave, Vancouver,BC,V5P1H5,"C$2,588,000",6 bds,6 ba,"2,776 sqft"
+3123 W 27th Ave, Vancouver,BC,V6L1W6,"C$3,490,000",4 bds,4 ba,"2,564 sqft"
+183 Keefer Pl #904, Vancouver,BC,V6B6B9,"C$999,999",2 bds,2 ba,"1,186 sqft"
+2811 W 12th Ave, Vancouver,BC,V6K2R1,"C$3,658,000",6 bds,6 ba,"2,887 sqft"
+3364 Marquette Cres #439, Vancouver,BC,V5S4K4,"C$699,900",2 bds,2 ba,"1,217 sqft"
+6262 Angus Dr, Vancouver,BC,V6M3P3,"C$10,388,000",6 bds,7 ba,"5,406 sqft"
+625 E 44th Ave, Vancouver,BC,V5W1W4,"C$1,750,000",7 bds,6 ba,"3,661 sqft"
+3588 Sawmill Cres #101, Vancouver,BC,V5S0E3,"C$980,000",3 bds,3 ba,"1,213 sqft"
+1128 Quebec St #1806, Vancouver,BC,V6A4E1,"C$1,748,888",3 bds,2 ba,"1,462 sqft"
+1386 W 73rd Ave #102, Vancouver,BC,V6P3E8,"C$599,000",2 bds,2 ba,873 sqft
+5058 Joyce St #1208, Vancouver,BC,V5R0J9,"C$538,000",1 bd,1 ba,439 sqft
+6926 Blenheim St, Vancouver,BC,V6N1R9,"C$5,998,000",4 bds,5 ba,"3,610 sqft"
+1188 Howe St #2303, Vancouver,BC,V6Z2S8,"C$798,000",2 bds,2 ba,805 sqft
+1230 Comox St #303, Vancouver,BC,V6E1K7,"C$849,900",2 bds,2 ba,924 sqft
+983 Hastings St E #202, Vancouver,BC,V6A1P2,"C$669,000",2 bds,1 ba,732 sqft
+1850 Comox St #1206, Vancouver,BC,V6G1R3,"C$489,000",1 bd,1 ba,612 sqft
+1649 W 69th Ave, Vancouver,BC,V6P2W7,"C$2,588,000",10 bds,5 ba,"3,478 sqft"
+2365 W 3rd Ave #301, Vancouver,BC,V6K1L6,"C$998,000",2 bds,2 ba,"1,047 sqft"
+1328 W Pender St #2807, Vancouver,BC,V6E4S9,"C$1,398,000",2 bds,2 ba,"1,193 sqft"
+1075 W 13th Ave #203, Vancouver,BC,V6H1N1,"C$799,000",2 bds,1 ba,922 sqft
+328 Semlin Dr, Vancouver,BC,V5L0A6,"C$1,199,000",3 bds,4 ba,"1,580 sqft"
+4535 W 1st Ave, Vancouver,BC,V6R1H7,"C$6,998,000",5 bds,5 ba,"4,277 sqft"
+2018 E 6th Ave, Vancouver,BC,V5N1P1,"C$1,349,000",3 bds,2 ba,"1,115 sqft"
+3576 Georgia St E, Vancouver,BC,V5K2L8,"C$2,198,000",6 bds,4 ba,"2,232 sqft"
+155 E 23rd Ave, Vancouver,BC,V5V1X1,"C$2,989,000",4 bds,3 ba,"2,520 sqft"
+1450 Pennyfarthing Dr #1003, Vancouver,BC,V6J4X8,"C$1,148,000",2 bds,2 ba,"1,300 sqft"
+1530 W 8th Ave #805, Vancouver,BC,V6J5M6,"C$1,885,000",2 bds,3 ba,"1,462 sqft"
+4502 Nanaimo St, Vancouver,BC,V5N5J4,"C$1,749,000",6 bds,3 ba,"1,678 sqft"
+1318 W 6th Ave #201, Vancouver,BC,V6H1A7,"C$888,000",2 bds,2 ba,945 sqft
+2767 W 21st Ave, Vancouver,BC,V6L1K4,"C$3,699,000",4 bds,4 ba,"2,424 sqft"
+3132 Maple St, Vancouver,BC,V6J4X3,"C$1,995,000",2 bds,3 ba,"1,890 sqft"
+1500 Howe St #2304, Vancouver,BC,V6Z2N1,"C$1,990,000",3 bds,2 ba,"1,708 sqft"
+1344 Laburnum St, Vancouver,BC,V6J3W3,"C$1,960,000",3 bds,2 ba,"1,367 sqft"
+3513 Triumph St, Vancouver,BC,V5K1S5,"C$1,099,000",3 bds,3 ba,"1,442 sqft"
