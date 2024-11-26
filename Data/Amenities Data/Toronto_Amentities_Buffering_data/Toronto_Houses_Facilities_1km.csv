@@ -1,0 +1,1139 @@
+,street address,Zip/Postal Code,Latitude,Longitude,Neighbourhood,Region,Price,Bedrooms,Bathrooms,Square Footage,Hospital in area,Railway Station in area,School in area,Supermarket in area,Bus Stop in area,Pub in area,Restaurant in area,Cafe in area,Dentist in area,Fast Food in area,Kindergartens in area,Malls in area,Play Ground in area,Parks in area,Post Office in area
+0,1787 Saint Clair Ave W #414,M6N1H9,43.673553,-79.461868,The Junction North,York,525000,2 bds,1 ba,,0,0,2,2,42,3,28,11,0,15,0,0,0,0,1
+1,509 Beecroft Rd #1209,M2N0A3,43.778652,-79.417947,Willowdale South,North York,848000,3 bds,2 ba,,0,1,6,1,64,1,68,18,0,14,0,0,0,0,1
+3,186 Macpherson Ave,M5R1W8,43.677945,-79.396728,The Annex,Central Toronto,2218000,3 bds,3 ba,,0,1,7,2,50,4,47,11,0,8,0,0,0,0,0
+4,195 McCaul St #909,M5T0E5,43.6567,-79.392206,Chinatown,Downtown Toronto,449900,Studio,1 ba,,8,3,83,9,37,17,190,102,0,109,0,0,0,0,4
+5,30 Roehampton Ave UNIT 1902,M4P0B9,43.708432,-79.397532,Davisville North,Central Toronto,630000,2 bds,2 ba,,0,1,5,10,60,7,70,32,3,56,0,0,0,0,4
+6,84 Old Forest Hill Rd,M5P2R5,43.698984,-79.418189,Forest Hill North,Central Toronto,16950000,7 bds,8 ba,,0,0,2,1,50,1,10,4,0,3,0,0,0,0,0
+7,625 Queen St E #607,M4M1G7,43.658001,-79.352987,Studio District,East Toronto,769900,2 bds,1 ba,,2,0,3,3,14,5,32,12,0,12,0,0,0,0,0
+8,320 Dixon Rd #506,M9R1S8,43.696822,-79.552528,Kingsview Village,Etobicoke,399900,2 bds,1 ba,,0,0,5,0,30,0,1,2,0,5,0,0,0,0,0
+9,45 Manning Ave,M6J2K3,43.647598,-79.408882,Little Portugal,West Toronto,999999,3 bds,1 ba,,1,0,4,5,20,10,100,47,0,57,0,0,0,0,3
+10,41 Pinto Dr,M2J3T9,43.791871,-79.339242,Fairview,North York,1149000,6 bds,3 ba,"1,855 sqft",0,0,4,0,19,0,0,1,0,0,0,0,0,0,0
+11,3 Chilcot Ave,M9W1T9,43.713267,-79.551602,Northwest,Etobicoke,798000,4 bds,2 ba,,0,0,2,1,15,0,8,1,0,15,0,0,0,0,0
+12,2 Sonic Way #1708,M3C0P2,43.719497,-79.336408,Flemingdon Park,North York,499000,1 bd,1 ba,,0,0,0,1,35,0,7,0,0,4,0,0,0,0,1
+13,53 Hazelton Ave,M5R2E3,43.672448,-79.393529,The Annex,Central Toronto,6880000,3 bds,4 ba,,0,4,61,7,72,9,85,46,0,48,0,0,0,0,2
+14,80 John St #3201,M5V3X4,43.646874,-79.390188,CN Tower,Downtown Toronto,1550000,2 bds,2 ba,,0,3,10,11,11,32,183,96,0,181,0,0,0,0,7
+15,7 Carlton St #704,M5B2M3,43.661094,-79.38259,Ryerson,Downtown Toronto,628888,1 bd,1 ba,670 sqft,6,6,61,18,67,18,175,97,0,172,0,0,0,0,5
+16,37 Pringdale Gardens Cir,M1J0B1,43.742145,-79.24373,Scarborough Village,Scarborough,899900,5 bds,4 ba,,0,0,3,0,43,1,7,1,0,5,0,0,0,0,1
+17,10 Ed Clark Gdns #14,M6N3A9,43.674272,-79.46257,The Junction North,York,949900,3 bds,2 ba,"1,231 sqft",0,0,1,2,44,1,24,8,0,14,0,0,0,0,1
+18,12 Waring Ct,M2N4G7,43.776906,-79.401025,Willowdale South,North York,3998800,5 bds,7 ba,,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0
+19,60 Colborne St #1608,M5E0B7,43.649288,-79.374406,Berczy Park,Downtown Toronto,475000,1 bd,1 ba,,0,4,14,12,83,28,142,95,0,163,0,0,0,0,10
+20,185 Roehampton Ave #2907,M4P0C6,43.708956,-79.392982,Davisville North,Central Toronto,550000,1 bd,1 ba,,0,1,6,10,62,7,78,29,3,55,0,0,0,0,4
+21,1 Sudbury St #101,M6J3W6,43.641055,-79.417998,Little Portugal,West Toronto,679000,2 bds,1 ba,,0,1,2,5,28,7,71,30,0,34,0,0,0,0,1
+22,51 Harrison Garden Blvd #707,M2N7G4,43.756666,-79.407784,Willowdale South,North York,498800,2 bds,2 ba,,0,1,0,5,37,0,18,9,0,27,0,0,0,0,0
+23,36 Lisgar St #1010,M6J0C7,43.641739,-79.423316,Little Portugal,West Toronto,499900,2 bds,2 ba,,0,1,3,7,40,8,82,33,0,36,0,0,0,0,2
+24,5765 Yonge St #1204,M2M4H9,43.783102,-79.415166,Newtonbrook,North York,598800,3 bds,2 ba,,0,1,5,1,81,1,65,19,0,14,0,0,0,0,2
+25,41 Dearham Wood,M1E1S2,43.752788,-79.189511,Guildwood,Scarborough,1106600,4 bds,2 ba,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,17 Bathurst St #4205,M5V0N1,43.637435,-79.398908,CN Tower,Downtown Toronto,619995,1 bd,1 ba,,0,0,2,6,11,8,56,24,0,17,0,0,0,0,4
+27,25 Finchley Rd,M9A2X4,43.657715,-79.526342,Islington Avenue,Etobicoke,3450000,4 bds,4 ba,,0,0,1,2,36,0,3,4,0,5,0,0,0,0,2
+28,665 Queen St E #412,M4M1G6,43.658361,-79.351159,Studio District,East Toronto,849900,2 bds,2 ba,,2,0,2,3,10,6,36,13,0,12,0,0,0,0,0
+29,3865 Lake Shore Blvd W #217,M8W0A2,43.589859,-79.545165,Alderwood,Etobicoke,650000,2 bds,2 ba,,0,0,2,0,18,1,7,4,0,5,0,0,0,0,1
+30,270 Queens Quay W #805,M5V3J2,43.639173,-79.386389,CN Tower,Downtown Toronto,685900,3 bds,1 ba,,0,3,0,8,5,11,83,54,0,121,0,0,0,0,3
+31,20 Amesbury Dr,M6M4H4,43.701261,-79.481426,Del Ray,York,1099000,3 bds,2 ba,,0,0,2,1,40,0,7,5,0,4,0,0,0,0,1
+32,160 The Donway W #403,M3C2G1,43.73383,-79.34844,Flemingdon Park,North York,424900,2 bds,1 ba,,0,0,4,2,52,1,11,7,0,8,0,0,0,0,1
+33,30 Western Battery Rd #316,M6K3N9,43.639688,-79.412489,Brockton,West Toronto,549900,1 bd,1 ba,,0,1,1,3,31,7,52,34,0,24,0,0,0,0,1
+34,56 Grierson Rd,M9W3R3,43.715143,-79.545919,Northwest,Etobicoke,799000,3 bds,2 ba,,0,0,1,1,14,0,0,0,0,4,0,0,0,0,0
+35,41 Markbrook Ln #614,M9V5E6,43.75828,-79.58639,Albion Gardens,Etobicoke,554999,1 bd,2 ba,776 sqft,0,0,2,1,17,0,3,0,0,2,0,0,0,0,1
+36,600 Fleet St #717,M5V1B7,43.636698,-79.400078,CN Tower,Downtown Toronto,748800,2 bds,2 ba,,0,0,1,6,12,8,44,22,0,17,0,0,0,0,3
+37,170 Bayview Ave #711,M5A0M4,43.655305,-79.35375,Harbourfront,Downtown Toronto,625000,1 bd,1 ba,,0,0,4,1,14,6,25,17,0,10,0,0,0,0,0
+38,11 Wellesley St W #612,M4Y0G4,43.664526,-79.385583,Church and Wellesley,Downtown Toronto,699000,2 bds,1 ba,,5,6,64,17,73,17,162,96,0,137,0,0,0,0,4
+39,295 Downsview Park Blvd,M3K0B6,43.73797,-79.476415,CFB Toronto,North York,995000,5 bds,4 ba,,0,0,2,0,7,0,0,0,0,0,0,0,0,0,0
+40,333 Adelaide St E #410,M5A4T4,43.651843,-79.369052,Harbourfront,Downtown Toronto,599000,1 bd,1 ba,,0,0,6,10,68,16,96,49,0,58,0,0,0,0,5
+41,62 Schell Ave,M6E2S9,43.698338,-79.45509,Caledonia-Fairbanks,York,1299900,4 bds,3 ba,,0,0,1,1,40,0,19,4,0,15,0,0,0,0,1
+42,64 Glengowan Rd,M4N1G4,43.721159,-79.392357,Lawrence Park,Central Toronto,9950000,6 bds,6 ba,,0,0,2,0,30,0,4,0,0,0,0,0,0,0,0
+43,501 Adelaide St W #1108,M5V0R3,43.645422,-79.401295,CN Tower,Downtown Toronto,629000,1 bd,1 ba,,1,0,5,12,13,15,150,60,0,70,0,0,0,0,7
+44,260 Queens Quay W #1304,M5J2N3,43.63928,-79.385715,Harbourfront East,Downtown Toronto,629000,1 bd,1 ba,,0,3,0,8,7,13,80,59,0,123,0,0,0,0,3
+45,70 Annie Craig Dr #4802,M8V0G2,43.624739,-79.478962,Humber Bay Shores,Etobicoke,769800,2 bds,2 ba,,0,0,1,1,23,0,12,8,0,9,0,0,0,0,0
+46,801 King St W #325,M5V3C9,43.642734,-79.40707,CN Tower,Downtown Toronto,499000,2 bds,1 ba,,0,0,2,6,25,11,77,36,0,31,0,0,0,0,4
+47,43 Millburn Dr,M9B2W8,43.663271,-79.56261,Cloverdale,Etobicoke,2699000,7 bds,5 ba,,0,0,3,0,19,0,0,0,0,0,0,0,0,0,1
+48,32 Lyme Regis Cres,M1M1E4,43.718741,-79.228161,Cliffcrest,Scarborough,3350000,5 bds,5 ba,,0,0,4,2,16,1,10,0,0,5,0,0,0,0,1
+49,278 Dawlish Ave,M4N1J5,43.724134,-79.383185,Lawrence Park,Central Toronto,4395000,5 bds,5 ba,,12,0,17,0,22,0,1,2,0,3,0,0,0,0,0
+50,52 Amiens Rd,M1E3S8,43.776204,-79.188186,Guildwood,Scarborough,1299000,4 bds,2 ba,,0,0,0,0,0,0,0,6,0,12,0,0,0,0,1
+51,120 Harrison Garden Blvd #2003,M2N,43.757733,-79.403149,Willowdale South,North York,788000,2 bds,2 ba,,0,1,0,5,39,0,16,9,0,18,0,0,0,0,0
+52,21 Grand Magazine St #1907,M5V1B5,43.636466,-79.402056,CN Tower,Downtown Toronto,799900,2 bds,2 ba,,0,0,1,6,16,7,39,22,0,10,0,0,0,0,3
+53,215 Fort York Blvd #301,M5V4A2,43.636466,-79.404588,CN Tower,Downtown Toronto,599900,2 bds,1 ba,,0,0,1,5,18,5,32,20,0,14,0,0,0,0,3
+54,11 Beaumont Rd,M4W1V4,43.679924,-79.371459,Rosedale,Downtown Toronto,19995000,4 bds,4 ba,,0,1,2,0,33,0,0,1,0,0,0,0,0,0,0
+55,5 Dewbourne Ave,M5P1Z1,43.699375,-79.420442,Forest Hill North,Central Toronto,14850000,6 bds,6 ba,,0,0,2,2,54,1,17,4,0,4,0,0,0,0,1
+56,542 Delaware Ave N,M6H2V2,43.672077,-79.432791,Dovercourt Village,West Toronto,1199000,4 bds,2 ba,,0,0,4,1,63,2,21,7,0,9,0,0,0,0,0
+57,16 Yonge St SUITE 4006,M5E2A3,43.64325,-79.3764,Berczy Park,Downtown Toronto,1649999,3 bds,2 ba,"1,266 sqft",0,3,0,11,52,27,117,85,0,135,0,0,0,0,11
+58,185 Roehampton Ave #3201,M4P0C6,43.708956,-79.392982,Davisville North,Central Toronto,759000,2 bds,2 ba,,0,1,6,10,62,7,78,29,3,55,0,0,0,0,4
+59,3845 Lake Shore Blvd W UNIT 1601,M8W4Y3,43.590672,-79.544208,Alderwood,Etobicoke,750000,3 bds,2 ba,,0,0,2,0,19,2,7,4,0,7,0,0,0,0,1
+60,50 Lombard St #1903,M5C2X4,43.651856,-79.376003,St. James Town,Downtown Toronto,549000,1 bd,1 ba,,0,5,39,13,74,27,160,106,0,194,0,0,0,0,11
+61,455 Wellington St W #509,M5V0V8,43.643152,-79.397171,CN Tower,Downtown Toronto,2250000,3 bds,3 ba,,0,0,4,13,12,19,141,52,0,68,0,0,0,0,7
+62,87 Peter St UNIT 2915,M5V2G4,43.646776,-79.392435,CN Tower,Downtown Toronto,595000,1 bd,1 ba,,0,2,11,11,7,31,187,78,0,140,0,0,0,0,5
+63,408 Browns Line E #308,M8W0C3,43.601488,-79.54545,Alderwood,Etobicoke,508000,1 bd,1 ba,,0,0,2,2,19,2,8,5,0,6,0,0,0,0,0
+64,40 Homewood Ave #2803,M4Y2K2,43.664229,-79.375535,Church and Wellesley,Downtown Toronto,465000,1 bd,1 ba,,1,3,45,16,57,10,105,43,0,80,0,0,0,0,1
+65,1150 Briar Hill Ave #306,M6B0A9,43.703091,-79.452004,Glencairn,North York,599000,3 bds,2 ba,,0,0,2,0,36,0,21,5,0,13,0,0,0,0,1
+66,369 Albany Ave #5,M5R3E2,43.676334,-79.414275,The Annex,Central Toronto,889000,2 bds,1 ba,,0,2,8,1,53,1,26,11,0,15,0,0,0,0,0
+67,38 Joe Shuster Way #106,M6K0A5,43.640417,-79.424649,Brockton,West Toronto,619900,2 bds,1 ba,,0,1,2,6,35,6,65,30,0,29,0,0,0,0,1
+68,1926 Lake Shore Blvd W #1805,M6S1A1,43.635856,-79.467386,Runnymede,West Toronto,766900,2 bds,2 ba,,0,0,0,0,24,0,0,1,0,1,0,0,0,0,0
+69,60 Town Centre Ct #306,M1P0B1,43.7734,-79.255862,Dorset Park,Scarborough,448800,1 bd,1 ba,,0,0,2,1,57,0,6,10,0,38,0,0,0,0,3
+70,190 Borough Dr #302,M1P0B6,43.772874,-79.253995,Dorset Park,Scarborough,759900,3 bds,2 ba,,0,0,2,0,58,0,6,10,0,38,0,0,0,0,3
+71,1400 Kingston Rd #501,M1N0C2,43.686959,-79.272431,Birch Cliff,Scarborough,679000,2 bds,2 ba,,0,0,0,0,34,4,6,2,0,1,0,0,0,0,0
+72,102 George Henry Blvd #15,M2J1E7,43.77432,-79.348116,Fairview,North York,499999,3 bds,2 ba,,0,1,3,2,35,0,2,3,0,16,0,0,0,0,0
+73,9 Valhalla Inn Rd #501,M9B0B2,43.639837,-79.559418,Cloverdale,Etobicoke,549000,2 bds,1 ba,,0,0,3,0,42,0,3,2,0,5,0,0,0,0,1
+74,31 Twyford Rd,M9A1W3,43.665533,-79.539719,Islington Avenue,Etobicoke,6285000,5 bds,7 ba,,0,0,5,1,31,0,0,1,0,1,0,0,0,0,1
+75,861 Sheppard Ave W #15,M3H2T5,43.752102,-79.453675,Bathurst Manor,North York,888000,2 bds,2 ba,,0,0,4,0,39,0,5,2,0,4,0,0,0,0,0
+76,125 Western Battery Rd #2207,M6K3R8,43.639868,-79.416734,Brockton,West Toronto,895000,3 bds,2 ba,,0,1,2,5,32,6,56,30,0,30,0,0,0,0,1
+77,3220 Sheppard Ave E #318,M1T0B7,43.777968,-79.312305,Clarks Corners,Scarborough,897880,2 bds,2 ba,,0,0,3,1,36,0,2,1,0,3,0,0,0,0,1
+78,1 Oregon Trl,M9B1P4,43.639976,-79.552582,Cloverdale,Etobicoke,3489000,6 bds,6 ba,,0,0,4,0,24,1,1,2,0,5,0,0,0,0,2
+79,111 Newton Dr,M2M2N2,43.794606,-79.410102,Newtonbrook,North York,2268000,7 bds,4 ba,,0,0,3,1,45,0,2,3,0,3,0,0,0,0,1
+80,278 Bloor St E #905,M4W3M4,43.672265,-79.380454,Rosedale,Downtown Toronto,1525000,3 bds,2 ba,,1,3,16,12,63,9,84,41,0,61,0,0,0,0,1
+81,30 Anglesey Blvd #G2,M9A3B5,43.663784,-79.522679,Islington Avenue,Etobicoke,1075000,2 bds,2 ba,,0,0,0,1,28,0,0,1,0,1,0,0,0,0,1
+82,55 Stewart St UNIT 625,M5V2V1,43.643237,-79.401278,CN Tower,Downtown Toronto,625000,1 bd,1 ba,,0,0,5,10,13,14,121,45,0,45,0,0,0,0,5
+83,2191 Yonge St #1708,M4S3H8,43.705666,-79.39739,Davisville,Central Toronto,888000,3 bds,2 ba,,0,2,6,11,78,10,71,32,3,63,0,0,0,0,5
+84,271 Park Home Ave,M2R1A1,43.764323,-79.434004,Willowdale West,North York,1499000,4 bds,3 ba,,0,0,2,0,17,0,0,0,0,0,0,0,0,0,0
+85,1 King St W #2402,M5H1A1,43.648987,-79.37807,Adelaide,Downtown Toronto,339900,1 bd,1 ba,,0,7,20,13,67,33,187,126,0,227,0,0,0,0,11
+86,34 Greengate Rd,M3B1E8,43.739958,-79.364228,Don Mills North,North York,7785000,7 bds,7 ba,,0,0,1,0,12,0,1,0,0,0,0,0,0,0,0
+87,10 Wilby Cres #1603,M9N0B6,43.697794,-79.512333,Weston,York,859000,3 bds,2 ba,,3,1,5,1,35,0,10,7,0,14,0,0,0,0,1
+88,85 Drewry Ave,M2M1C9,43.78598,-79.421249,Newtonbrook,North York,2745000,2 bds,1 ba,,0,1,3,2,73,1,24,14,0,11,0,0,0,0,2
+89,5 Whitehall Rd,M4W2C5,43.683971,-79.38242,Rosedale,Downtown Toronto,9488000,5 bds,8 ba,,0,1,3,0,27,0,2,0,0,0,0,0,0,0,0
+90,66 Fontainbleau Dr,M2M1N9,43.793138,-79.432029,Newtonbrook,North York,999800,6 bds,4 ba,,0,0,2,2,35,1,7,0,0,2,0,0,0,0,0
+91,57 Saint Joseph St #523,M5S0C5,43.665388,-79.388021,Harbord,Downtown Toronto,989000,3 bds,2 ba,,7,6,69,15,72,15,142,94,0,120,0,0,0,0,3
+92,365 Beech Ave #219,M4E0C2,43.680037,-79.29045,The Beaches,East Toronto,999900,2 bds,2 ba,,0,0,9,1,32,3,25,11,0,9,0,0,0,0,1
+93,80 Palace Pier Ct #101,M8V4C1,43.630714,-79.474027,Humber Bay Shores,Etobicoke,999000,2 bds,2 ba,,0,0,0,0,22,0,5,6,0,6,0,0,0,0,0
+94,100 Harrison Garden Blvd #L02,M2N0C2,43.756982,-79.4044,Willowdale South,North York,599900,1 bd,1 ba,,0,1,0,5,40,0,17,10,0,26,0,0,0,0,0
+95,70 Forest Manor Rd #3410,M2J0A9,43.689144,-79.404683,Fairview,North York,885000,2 bds,2 ba,,0,0,4,2,42,0,8,5,1,6,0,0,0,0,0
+96,284 Ellis Ave,M6S2X2,43.645729,-79.472703,Runnymede,West Toronto,4250000,6 bds,7 ba,,0,1,1,1,35,3,16,5,0,11,0,0,0,0,1
+97,86 17th St,M8V3K4,43.602095,-79.517563,Humber Bay Shores,Etobicoke,999999,4 bds,4 ba,,0,0,25,0,24,2,8,7,0,12,0,0,0,0,1
+98,3 Dailing Gate,M1B1Z3,43.791382,-79.22969,Rouge,Scarborough,699000,4 bds,3 ba,,0,0,8,1,41,0,5,4,0,5,0,0,0,0,0
+99,120 Parliament St PENTHOUSE 2404,M5A0N6,43.653856,-79.363933,Harbourfront,Downtown Toronto,1069000,3 bds,2 ba,,0,0,9,7,57,5,43,30,0,31,0,0,0,0,0
+100,218 Pleasant Ave,M2M1M5,43.790667,-79.430102,Newtonbrook,North York,3490000,5 bds,7 ba,,0,0,5,2,44,1,7,1,0,14,0,0,0,0,0
+101,210 Westmount Ave,M6E3M8,43.680554,-79.443098,Caledonia-Fairbanks,York,899000,4 bds,3 ba,,0,0,6,1,53,1,44,19,0,17,0,0,0,0,0
+102,11 Carisbrooke Sq,M1B4M2,43.81623,-79.214484,Rouge,Scarborough,1325000,6 bds,5 ba,,0,0,6,2,35,0,0,0,0,0,0,0,0,0,0
+103,2335 1/2 Gerrard St E,M4E2E6,43.685302,-79.293178,The Beaches,East Toronto,699900,3 bds,2 ba,,0,1,7,4,51,1,19,11,0,15,0,0,0,0,2
+104,160 Flemington Rd #512,M6A0A9,43.723077,-79.448251,Lawrence Heights,North York,574900,2 bds,2 ba,,0,2,2,1,61,0,15,9,0,37,0,0,0,0,1
+105,39 Bushell Ave,M4M3B8,43.671322,-79.334877,Studio District,East Toronto,1189000,4 bds,2 ba,,0,0,8,1,39,1,13,7,0,13,0,0,0,0,0
+106,133 Westminster Ave,M6R1N6,43.646774,-79.450533,Parkdale,West Toronto,3129999,5 bds,5 ba,,0,0,5,5,13,4,30,15,0,17,0,0,0,0,2
+107,11B Crawford St #11B,M6K3M3,43.640922,-79.413315,Brockton,West Toronto,999900,3 bds,3 ba,,0,1,2,4,32,7,65,35,0,24,0,0,0,0,2
+108,86 Sloping Sky Mews #TOWNHOUSE 6,M5V0B3,43.636887,-79.403026,CN Tower,Downtown Toronto,1550000,4 bds,3 ba,,0,0,1,5,16,6,40,21,0,10,0,0,0,0,3
+109,993 Queen St W #223,M6J1H2,43.644646,-79.415649,Little Portugal,West Toronto,999990,1 bd,1 ba,,0,0,5,4,23,9,88,37,0,35,0,0,0,0,1
+110,32 Brookfield Rd,M2P1A9,43.741523,-79.400732,York Mills West,North York,5749000,4 bds,5 ba,,0,1,0,0,40,0,5,4,0,7,0,0,0,0,0
+111,535 Brunswick Ave,M5R2Z6,43.673818,-79.410137,The Annex,Central Toronto,1729000,6 bds,3 ba,,0,3,11,3,47,4,60,13,0,21,0,0,0,0,1
+112,88 Anthony Rd,M3K1B4,43.729155,-79.466301,CFB Toronto,North York,1198800,3 bds,3 ba,,0,0,7,0,34,0,11,5,0,6,0,0,0,0,0
+113,36 Park Lawn Rd #203,M8V0E5,43.623467,-79.484321,Humber Bay Shores,Etobicoke,1299999,2 bds,3 ba,,0,0,2,1,29,0,15,10,0,14,0,0,0,0,0
+114,82 Greensides Ave,M6G3P7,43.679843,-79.429992,Christie,Downtown Toronto,1399000,6 bds,3 ba,,0,0,4,1,39,2,39,14,0,11,0,0,0,0,1
+115,259 Claremont St,M6J2N1,43.652938,-79.412094,Little Portugal,West Toronto,1299900,5 bds,4 ba,,1,0,9,2,17,13,101,42,0,50,0,0,0,0,1
+116,570 Wellington St W #13A,M5V2X5,43.642841,-79.403108,CN Tower,Downtown Toronto,1300000,3 bds,2 ba,,0,0,4,8,16,12,109,43,0,43,0,0,0,0,5
+117,51 Lady Bank Rd #501,M8Z0C9,43.624575,-79.511602,Kingsway Park South West,Etobicoke,1099999,3 bds,1 ba,,0,0,1,0,37,3,11,9,1,11,0,0,0,0,0
+118,8 The Esplanade #1908,M5E0A6,43.646227,-79.376346,Berczy Park,Downtown Toronto,670000,2 bds,1 ba,,0,5,5,13,60,30,148,105,0,169,0,0,0,0,11
+119,58 Lytton Blvd,M4R1L3,43.71588,-79.403981,North Toronto West,Central Toronto,3995000,7 bds,5 ba,,0,0,4,3,24,1,27,12,0,11,0,0,0,0,1
+120,676 Richmond St W #106,M6J1C3,43.646269,-79.405919,Little Portugal,West Toronto,879000,1 bd,1 ba,,1,0,4,5,15,12,115,41,0,68,0,0,0,0,3
+121,80 North Dr,M9A4R2,43.678079,-79.501451,Islington Avenue,Etobicoke,8500000,3 bds,5 ba,,0,0,1,1,32,0,3,1,1,3,0,0,0,0,0
+122,8 Eglinton Ave E #1910,M4P0C1,43.707141,-79.397703,Davisville North,Central Toronto,569900,1 bd,1 ba,,0,1,6,10,65,9,69,32,3,60,0,0,0,0,4
+123,2639 Lake Shore Blvd W,M8V1G5,43.603501,-79.492054,Humber Bay Shores,Etobicoke,5600000,7 bds,4 ba,,0,0,2,0,5,0,1,0,0,5,0,0,0,0,0
+124,321 Concord Ave,M6H2P7,43.662575,-79.426988,Dovercourt Village,West Toronto,1199000,4 bds,2 ba,,0,3,3,1,45,8,51,19,0,23,0,0,0,0,2
+125,11 Park Manor Dr,M9B5C1,43.650254,-79.557219,Cloverdale,Etobicoke,1699900,4 bds,3 ba,,0,0,1,0,28,0,2,1,0,5,0,0,0,0,0
+126,38 Dan Leckie Way #2209,M5V2V6,43.637492,-79.398104,CN Tower,Downtown Toronto,689000,2 bds,1 ba,,0,0,2,7,12,6,53,25,0,18,0,0,0,0,3
+127,65 Spring Garden Ave #1802,M2N6H9,43.764832,-79.409426,Willowdale South,North York,1498000,2 bds,2 ba,,0,2,2,7,35,0,33,18,1,35,0,0,0,0,1
+128,83 Anthony Rd,M3K1B5,43.72897,-79.465612,CFB Toronto,North York,2400000,4 bds,5 ba,,0,0,7,0,34,0,11,5,0,6,0,0,0,0,0
+129,31 Russell Hill Rd,M4V2S9,43.681167,-79.402842,Deer Park,Central Toronto,11500000,7 bds,9 ba,,0,1,6,3,49,1,8,6,1,5,0,0,0,0,0
+130,3 Pemberton Ave #2106,M2M4M1,43.780486,-79.413866,Newtonbrook,North York,559000,1 bd,1 ba,,0,1,6,1,76,1,66,18,0,13,0,0,0,0,1
+131,17 Regal Rd,M6H2J5,43.674962,-79.433701,Dovercourt Village,West Toronto,1219000,4 bds,2 ba,,0,0,6,0,61,5,33,12,0,12,0,0,0,0,0
+132,60 Brian Harrison Way #302,M1P5J5,43.774024,-79.258007,Dorset Park,Scarborough,699900,3 bds,2 ba,,0,0,1,2,57,0,6,10,0,38,0,0,0,0,3
+133,399 Lake Promenade,M8W1C3,43.586922,-79.539539,Alderwood,Etobicoke,3495000,4 bds,3 ba,,0,0,2,0,12,1,2,3,0,4,0,0,0,0,1
+134,141 Eastwood Ave,M1N3H4,43.694987,-79.269234,Birch Cliff,Scarborough,799900,3 bds,2 ba,,0,0,1,0,56,4,8,1,0,1,0,0,0,0,0
+135,19 Western Battery Rd #1803,M6K3N9,43.63957,-79.411329,Brockton,West Toronto,659900,2 bds,2 ba,,0,1,1,5,27,6,49,28,0,25,0,0,0,0,2
+136,43 Rusholme Rd,M6J3H3,43.650755,-79.426961,Little Portugal,West Toronto,2899000,5 bds,4 ba,,0,0,8,6,24,8,73,24,0,35,0,0,0,0,2
+137,6 Newmarket Ave,M4C1V7,43.689384,-79.307654,Woodbine Heights,East York,999000,2 bds,2 ba,,0,3,4,0,55,2,11,7,0,7,0,0,0,0,1
+138,7 Ashley Park Rd,M9A4C9,43.662619,-79.516617,Islington Avenue,Etobicoke,9495000,7 bds,7 ba,,0,0,1,1,22,0,1,2,0,5,0,0,0,0,1
+139,54 Judy Sgro Ave,M3L0E4,43.727778,-79.523194,Downsview West,North York,868000,3 bds,3 ba,,0,0,5,0,1,0,0,0,0,0,0,0,0,0,0
+140,50 Yorkville Ave #4403,M4W0A3,43.671667,-79.389667,Rosedale,Downtown Toronto,9975000,2 bds,3 ba,,0,4,43,10,71,12,109,59,0,63,0,0,0,0,2
+141,100 Ardwold Gate,M5R2W2,43.680418,-79.409322,The Annex,Central Toronto,11288000,5 bds,7 ba,,0,2,5,3,49,1,17,10,0,13,0,0,0,0,0
+142,111 Knowles Dr,M1X1T4,43.825488,-79.213639,Upper Rouge,Scarborough,1179000,4 bds,3 ba,,0,0,1,2,15,0,0,0,0,0,0,0,0,0,0
+143,231 Falstaff Ave,M6L2G6,43.718179,-79.490279,Downsview,North York,1999999,5 bds,5 ba,,1,0,5,0,19,0,2,2,1,1,0,0,0,0,0
+144,50 Bruyeres Mews #718,M5V0H8,43.637658,-79.402351,CN Tower,Downtown Toronto,588000,2 bds,1 ba,,0,0,2,6,16,8,45,22,0,11,0,0,0,0,3
+145,48 Lockwood Rd,M4L3M8,43.669468,-79.310099,The Beaches West,East Toronto,1529000,4 bds,3 ba,,0,0,1,1,24,3,14,3,0,14,0,0,0,0,0
+146,200 Manitoba St #210,M8Y3Y9,43.623676,-79.492078,Humber Bay,Etobicoke,789000,2 bds,2 ba,,0,1,4,0,30,1,15,3,0,10,0,0,0,0,0
+147,1787 Saint Clair Ave W #917,M6N1H9,43.673553,-79.461868,The Junction North,York,759900,2 bds,2 ba,,0,0,2,2,42,3,28,11,0,15,0,0,0,0,1
+148,84 Chad Cres,M1B2Z6,43.814889,-79.209796,Rouge,Scarborough,1079000,4 bds,3 ba,,0,0,7,2,42,0,0,0,0,0,0,0,0,0,0
+149,176 Castlefield Ave,M4R1G7,43.710283,-79.40786,North Toronto West,Central Toronto,1719000,4 bds,2 ba,,0,0,4,3,33,3,32,12,0,11,0,0,0,0,1
+150,42 Fishleigh Dr,M1N1H2,43.700556,-79.248654,Birch Cliff,Scarborough,2699900,6 bds,5 ba,,0,0,1,3,13,1,4,0,0,4,0,0,0,0,1
+151,43 Florida Cres,M9M1P4,43.735016,-79.543367,Emery,North York,1388000,4 bds,3 ba,,0,0,3,0,18,0,3,1,0,1,0,0,0,0,0
+152,34 Kippendavie Ave,M4L3R4,43.666604,-79.303104,The Beaches West,East Toronto,1769000,3 bds,2 ba,,0,0,1,3,18,3,21,5,0,14,0,0,0,0,0
+153,203 Parkmount Rd,M4J4V5,43.682084,-79.32556,East Toronto,East York,799000,4 bds,3 ba,,1,2,5,1,51,2,6,5,0,6,0,0,0,0,0
+154,7 Doncaster Ave,M4C1Y4,43.690493,-79.308029,Woodbine Heights,East York,1389000,3 bds,4 ba,,0,3,4,0,59,2,10,7,0,6,0,0,0,0,1
+155,42 Charles St E #2810,M4Y0B7,43.669355,-79.384182,Church and Wellesley,Downtown Toronto,649000,1 bd,1 ba,,2,5,49,15,68,16,131,69,0,106,0,0,0,0,3
+157,29 Tarsus Cres,M1C3W6,43.79372,-79.183513,Highland Creek,Scarborough,1250000,5 bds,4 ba,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+158,101 Dunloe Rd,M5P2T7,43.696392,-79.413647,Forest Hill North,Central Toronto,13990000,5 bds,7 ba,,0,0,2,2,32,1,17,8,0,7,0,0,0,0,0
+159,2 Bellefair Ave UNIT 306,M4L3T8,43.670263,-79.300053,The Beaches West,East Toronto,707000,1 bd,1 ba,,0,0,2,5,26,3,25,5,0,13,0,0,0,0,2
+160,225 Sumach St #2511,M5A0P8,43.661007,-79.360355,Harbourfront,Downtown Toronto,749900,2 bds,2 ba,,2,0,6,6,28,1,31,17,0,9,0,0,0,0,0
+161,20 Edward St #1719,M5G0C5,43.657059,-79.382187,Central Bay Street,Downtown Toronto,579000,1 bd,1 ba,,6,7,43,16,68,17,192,114,0,214,0,0,0,0,9
+162,117 Omni Dr #15,M1P5A5,43.771256,-79.261225,Dorset Park,Scarborough,599900,3 bds,3 ba,,0,0,2,2,43,1,5,10,0,38,0,0,0,0,2
+163,8 Telegram Mews #622,M5V3Z5,43.640493,-79.394916,CN Tower,Downtown Toronto,499000,2 bds,2 ba,,0,0,2,10,10,14,112,43,0,64,0,0,0,0,4
+164,104 Albany Ave,M5R3C4,43.668716,-79.411569,The Annex,Central Toronto,2790000,5 bds,4 ba,,0,4,12,5,54,5,101,32,0,35,0,0,0,0,1
+165,4060 Lawrence Ave E #108,M1E4V4,43.766351,-79.197594,Guildwood,Scarborough,483900,3 bds,3 ba,,0,0,0,0,5,0,0,1,0,3,0,0,0,0,0
+166,20 Blue Jays Way #1106,M5V3W6,43.643797,-79.391668,CN Tower,Downtown Toronto,850000,3 bds,2 ba,,0,2,5,9,7,30,161,66,0,126,0,0,0,0,4
+167,17 Zorra St #701,M8Z0C8,43.621292,-79.52083,Kingsway Park South West,Etobicoke,469900,1 bd,1 ba,,0,0,0,1,37,1,5,8,0,11,0,0,0,0,0
+168,897 Sheppard Ave W #202,M3H2T4,43.751649,-79.455201,Bathurst Manor,North York,489000,1 bd,1 ba,713 sqft,0,1,3,0,50,0,5,2,0,4,0,0,0,0,0
+169,77 Charles St W #906,M5S0B2,43.667717,-79.390434,Harbord,Downtown Toronto,2999000,2 bds,2 ba,,2,6,85,10,75,11,115,72,0,82,0,0,0,0,2
+170,125 Alicewood Ct,M9V3Y1,43.730833,-79.596435,Albion Gardens,Etobicoke,899999,4 bds,2 ba,940 sqft,1,0,5,1,38,0,1,1,0,6,0,0,0,0,0
+171,300 Mill Rd #A31,M9C4W7,43.638084,-79.583984,Bloordale Gardens,Etobicoke,649000,2 bds,2 ba,,0,0,3,0,17,1,0,2,0,2,0,0,0,0,1
+172,40 Fern Ave,M6R1K1,43.646039,-79.441856,Parkdale,West Toronto,1799000,4 bds,3 ba,,0,0,10,4,25,8,53,25,0,29,0,0,0,0,3
+173,290 Adelaide St W #2405,M5V1N1,43.647816,-79.391122,CN Tower,Downtown Toronto,988000,3 bds,2 ba,,1,3,11,12,11,29,209,96,0,171,0,0,0,0,5
+174,78 Harrison Garden Blvd #2305,M2N7E2,43.756049,-79.407113,Willowdale South,North York,978000,3 bds,3 ba,,0,1,0,5,39,0,18,9,0,25,0,0,0,0,0
+175,104 Natal Ave,M1N3V6,43.714075,-79.254723,Birch Cliff,Scarborough,1059000,3 bds,2 ba,,0,1,2,2,52,1,3,0,0,6,0,0,0,0,1
+176,214 Antibes Dr,M2R3H8,43.781975,-79.448556,Willowdale West,North York,768000,4 bds,3 ba,,0,0,4,0,24,0,0,2,0,0,0,0,0,0,0
+177,503 Beecroft Rd #515,M2N0A2,43.778232,-79.417772,Willowdale South,North York,648800,2 bds,1 ba,,0,1,6,1,61,1,68,19,0,14,0,0,0,0,1
+178,163 Brickworks Ln,M6N5H8,43.675475,-79.468816,The Junction North,York,910000,3 bds,4 ba,,0,0,0,4,50,2,21,3,0,19,0,0,0,0,1
+179,56 Amiens Rd,M1E3S8,43.776434,-79.188258,Guildwood,Scarborough,900000,4 bds,2 ba,,0,0,0,0,0,0,0,6,0,12,0,0,0,0,1
+180,50 Ordnance St #1703,M6K0C9,43.639789,-79.409842,Brockton,West Toronto,549900,1 bd,1 ba,,0,0,2,4,28,8,50,30,0,27,0,0,0,0,2
+181,140 Brookside Dr,M4E2M2,43.680619,-79.306407,The Beaches,East Toronto,999888,4 bds,3 ba,,0,2,2,1,40,2,10,7,0,2,0,0,0,0,1
+182,130 River St #2806,M5A0R8,43.661484,-79.358579,Harbourfront,Downtown Toronto,429900,1 bd,2 ba,,2,0,7,5,23,1,36,15,0,14,0,0,0,0,0
+183,2885 Bayview Ave UNIT 717,M2K0A3,43.768608,-79.388063,Bayview Village,North York,689000,2 bds,2 ba,,0,1,3,1,26,0,3,3,0,5,0,0,0,0,0
+184,20 Gladstone Ave #417,M6J0E9,43.643481,-79.427721,Little Portugal,West Toronto,729000,2 bds,2 ba,,0,0,4,8,25,7,76,29,0,36,0,0,0,0,2
+185,570 Oriole Pkwy,M4R2C2,43.705679,-79.406974,North Toronto West,Central Toronto,2395000,5 bds,4 ba,,0,1,2,3,50,4,29,14,0,24,0,0,0,0,2
+186,23 Radwell Cres,M1V2J4,43.81922,-79.289585,Agincourt North,Scarborough,899000,5 bds,4 ba,,0,0,3,0,36,0,13,0,0,0,0,0,0,0,0
+187,1603 Eglinton Ave W #504,M6E0A1,43.697042,-79.443072,Caledonia-Fairbanks,York,768000,3 bds,2 ba,,0,1,5,2,49,0,21,3,0,18,0,0,0,0,1
+189,48 Gondola Cres,M1G2J3,43.767244,-79.209421,Woburn,Scarborough,899000,4 bds,2 ba,,0,0,6,0,27,0,1,0,0,6,0,0,0,0,2
+190,314 Rosemary Rd,M5P3E3,43.696839,-79.421627,Forest Hill North,Central Toronto,10995000,6 bds,9 ba,,0,0,3,1,50,0,13,2,0,6,0,0,0,0,1
+191,18 Oaken Gtwy #18,M2P2A1,43.753729,-79.405545,York Mills West,North York,999000,3 bds,2 ba,,0,0,0,3,34,0,10,7,0,10,0,0,0,0,0
+192,88 Turtle Island Rd #5,M6A2M7,43.722474,-79.444115,Lawrence Heights,North York,899500,3 bds,3 ba,,0,2,2,1,69,0,2,6,0,30,0,0,0,0,0
+193,2 Garden Cir,M4G2X8,43.694975,-79.375138,Leaside,East York,2150000,4 bds,2 ba,,0,0,3,0,25,0,3,2,0,1,0,0,0,0,0
+194,4978 Yonge St UNIT 1911,M2N7G8,43.76562,-79.412725,Willowdale South,North York,529900,1 bd,1 ba,,0,2,4,7,32,0,38,20,1,35,0,0,0,0,1
+195,18 Earnbridge St,M6K1N3,43.643518,-79.432357,Brockton,West Toronto,1999999,4 bds,4 ba,"2,148 sqft",1,0,7,6,29,6,50,25,0,33,0,0,0,0,2
+196,73 Maclean Ave,M4E2Z8,43.670799,-79.290289,The Beaches,East Toronto,2349000,5 bds,5 ba,,0,0,3,3,8,1,23,4,0,8,0,0,0,0,2
+197,3 Biggar Ave,M6H2N5,43.678959,-79.433611,Dovercourt Village,West Toronto,1795000,5 bds,3 ba,,0,0,5,1,40,3,40,14,0,13,0,0,0,0,0
+198,20 Fletcher Pl,M9R1K6,43.6912,-79.546078,Kingsview Village,Etobicoke,899000,3 bds,2 ba,,0,0,4,0,25,0,1,2,0,1,0,0,0,0,0
+199,20 Niagara St #PENTHOUSE 1,M5V3L8,43.642374,-79.400916,CN Tower,Downtown Toronto,6298800,2 bds,3 ba,"4,022 sqft",0,0,3,10,14,13,116,42,0,46,0,0,0,0,6
+200,474 Russell Hill Rd,M5P2S7,43.697789,-79.413426,Forest Hill North,Central Toronto,16895000,5 bds,6 ba,,0,0,2,1,33,1,15,7,0,4,0,0,0,0,0
+201,1346 Danforth Rd #901,M1J0A9,43.743558,-79.244826,Scarborough Village,Scarborough,475000,2 bds,1 ba,,0,0,3,0,42,0,6,1,0,3,0,0,0,0,1
+202,112 Laurel Ave,M1K3J9,43.72521,-79.258113,East Birchmount Park,Scarborough,829900,4 bds,2 ba,,0,2,4,1,46,0,3,0,0,0,0,0,0,0,0
+203,20 Joe Shuster Way #202,M6K0A3,43.640144,-79.423917,Brockton,West Toronto,399000,1 bd,1 ba,,0,1,3,6,39,6,64,29,0,29,0,0,0,0,1
+204,11 Kingsway Cres,M8X2P9,43.653748,-79.504572,The Kingsway,Etobicoke,7950000,5 bds,7 ba,,0,1,2,0,22,2,8,1,1,4,0,0,0,0,2
+205,270 Brighton Ave,M3H4E9,43.757593,-79.458141,Bathurst Manor,North York,1898000,5 bds,3 ba,,0,0,2,0,46,0,7,3,0,8,0,0,0,0,0
+206,38 S Kingslea Dr,M8Y2A4,43.641624,-79.496401,Humber Bay,Etobicoke,5000000,5 bds,6 ba,,0,1,1,0,30,0,0,0,0,0,0,0,0,0,0
+207,63 Ward St,M6H4A5,43.664115,-79.446402,Dovercourt Village,West Toronto,899900,4 bds,2 ba,,0,2,3,5,64,4,14,13,0,15,0,0,0,0,1
+208,816 Lansdowne Ave #1015,M6H4K6,43.665661,-79.447378,Dovercourt Village,West Toronto,580000,1 bd,1 ba,,0,2,4,4,61,2,11,11,0,13,0,0,0,0,1
+209,80 Chiswell Cres,M2N6E1,43.780901,-79.391894,Willowdale South,North York,1678000,4 bds,4 ba,,0,0,2,0,27,0,0,0,0,0,0,0,0,0,0
+210,6 Esterbrooke Ave #82,M2J2C2,43.779624,-79.352763,Fairview,North York,579000,2 bds,1 ba,,0,1,3,2,43,2,1,3,0,5,0,0,0,0,0
+211,160 Howland Ave,M5R3B6,43.670989,-79.411014,The Annex,Central Toronto,2999999,4 bds,4 ba,,0,3,12,5,49,5,81,25,0,29,0,0,0,0,1
+212,58 Marine Parade Dr #1110,M8V4G1,43.627469,-79.477128,Humber Bay Shores,Etobicoke,1110000,3 bds,2 ba,"1,275 sqft",0,0,0,1,20,0,11,8,0,9,0,0,0,0,0
+213,223 Kennedy Rd,M1N3P4,43.706363,-79.257097,Birch Cliff,Scarborough,699900,4 bds,3 ba,,0,0,2,2,37,1,4,0,0,4,0,0,0,0,1
+214,28A Wilberton Rd,M4V1Z3,43.694932,-79.401617,Deer Park,Central Toronto,3848000,5 bds,5 ba,,0,1,2,2,49,5,21,9,1,13,0,0,0,0,2
+215,20 Stewart St #204,M5V1H6,43.643775,-79.400667,CN Tower,Downtown Toronto,595900,1 bd,1 ba,,0,0,5,12,11,16,132,50,0,51,0,0,0,0,8
+216,17 Maughan Cres,M4L3E4,43.670022,-79.316003,The Beaches West,East Toronto,1749000,3 bds,3 ba,,0,0,2,2,20,1,16,6,0,10,0,0,0,0,0
+217,101 Clearbrooke Cir,M9W2E9,43.721799,-79.561522,Northwest,Etobicoke,998800,4 bds,3 ba,,0,0,4,1,27,0,8,0,0,7,0,0,0,0,0
+218,85 The Bridle Path,M3C2P1,43.732687,-79.364782,Flemingdon Park,North York,28900000,9 bds,11 ba,,0,0,2,0,22,0,1,0,0,0,0,0,0,0,0
+219,85 Emmett Ave #1012,M6M5A2,43.686963,-79.50605,Del Ray,York,499999,4 bds,2 ba,,8,0,3,0,43,0,1,2,0,1,0,0,0,0,0
+221,11 Thornwood Rd,M4W2R8,43.681926,-79.385029,Rosedale,Downtown Toronto,20000000,5 bds,8 ba,,0,1,10,1,34,1,22,6,0,4,0,0,0,0,0
+222,10 Blakley Ave,M6N3Y5,43.671732,-79.481226,The Junction North,York,548000,3 bds,2 ba,,1,0,2,0,44,1,17,6,0,14,0,0,0,0,0
+223,17 Strath Humber Ct,M9A4C8,43.661667,-79.515797,Islington Avenue,Etobicoke,2289000,6 bds,5 ba,,0,0,2,1,25,0,1,2,0,5,0,0,0,0,1
+224,7 Appleby Ct,M9B5A1,43.654048,-79.549576,Cloverdale,Etobicoke,16900000,7 bds,9 ba,,0,0,1,0,27,0,1,0,0,4,0,0,0,0,0
+225,18 Munro Park Ave,M4E3M3,43.671794,-79.283123,The Beaches,East Toronto,6999000,5 bds,5 ba,,0,0,4,0,2,1,12,3,0,4,0,0,0,0,0
+226,7 Brimley Rd S #D78,M1M3W3,43.706276,-79.231863,Cliffcrest,Scarborough,490000,1 bd,2 ba,,0,0,0,0,3,0,1,0,0,1,0,0,0,0,0
+227,20/22 Park Lane Cir,M3B1Z7,43.633001,-79.354953,Don Mills North,North York,29990000,8bds,9ba,,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+228,19 Country Ln,M2L1E1,43.74036,-79.380766,Silver Hills,North York,19388000,7bds,11ba,,0,0,3,1,24,0,1,2,0,3,0,0,0,0,0
+229,88 Forest Heights Blvd,M2L2K8,43.760595,-79.378477,Silver Hills,North York,29800000,8bds,11ba,,0,1,2,0,13,0,0,0,0,0,0,0,0,0,0
+230,45 Park Lane Cir,M3C2N3,43.730085,-79.369058,Flemingdon Park,North York,29800000,6bds,9ba,,3,0,10,0,16,0,0,0,0,0,0,0,0,0,0
+231,27 South Dr,M4W1R2,43.677229,-79.382582,Rosedale,Downtown Toronto,20800000,6bds,9ba,,0,2,9,6,48,5,49,25,0,33,0,0,0,0,0
+232,17 Ardwold Gate,M5R2W1,43.678881,-79.407258,The Annex,Central Toronto,34500000,8bds,11ba,,0,1,6,2,53,1,9,6,0,8,0,0,0,0,0
+233,36 Old Colony Rd,M2L2J8,43.758104,-79.382893,Silver Hills,North York,6380000,4bds,4ba,,0,0,1,0,18,0,0,0,0,0,0,0,0,0,0
+234,253 Dunvegan Rd,M5P2P5,43.699453,-79.414977,Forest Hill North,Central Toronto,9885000,7bds,9ba,,0,0,3,1,36,1,14,6,0,3,0,0,0,0,0
+235,45 Bayview Rdg,M2L1E3,43.741938,-79.387871,Silver Hills,North York,22500000,8bds,10ba,,0,0,2,1,24,0,1,2,0,3,0,0,0,0,0
+236,112 Mason Blvd,M5M3E3,43.741214,-79.412096,Bedford Park,North York,4249990,4bds,4ba,,0,1,2,0,37,0,2,3,0,5,0,0,0,0,0
+237,220 Victoria St #806,M5B2R6,43.654877,-79.379218,Ryerson,Downtown Toronto,599000,3bds,2ba,,0,5,38,18,59,22,207,126,0,218,0,0,0,0,12
+238,27 Devondale Ave,M2R2C9,43.777838,-79.435334,Willowdale West,North York,2388000,4bds,4ba,,0,0,5,0,44,0,1,2,0,4,0,0,0,0,0
+239,45 Pegasus Trl,M1G3N6,43.780196,-79.221561,Woburn,Scarborough,1188000,7bds,4ba,,0,0,10,0,8,0,0,3,0,3,0,0,0,0,0
+240,73 Fishleigh Dr,M1N1H3,43.701371,-79.245529,Birch Cliff,Scarborough,2580000,5bds,2ba,,0,0,1,3,7,1,4,0,0,4,0,0,0,0,1
+241,1 Lake Shore Dr,M8V1Y9,43.601114,-79.497504,Humber Bay Shores,Etobicoke,4250000,4bds,4ba,,0,0,3,1,7,0,11,2,0,11,0,0,0,0,1
+242,12 Gradwell Dr,M1M2M9,43.71325,-79.235129,Cliffcrest,Scarborough,2750000,5bds,4ba,,0,0,3,1,20,0,5,0,0,3,0,0,0,0,0
+243,79 John St,M9N1J6,43.703998,-79.515164,Weston,York,799000,5bds,2ba,,4,1,6,0,46,0,12,8,0,12,0,0,0,0,1
+244,20 Moccasin Trl,M3C1Y7,43.731688,-79.339069,Flemingdon Park,North York,1498800,4bds,3ba,,0,0,2,3,37,1,16,6,0,7,0,0,0,0,0
+245,55 Lynnhaven Rd,M6A2K7,43.721312,-79.439612,Lawrence Heights,North York,3269999,6bds,7ba,,0,2,3,1,51,0,1,3,0,4,0,0,0,0,0
+246,129 Clansman Blvd,M2H1Y3,43.802346,-79.361476,Hillcrest Village,North York,1399900,4bds,4ba,,0,0,4,1,45,0,1,1,0,2,0,0,0,0,2
+247,62 Portico Dr,M1G3R6,43.780543,-79.219347,Woburn,Scarborough,999900,5bds,2ba,,0,0,7,0,6,0,0,2,0,1,0,0,0,0,0
+248,579 Indian Rd,M6P2C3,43.65804,-79.456608,High Park,West Toronto,2999999,9bds,5ba,,0,3,7,4,49,5,18,14,0,24,0,0,0,0,1
+249,6 Elward Blvd,M1L3L2,43.691459,-79.281882,Clairlea,Scarborough,569900,3bds,2ba,,0,1,3,3,60,0,3,3,0,9,0,0,0,0,1
+250,483 Dupont St #103,M6G1Y6,43.672797,-79.415295,Christie,Downtown Toronto,849900,0bds,1ba,,0,2,8,5,52,0,48,22,0,18,0,0,0,0,0
+251,55 Regency Sq,M1E1N4,43.752281,-79.194912,Guildwood,Scarborough,1299000,5bds,2ba,,0,0,0,1,2,0,0,1,0,4,0,0,0,0,1
+252,30 High Point Rd,M3C2R3,43.731817,-79.368833,Flemingdon Park,North York,28000000,8bds,13ba,,0,0,10,0,16,0,0,0,0,0,0,0,0,0,0
+253,200 Murison Blvd UNIT 67,M1B3R9,43.800088,-79.202935,Rouge,Scarborough,499900,3bds,2ba,,0,0,3,1,33,0,0,0,0,1,0,0,0,0,0
+254,10 Greenyards Dr,M2M2R6,43.79625,-79.40879,Newtonbrook,North York,1799000,5bds,3ba,,0,0,4,0,36,0,0,0,0,0,0,0,0,0,0
+255,23 Elba Ave,M1L4E9,43.699375,-79.274278,Clairlea,Scarborough,499999,3bds,2ba,,0,0,0,0,40,0,1,0,0,1,0,0,0,0,0
+256,24 Sophia Dr,M1H1Z4,43.762867,-79.227694,Cedarbrae,Scarborough,799000,3 bds,1 ba,,0,0,5,1,25,0,8,3,0,24,0,0,0,0,1
+257,1 Strathgowan Ave #403,M4N0B3,43.718724,-79.400268,Lawrence Park,Central Toronto,1700000,2 bds,3 ba,,0,1,4,4,44,1,19,10,0,7,0,0,0,0,1
+258,501 Adelaide St W #909,M5V0R3,43.645422,-79.401295,CN Tower,Downtown Toronto,539900,1 bd,1 ba,,1,0,5,12,13,15,150,60,0,70,0,0,0,0,7
+259,15 Helmsdale Cres,M9V3X8,43.747239,-79.603316,Albion Gardens,Etobicoke,1199900,7 bds,4 ba,,0,0,6,0,16,0,1,0,0,9,0,0,0,0,0
+260,55 Deanscroft Sq,M1E4W8,43.764897,-79.176426,Guildwood,Scarborough,875000,4 bds,3 ba,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+261,191 Parkmount Rd,M4J4V5,43.681804,-79.325548,East Toronto,East York,1139000,4 bds,4 ba,,1,2,5,1,48,2,6,5,0,6,0,0,0,0,0
+262,21 Iceboat Ter PENTHOUSE 10,M5V4A9,43.640393,-79.397362,CN Tower,Downtown Toronto,2950000,4 bds,4 ba,,0,0,2,12,10,12,108,41,0,47,0,0,0,0,7
+263,78 Carr St #TOWNHOUSE 32,M5T1B7,43.649695,-79.403974,Chinatown,Downtown Toronto,699000,2 bds,2 ba,,1,0,6,9,14,19,242,81,0,93,0,0,0,0,7
+264,650 Sheppard Ave E #215,M2K3E4,43.768577,-79.381429,Bayview Village,North York,569988,2 bds,1 ba,,0,2,1,1,19,0,4,5,0,7,0,0,0,0,0
+265,1778 Dufferin St,M6E3P4,43.680272,-79.444278,Caledonia-Fairbanks,York,997000,5 bds,4 ba,,0,0,5,1,56,1,43,18,0,15,0,0,0,0,0
+266,33 Shore Breeze Dr E #1208,M8V0G1,43.623886,-79.479223,Humber Bay Shores,Etobicoke,685000,2 bds,1 ba,,0,0,1,1,23,0,11,8,0,9,0,0,0,0,0
+267,24 Coventry St,M1L0H1,43.692746,-79.276677,Clairlea,Scarborough,929900,3 bds,3 ba,,0,0,2,0,52,2,5,1,0,1,0,0,0,0,0
+268,21 Groverdale Rd,M9C3M7,43.650171,-79.575026,Bloordale Gardens,Etobicoke,1275000,3 bds,2 ba,,0,0,3,0,35,1,0,2,0,7,0,0,0,0,1
+269,80 Curzon St,M4M3B4,43.665284,-79.332659,Studio District,East Toronto,988000,3 bds,2 ba,,0,0,7,2,38,4,27,11,0,21,0,0,0,0,0
+270,8 Trent Ave #1205,M4C0A6,43.688207,-79.295862,Woodbine Heights,East York,749900,3 bds,2 ba,,0,2,8,2,61,0,11,7,0,11,0,0,0,0,2
+271,65 Huntingdale Blvd UNIT 1507,M1W2P1,43.795184,-79.324378,L'Amoreaux West,Scarborough,685000,3 bds,2 ba,,0,0,5,0,30,0,2,2,0,6,0,0,0,0,2
+272,198 Lawlor Ave,M4E3M1,43.685388,-79.290756,The Beaches,East Toronto,1324900,4 bds,2 ba,,0,0,7,3,43,2,17,8,0,18,0,0,0,0,2
+273,408 Browns Line S #312,M5W3T9,43.601697,-79.545232,Stn A PO Boxes 25 The Esplanade,Downtown Toronto,689900,2 bds,2 ba,,0,0,2,2,19,2,8,5,0,6,0,0,0,0,0
+274,1 King St W #1501,M5H1A1,43.648987,-79.37807,Adelaide,Downtown Toronto,399900,2 bds,1 ba,,0,7,20,13,67,33,187,126,0,227,0,0,0,0,11
+275,25 Clark St,M4M1M5,43.660183,-79.347772,Studio District,East Toronto,1475000,3 bds,3 ba,,1,0,3,3,14,5,44,17,0,16,0,0,0,0,0
+276,64 Chandler Dr,M1G1Z3,43.765412,-79.220644,Woburn,Scarborough,899000,5 bds,2 ba,,0,0,8,2,31,0,7,0,0,23,0,0,0,0,1
+277,10 Capreol Ct #902,M5V4B3,43.640268,-79.396014,CN Tower,Downtown Toronto,599000,2 bds,1 ba,,0,0,2,11,10,12,108,41,0,54,0,0,0,0,4
+278,215 Mill Rd,M9C1Y1,43.633835,-79.57625,Bloordale Gardens,Etobicoke,1479000,4 bds,3 ba,,0,0,4,0,24,1,0,2,1,2,0,0,0,0,2
+279,100 Rosethorn Ave,M6N3L1,43.679352,-79.463314,The Junction North,York,1250000,3 bds,2 ba,,0,0,1,2,44,1,23,4,0,13,0,0,0,0,1
+280,98 Spruce Hill Rd,M4E3G4,43.675156,-79.290203,The Beaches,East Toronto,2899999,4 bds,4 ba,,0,0,8,3,19,3,31,9,0,12,0,0,0,0,2
+281,63 Bannatyne Dr,M2L2P2,43.761125,-79.370406,Silver Hills,North York,5598000,5 bds,7 ba,,0,1,4,0,19,0,0,3,0,1,0,0,0,0,0
+282,533 Richmond St W PENTHOUSE 2,M5V3Y1,43.646874,-79.400841,CN Tower,Downtown Toronto,3800000,3 bds,3 ba,,1,0,5,11,10,15,196,74,0,86,0,0,0,0,7
+283,8 Lee Centre Dr #702,M1H3H8,43.780823,-79.247602,Cedarbrae,Scarborough,375888,1 bd,1 ba,,0,0,3,0,41,0,5,2,0,3,0,0,0,0,1
+284,30 Nelson St #PENTHOUSE 101,M5V0H5,43.649062,-79.388476,CN Tower,Downtown Toronto,3950000,3 bds,3 ba,,2,4,11,11,28,30,222,125,0,208,0,0,0,0,8
+285,9 Overton Pl,M3B1H1,43.741095,-79.345984,Don Mills North,North York,1850000,4 bds,4 ba,,0,0,4,2,38,1,15,6,0,13,0,0,0,0,1
+286,1328 Birchmount Rd #PENTHOUSE 9,M1R0B6,43.748506,-79.286068,Maryvale,Scarborough,698000,3 bds,2 ba,"1,115 sqft",0,0,4,2,26,0,7,3,0,9,0,0,0,0,1
+287,717 Greenwood Ave,M4J4B6,43.683375,-79.332915,East Toronto,East York,1029000,3 bds,2 ba,,0,2,3,1,51,2,4,6,0,7,0,0,0,0,0
+288,200 Woodbine Ave #601,M4L3P2,43.668935,-79.306142,The Beaches West,East Toronto,4899000,4 bds,5 ba,,0,0,1,3,20,3,16,4,0,10,0,0,0,0,0
+289,8 Attila Ct,M9V4E5,43.736459,-79.597189,Albion Gardens,Etobicoke,949900,4 bds,3 ba,,1,0,5,1,44,0,0,2,0,11,0,0,0,0,0
+290,62 Kent Rd,M4L2X6,43.667307,-79.321014,The Beaches West,East Toronto,995000,3 bds,2 ba,,0,0,3,2,26,1,20,4,0,11,0,0,0,0,0
+291,200 Russell Hill Rd #502,M4V0B6,43.681737,-79.406631,Deer Park,Central Toronto,16995000,6 bds,7 ba,,0,1,7,4,46,1,8,8,0,10,0,0,0,0,0
+292,45 Oldham Rd,M9A2B9,43.677488,-79.542254,Islington Avenue,Etobicoke,1629000,4 bds,3 ba,,0,0,4,0,23,0,0,2,0,5,0,0,0,0,1
+293,29 Portico Dr,M1G3R5,43.779069,-79.22196,Woburn,Scarborough,1249999,7 bds,4 ba,,0,0,10,0,8,0,0,3,0,5,0,0,0,0,0
+294,11 Brunel Ct #5005,M5V3Y3,43.639441,-79.393173,CN Tower,Downtown Toronto,570000,1 bd,1 ba,,0,0,2,12,7,8,90,37,0,61,0,0,0,0,5
+295,103 Old Colony Rd,M2L2K3,43.758834,-79.374583,Silver Hills,North York,19995000,6 bds,11 ba,,0,0,5,0,16,0,0,0,0,0,0,0,0,0,0
+296,175 Teddington Park Ave,M4N2C7,43.734233,-79.396869,Lawrence Park,Central Toronto,14680000,6 bds,9 ba,,0,0,0,0,33,1,10,8,0,8,0,0,0,0,2
+297,6 Wyndcliff Cres,M4A2K1,43.735574,-79.318059,Victoria Village,North York,1429900,4 bds,2 ba,,0,0,3,1,22,0,0,1,0,2,0,0,0,0,1
+298,40 Sylvan Valleyway #523,M5M4M3,43.724203,-79.415282,Bedford Park,North York,889000,2 bds,2 ba,,0,0,2,2,31,0,11,4,0,6,0,0,0,0,1
+299,167 Wineva Ave,M4E2T5,43.672156,-79.295951,The Beaches,East Toronto,1649900,4 bds,4 ba,,0,0,6,4,19,3,29,6,0,12,0,0,0,0,2
+300,10 Gateway Blvd #402,M3C3A1,43.709781,-79.332708,Flemingdon Park,North York,499000,2 bds,2 ba,,0,0,4,1,29,0,4,0,0,3,0,0,0,0,1
+301,2200 Lake Shore Blvd W #818,M8V1A4,43.622743,-79.481934,Humber Bay Shores,Etobicoke,530000,1 bd,1 ba,,0,0,2,1,23,0,16,9,0,12,0,0,0,0,0
+302,8 Rosebank Dr #7H,M1B5Z3,43.791844,-79.237284,Rouge,Scarborough,528000,2 bds,1 ba,,0,0,4,2,44,0,7,2,0,9,0,0,0,0,0
+303,31 Antler St,M6P3R2,43.663867,-79.44993,High Park,West Toronto,1099900,5 bds,2 ba,,0,3,5,4,63,2,11,14,0,13,0,0,0,0,0
+305,130 Neptune Dr #607,M6A1X5,43.730295,-79.441115,Lawrence Heights,North York,539333,3 bds,2 ba,,0,1,4,1,49,0,8,2,0,3,0,0,0,0,0
+306,557 Logan Ave,M4K3B6,43.669004,-79.345758,The Danforth West,East Toronto,799000,3 bds,2 ba,,1,0,6,3,15,1,29,15,0,16,0,0,0,0,0
+307,302 Richview Ave,M5P3G5,43.695952,-79.422548,Forest Hill North,Central Toronto,2799000,4 bds,5 ba,,0,0,2,1,48,1,13,2,0,6,0,0,0,0,1
+308,1 Monarchdale Ave,M6M2S6,43.698966,-79.493874,Del Ray,York,849900,4 bds,3 ba,,0,0,2,1,25,0,7,3,0,7,0,0,0,0,1
+309,5 Wray Ct,M9V4K4,43.755083,-79.593103,Albion Gardens,Etobicoke,799990,4 bds,3 ba,,0,0,7,1,30,0,2,0,0,3,0,0,0,0,0
+310,56 Branstone Rd,M6E4E4,43.692013,-79.453838,Caledonia-Fairbanks,York,1150000,3 bds,2 ba,,0,0,3,1,45,1,16,2,0,13,0,0,0,0,2
+311,5 Mabelle Ave #2328,M9A0C8,43.646719,-79.525449,Islington Avenue,Etobicoke,749000,3 bds,2 ba,,0,1,11,2,58,4,19,4,0,17,0,0,0,0,0
+312,437 Westmount Ave,M6E3N4,43.686951,-79.445233,Caledonia-Fairbanks,York,799000,4 bds,2 ba,,0,0,8,1,46,0,8,5,0,5,0,0,0,0,0
+313,35 Kirkdene Dr,M1C3A5,43.793789,-79.141364,Highland Creek,Scarborough,1246000,4 bds,4 ba,,0,0,0,0,0,0,0,2,0,3,0,0,0,0,1
+314,136 Collier St,M4W1M3,43.67275,-79.384146,Rosedale,Downtown Toronto,1850000,5 bds,3 ba,,1,4,23,10,63,12,104,56,0,72,0,0,0,0,2
+315,130 Morningview Trl,M1B5L2,43.815394,-79.199609,Rouge,Scarborough,1349000,6 bds,4 ba,,0,0,2,0,26,0,0,0,0,0,0,0,0,0,0
+316,2800 Warden Ave #1004,M1W3Z6,43.795721,-79.315724,L'Amoreaux West,Scarborough,399900,2 bds,2 ba,,0,0,7,0,20,0,2,1,0,4,0,0,0,0,1
+317,4737 Jane St,M3N2K8,43.771431,-79.519798,Downsview Northwest,North York,499000,4 bds,2 ba,,0,0,6,1,38,0,4,1,0,4,0,0,0,0,0
+318,28 Fishleigh Dr,M1N1G9,43.700665,-79.250643,Birch Cliff,Scarborough,1299000,6 bds,4 ba,,0,0,1,2,18,1,4,0,0,4,0,0,0,0,1
+319,4673 Jane St #318,M3N2L1,43.770357,-79.520128,Downsview Northwest,North York,330000,2 bds,1 ba,,0,0,7,1,42,0,4,1,0,4,0,0,0,0,0
+320,850 Danforth Rd,M1K1H5,43.726901,-79.253184,East Birchmount Park,Scarborough,799900,5 bds,2 ba,,0,0,4,1,33,0,4,0,0,1,0,0,0,0,0
+321,303 Maria St,M6P1W6,43.666219,-79.482138,High Park,West Toronto,799000,2 bds,2 ba,,1,0,0,0,59,1,22,6,0,15,0,0,0,0,0
+322,631 Richmond St W,M6J1C2,43.646133,-79.404423,Little Portugal,West Toronto,799000,3 bds,1 ba,,1,0,4,5,15,14,146,50,0,76,0,0,0,0,4
+323,90 Broadview Ave #526,M4M0A7,43.65794,-79.349786,Studio District,East Toronto,689000,2 bds,1 ba,,1,0,2,3,9,5,37,15,0,12,0,0,0,0,0
+324,18 Burnt Log Cres,M9C2J8,43.633137,-79.58094,Bloordale Gardens,Etobicoke,1999999,4 bds,3 ba,"3,180 sqft",0,0,3,0,25,0,0,0,1,0,0,0,0,0,1
+325,10 De Boers Dr #905,M3J0L6,43.752055,-79.464264,Northwood Park,North York,499000,2 bds,1 ba,,0,1,1,1,47,0,4,3,0,6,0,0,0,0,0
+326,825 Adelaide St W,M6J1B5,43.643556,-79.410684,Little Portugal,West Toronto,1599000,3 bds,2 ba,,0,0,3,2,29,8,72,37,0,29,0,0,0,0,2
+327,15 Edenbrook Hl,M9A3Z7,43.671624,-79.524004,Islington Avenue,Etobicoke,7750000,5 bds,7 ba,,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0
+328,10 Deerlick Ct #518,M3A0A7,43.759433,-79.332085,Parkwoods,North York,599990,2 bds,2 ba,,0,0,2,0,38,0,0,1,0,4,0,0,0,0,1
+329,11 Wellesley St W #4711,M4Y0G4,43.664526,-79.385583,Church and Wellesley,Downtown Toronto,714900,1 bd,1 ba,,5,6,64,17,73,17,162,96,0,137,0,0,0,0,4
+330,37 Saint Andrews Gdns,M4W2C9,43.685552,-79.374772,Rosedale,Downtown Toronto,6495000,6 bds,5 ba,,0,0,3,0,18,0,0,0,0,0,0,0,0,0,0
+331,8 Colborne St #PENTHOUSE 2701,M5E1E1,43.648745,-79.377021,Berczy Park,Downtown Toronto,3495000,5 bds,4 ba,,0,6,18,12,69,31,176,120,0,213,0,0,0,0,10
+332,102 Pennyhill Dr,M1B4K7,43.813775,-79.216708,Rouge,Scarborough,749900,3 bds,3 ba,"1,280 sqft",0,0,5,2,43,0,0,0,0,0,0,0,0,0,0
+333,333 Brighton Ave,M3H4G4,43.756128,-79.462889,Bathurst Manor,North York,3438000,6 bds,7 ba,,0,1,2,1,58,0,4,3,0,6,0,0,0,0,0
+334,20 Blue Jays Way #319,M5V3W6,43.643797,-79.391668,CN Tower,Downtown Toronto,639000,1 bd,1 ba,,0,2,5,9,7,30,161,66,0,126,0,0,0,0,4
+335,2737 Keele St #821,M3M2E9,43.725799,-79.480604,Downsview Central,North York,299990,Studio,1 ba,,1,0,4,1,27,0,3,2,0,8,0,0,0,0,1
+336,24 Masseygrove Cres,M9V3C9,43.736326,-79.584228,Albion Gardens,Etobicoke,899999,6 bds,3 ba,,0,0,7,1,50,0,4,2,0,18,0,0,0,0,1
+337,1 De Vere Gdns,M5M3E4,43.736381,-79.407697,Bedford Park,North York,4995000,5 bds,6 ba,,0,1,1,0,44,1,10,9,0,11,0,0,0,0,2
+338,36 Astley Ave,M4W3B4,43.688906,-79.369921,Rosedale,Downtown Toronto,3499000,5 bds,6 ba,,0,0,3,0,14,0,1,3,0,0,0,0,0,0,0
+339,222 The Esplanade #713,M5A4M8,43.649611,-79.365545,Harbourfront,Downtown Toronto,449900,2 bds,1 ba,,0,0,6,8,63,10,51,34,0,29,0,0,0,0,1
+340,629 King St W #1307,M5V0G9,43.643972,-79.401585,CN Tower,Downtown Toronto,399880,1 bd,1 ba,,0,0,4,10,11,14,126,48,0,60,0,0,0,0,5
+341,228 Westview Blvd,M4B3J5,43.71338,-79.305617,Woodbine Gardens,East York,998000,3 bds,2 ba,,0,0,4,0,43,0,6,0,0,3,0,0,0,0,0
+342,357 King St W #1601,M5V0S7,43.645835,-79.392529,CN Tower,Downtown Toronto,399000,1 bd,1 ba,,0,2,10,10,7,31,182,77,0,138,0,0,0,0,5
+343,55 Hambly Ave,M4E2R5,43.673307,-79.297707,The Beaches,East Toronto,3299900,4 bds,4 ba,,0,0,6,4,22,3,25,4,0,12,0,0,0,0,2
+344,74 Connolly St,M6N5G3,43.671959,-79.455369,The Junction North,York,498800,2 bds,1 ba,,0,0,5,0,42,0,26,13,0,8,0,0,0,0,0
+345,17A S Woodrow Blvd,M1N3L5,43.699423,-79.260028,Birch Cliff,Scarborough,1269000,4 bds,2 ba,,0,0,3,1,37,0,2,1,0,1,0,0,0,0,0
+346,23 Dewbourne Ave,M5P1Z5,43.699157,-79.423254,Forest Hill North,Central Toronto,5995000,8 bds,8 ba,,0,0,2,1,54,1,17,3,0,6,0,0,0,0,1
+347,271 Victoria Park Ave,M4E3S6,43.683316,-79.284726,The Beaches,East Toronto,600000,1 bd,1 ba,,0,0,6,2,38,2,11,9,0,12,0,0,0,0,1
+348,2A Battenberg Ave,M4L1J8,43.667336,-79.316773,The Beaches West,East Toronto,695000,2 bds,1 ba,,0,0,0,2,18,1,18,6,0,12,0,0,0,0,0
+349,235 Sherway Gardens Rd #2010,M9C0A2,43.609301,-79.559016,Bloordale Gardens,Etobicoke,650000,2 bds,2 ba,,1,0,1,1,27,0,10,8,0,24,0,0,0,0,1
+350,14 Pinegrove Ave,M1N2G4,43.698491,-79.263913,Birch Cliff,Scarborough,799000,4 bds,2 ba,,0,0,3,0,43,0,2,1,0,0,0,0,0,0,0
+351,180 Patricia Ave,M2M1J5,43.788611,-79.426393,Newtonbrook,North York,1088000,4 bds,3 ba,,0,0,5,0,45,0,13,10,0,16,0,0,0,0,0
+352,1815 Yonge St #1801,M4T2A4,43.695918,-79.395842,Moore Park,Central Toronto,849000,2 bds,1 ba,,0,2,2,4,49,6,39,16,2,21,0,0,0,0,4
+353,740 Eglinton Ave W #301,M5N1C4,43.702079,-79.421814,Roselawn,Central Toronto,499000,2 bds,1 ba,,0,0,1,1,52,2,21,4,0,6,0,0,0,0,1
+354,114 Saskatoon Dr,M9P2G4,43.69309,-79.544397,Westmount,Etobicoke,1549900,6 bds,4 ba,,0,0,5,0,27,0,1,2,0,1,0,0,0,0,0
+355,353 Driftwood Ave #2,M3N2P2,43.768082,-79.512841,Downsview Northwest,North York,535000,5 bds,3 ba,,0,0,18,0,33,0,1,1,0,2,0,0,0,0,0
+356,181 Dundas St E UNIT 3811,M5A0N5,43.656969,-79.374122,Harbourfront,Downtown Toronto,699000,2 bds,1 ba,,0,3,45,14,48,19,143,76,0,140,0,0,0,0,7
+357,59 Annie Craig Dr #3604,M8V0C4,43.624949,-79.478244,Humber Bay Shores,Etobicoke,1336000,3 bds,3 ba,,0,0,1,1,22,0,11,8,0,9,0,0,0,0,0
+358,391 Beechgrove Dr #79,M1E2R1,43.776785,-79.172058,Guildwood,Scarborough,599000,3 bds,3 ba,"1,100 sqft",0,0,0,0,0,0,0,1,0,4,0,0,0,0,0
+359,77 Magellan Dr,M3L1T3,43.736555,-79.508517,Downsview West,North York,855900,3 bds,1 ba,,0,0,7,2,32,0,5,0,0,2,0,0,0,0,0
+360,70 Byng Ave #6,M2N7L9,43.777634,-79.411524,Willowdale South,North York,799000,3 bds,3 ba,,0,1,6,2,66,1,68,22,1,14,0,0,0,0,1
+361,585 Bloor St E #4218,M4W0B3,43.671653,-79.371638,Rosedale,Downtown Toronto,1550000,3 bds,2 ba,,0,2,9,7,51,1,38,12,0,10,0,0,0,0,0
+362,97 Lawton Blvd #704,M4V1Z6,43.693514,-79.396234,Deer Park,Central Toronto,549000,2 bds,1 ba,,0,2,3,4,55,6,39,17,1,22,0,0,0,0,5
+363,44 Waverley Rd,M4L3T1,43.667585,-79.300136,The Beaches West,East Toronto,2978000,5 bds,5 ba,,0,0,2,4,15,3,22,4,0,13,0,0,0,0,2
+364,812 Duplex Ave,M4R1W7,43.718239,-79.403956,North Toronto West,Central Toronto,1895000,4 bds,2 ba,,0,1,2,3,32,1,11,10,0,6,0,0,0,0,1
+365,127 Boardwalk Dr,M4L3X9,43.666435,-79.305807,The Beaches West,East Toronto,2595000,4 bds,4 ba,,0,0,1,2,17,3,16,4,0,12,0,0,0,0,0
+366,215 Strathallan Wood,M5N1T5,43.712754,-79.421209,Roselawn,Central Toronto,10900000,4 bds,6 ba,,0,0,3,0,25,0,0,0,0,0,0,0,0,0,0
+367,63 Hammersmith Ave,M4E2W3,43.670396,-79.293932,The Beaches,East Toronto,2989000,5 bds,6 ba,,0,0,3,3,10,3,27,6,0,11,0,0,0,0,2
+368,990 Dovercourt Rd,M6H2X5,43.666907,-79.431852,Dovercourt Village,West Toronto,699000,3 bds,2 ba,,0,2,5,3,66,7,34,13,0,22,0,0,0,0,2
+369,47 Stephen Dr,M8Y3M8,43.632836,-79.485005,Humber Bay,Etobicoke,849000,3 bds,1 ba,,0,0,2,0,37,0,4,4,0,5,0,0,0,0,0
+370,415 Wellesley St E,M4X1H5,43.668911,-79.364947,Cabbagetown,Downtown Toronto,1195000,4 bds,3 ba,,0,1,9,5,26,1,35,10,0,5,0,0,0,0,0
+371,200 Cumberland St #3802,M5R0B7,43.669867,-79.394244,The Annex,Central Toronto,17800000,3 bds,4 ba,,0,4,90,7,72,9,85,49,0,46,0,0,0,0,2
+372,30 Forge Dr,M3N2R3,43.759536,-79.513985,Downsview Northwest,North York,849999,5 bds,2 ba,,0,0,6,0,41,0,5,3,0,23,0,0,0,0,0
+373,4 Tredvalley Grve,M1C3J4,43.776477,-79.148234,Highland Creek,Scarborough,2388000,5 bds,5 ba,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,83 Lillian St #15,M4S2H7,43.706583,-79.393516,Davisville,Central Toronto,899000,2 bds,2 ba,,0,1,5,10,71,9,83,30,3,58,0,0,0,0,5
+375,168 Pinewood Ave,M6C2V5,43.688172,-79.427079,Humewood-Cedarvale,York,1529000,3 bds,2 ba,,0,0,4,1,29,2,31,10,0,9,0,0,0,0,1
+376,101 Charles St E #4202,M4Y0A9,43.669643,-79.380555,Church and Wellesley,Downtown Toronto,875000,2 bds,1 ba,,1,3,19,17,67,14,109,53,0,86,0,0,0,0,3
+377,127 Bellwoods Ave,M6J2P6,43.64966,-79.41204,Little Portugal,West Toronto,1799900,4 bds,2 ba,,1,0,6,4,23,13,128,47,0,58,0,0,0,0,1
+378,9 Bogert Ave #2801,M2N0H3,43.760385,-79.411435,Willowdale South,North York,728000,2 bds,2 ba,,0,2,1,7,30,0,25,15,0,33,0,0,0,0,1
+379,65 Mutual St #3004,M5H2A9,43.655802,-79.374984,Adelaide,Downtown Toronto,899000,3 bds,2 ba,,0,3,44,13,61,27,166,88,0,155,0,0,0,0,9
+380,195 Redpath Ave #3307,M4P0E4,43.7101,-79.393425,Davisville North,Central Toronto,399000,Studio,1 ba,,0,1,6,10,60,7,67,29,3,51,0,0,0,0,4
+381,28 Rosebank Dr #1009,M1B5Z1,43.792518,-79.235348,Rouge,Scarborough,799000,5 bds,3 ba,,0,0,5,2,47,0,7,1,0,8,0,0,0,0,0
+382,36 Lisgar St #708W,M6J0C7,43.641739,-79.423316,Little Portugal,West Toronto,399900,2 bds,1 ba,,0,1,3,7,40,8,82,33,0,36,0,0,0,0,2
+383,5444 Yonge St #108,M2N6J4,43.776373,-79.415758,Willowdale South,North York,1898000,3 bds,3 ba,,0,2,6,2,55,1,71,25,1,18,0,0,0,0,1
+384,2053 Gerrard St E,M4E2B4,43.68208,-79.307469,The Beaches,East Toronto,999900,4 bds,2 ba,,0,2,2,0,35,2,9,7,0,4,0,0,0,0,1
+385,64 Marion St,M6R1E7,43.642017,-79.443304,Parkdale,West Toronto,1599000,6 bds,2 ba,,0,0,6,5,21,2,40,23,0,28,0,0,0,0,2
+386,248 Garden Ave,M6R1J3,43.6432,-79.450769,Parkdale,West Toronto,1149000,6 bds,4 ba,,0,0,5,3,13,2,32,18,0,12,0,0,0,0,1
+387,6 Croft St,M5S2N8,43.657306,-79.406124,Harbord,Downtown Toronto,1949000,4 bds,3 ba,,3,0,39,6,22,12,207,51,0,68,0,0,0,0,3
+388,236 Browning Ave,M4K1X2,43.683222,-79.34711,The Danforth West,East Toronto,1649000,4 bds,2 ba,,0,2,13,4,58,3,45,17,0,15,0,0,0,0,0
+389,6 Creekwood Dr,M1E4L7,43.785981,-79.215279,Guildwood,Scarborough,1375000,4 bds,5 ba,,0,0,3,0,8,0,0,0,0,0,0,0,0,0,0
+390,830 Lawrence Ave W #2207,M6A0B6,43.71445,-79.454208,Lawrence Heights,North York,499900,2 bds,1 ba,,0,0,5,2,51,0,20,7,0,15,0,0,0,0,1
+391,48 Coe Hill Dr,M6S3C8,43.639264,-79.469882,Runnymede,West Toronto,1198000,5 bds,2 ba,,0,0,1,0,29,0,0,1,0,1,0,0,0,0,0
+392,68 Abell St UNIT 1001,M6J0B1,43.642434,-79.424538,Little Portugal,West Toronto,698000,2 bds,2 ba,,0,1,3,7,32,8,83,34,0,38,0,0,0,0,2
+393,301 Prudential Dr #1701,M1P4V3,43.749918,-79.268628,Dorset Park,Scarborough,325000,2 bds,1 ba,,0,0,0,3,34,0,5,3,0,11,0,0,0,0,0
+394,2901 Kipling Ave #907,M9V5E5,43.758185,-79.588513,Albion Gardens,Etobicoke,549000,2 bds,2 ba,,0,0,1,1,21,0,3,0,0,2,0,0,0,0,1
+395,341 Military Trl #20,M1E4E4,43.786061,-79.212348,Guildwood,Scarborough,549900,3 bds,2 ba,,0,0,3,1,14,0,1,3,0,3,0,0,0,0,0
+396,29 Glen Stewart Ave,M4E1P6,43.678355,-79.295885,The Beaches,East Toronto,1849000,3 bds,2 ba,,0,0,8,4,32,1,22,7,0,6,0,0,0,0,2
+397,364 The East Mall #243,M9B6C5,43.642465,-79.559589,Cloverdale,Etobicoke,625000,3 bds,3 ba,,0,0,4,0,44,1,4,4,0,5,0,0,0,0,0
+398,309 Ranee Ave,M6A1N9,43.722361,-79.451974,Lawrence Heights,North York,3220000,6 bds,7 ba,,0,1,2,3,51,0,22,11,0,41,0,0,0,0,1
+399,2737 Keele St #402,M3M2E9,43.725799,-79.480604,Downsview Central,North York,418888,3 bds,2 ba,,1,0,4,1,27,0,3,2,0,8,0,0,0,0,1
+400,403 Church St #2413,M4Y0C9,43.662103,-79.379236,Church and Wellesley,Downtown Toronto,698000,2 bds,1 ba,,2,3,46,17,64,15,142,81,0,151,0,0,0,0,2
+401,76 Arjay Cres,M2L1C7,43.739075,-79.384916,Silver Hills,North York,13995000,6 bds,10 ba,,0,0,3,1,22,0,1,2,0,3,0,0,0,0,0
+402,147 Cameron Ave,M6M1R5,43.689775,-79.471368,Del Ray,York,799000,3 bds,2 ba,,0,0,5,3,36,0,10,1,0,15,0,0,0,0,0
+403,78 Cameron Ave,M2N1E2,43.75622,-79.415729,Willowdale South,North York,2835000,3 bds,5 ba,,0,1,1,5,25,0,17,8,0,25,0,0,0,0,0
+404,28 Freeland St #4404,M5E1L7,43.643622,-79.373959,Berczy Park,Downtown Toronto,10428000,2 bds,1 ba,,0,3,2,11,57,22,104,62,0,96,0,0,0,0,7
+405,663 Windermere Ave,M6S3M2,43.656998,-79.48273,Runnymede,West Toronto,1695000,3 bds,2 ba,,1,2,6,1,57,3,30,10,0,13,0,0,0,0,1
+406,27 Shaftesbury Ave,M4T3B3,43.68211,-79.390162,Moore Park,Central Toronto,1899000,2 bds,3 ba,,0,2,5,2,36,2,41,14,0,14,0,0,0,0,3
+407,1950 Kennedy Rd #706,M1P4S9,43.767632,-79.282853,Dorset Park,Scarborough,539000,3 bds,1 ba,,0,0,0,1,22,0,10,6,0,4,0,0,0,0,0
+408,32 Ava Rd,M5P1Y4,43.697906,-79.421226,Forest Hill North,Central Toronto,5995000,6 bds,6 ba,,0,0,2,1,53,0,16,2,0,6,0,0,0,0,1
+409,5418 Yonge St #901,M2N6X4,43.775522,-79.415248,Willowdale South,North York,729000,3 bds,2 ba,,0,2,6,2,54,1,71,25,1,18,0,0,0,0,1
+410,125 Peter St #1301,M5V0M2,43.648321,-79.392887,CN Tower,Downtown Toronto,928900,3 bds,2 ba,,1,3,12,13,8,30,222,80,0,140,0,0,0,0,5
+411,7 Merredin Pl,M3B1S7,43.748513,-79.35726,Don Mills North,North York,3880000,6 bds,6 ba,,0,0,6,1,20,1,14,5,0,13,0,0,0,0,2
+412,564 Pharmacy Ave,M1L3G9,43.707103,-79.289985,Clairlea,Scarborough,850000,4 bds,2 ba,,0,0,1,0,51,0,3,1,0,4,0,0,0,0,1
+413,14 Kildonan Dr,M1N3B5,43.687027,-79.266351,Birch Cliff,Scarborough,2690000,5 bds,4 ba,,0,0,0,0,19,4,7,1,0,0,0,0,0,0,0
+414,180 Markham Rd SUITE 707,M1M2Z9,43.652934,-79.407872,Cliffcrest,Scarborough,389900,1 bd,1 ba,,1,0,9,6,16,14,165,52,0,67,0,0,0,0,3
+415,27 Glen Elm Ave,M4T1T9,43.691389,-79.393694,Moore Park,Central Toronto,4999999,8 bds,7 ba,,0,2,3,4,45,6,31,13,1,18,0,0,0,0,4
+416,20 Cedar Ave E,M4E1K2,43.674795,-79.287507,The Beaches,East Toronto,1699000,3 bds,4 ba,,0,0,6,1,10,3,25,9,0,10,0,0,0,0,2
+417,4 Daysland Rd,M9W4A9,43.718979,-79.56295,Northwest,Etobicoke,998000,5 bds,3 ba,,0,0,3,1,36,0,13,1,0,16,0,0,0,0,2
+418,59 Arundel Ave,M4K3A3,43.679799,-79.351218,The Danforth West,East Toronto,1589000,2 bds,3 ba,,0,2,14,4,48,4,53,17,1,18,0,0,0,0,1
+419,390 Hopewell Ave #130,M6E2S2,43.700641,-79.444449,Caledonia-Fairbanks,York,529900,2 bds,2 ba,,0,2,4,2,50,0,23,8,0,23,0,0,0,0,2
+420,21 Mayberry Rd,M3N2A5,43.741518,-79.518308,Downsview Northwest,North York,650000,3 bds,2 ba,,0,0,12,2,19,0,5,1,0,2,0,0,0,0,0
+421,30 Fieldway Rd #98,M8Z0E3,43.642292,-79.528276,Kingsway Park South West,Etobicoke,699900,2 bds,2 ba,,0,2,1,2,65,4,19,6,0,17,0,0,0,0,0
+422,1 Hawthorn Ave,M4W2Z1,43.675042,-79.36985,Rosedale,Downtown Toronto,6600000,5 bds,4 ba,,0,2,5,5,37,0,16,4,0,6,0,0,0,0,0
+423,15 Sewells Rd #410,M1B3V7,43.806694,-79.217112,Rouge,Scarborough,349000,2 bds,1 ba,,0,0,7,0,47,0,0,0,0,0,0,0,0,0,0
+424,5 Saint Joseph St #4309,M4Y0B6,43.665776,-79.385633,Church and Wellesley,Downtown Toronto,698000,2 bds,1 ba,,3,6,55,16,70,17,148,87,0,122,0,0,0,0,3
+425,4 Burleigh Heights Dr,M2K1Y7,43.779657,-79.390466,Bayview Village,North York,3980000,5 bds,6 ba,,0,0,2,0,26,0,0,0,0,0,0,0,0,0,0
+426,580 Christie St #807,M6G3E3,43.679182,-79.425403,Christie,Downtown Toronto,379000,1 bd,1 ba,,0,0,4,2,46,3,39,14,0,17,0,0,0,0,1
+427,217 Richview Ave,M5P3G2,43.695007,-79.421605,Forest Hill North,Central Toronto,7695000,6 bds,8 ba,,0,0,2,1,42,0,7,2,0,3,0,0,0,0,1
+428,10 Eva Rd #601,M9C0B3,43.641355,-79.562771,Bloordale Gardens,Etobicoke,680000,3 bds,2 ba,,0,0,3,0,48,1,4,4,0,5,0,0,0,0,0
+429,80 Old Forest Hill Rd,M5P2R5,43.698893,-79.417749,Forest Hill North,Central Toronto,7995000,5 bds,5 ba,,0,0,2,1,48,1,10,4,0,1,0,0,0,0,0
+430,34 Green Valley Rd,M2P1A6,43.739774,-79.388924,York Mills West,North York,14995000,6 bds,8 ba,,0,0,1,1,20,0,1,2,0,3,0,0,0,0,0
+431,56 Rockcliffe Blvd,M6N4R5,43.679689,-79.4908,The Junction North,York,959900,4 bds,2 ba,,0,0,5,1,59,1,13,2,0,9,0,0,0,0,0
+432,48 Crescent Rd,M4W1S9,43.677803,-79.387068,Rosedale,Downtown Toronto,4450000,4 bds,5 ba,,0,3,10,5,39,4,68,30,0,40,0,0,0,0,0
+433,816 Lansdowne Ave #216,M6H4K6,43.665661,-79.447378,Dovercourt Village,West Toronto,399000,1 bd,1 ba,,0,2,4,4,61,2,11,11,0,13,0,0,0,0,1
+434,91 Fulwell Cres,M3J1Y4,43.750867,-79.50285,Northwood Park,North York,999999,4 bds,3 ba,,0,0,3,0,26,0,0,0,0,0,0,0,0,0,0
+435,225 Christie St,M6G3B5,43.669398,-79.420453,Christie,Downtown Toronto,1988000,4 bds,4 ba,,0,1,5,3,49,5,66,25,0,12,0,0,0,0,1
+436,127 Joicey Blvd,M2M2T8,43.736904,-79.416255,Newtonbrook,North York,5135000,5 bds,7 ba,,0,0,2,1,32,1,25,5,0,7,0,0,0,0,0
+437,104 3rd St,M8V2X9,43.60352,-79.501782,Humber Bay Shores,Etobicoke,899900,3 bds,2 ba,,0,0,4,1,16,0,16,2,0,12,0,0,0,0,1
+438,12 Lark St,M4L3M6,43.668319,-79.310823,The Beaches West,East Toronto,1199900,4 bds,3 ba,,0,0,1,1,24,3,11,3,0,13,0,0,0,0,0
+439,490 Caledonia Rd,M6E4V2,43.689821,-79.461148,Caledonia-Fairbanks,York,875000,3 bds,2 ba,,0,0,1,2,31,1,4,1,0,3,0,0,0,0,1
+440,101 Russell Hill Rd,M4V2S9,43.68178,-79.404985,Deer Park,Central Toronto,4425000,4 bds,4 ba,,0,1,6,3,53,1,6,7,0,8,0,0,0,0,0
+441,47 Cherrylawn Ave,M9L2B3,43.752537,-79.559192,Humber Summit,North York,899000,6 bds,2 ba,"1,178 sqft",0,0,6,1,9,0,4,1,0,6,0,0,0,0,1
+442,23 Cavell Ave,M4K1L5,43.676192,-79.344974,The Danforth West,East Toronto,2850000,5 bds,5 ba,,0,3,11,4,39,3,44,22,0,24,0,0,0,0,0
+443,11 Shorncliffe Ave,M4V1S9,43.68559,-79.410873,Deer Park,Central Toronto,5200000,5 bds,4 ba,,0,1,4,1,38,1,9,6,0,12,0,0,0,0,0
+444,211 Woodycrest Ave,M4J3C4,43.687915,-79.344644,East Toronto,East York,2489000,5 bds,5 ba,,0,1,4,2,72,1,15,5,0,4,0,0,0,0,0
+445,1 Silvergrove Rd,M2L2N5,43.763519,-79.374045,Silver Hills,North York,6295000,5 bds,7 ba,,0,1,3,0,19,0,2,4,0,4,0,0,0,0,0
+446,43 Edenvale Cres,M9A4A5,43.680741,-79.52895,Islington Avenue,Etobicoke,4745000,4 bds,4 ba,,0,0,2,1,23,0,0,2,0,2,0,0,0,0,0
+447,3 Everson Dr #637,M2N7C2,43.756938,-79.406496,Willowdale South,North York,659000,3 bds,2 ba,,0,1,0,5,37,0,16,9,0,25,0,0,0,0,0
+448,23 Strathdee Dr,M9R1A6,43.681424,-79.544171,Kingsview Village,Etobicoke,1749888,5 bds,3 ba,,0,0,2,0,33,0,0,2,0,5,0,0,0,0,1
+450,6 Lankin Blvd,M4J4W8,43.692293,-79.328633,East Toronto,East York,1099000,4 bds,3 ba,,1,0,4,1,56,0,6,3,0,5,0,0,0,0,0
+451,161 Roehampton Ave #PENTHOUSE 05,M4P0C8,43.70876,-79.393794,Davisville North,Central Toronto,1588000,3 bds,2 ba,,0,1,6,10,60,7,78,31,3,56,0,0,0,0,5
+452,4689 Jane St #503,M3N2T6,43.770863,-79.520254,Downsview Northwest,North York,259900,2 bds,1 ba,,0,0,7,1,38,0,4,1,0,4,0,0,0,0,0
+453,57 Saint Nicholas St,M4Y1W6,43.667191,-79.386232,Church and Wellesley,Downtown Toronto,1889000,3 bds,4 ba,,3,6,49,15,69,16,144,79,0,109,0,0,0,0,3
+454,173 Dunvegan Rd,M5P2P1,43.696803,-79.408729,Forest Hill North,Central Toronto,13800000,4 bds,7 ba,,0,0,3,1,40,2,20,9,0,8,0,0,0,0,0
+455,65 Harbour Sq #3306,M5J2L4,43.640082,-79.378599,Harbourfront East,Downtown Toronto,1349900,3 bds,2 ba,,0,3,0,8,34,17,72,58,0,102,0,0,0,0,4
+456,353 Driftwood Ave #7,M3N2P2,43.768082,-79.512841,Downsview Northwest,North York,550000,5 bds,3 ba,,0,0,18,0,33,0,1,1,0,2,0,0,0,0,0
+457,1195 The Queensway E #102,M8Z0H1,43.621626,-79.522481,Kingsway Park South West,Etobicoke,399999,1 bd,1 ba,,0,0,0,1,36,1,6,8,0,10,0,0,0,0,0
+458,66 Cliff St,M6N4M1,43.679993,-79.485042,The Junction North,York,999900,4 bds,2 ba,,0,0,7,0,52,1,7,2,0,2,0,0,0,0,0
+459,5 Pheasant Ln,M9A1T1,43.662472,-79.534898,Islington Avenue,Etobicoke,6899000,5 bds,5 ba,,0,0,1,1,28,0,0,1,0,1,0,0,0,0,1
+460,73 Pendrith St,M6G1R8,43.666638,-79.422778,Christie,Downtown Toronto,1288000,3 bds,2 ba,,0,2,5,4,58,7,59,29,0,13,0,0,0,0,1
+461,25 Boustead Ave,M6R1Y7,43.653133,-79.452791,Parkdale,West Toronto,1999900,5 bds,3 ba,"2,250 sqft",0,3,4,4,34,8,31,17,0,23,0,0,0,0,1
+462,15 Lenthall Ave,M1B2C7,43.797531,-79.238536,Rouge,Scarborough,950000,4 bds,4 ba,,0,0,2,2,42,0,5,2,0,9,0,0,0,0,0
+463,127 Queen St E #406,M5C1S3,43.653471,-79.373755,St. James Town,Downtown Toronto,484000,1 bd,1 ba,,0,3,37,13,66,24,137,84,0,147,0,0,0,0,8
+464,295 Adelaide St W #2303,M5V0L4,43.647594,-79.390757,CN Tower,Downtown Toronto,599000,1 bd,1 ba,,0,3,11,11,11,30,209,99,0,180,0,0,0,0,6
+465,5791 Yonge St #PENTHOUSE 205,M2M0A8,43.783997,-79.41604,Newtonbrook,North York,650000,3 bds,2 ba,,0,1,6,2,83,1,59,19,0,13,0,0,0,0,2
+466,130 Shuter St,M5A1V8,43.655956,-79.371864,Harbourfront,Downtown Toronto,1199000,6 bds,4 ba,,0,1,37,16,61,17,129,62,0,99,0,0,0,0,5
+467,408 Ontario St,M5A2W1,43.662083,-79.370042,Harbourfront,Downtown Toronto,2288800,5 bds,5 ba,,0,0,21,15,45,3,59,24,0,25,0,0,0,0,0
+468,1785 Eglinton Ave E #203,M4A2Y6,43.724765,-79.307151,Victoria Village,North York,549000,2 bds,2 ba,,0,0,2,2,39,1,4,4,0,13,0,0,0,0,1
+469,1994 Dufferin St,M6E3R2,43.684965,-79.446149,Caledonia-Fairbanks,York,899999,6 bds,3 ba,,0,0,6,1,41,1,31,15,0,11,0,0,0,0,0
+470,37 Drewry Ave UNIT 9,M2M0B4,43.786348,-79.419345,Newtonbrook,North York,738000,3 bds,2 ba,,0,1,4,2,72,1,28,15,0,12,0,0,0,0,2
+471,60 Alexandra Wood,M5N2S5,43.71411,-79.425653,Roselawn,Central Toronto,8950000,5 bds,7 ba,,0,0,2,2,36,0,4,3,0,5,0,0,0,0,1
+472,95 Vine Ave,M6P1V8,43.66645,-79.468112,High Park,West Toronto,1149900,4 bds,2 ba,,0,0,4,3,59,3,42,11,0,17,0,0,0,0,2
+473,33 Sheppard Ave E #1800,M2N7K1,43.761229,-79.408934,Willowdale South,North York,575000,1 bd,1 ba,,0,2,2,7,35,0,24,14,0,33,0,0,0,0,1
+474,82 York Rd,M2L1H8,43.746179,-79.384607,Silver Hills,North York,6289000,7 bds,7 ba,,0,0,2,1,24,0,1,2,0,3,0,0,0,0,0
+475,2152 Bayview Ave,M4N0A4,43.723305,-79.379711,Lawrence Park,Central Toronto,1328000,4 bds,3 ba,,21,0,16,0,21,0,1,2,0,3,0,0,0,0,0
+476,585 Bloor St E #521,M4W0B3,43.671653,-79.371638,Rosedale,Downtown Toronto,498888,2 bds,2 ba,,0,2,9,7,51,1,38,12,0,10,0,0,0,0,0
+477,60 Manorglen Cres,M1S1W4,43.780125,-79.271026,Agincourt,Scarborough,1199000,4 bds,3 ba,,0,0,1,2,23,1,12,3,0,6,0,0,0,0,0
+478,212 Cocksfield Ave,M3H3T7,43.753818,-79.454186,Bathurst Manor,North York,999000,4 bds,2 ba,,0,0,4,0,32,0,5,2,0,4,0,0,0,0,0
+479,99 Broadway Ave #2902,M4P0E3,43.710514,-79.393306,Davisville North,Central Toronto,588000,2 bds,2 ba,,0,1,6,10,58,7,63,29,3,52,0,0,0,0,4
+480,5 Pembury Ave,M4N3K4,43.725688,-79.381034,Lawrence Park,Central Toronto,4095000,5 bds,5 ba,,17,0,18,0,23,0,1,2,0,3,0,0,0,0,0
+481,155 Grenadier Rd,M6R1R5,43.648363,-79.45151,Parkdale,West Toronto,3980000,5 bds,5 ba,,0,1,6,5,18,7,34,17,0,20,0,0,0,0,2
+482,50 Yorkville Ave #5202,M4W0A3,43.671667,-79.389667,Rosedale,Downtown Toronto,18800000,4 bds,4 ba,,0,4,43,10,71,12,109,59,0,63,0,0,0,0,2
+483,108 Sandringham Dr,M3H1C9,43.746887,-79.420259,Bathurst Manor,North York,14998000,6 bds,8 ba,,0,0,2,0,14,0,0,0,0,1,0,0,0,0,0
+484,208 Queens Quay W #511,M5J2Y5,43.64009,-79.381499,Harbourfront East,Downtown Toronto,649000,3 bds,2 ba,,0,3,0,10,31,12,71,65,0,132,0,0,0,0,4
+485,12 Madison Ave,M5R2S1,43.667759,-79.403321,The Annex,Central Toronto,5450000,11 bds,3 ba,,0,4,77,4,61,10,79,25,0,37,0,0,0,0,1
+486,32 Roxborough St E,M4W1V6,43.678482,-79.387974,Rosedale,Downtown Toronto,6250000,6 bds,5 ba,,0,3,11,4,37,3,54,27,0,33,0,0,0,0,0
+487,4 Allen Ave,M8V1R8,43.612936,-79.49066,Humber Bay Shores,Etobicoke,1198000,2 bds,2 ba,,0,1,4,0,13,0,14,1,0,11,0,0,0,0,1
+488,58 Masseygrove Cres,M9V3C9,43.737847,-79.58269,Albion Gardens,Etobicoke,799000,4 bds,2 ba,,0,0,6,1,42,0,4,2,0,18,0,0,0,0,1
+489,22 Malamute Cres,M1T2C7,43.777993,-79.302685,Clarks Corners,Scarborough,1090000,6 bds,3 ba,,0,0,8,1,29,0,5,0,0,5,0,0,0,0,1
+490,9 Windermere Ave #TOWNHOUSE 94,M6S5A4,43.636805,-79.468161,Runnymede,West Toronto,449000,1 bd,1 ba,,0,0,0,0,26,0,0,1,0,1,0,0,0,0,0
+491,62 Elm Ave,M4W1N7,43.67613,-79.375547,Rosedale,Downtown Toronto,5950000,6 bds,5 ba,,0,2,11,3,46,1,10,5,0,10,0,0,0,0,0
+492,271 Major St,M5S2L5,43.665445,-79.405732,Harbord,Downtown Toronto,1995000,3 bds,4 ba,,1,3,72,3,42,10,104,33,0,36,0,0,0,0,3
+493,194 Clendenan Ave,M6P2X2,43.656977,-79.471809,High Park,West Toronto,1499000,3 bds,3 ba,,0,2,6,0,50,3,33,7,0,14,0,0,0,0,1
+494,297 Oriole Pkwy,M5P2H6,43.70077,-79.404051,Forest Hill North,Central Toronto,2695000,6 bds,4 ba,,0,2,3,3,67,4,37,19,1,36,0,0,0,0,4
+495,1244 College St,M6H1C2,43.651641,-79.438166,Dovercourt Village,West Toronto,1049900,4 bds,5 ba,,0,1,7,4,31,11,29,17,0,47,0,0,0,0,1
+496,330 Dixon Rd #2705,M9R1S9,43.695777,-79.553152,Kingsview Village,Etobicoke,399999,2 bds,1 ba,,0,0,5,0,32,0,0,2,0,4,0,0,0,0,0
+497,11 Livonia Pl #18,M1E4W5,43.785465,-79.205888,Guildwood,Scarborough,649900,4 bds,4 ba,,1,0,1,1,11,0,1,3,0,3,0,0,0,0,0
+498,35 Balmuto St #2101,M4Y0A3,43.669472,-79.387488,Church and Wellesley,Downtown Toronto,998000,2 bds,2 ba,,2,4,48,10,71,12,123,62,0,85,0,0,0,0,2
+499,335 Mill Rd #703,M9C1Y6,43.639973,-79.584581,Bloordale Gardens,Etobicoke,450000,2 bds,2 ba,"1,155 sqft",0,0,2,0,22,1,0,2,0,2,0,0,0,0,1
+500,66 Loradeen Cres,M1B1T8,43.81339,-79.232371,Rouge,Scarborough,999950,7 bds,4 ba,,0,0,8,0,48,0,0,0,0,0,0,0,0,0,0
+501,44 Branstone Rd,M6E4E4,43.691621,-79.453661,Caledonia-Fairbanks,York,699000,2 bds,2 ba,,0,0,2,1,44,1,16,2,0,12,0,0,0,0,1
+502,42 Mossbank Dr,M1G2C3,43.765598,-79.212505,Woburn,Scarborough,888000,4 bds,3 ba,,0,0,9,1,31,0,1,0,0,8,0,0,0,0,2
+503,2 1st Ave,M4M1W8,43.664898,-79.351918,Studio District,East Toronto,1750000,3 bds,3 ba,,2,0,3,3,9,4,35,14,0,11,0,0,0,0,0
+504,16 Muskoka Ave,M8W1H3,43.59184,-79.532076,Alderwood,Etobicoke,2449000,8 bds,5 ba,,0,0,3,0,10,4,6,3,0,11,0,0,0,0,1
+505,106 Varna Dr #TOWNHOUSE 10,M6A0C8,43.723122,-79.445784,Lawrence Heights,North York,729000,2 bds,3 ba,,0,2,2,1,64,0,4,8,0,31,0,0,0,0,0
+506,575 Avenue Rd #704,M4V2K2,43.688637,-79.401726,Deer Park,Central Toronto,398000,1 bd,1 ba,,0,1,6,2,36,1,19,9,1,10,0,0,0,0,2
+507,8 Swansdown Dr,M2L2N1,43.759947,-79.373036,Silver Hills,North York,10499000,5 bds,10 ba,,0,0,5,0,16,0,0,2,0,1,0,0,0,0,0
+508,15 Holmes Ave #2405,M2N4L8,43.777812,-79.413863,Willowdale South,North York,388888,1 bd,1 ba,,0,1,7,1,61,1,68,21,1,14,0,0,0,0,1
+509,10 Avery Ave,M9C1K2,43.633967,-79.564557,Bloordale Gardens,Etobicoke,3199000,5 bds,5 ba,,0,0,2,0,40,0,4,1,0,4,0,0,0,0,0
+510,35 Emerald Cres,M8V2B3,43.59614,-79.502746,Humber Bay Shores,Etobicoke,2499000,5 bds,6 ba,,0,0,4,1,11,1,17,2,0,12,0,0,0,0,1
+511,3151 Bridletowne Cir #1901,M1W2T1,43.797559,-79.319846,L'Amoreaux West,Scarborough,599900,3 bds,2 ba,,0,0,6,0,28,0,2,1,0,4,0,0,0,0,1
+512,590 Briar Hill Ave,M5N1M9,43.709509,-79.420538,Roselawn,Central Toronto,5790000,4 bds,8 ba,,0,0,2,0,37,0,4,0,0,0,0,0,0,0,0
+513,3 Thornhill Ave,M6S4C3,43.65734,-79.488801,Runnymede,West Toronto,1898000,3 bds,4 ba,,0,1,2,0,29,1,10,4,0,2,0,0,0,0,0
+514,17 Lesmount Ave,M4J3V5,43.690336,-79.339941,East Toronto,East York,1299000,3 bds,2 ba,,0,0,2,1,57,1,11,1,0,2,0,0,0,0,0
+515,100 Mornelle Ct #1039,M1E4X2,43.78722,-79.194677,Guildwood,Scarborough,489900,3 bds,2 ba,,0,0,0,0,0,0,0,7,0,10,0,0,0,0,0
+516,70 Distillery Ln #1508,M5A0E3,43.650118,-79.357935,Harbourfront,Downtown Toronto,899000,2 bds,2 ba,,0,0,3,1,36,2,14,15,0,10,0,0,0,0,0
+517,91 Bedford Rd,M5R2K4,43.671488,-79.398264,The Annex,Central Toronto,7888000,5 bds,5 ba,,0,4,63,3,62,7,47,29,0,23,0,0,0,0,0
+518,340 Dixon Rd #1508,M9R1T1,43.695609,-79.553852,Kingsview Village,Etobicoke,395000,2 bds,1 ba,,0,0,4,0,29,0,0,1,0,4,0,0,0,0,0
+519,237 McRoberts Ave,M6E4P3,43.681676,-79.455673,Caledonia-Fairbanks,York,699000,4 bds,2 ba,,0,0,2,1,31,0,18,9,0,2,0,0,0,0,0
+520,262 Saint Helens Ave #106,M6H4A4,43.656487,-79.443717,Dovercourt Village,West Toronto,799900,2 bds,2 ba,,0,2,5,5,32,10,25,15,0,49,0,0,0,0,1
+521,241 B Evelyn Ave,M6P2Z8,43.662514,-79.475521,High Park,West Toronto,2998000,6 bds,5 ba,,1,0,6,1,55,0,27,5,0,7,0,0,0,0,1
+522,32 Windsor Rd,M9R3G4,43.699963,-79.556916,Kingsview Village,Etobicoke,1280000,4 bds,2 ba,,0,1,3,0,28,0,1,0,0,4,0,0,0,0,0
+523,62 Martin Grove Rd,M9B4K4,43.643724,-79.547155,Cloverdale,Etobicoke,3799000,4 bds,5 ba,,0,0,2,0,17,0,2,0,0,6,0,0,0,0,0
+524,44 Standish Ave,M4W3B1,43.688505,-79.371183,Rosedale,Downtown Toronto,3395000,5 bds,5 ba,,0,0,3,0,20,0,1,3,0,0,0,0,0,0,0
+525,25 Ritchie Ave #PENTHOUSE 510,M6R2J6,43.652358,-79.450119,Parkdale,West Toronto,2198000,4 bds,3 ba,,0,2,6,5,26,7,33,19,0,21,0,0,0,0,1
+526,80 John St #1603,M5V3X4,43.646874,-79.390188,CN Tower,Downtown Toronto,1068900,2 bds,2 ba,"1,010 sqft",0,3,10,11,11,32,183,96,0,181,0,0,0,0,7
+527,39 Standish Ave,M4W3B2,43.6885,-79.370482,Rosedale,Downtown Toronto,2395000,5 bds,4 ba,,0,0,3,0,17,0,1,3,0,0,0,0,0,0,0
+528,77 Glenmore Rd,M4L3M2,43.678005,-79.310652,The Beaches West,East Toronto,1399000,4 bds,3 ba,,0,1,1,0,27,2,6,3,0,4,0,0,0,0,1
+529,30 Northland Ave,M6N2C6,43.678734,-79.47552,The Junction North,York,717000,2 bds,2 ba,,0,0,5,3,44,1,16,3,0,16,0,0,0,0,0
+530,17 Edilou Dr,M8W4B1,43.605996,-79.531532,Alderwood,Etobicoke,1248000,4 bds,2 ba,,0,0,2,0,26,0,2,1,0,0,0,0,0,0,0
+531,2130 Weston Rd #304,M9N3R9,43.702433,-79.524659,Weston,York,369000,2 bds,1 ba,,0,0,1,0,56,0,6,5,0,11,0,0,0,0,1
+532,186 Phyllis Ave,M1M1Y8,43.730854,-79.230523,Cliffcrest,Scarborough,2750000,6 bds,7 ba,,0,1,7,0,24,1,4,0,0,2,0,0,0,0,1
+533,132 Grey Rd,M5M4G1,43.731779,-79.423122,Bedford Park,North York,2395000,3 bds,2 ba,,0,0,1,1,25,1,26,5,0,7,0,0,0,0,0
+534,4645 Jane St #720,M3N2K9,43.769446,-79.519808,Downsview Northwest,North York,278000,1 bd,1 ba,,0,0,8,1,44,0,4,1,0,4,0,0,0,0,0
+535,100 Glenvale Blvd,M4G2V9,43.717745,-79.371309,Leaside,East York,3848000,5 bds,5 ba,,22,0,2,1,28,0,2,2,0,4,0,0,0,0,0
+536,319 Betty Ann Dr,M2R1B4,43.764741,-79.436434,Willowdale West,North York,4660000,7 bds,7 ba,,0,0,2,0,13,0,1,0,0,0,0,0,0,0,1
+537,335 Lonsdale Rd #406,M5P1R4,43.68827,-79.413549,Forest Hill North,Central Toronto,509000,2 bds,1 ba,,0,1,4,1,48,1,10,5,0,13,0,0,0,0,0
+538,37 Marjory Ave,M4M2Y2,43.667421,-79.336653,Studio District,East Toronto,1399000,4 bds,2 ba,,0,0,7,2,33,3,26,17,0,20,0,0,0,0,0
+539,10 Livonia Pl #149,M1E4W6,43.785922,-79.206031,Guildwood,Scarborough,599000,4 bds,4 ba,,1,0,1,1,12,0,1,3,0,3,0,0,0,0,0
+540,4645 Jane St #818,M3N2K9,43.769446,-79.519808,Downsview Northwest,North York,228800,1 bd,1 ba,,0,0,8,1,44,0,4,1,0,4,0,0,0,0,0
+541,42 Heathview Ave,M2K2C1,43.783169,-79.385634,Bayview Village,North York,3799000,4 bds,3 ba,,0,0,1,1,23,0,2,0,0,0,0,0,0,0,0
+542,561 Arlington Ave,M6C3A6,43.694701,-79.434216,Humewood-Cedarvale,York,2298000,3 bds,4 ba,,0,1,5,0,40,1,24,5,0,12,0,0,0,0,1
+543,2088 Lawrence Ave W #603,M9N3Z9,43.699951,-79.518563,Weston,York,539000,3 bds,2 ba,,0,1,3,0,46,0,13,8,0,16,0,0,0,0,1
+544,210 Gowan Ave,M4J2K6,43.689278,-79.345064,East Toronto,East York,999000,4 bds,2 ba,,0,0,4,1,72,1,12,3,0,2,0,0,0,0,0
+545,52 Sproat Ave,M4M1W4,43.668518,-79.33323,Studio District,East Toronto,998000,3 bds,1 ba,,0,0,5,1,35,4,22,8,0,19,0,0,0,0,0
+546,311 Bay St #4801,M5H4G5,43.649756,-79.380323,Adelaide,Downtown Toronto,7880000,3 bds,5 ba,,0,7,24,13,63,39,240,135,0,270,0,0,0,0,11
+547,35 Brian Peck Cres #807,M4G0A5,43.714593,-79.354388,Leaside,East York,1299000,3 bds,2 ba,,0,0,0,0,21,0,2,3,0,2,0,0,0,0,0
+548,40 Thorny Vine Way,M2J4J2,43.785524,-79.368264,Fairview,North York,749000,4 bds,3 ba,,0,1,2,2,25,0,12,3,0,1,0,0,0,0,3
+549,166 Gordon Rd,M2P1E8,43.749409,-79.388568,York Mills West,North York,4799900,6 bds,6 ba,,0,0,1,1,28,0,1,2,0,3,0,0,0,0,0
+550,365 Beech Ave #PENTHOUSE 1,M4E0C2,43.680037,-79.29045,The Beaches,East Toronto,3799000,3 bds,3 ba,,0,0,9,1,32,3,25,11,0,9,0,0,0,0,1
+551,926 Willowdale Ave,M2M3C1,43.785882,-79.409553,Newtonbrook,North York,1529000,6 bds,2 ba,,0,1,2,0,78,1,10,7,0,8,0,0,0,0,1
+552,2 Josephine Rd,M3H3G4,43.743761,-79.447819,Bathurst Manor,North York,1879000,5 bds,4 ba,,0,0,4,0,17,0,0,0,0,0,0,0,0,0,0
+553,39B Oriole Rd,M4V2E6,43.688419,-79.40019,Deer Park,Central Toronto,4749000,4 bds,6 ba,,0,1,8,2,42,1,21,9,1,10,0,0,0,0,3
+554,50 Grandravine Dr #8,M3J1B1,43.753029,-79.489411,Northwood Park,North York,559900,4 bds,2 ba,,0,0,7,3,59,0,6,1,0,4,0,0,0,0,1
+555,170 Strathallan Blvd,M5N1T1,43.714008,-79.417412,Roselawn,Central Toronto,3399000,5 bds,3 ba,,0,0,2,0,21,0,0,1,0,0,0,0,0,0,1
+556,85 Bloor St E #1709,M4W3Y1,43.670479,-79.384571,Rosedale,Downtown Toronto,485000,2 bds,1 ba,,1,4,48,10,70,12,117,60,0,87,0,0,0,0,2
+557,29 Checkendon Dr,M9W2Y8,43.732732,-79.57325,Northwest,Etobicoke,989000,3 bds,2 ba,"1,092 sqft",0,0,1,1,30,0,9,0,0,3,0,0,0,0,0
+558,418 Davenport Rd,M4V1B5,43.678098,-79.406458,Deer Park,Central Toronto,1448888,3 bds,2 ba,,0,1,7,2,48,1,8,7,0,8,0,0,0,0,0
+559,65 Scadding Ave #422,M5A4L1,43.648874,-79.365216,Harbourfront,Downtown Toronto,618000,3 bds,2 ba,,0,0,6,8,61,9,46,32,0,29,0,0,0,0,1
+560,524 Scarborough Golf Club Rd,M1G1H2,43.760083,-79.215919,Woburn,Scarborough,1048800,4 bds,3 ba,,0,0,8,2,16,0,1,0,0,14,0,0,0,0,2
+561,42 Old Bridle Path,M4T1A7,43.687267,-79.376363,Moore Park,Central Toronto,3295000,5 bds,5 ba,,0,0,2,0,21,0,0,0,0,0,0,0,0,0,0
+562,368 Markham St,M6G2K9,43.658121,-79.410024,Christie,Downtown Toronto,5250000,3 bds,5 ba,,1,1,12,7,29,12,166,51,0,65,0,0,0,0,3
+563,24A Massey St,M6J3T7,43.642716,-79.413217,Little Portugal,West Toronto,1299000,3 bds,3 ba,,0,1,4,4,29,7,72,40,0,29,0,0,0,0,3
+564,428 Connaught Ave,M2R2M3,43.784968,-79.43885,Willowdale West,North York,3368000,7 bds,7 ba,,0,0,3,1,49,0,1,2,0,0,0,0,0,0,0
+565,650 Queens Quay W #921,M5V3N2,43.635702,-79.398839,CN Tower,Downtown Toronto,389000,1 bd,1 ba,,0,0,1,5,10,4,26,19,0,12,0,0,0,0,1
+566,277 Indian Rd,M6R2X4,43.652109,-79.455322,Parkdale,West Toronto,5499000,6 bds,5 ba,,0,3,4,2,27,7,29,15,0,20,0,0,0,0,1
+567,61 Arjay Cres,M2L1C6,43.73848,-79.383368,Silver Hills,North York,5249888,6 bds,6 ba,,0,0,3,0,20,0,1,2,0,3,0,0,0,0,0
+568,113 Burrows Hall Blvd,M1B1Z7,43.791652,-79.231091,Rouge,Scarborough,650000,3 bds,2 ba,,0,0,8,1,44,0,7,4,0,9,0,0,0,0,0
+569,21 Kirk Bradden Rd W,M8Y2G1,43.638302,-79.502855,Humber Bay,Etobicoke,3955000,5 bds,5 ba,,0,0,6,0,28,0,0,0,0,0,0,0,0,0,0
+570,272 Rumsey Rd,M4G1P9,43.712369,-79.369841,Leaside,East York,1675000,4 bds,2 ba,"1,692 sqft",3,0,4,2,39,0,23,4,0,7,0,0,0,0,0
+571,115 10th St,M8V3E9,43.599655,-79.508115,Humber Bay Shores,Etobicoke,1499000,9 bds,7 ba,,0,0,15,1,19,1,17,4,0,9,0,0,0,0,2
+572,200 AC Merton St,M4S1A1,43.697552,-79.390292,Davisville,Central Toronto,1500000,4 bds,3 ba,,0,1,6,1,48,6,38,14,0,16,0,0,0,0,3
+573,700 King St W UNIT 604,M5V2Y6,43.644124,-79.403262,CN Tower,Downtown Toronto,490000,2 bds,1 ba,,0,0,4,7,17,14,114,48,0,64,0,0,0,0,5
+574,91 Valecrest Dr,M9A4P5,43.675971,-79.520516,Islington Avenue,Etobicoke,10499000,5 bds,8 ba,,0,0,2,0,19,0,0,0,0,0,0,0,0,0,0
+575,135 Holborne Ave,M4C2R5,43.69443,-79.318652,Woodbine Heights,East York,949000,3 bds,2 ba,,1,0,5,0,57,0,3,1,0,1,0,0,0,0,0
+576,1 Bolingbroke Rd,M6B3L5,43.712749,-79.448179,Glencairn,North York,1625000,3 bds,3 ba,"1,210 sqft",0,2,3,1,63,0,11,8,0,13,0,0,0,0,1
+577,1285 Dupont St #2301,M6H0E3,43.667732,-79.442661,Dovercourt Village,West Toronto,749900,2 bds,2 ba,,0,1,4,3,54,3,5,6,0,7,0,0,0,0,1
+578,491 Jane St,M6S4A1,43.661375,-79.489035,Runnymede,West Toronto,879900,3 bds,2 ba,,1,0,1,0,54,1,14,5,0,11,0,0,0,0,0
+579,152 Stanley Ave,M8V1N9,43.614753,-79.496794,Humber Bay Shores,Etobicoke,1898000,3 bds,3 ba,,0,1,6,0,26,2,16,2,0,9,0,0,0,0,1
+580,5795 Yonge St UNIT 611,M2M4J3,43.784366,-79.415164,Newtonbrook,North York,535000,2 bds,2 ba,,0,1,6,2,84,1,58,19,0,13,0,0,0,0,2
+581,75 Queens Wharf Rd #3901,M5V0J8,43.63836,-79.398657,CN Tower,Downtown Toronto,1049000,2 bds,2 ba,"1,008 sqft",0,0,2,8,13,8,60,27,0,22,0,0,0,0,4
+582,21 Tinbury Pl,M1B1J7,43.793992,-79.225331,Rouge,Scarborough,899000,5 bds,3 ba,,0,0,6,1,32,0,2,1,0,2,0,0,0,0,0
+583,4 Flatwoods Dr,M1V4H4,43.826499,-79.285113,Agincourt North,Scarborough,899000,5 bds,3 ba,,0,0,12,1,24,0,3,0,0,0,0,0,0,0,0
+584,1438A Dufferin St,M6H3L1,43.67111,-79.440411,Dovercourt Village,West Toronto,1998000,3 bds,6 ba,,0,0,5,3,59,3,29,8,0,11,0,0,0,0,1
+585,38 Smithwood Dr,M9B4R9,43.643535,-79.552893,Cloverdale,Etobicoke,4449000,6 bds,7 ba,,0,0,2,0,29,0,2,1,0,5,0,0,0,0,0
+586,88 Willowridge Rd,M9R3Z4,43.678549,-79.57346,Kingsview Village,Etobicoke,899900,3 bds,3 ba,,0,0,1,0,22,0,0,0,0,1,0,0,0,0,0
+587,27 Burkwood Cres,M1B1N8,43.802005,-79.213927,Rouge,Scarborough,799900,6 bds,3 ba,,0,0,8,0,61,0,0,0,0,0,0,0,0,0,0
+588,63 Cleveland St,M4S2W3,43.701838,-79.37765,Davisville,Central Toronto,949999,2 bds,2 ba,,0,0,5,0,29,0,21,5,0,6,0,0,0,0,0
+589,52 Rosedale Rd,M4W2P6,43.676621,-79.384891,Rosedale,Downtown Toronto,10500000,6 bds,7 ba,,0,3,9,8,44,6,75,36,0,46,0,0,0,0,1
+590,62 Kay Dr,M9V4X7,43.757867,-79.592178,Albion Gardens,Etobicoke,999000,4 bds,3 ba,,0,0,7,1,21,0,1,0,0,1,0,0,0,0,0
+591,155 Dalhousie St #1054,M5B2P7,43.657615,-79.376789,Ryerson,Downtown Toronto,2695000,5 bds,4 ba,,0,4,44,15,55,17,166,94,0,175,0,0,0,0,9
+592,5949 Yonge St #803,M2M3V8,43.787691,-79.416986,Newtonbrook,North York,348800,1 bd,1 ba,,0,1,3,2,93,1,30,15,0,12,0,0,0,0,2
+593,38 Ravensbourne Cres,M9A2A8,43.67637,-79.539166,Islington Avenue,Etobicoke,4588000,6 bds,5 ba,,0,0,3,0,18,0,0,2,0,5,0,0,0,0,1
+594,9 Greenview Ave,M2M4M7,43.779808,-79.418417,Newtonbrook,North York,1598000,3 bds,3 ba,,0,1,5,1,65,1,66,18,0,13,0,0,0,0,1
+595,68 Yorkville Ave #304,M5R3V7,43.671482,-79.390514,The Annex,Central Toronto,3750000,2 bds,3 ba,"2,490 sqft",0,5,47,9,76,11,111,58,0,63,0,0,0,0,2
+596,375 King St W #2302,M5V1K5,43.6457,-79.393154,CN Tower,Downtown Toronto,1089000,3 bds,2 ba,,0,2,10,12,7,29,181,73,0,125,0,0,0,0,5
+597,274 Carlton St,M5A2L5,43.664973,-79.366388,Harbourfront,Downtown Toronto,3898000,6 bds,4 ba,,0,1,8,9,42,1,50,13,0,12,0,0,0,0,0
+598,70 Pynford Cres,M3A1W8,43.758039,-79.318002,Parkwoods,North York,1029888,6 bds,2 ba,,0,0,8,0,43,1,6,4,0,9,0,0,0,0,2
+599,75 The Donway W #805,M3C2E9,43.732752,-79.345652,Flemingdon Park,North York,499000,Studio,1 ba,,0,0,5,3,45,1,16,6,0,8,0,0,0,0,1
+600,80 Crescent Rd UNIT 300,M4W1T5,43.67805,-79.384721,Rosedale,Downtown Toronto,2728000,3 bds,2 ba,,0,2,8,5,39,5,43,24,0,38,0,0,0,0,0
+601,4 Bowman St,M4X1T9,43.665666,-79.364223,Cabbagetown,Downtown Toronto,3450000,5 bds,5 ba,,1,0,7,9,29,1,46,13,0,10,0,0,0,0,0
+602,53 Lynnford Dr,M9B1H8,43.633447,-79.553653,Cloverdale,Etobicoke,1179000,4 bds,2 ba,,0,0,3,1,37,1,1,3,0,6,0,0,0,0,2
+603,185 Dawlish Ave,M4N1H6,43.722026,-79.390921,Lawrence Park,Central Toronto,9990000,6 bds,8 ba,,0,0,3,0,28,0,0,0,0,0,0,0,0,0,0
+604,40 Exmoor Dr,M8W1R5,43.592477,-79.543761,Alderwood,Etobicoke,1458000,3 bds,4 ba,,0,0,2,0,19,3,8,4,0,7,0,0,0,0,1
+605,131 Brickworks Ln #BL131,M6N5H8,43.67497,-79.468291,The Junction North,York,879000,3 bds,4 ba,"1,027 sqft",0,0,0,4,47,2,20,4,0,19,0,0,0,0,1
+606,195 Upper Canada Dr,M2P1T2,43.759994,-79.394588,York Mills West,North York,2195000,4 bds,3 ba,,0,0,1,1,32,0,9,1,0,4,0,0,0,0,0
+607,36 Wilson Park Rd,M6K3B5,43.637544,-79.44199,Brockton,West Toronto,1299000,4 bds,2 ba,,0,0,5,3,16,1,34,17,0,23,0,0,0,0,2
+608,197 S Woodrow Blvd,M1N3M1,43.703661,-79.261775,Birch Cliff,Scarborough,699000,2 bds,1 ba,,0,0,4,1,53,0,0,0,0,4,0,0,0,0,0
+609,391 Wellesley St E,M4X1H5,43.668839,-79.365713,Cabbagetown,Downtown Toronto,2049000,4 bds,3 ba,,0,1,8,5,29,1,38,10,0,5,0,0,0,0,0
+610,488 University Ave #2507,M5G0C1,43.655154,-79.38905,Central Bay Street,Downtown Toronto,1350000,3 bds,2 ba,,6,6,47,10,45,24,198,116,0,197,0,0,0,0,4
+611,76 Dalegrove Cres,M9B6A9,43.672876,-79.566173,Cloverdale,Etobicoke,2249888,9 bds,5 ba,,0,0,3,0,33,0,0,1,0,0,0,0,0,0,0
+612,67 Hillholm Rd,M5P1M4,43.697374,-79.411721,Forest Hill North,Central Toronto,15500000,7 bds,7 ba,,0,0,3,2,41,2,19,9,0,6,0,0,0,0,0
+613,26 Crimson Millway,M2L1T6,43.752006,-79.382613,Silver Hills,North York,1198000,5 bds,4 ba,,0,0,1,1,23,0,1,2,0,3,0,0,0,0,0
+614,83 Bayview Rdg,M2L1E3,43.740734,-79.385072,Silver Hills,North York,10800000,5 bds,6 ba,,0,0,2,1,26,0,1,2,0,3,0,0,0,0,0
+615,25 Laidlaw St #516,M6K1X3,43.640554,-79.426294,Brockton,West Toronto,999000,4 bds,3 ba,,1,1,3,5,30,5,59,27,0,27,0,0,0,0,0
+616,70 Oriole Rd,M4V2G1,43.689811,-79.401305,Deer Park,Central Toronto,5350000,5 bds,5 ba,"4,400 sqft",0,1,6,2,48,2,20,9,1,10,0,0,0,0,2
+617,59 Annie Craig Dr #1003,M8V0C4,43.624949,-79.478244,Humber Bay Shores,Etobicoke,1197000,2 bds,2 ba,,0,0,1,1,22,0,11,8,0,9,0,0,0,0,0
+618,16 Brookers Ln #2207,M8V0A5,43.62693,-79.47851,Humber Bay Shores,Etobicoke,1149900,2 bds,2 ba,,0,0,1,1,26,0,12,8,0,9,0,0,0,0,0
+619,95 Gaydon Ave,M9M1G8,43.721696,-79.530577,Emery,North York,1399900,6 bds,2 ba,,0,0,2,0,23,1,0,0,0,2,0,0,0,0,0
+620,77 McMurrich St #308,M5R3V3,43.674812,-79.39012,The Annex,Central Toronto,1295000,3 bds,2 ba,,0,4,24,9,52,9,99,44,0,50,0,0,0,0,2
+621,37 Vine Ave,M6P1V6,43.66642,-79.466366,High Park,West Toronto,1199000,4 bds,3 ba,,0,0,3,3,60,3,41,11,0,19,0,0,0,0,2
+622,25 Janus Ct,M2H1S3,43.807397,-79.369761,Hillcrest Village,North York,3688000,5 bds,7 ba,"5,300 sqft",0,0,4,0,29,0,0,1,0,2,0,0,0,0,1
+623,19 Hedgewood Rd,M2L1L4,43.743342,-79.397858,Silver Hills,North York,5380000,5 bds,5 ba,,0,1,1,0,35,0,0,2,0,5,0,0,0,0,0
+624,500 Donlands Ave,M4J3S7,43.696155,-79.346168,East Toronto,East York,799900,3 bds,2 ba,,0,0,2,1,57,1,7,3,0,2,0,0,0,0,0
+625,435 Meadowvale Rd,M1C1S6,43.78853,-79.161669,Highland Creek,Scarborough,969900,3 bds,5 ba,,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+626,133 Cordella Ave,M6N2K1,43.679261,-79.4857,The Junction North,York,899000,6 bds,1 ba,,0,0,7,1,49,1,5,2,0,3,0,0,0,0,0
+627,97 Post Rd,M3B1J3,43.738724,-79.367822,Don Mills North,North York,8888000,7 bds,10 ba,,0,0,1,0,6,0,0,0,0,0,0,0,0,0,0
+628,7 Wortham Dr,M1G1W5,43.762929,-79.224939,Woburn,Scarborough,1149000,6 bds,2 ba,,0,0,8,2,28,0,8,2,0,25,0,0,0,0,1
+629,25 Lower Simcoe St #318,M5J3A1,43.641411,-79.383308,Harbourfront East,Downtown Toronto,969000,3 bds,2 ba,,0,3,0,10,31,19,109,77,0,159,0,0,0,0,6
+630,503 Beecroft Rd #905,M2N0A2,43.778232,-79.417772,Willowdale South,North York,663000,2 bds,2 ba,,0,1,6,1,61,1,68,19,0,14,0,0,0,0,1
+631,52 Forest Manor Rd #521,M2J0E2,43.772384,-79.344395,Fairview,North York,629900,2 bds,2 ba,,0,1,4,2,40,0,2,3,0,16,0,0,0,0,0
+632,30 Herons Hill Way #506,M2J0A7,43.774938,-79.335458,Fairview,North York,668000,2 bds,2 ba,,0,0,3,1,16,1,11,4,0,19,0,0,0,0,0
+633,25 Bamburgh Cir #929,M1W3W2,43.815497,-79.325582,L'Amoreaux West,Scarborough,460000,2 bds,2 ba,,0,0,3,2,29,0,24,0,0,0,0,0,0,0,0
+634,13 Riverlea Rd,M9P2B1,43.699382,-79.522934,Westmount,Etobicoke,2088000,4 bds,4 ba,,0,0,1,0,46,0,7,6,0,11,0,0,0,0,1
+635,70 Annie Craig Dr #807,M8V0G2,43.624739,-79.478962,Humber Bay Shores,Etobicoke,889900,3 bds,2 ba,,0,0,1,1,23,0,12,8,0,9,0,0,0,0,0
+636,50 Merchant Ln #105,M6P4J6,43.656875,-79.445518,High Park,West Toronto,808800,3 bds,2 ba,,0,3,4,5,38,11,30,20,0,28,0,0,0,0,1
+637,2 Dailing Gate #19,M1B1Z8,43.791144,-79.229702,Rouge,Scarborough,599000,4 bds,3 ba,,0,0,8,1,41,0,5,4,0,5,0,0,0,0,0
+638,61 Fulbert Cres,M1S1C5,43.790312,-79.287079,Agincourt,Scarborough,1648000,6 bds,4 ba,,0,1,3,0,43,0,2,0,0,7,0,0,0,0,0
+639,435 Middlefield Rd #56,M1S5W1,43.808839,-79.256579,Agincourt,Scarborough,848800,4 bds,4 ba,,0,0,2,0,16,0,0,0,0,0,0,0,0,0,0
+640,10 Edgecliff Golfway #317,M3C3A3,43.719222,-79.326516,Flemingdon Park,North York,560000,3 bds,2 ba,"1,100 sqft",0,0,2,1,31,0,3,1,0,2,0,0,0,0,0
+641,460 Adelaide St E #820,M5A0E7,43.652787,-79.3668,Harbourfront,Downtown Toronto,675000,1 bd,2 ba,,0,0,9,8,68,10,72,40,0,38,0,0,0,0,1
+642,203 Medland St,M6P2N6,43.66441,-79.466577,High Park,West Toronto,1998000,4 bds,6 ba,,0,0,5,1,62,3,38,9,0,9,0,0,0,0,2
+643,21 Markbrook Ln #407,M9V5E4,43.758626,-79.587586,Albion Gardens,Etobicoke,569999,2 bds,2 ba,,0,0,2,1,17,0,3,0,0,2,0,0,0,0,1
+644,3 Marine Parade Dr #808,M8V3Z5,43.630233,-79.47622,Humber Bay Shores,Etobicoke,499000,2 bds,2 ba,,0,0,0,0,19,0,8,7,0,7,0,0,0,0,0
+645,4 Park Vis #1006,M4B3M8,43.697968,-79.299349,Woodbine Gardens,East York,565000,2 bds,2 ba,,0,0,4,0,53,0,0,0,0,1,0,0,0,0,0
+646,135 Village Green Sq #418,M1S0G4,43.777872,-79.280751,Agincourt,Scarborough,549000,2 bds,2 ba,,0,1,0,1,28,0,8,5,0,9,0,0,0,0,0
+647,61 Markbrook Ln #509,M9V5E7,43.759225,-79.585149,Albion Gardens,Etobicoke,549000,2 bds,2 ba,,0,0,2,1,17,0,3,0,0,2,0,0,0,0,1
+648,67 Lake Promenade,M8W1A2,43.590523,-79.522767,Alderwood,Etobicoke,9200000,5 bds,9 ba,,0,0,11,0,6,1,8,6,0,18,0,0,0,0,0
+649,296 Torresdale Ave #17,M2R3N3,43.7896,-79.45287,Willowdale West,North York,699000,4 bds,4 ba,,0,0,3,2,31,0,8,2,0,8,0,0,0,0,0
+650,262 Senlac Rd,M2R1P8,43.770953,-79.428126,Willowdale West,North York,3149995,6 bds,6 ba,,0,0,4,0,25,0,0,1,0,1,0,0,0,0,0
+651,32 Forest Manor Rd #416,M2J0C2,43.771726,-79.344794,Fairview,North York,688888,2 bds,2 ba,809 sqft,0,1,5,2,41,0,2,3,0,16,0,0,0,0,0
+652,423 Guildwood Pkwy,M1E1R3,43.750362,-79.185067,Guildwood,Scarborough,2999990,5 bds,6 ba,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+653,470 Front St W #1301,M5V0V6,43.642512,-79.395988,CN Tower,Downtown Toronto,724900,1 bd,1 ba,,0,0,3,12,9,21,135,51,0,71,0,0,0,0,6
+654,3237 Bayview Ave #510,M2K0G1,43.790112,-79.392793,Bayview Village,North York,599000,2 bds,2 ba,,0,0,4,1,35,0,0,0,0,0,0,0,0,0,0
+655,25 Broadway Ave UNIT 1105,M4P1T7,43.709918,-79.395912,Davisville North,Central Toronto,688000,2 bds,1 ba,,0,1,5,10,59,7,69,31,3,56,0,0,0,0,4
+656,70 Thomas Mulholland Dr #8,M3K0A5,43.73587,-79.478063,CFB Toronto,North York,1387888,5 bds,4 ba,,0,0,4,0,16,0,2,0,0,2,0,0,0,0,0
+657,15 B Medford Ave,M1L4G1,43.695692,-79.271575,Clairlea,Scarborough,1399900,4 bds,4 ba,,0,0,0,0,56,4,6,1,0,1,0,0,0,0,0
+658,106 Yardley Ave,M4B2B1,43.713354,-79.300924,Woodbine Gardens,East York,1275000,3 bds,3 ba,,0,0,5,0,46,0,7,0,0,4,0,0,0,0,1
+659,129 McMahon Dr #TOWNHOUSE 03,M2K0C2,43.767654,-79.371136,Bayview Village,North York,1368000,3 bds,4 ba,,0,3,1,0,33,0,3,4,0,4,0,0,0,0,0
+660,73 Richmond St W #L02,M5H4E8,43.650733,-79.382286,Adelaide,Downtown Toronto,379000,Studio,1 ba,,0,8,28,12,63,38,245,148,0,285,0,0,0,0,11
+661,213 Macdonell Ave,M6R2A4,43.64631,-79.439954,Parkdale,West Toronto,1399900,4 bds,2 ba,,0,0,10,6,23,7,46,23,0,26,0,0,0,0,3
+662,38 Dan Leckie Way #1607,M5V2V6,43.637492,-79.398104,CN Tower,Downtown Toronto,628000,2 bds,1 ba,,0,0,2,7,12,6,53,25,0,18,0,0,0,0,3
+663,11 Charlotte St #402,M5V0M6,43.646378,-79.39367,CN Tower,Downtown Toronto,575000,1 bd,1 ba,,0,2,11,13,7,28,188,72,0,130,0,0,0,0,6
+664,9 Michael Power Pl E #615,M9A0A5,43.644663,-79.529405,Islington Avenue,Etobicoke,499000,1 bd,1 ba,,0,1,2,2,68,3,18,6,1,18,0,0,0,0,0
+665,3220 Sheppard Ave E #1506,M1T3K3,43.777968,-79.312305,Clarks Corners,Scarborough,508000,1 bd,1 ba,,0,0,3,1,36,0,2,1,0,3,0,0,0,0,1
+666,8 Tippett Rd #801,M3H0E7,43.732384,-79.446637,Bathurst Manor,North York,509000,1 bd,1 ba,,0,2,4,0,55,0,6,6,0,26,0,0,0,0,0
+667,3 Everson Dr #528,M2N7C2,43.756938,-79.406496,Willowdale South,North York,559000,1 bd,1 ba,,0,1,0,5,37,0,16,9,0,25,0,0,0,0,0
+668,121 Ford St #109,M6N3A1,43.673343,-79.462184,The Junction North,York,960000,2 bds,3 ba,,0,0,3,2,43,3,32,12,0,16,0,0,0,0,1
+669,20 Tubman Ave #2307,M5A0M8,43.660593,-79.359349,Harbourfront,Downtown Toronto,559999,2 bds,1 ba,,2,0,6,6,29,1,29,15,0,13,0,0,0,0,0
+670,19 Western Battery Rd #2310,M6K3N9,43.63957,-79.411329,Brockton,West Toronto,599999,3 bds,2 ba,,0,1,1,5,27,6,49,28,0,25,0,0,0,0,2
+671,111 3rd St,M8V2Y1,43.603827,-79.501393,Humber Bay Shores,Etobicoke,999988,3 bds,2 ba,,0,0,4,1,16,0,16,2,0,13,0,0,0,0,1
+672,45 Strader Ave,M6C1R1,43.693481,-79.44039,Humewood-Cedarvale,York,699999,3 bds,2 ba,,0,1,6,0,50,0,18,7,0,16,0,0,0,0,0
+673,224 Coronation Dr,M1E2J4,43.762523,-79.181993,Guildwood,Scarborough,989000,3 bds,2 ba,,0,0,0,0,0,0,0,1,0,5,0,0,0,0,1
+674,8 Rosebank Dr #16H,M1B5Z3,43.791844,-79.237284,Rouge,Scarborough,539000,2 bds,1 ba,,0,0,4,2,44,0,7,2,0,9,0,0,0,0,0
+675,28 Empress Ave #1916,M2N6Z7,43.769982,-79.411745,Willowdale South,North York,779900,2 bds,2 ba,,0,2,7,4,30,0,68,21,1,33,0,0,0,0,1
+676,319 Laird Dr,M4G3X7,43.716006,-79.365486,Leaside,East York,1499999,3 bds,2 ba,,5,0,2,1,30,0,6,3,0,4,0,0,0,0,0
+677,128 Hazelton Ave #801,M5R2E5,43.674903,-79.39488,The Annex,Central Toronto,8325000,3 bds,4 ba,,0,4,25,3,59,5,69,33,0,30,0,0,0,0,0
+678,18 Kipling Grove Ct,M9B0C6,43.662635,-79.551649,Cloverdale,Etobicoke,1299999,3 bds,4 ba,,0,0,6,0,31,0,0,0,0,0,0,0,0,0,0
+679,488 Roselawn Ave,M5N1J8,43.70797,-79.414299,Roselawn,Central Toronto,2050000,4 bds,2 ba,,0,0,3,1,34,2,17,6,0,4,0,0,0,0,0
+680,3 Sutherland Ave,M4C1R8,43.691634,-79.289858,Woodbine Heights,East York,899000,5 bds,3 ba,,0,1,5,3,61,0,6,3,0,12,0,0,0,0,1
+681,33 Edwin Ave,M6P3Z5,43.662925,-79.454429,High Park,West Toronto,2900000,7 bds,10 ba,,0,3,7,3,55,4,16,13,0,17,0,0,0,0,0
+682,21 Fusilier Dr,M1L0C2,43.717232,-79.279496,Clairlea,Scarborough,899900,3 bds,3 ba,,0,1,1,1,40,0,1,0,0,0,0,0,0,0,0
+683,121 Valley Stream Dr,M1V2A4,43.821396,-79.262866,Agincourt North,Scarborough,799800,5 bds,2 ba,,0,0,3,0,29,0,0,0,0,0,0,0,0,0,0
+684,1216 - 801 King Street W,,43.642734,-79.40707,Niagara,,595000,1,1,,0,0,2,6,25,11,77,36,0,31,0,0,0,0,4
+685,136 Regina Ave,,43.725842,-79.442193,Englemount Lawrence,,1649900,5,2,,0,1,3,0,57,0,0,3,0,1,0,0,0,0,0
+686,36 Summerfield Cres,,43.660051,-79.572874,Eringate Centennial West Deane,,1100000,4,2,,0,0,10,0,31,0,0,0,0,2,0,0,0,0,1
+687,128 Shropshire Dr,,43.758979,-79.281764,Dorset Park,,1149000,4,2,,0,0,0,0,27,0,10,3,0,2,0,0,0,0,0
+688,1233 - 35 Viking Lane,,43.639707,-79.535225,Islington City Centre West,,697800,2,2,,0,2,1,1,75,2,14,8,2,13,0,0,0,0,1
+689,2476  Islington Ave,,43.728461,-79.56107,Rexdale Kipling,,1100000,6,4,,0,0,4,1,36,0,8,1,0,4,0,0,0,0,1
+690,1901 - 195 McCaul St,,43.6567,-79.392206,Kensington Chinatown,,1905871,3,3,,8,3,83,9,37,17,190,102,0,109,0,0,0,0,4
+691,LPh 01 - 10 Meadowglen Pl,,43.774291,-79.229879,Woburn,,598000,3,2,,0,0,7,0,23,0,9,3,0,17,0,0,0,0,0
+692,74 Mortimer Ave,,43.684804,-79.353377,Broadview North,,1159000,4,3,,0,1,12,2,56,2,41,14,1,10,0,0,0,0,1
+693,161 Parkhurst Blvd,,43.710267,-79.365619,Leaside,,1546499,2,2,,0,0,4,3,45,0,12,6,0,8,0,0,0,0,0
+694,802 - 290 Adelaide Street W,,43.647816,-79.391122,Waterfront Communities West,,950000,2,2,,1,3,11,12,11,29,209,96,0,171,0,0,0,0,5
+695,D9 - 108 Finch Avenue W,,43.778025,-79.424741,Newtonbrook West,,1100000,4,3,,0,0,10,1,33,0,5,5,0,5,0,0,0,0,1
+696,46 Singleton Rd,,43.733528,-79.298509,Wexford Maryvale,,850000,4,2,,0,0,2,2,34,0,1,3,0,8,0,0,0,0,0
+697,905 - 398 Front St E,,43.653005,-79.357169,Waterfront Communities East,,819900,2,2,,0,0,3,2,36,2,16,19,0,7,0,0,0,0,0
+698,209 - 369 Sorauren Ave,,43.649997,-79.444632,Roncesvalles,,599000,1,1,,0,0,8,6,22,8,34,16,0,24,0,0,0,0,3
+699,26 Winona Dr,,43.675393,-79.43073,Wychwood,,1429000,4,2,,0,0,3,2,56,3,38,12,0,12,0,0,0,0,0
+700,826 - 35 Bastion St,,43.637197,-79.403572,Niagara,,649000,1,1,,0,0,2,5,17,6,41,21,0,10,0,0,0,0,3
+701,5j Brussels Street,,43.626893,-79.491403,Stonegate Queensway,,1199900,3,3,,0,0,3,0,32,0,11,3,0,5,0,0,0,0,0
+702,49 - 5 William Jackson Way,,43.600769,-79.512121,New Toronto,,695000,2,2,,0,0,20,0,26,1,15,5,0,9,0,0,0,0,2
+703,909 - 7 Lorraine Drive,,43.77874,-79.417139,Willowdale West,,595999,2,1,,0,1,6,1,64,1,69,18,0,14,0,0,0,0,1
+704,83 Lascelles Blvd,,43.701853,-79.401854,Yonge Eglinton,,4295000,5,4,,0,2,1,5,70,8,56,24,1,49,0,0,0,0,4
+705,608 - 801 Sheppard Ave W,,43.752922,-79.449493,Clanton Park,,589900,2,2,,0,0,4,0,28,0,7,2,0,8,0,0,0,0,0
+706,408 - 801 King St W,,43.642734,-79.40707,Niagara,,599000,2,1,,0,0,2,6,25,11,77,36,0,31,0,0,0,0,4
+707,1301 - 10 Park Lawn Rd,,43.623213,-79.483931,Mimico,,889999,2,2,,0,0,2,1,27,0,15,10,0,15,0,0,0,0,0
+708,8 - 275 Van Dusen Boulevard,,43.63981,-79.529475,Islington City Centre West,,1099000,3,2,,0,2,1,2,65,2,10,6,2,14,0,0,0,0,1
+709,501 - 2045 Lake Shore Blvd W,,43.637539,-79.399222,Mimico,,875000,2,2,,0,0,2,6,11,8,56,25,0,17,0,0,0,0,4
+710,254 Salem Ave,,43.667018,-79.434545,Dovercourt Wallace Emerson Junction,,1099000,3,3,,0,1,3,4,60,7,26,12,0,23,0,0,0,0,2
+711,216 Wallace Ave,,43.662268,-79.445568,Dovercourt Wallace Emerson Junction,,999999,3,2,,0,2,4,7,54,6,19,15,0,18,0,0,0,0,1
+712,478 Merton St,,43.699434,-79.38152,Mount Pleasant East,,1399000,3,2,,0,0,4,0,41,1,32,5,0,5,0,0,0,0,1
+713,501 - 2464 Weston Rd,,43.708257,-79.534202,Weston,,449900,1,1,,0,0,0,1,30,0,4,1,0,4,0,0,0,0,0
+714,304 Withrow Avenue,,43.672677,-79.340596,Blake Jones,,1199000,4,2,,0,2,8,4,44,2,23,17,0,23,0,0,0,0,0
+715,2809 - 2 Sonic Way,,43.719497,-79.336408,Flemingdon Park,,499900,1,1,,0,0,0,1,35,0,7,0,0,4,0,0,0,0,1
+716,105 - 7 Watkinson Avenue,,43.665107,-79.460013,Junction Area,,999999,3,2,,0,0,6,1,55,3,21,10,0,9,0,0,0,0,1
+717,2510 - 1926 Lake Shore Boulevard W,,43.635856,-79.467386,South Parkdale,,1199900,3,2,,0,0,0,0,24,0,0,1,0,1,0,0,0,0,0
+718,79 Elder Avenue,,43.598997,-79.527244,Long Branch,,1198500,3,2,,0,0,12,0,20,3,10,5,0,22,0,0,0,0,0
+719,340 Mortimer Avenue,,43.688028,-79.339301,Danforth Village East York,,1275000,4,2,,0,1,2,2,62,2,15,6,0,6,0,0,0,0,0
+720,506 - 760 The Queensway S,,43.626178,-79.504717,Stonegate Queensway,,515000,2,1,,0,0,7,0,39,2,21,4,1,14,0,0,0,0,1
+721,411 - 10 De Boers Drive,,43.75177,-79.463834,York University Heights,,729000,3,2,,0,1,1,1,46,0,4,3,0,6,0,0,0,0,0
+722,1004 - 125 George Appleton Way,,43.725725,-79.479422,Downsview Roding Cfb,,649999,3,2,,0,0,4,1,27,0,3,2,0,8,0,0,0,0,1
+723,89 Cree Ave,,43.731936,-79.228243,Cliffcrest,,999900,4,2,,0,1,8,0,26,1,4,0,0,2,0,0,0,0,1
+724,101 Harewood Ave,,43.722271,-79.234402,Cliffcrest,,899000,2,1,,0,0,9,2,40,1,9,0,0,6,0,0,0,0,1
+725,4703 - 35 Balmuto St,,43.669472,-79.387488,Bay Street Corridor,,1399000,2,3,,2,4,48,10,71,12,123,62,0,85,0,0,0,0,2
+726,2103 - 60 Brian Harrison Way,,43.774024,-79.258007,Bendale,,549900,2,1,,0,0,1,2,57,0,6,10,0,38,0,0,0,0,3
+727,3002 - 20 Bruyeres Mews,,43.637552,-79.4008,Niagara,,1099000,2,2,,0,0,2,6,13,8,51,26,0,15,0,0,0,0,3
+728,1005 - 8 Dovercourt Rd,,43.641637,-79.421844,Little Portugal,,665000,2,1,,0,1,3,7,39,8,79,31,0,32,0,0,0,0,2
+729,1707 - 2020 Bathrust St,,43.700578,-79.425623,Forest Hill South,,469000,1,1,,0,0,3,1,48,1,17,3,0,6,0,0,0,0,1
+730,2034 - 3043 Finch Ave,,43.746064,-79.563237,Humbermede,,469000,2,1,,0,0,6,1,20,0,8,1,0,4,0,0,0,0,1
+731,165 Armour Blvd,,43.742751,-79.430794,Lansing Westgate,,2850000,6,4,,0,0,2,0,25,0,10,2,0,5,0,0,0,0,0
+732,901 - 100 Quebec Ave,,43.655658,-79.46824,High Park North,,1149900,3,2,,0,3,5,0,40,4,11,6,0,10,0,0,0,0,1
+733,140 - 1173 Dundas St E,,43.664423,-79.34184,South Riverdale,,949900,1,2,,0,0,6,3,26,3,43,21,0,21,0,0,0,0,0
+734,206 - 5 Greystone Walk Dr,,43.645415,-79.387361,Kennedy Park,,498000,3,2,,0,4,6,14,23,27,166,95,0,183,0,0,0,0,7
+735,329 - 155 Merchants' Wharf Avenue,,43.646203,-79.361412,Waterfront Communities East,,750000,1,1,,0,0,1,2,49,2,18,18,0,13,0,0,0,0,0
+736,3007 - 181 Wynford Dr,,43.725064,-79.328704,Banbury Don Mills,,759900,3,2,,0,0,0,0,28,0,2,1,0,1,0,0,0,0,0
+737,3 Clayhall Cres,,43.751371,-79.499078,York University Heights,,1149000,4,2,,0,0,5,0,30,0,0,0,0,0,0,0,0,0,0
+738,10 - 1321 Gerrard St E,,43.67114,-79.326224,Greenwood Coxwell,,750000,2,1,,0,0,3,2,29,0,16,4,0,5,0,0,0,0,0
+740,15 Braddock Road,,43.719486,-79.584801,West Humber Clairville,,959900,4,2,,0,0,1,0,23,0,0,1,0,2,0,0,0,0,0
+741,712 - 159 Dundas Street N,,43.657124,-79.375394,Church Yonge Corridor,,538000,1,1,,0,4,47,14,48,20,146,87,0,154,0,0,0,0,8
+742,51 - 5 William Jackson Way,,43.600769,-79.512121,New Toronto,,806000,2,2,,0,0,20,0,26,1,15,5,0,9,0,0,0,0,2
+743,818 - 323 Richmond St E,,43.653384,-79.368447,Moss Park,,899000,2,2,,0,0,7,8,64,13,89,41,0,51,0,0,0,0,3
+744,27 Cameo Cres,,43.677017,-79.491542,Rockcliffe Smythe,,995000,7,3,,0,0,5,1,51,0,2,0,0,5,0,0,0,0,0
+745,48 Shaftesbury Ave,,43.682521,-79.38967,Rosedale Moore Park,,3445000,4,5,,0,2,5,2,35,2,40,14,0,14,0,0,0,0,3
+746,96 King High Ave,,43.740725,-79.446355,Clanton Park,,1599900,7,5,,0,1,4,0,28,0,5,1,0,1,0,0,0,0,0
+747,10 Dearbourne Ave,,43.675665,-79.357432,North Riverdale,,1189000,5,2,,0,1,15,2,20,3,35,15,1,12,0,0,0,0,1
+748,212 - 5 Richgrove Dr,,43.676833,-79.564206,Willowridge Martingrove Richview,,679000,2,2,,0,0,5,0,38,0,0,3,0,2,0,0,0,0,0
+749,9 Joseph Salsberg Lane,,43.644349,-79.404053,Niagara,,1300000,3,2,,0,0,4,6,18,12,116,48,0,61,0,0,0,0,4
+750,193 Brickworks Lane,,43.675683,-79.469543,Junction Area,,914900,3,4,,0,0,1,3,52,2,19,3,0,19,0,0,0,0,1
+751,709 - 2191 Yonge St,,43.705666,-79.39739,Mount Pleasant West,,549800,2,1,,0,2,6,11,78,10,71,32,3,63,0,0,0,0,5
+752,1201 - 195 Redpath Avenue,,43.7101,-79.393425,Mount Pleasant West,,557000,2,1,,0,1,6,10,60,7,67,29,3,51,0,0,0,0,4
+753,76 Highhill Drive,,43.776605,-79.311642,Tam O'shanter Sullivan,,1080000,4,4,,0,0,3,1,29,0,2,1,0,3,0,0,0,0,1
+754,413 - 600 Fleet St W,,43.636698,-79.400078,Niagara,,449000,1,1,,0,0,1,6,12,8,44,22,0,17,0,0,0,0,3
+755,78 Ashridge Dr,,43.815736,-79.268628,Agincourt North,,998000,5,3,,0,0,8,0,34,0,7,0,0,0,0,0,0,0,0
+756,3632a St Clair Avenue E,,43.709125,-79.293489,Cliffcrest,,699900,4,4,,0,0,3,0,59,0,4,1,0,4,0,0,0,0,1
+757,3306 - 14 York St,,43.641931,-79.381365,Waterfront Communities West,,699000,2,1,,0,4,0,10,37,20,104,80,0,162,0,0,0,0,6
+758,681 Scarlett Rd,,43.694225,-79.51913,Humber Heights,,1650000,6,4,,0,1,2,0,36,0,9,5,0,11,0,0,0,0,1
+759,208 Holmes Ave,,43.781146,-79.399927,Willowdale East,,3350000,7,7,,0,0,2,0,24,0,0,0,0,0,0,0,0,0,0
+760,718 - 30 Meadowglen Pl,,43.774774,-79.230498,Woburn,,599000,2,2,,0,0,7,0,28,0,9,3,0,19,0,0,0,0,0
+761,Th5 - 118 Finch Avenue,,43.833506,-79.1526,Newtonbrook West,,899000,3,3,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+762,824 - 231 Fort York Blvd,,43.636971,-79.406075,Niagara,,619000,2,1,,0,0,1,5,18,4,26,18,0,16,0,0,0,0,3
+763,195 Brookdale Ave,,43.728471,-79.409622,Lawrence Park North,,1995000,3,4,,0,1,0,3,44,1,18,12,0,12,0,0,0,0,3
+764,671a - 671 Browns Line,,43.59841,-79.543717,Alderwood,,1298000,4,2,,0,0,2,0,27,3,9,6,0,9,0,0,0,0,1
+765,1517 - 87 Peter St,,43.646776,-79.392435,Waterfront Communities West,,635000,2,1,,0,2,11,11,7,31,187,78,0,140,0,0,0,0,5
+766,301 - 200 Manitoba Street,,43.634873,-79.420868,Mimico,,879999,2,2,,0,1,0,4,27,4,25,12,0,23,0,0,0,0,0
+767,1220 - 460 Adelaide Street E,,43.652787,-79.3668,Moss Park,,499900,1,1,,0,0,9,8,68,10,72,40,0,38,0,0,0,0,1
+768,301 - 1350 York Mills Rd,,43.763222,-79.319141,Parkwoods Donalda,,549900,2,1,,0,0,6,0,34,1,2,3,0,8,0,0,0,0,1
+769,501 Palmerston Boulevard,,43.662755,-79.412626,Palmerston Little Italy,,3199000,7,3,,0,2,14,4,32,13,138,35,0,35,0,0,0,0,1
+770,3905 - 117 Mcmahon Drive,,43.767209,-79.370405,Bayview Village,,650000,1,1,,0,3,1,0,33,0,3,4,0,4,0,0,0,0,0
+771,Ph120 - 460 Adelaide St E,,43.652787,-79.3668,Moss Park,,1038888,3,2,,0,0,9,8,68,10,72,40,0,38,0,0,0,0,1
+772,2107 - 1 Palace Pier Crt,,43.631482,-79.472638,Mimico,,665000,2,1,,0,0,0,0,26,0,5,4,0,4,0,0,0,0,0
+773,2014 - 1001 Bay St,,43.665465,-79.387068,Bay Street Corridor,,1050000,2,2,,6,6,60,15,75,17,150,91,0,120,0,0,0,0,3
+774,Th05 - 101 Erskine Ave,,43.711659,-79.39535,Mount Pleasant West,,2100000,4,4,,0,1,5,10,58,7,54,27,3,51,0,0,0,0,4
+775,428 - 12 Douro Street,,43.640766,-79.412339,Niagara,,899000,3,2,,0,1,2,4,30,7,57,35,0,26,0,0,0,0,2
+776,2201 - 70 Forest Manor Rd,,43.689144,-79.404683,Henry Farm,,599000,2,2,,0,0,4,2,42,0,8,5,1,6,0,0,0,0,0
+777,121 - 7 Kenaston Gardens,,43.767167,-79.386112,Bayview Village,,598999,2,2,,0,1,2,1,26,0,2,3,0,4,0,0,0,0,0
+778,205 - 2550 Lawrence Ave E,,43.727297,-79.391084,Dorset Park,,589000,3,2,,0,0,5,0,31,0,0,0,0,0,0,0,0,0,0
+779,1604 - 20 Edward St,,43.657059,-79.382187,Bay Street Corridor,,568800,1,1,,6,7,43,16,68,17,192,114,0,214,0,0,0,0,9
+780,229 Craven Rd,,43.669466,-79.319759,Greenwood Coxwell,,989000,4,3,,0,0,2,2,29,1,19,5,0,12,0,0,0,0,0
+781,11 Ashton Manr,,43.720735,-79.50042,Stonegate Queensway,,2190000,4,2,,0,0,3,1,20,0,7,1,2,2,0,0,0,0,0
+782,703 - 55 De Boers Dr,,43.75177,-79.463834,York University Heights,,539000,1,1,,0,1,1,1,46,0,4,3,0,6,0,0,0,0,0
+783,137 Benleigh Drive,,43.762537,-79.238934,Woburn,,1299975,7,3,,0,0,5,0,28,0,4,1,0,4,0,0,0,0,0
+784,1304 - 330 Mccowan Rd,,43.737512,-79.238359,Eglinton East,,559000,3,2,,0,1,2,1,31,0,5,1,0,1,0,0,0,0,0
+785,129 Brookhaven Dr,,43.70416,-79.495728,Brookhaven Amesbury,,999000,5,2,,0,0,6,1,41,0,13,2,0,9,0,0,0,0,0
+786,321 - 451 The West Mall,,43.645415,-79.387361,Etobicoke West Mall,,585000,2,1,,0,4,6,14,23,27,166,95,0,183,0,0,0,0,7
+787,53 Codsell Ave,,43.757679,-79.443357,Bathurst Manor,,1199900,4,3,,0,0,2,1,20,0,6,1,0,7,0,0,0,0,1
+788,511 - 3 Everson Dr,,43.756938,-79.406496,Willowdale East,,729000,3,2,,0,1,0,5,37,0,16,9,0,25,0,0,0,0,0
+789,1202 Islington Ave,,43.643159,-79.523086,Islington City Centre West,,1199000,3,2,,0,1,11,2,48,2,14,4,0,13,0,0,0,0,0
+790,4 Muskox Drive,,43.81036,-79.18447,Rouge,,1410000,4,3,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+791,1233 - 15 Merchants' Wharf Road,,43.645111,-79.364299,Waterfront Communities East,,999000,2,2,,0,0,2,5,49,4,30,23,0,23,0,0,0,0,1
+792,703 - 355 Bedford Park Avenue,,43.724197,-79.416891,Bedford Park Nortown,,5495000,3,4,,0,0,2,2,30,0,11,4,0,6,0,0,0,0,1
+793,8 Blakley Ave,,43.671695,-79.481214,Rockcliffe Smythe,,949800,3,2,,1,0,2,0,43,1,17,6,0,14,0,0,0,0,0
+794,414 - 15 Lower Jarvis St,,43.645272,-79.369349,Waterfront Communities East,,525000,1,1,,0,0,4,7,65,18,76,39,0,45,0,0,0,0,2
+795,4906 - 2191 Yonge St,,43.705666,-79.39739,Mount Pleasant West,,1290000,3,3,,0,2,6,11,78,10,71,32,3,63,0,0,0,0,5
+796,203 - 195 Poplar Plains Rd,,43.682361,-79.402109,Casa Loma,,1499000,1,2,,0,0,6,3,41,1,7,7,1,5,0,0,0,0,0
+797,708 - 168 King St E,,43.650812,-79.371199,Moss Park,,695000,2,2,,0,2,7,11,81,21,103,61,0,92,0,0,0,0,7
+798,810 - 38 Widmer St,,43.64818,-79.391974,Waterfront Communities West,,588000,2,1,,1,3,12,11,9,29,212,90,0,155,0,0,0,0,5
+799,2604 - 500 Sherbourne St,,43.667976,-79.375573,North St. Jamestown,,649000,2,1,,1,3,25,12,54,8,75,27,0,30,0,0,0,0,1
+800,411 - 188 Cumberland St,,43.669828,-79.394109,Yorkville,,689000,1,1,,0,4,90,7,72,9,89,50,0,47,0,0,0,0,2
+801,84 Pandora Circ,,43.765568,-79.231436,Woburn,,878000,3,1,,0,0,3,1,28,0,10,3,0,23,0,0,0,0,0
+802,244 Gowan Avenue,,43.689592,-79.343813,Danforth Village East York,,1145000,3,1,,0,0,4,1,69,1,12,3,0,2,0,0,0,0,0
+803,L06 - 73 Richmond St W,,43.650733,-79.382286,Bay Street Corridor,,599900,0,1,,0,8,28,12,63,38,245,148,0,285,0,0,0,0,11
+804,2310 - 40 Homewood Ave,,43.664229,-79.375535,Cabbagetown South St. Jamestown,,439900,1,1,,1,3,45,16,57,10,105,43,0,80,0,0,0,0,1
+805,604 - 188 Cumberland St,,43.669828,-79.394109,Yorkville,,1200000,3,2,,0,4,90,7,72,9,89,50,0,47,0,0,0,0,2
+806,504 - 1103 Leslie Street,,43.720267,-79.347933,Banbury Don Mills,,795000,3,2,,0,0,0,1,22,0,3,0,0,0,0,0,0,0,0
+807,46 - 2012 Martin Grove Rd,,43.741867,-79.594194,West Humber Clairville,,709000,4,2,,0,0,10,0,41,0,2,1,0,9,0,0,0,0,0
+808,Ph16 - 80 Vanauley St,,43.649677,-79.399231,Kensington Chinatown,,679000,2,1,,1,0,10,15,11,21,245,86,0,99,0,0,0,0,7
+809,1504 - 56 Annie Craig Dr,,43.625363,-79.478731,Mimico,,760000,3,1,,0,0,1,1,23,0,12,8,0,9,0,0,0,0,0
+810,6 Balfour Ave,,43.69059,-79.300945,East End Danforth,,999000,3,3,,0,2,5,0,58,0,9,7,0,6,0,0,0,0,1
+812,58b Tecumseth St,,43.642555,-79.40522,Niagara,,1288800,3,3,,0,0,3,6,21,11,91,35,0,32,0,0,0,0,4
+813,1205 - 5795 Yonge St,,43.681624,-79.391716,Newtonbrook East,,799000,2,2,,0,2,5,2,46,2,47,16,1,15,0,0,0,0,3
+814,2506 - 33 Mill St,,43.650316,-79.360978,Waterfront Communities East,,679800,2,1,,0,0,4,4,54,3,24,20,0,18,0,0,0,0,0
+815,26 Breadner Dr,,43.6931,-79.560049,Willowridge Martingrove Richview,,1149000,4,2,,0,0,4,0,27,0,0,0,0,4,0,0,0,0,0
+817,908 - 65 Annie Craig Drive,,43.624631,-79.478535,Mimico,,1650000,3,2,,0,0,1,1,22,0,11,8,0,9,0,0,0,0,0
+818,25 Windhill Cres,,43.746687,-79.543139,Humbermede,,799000,4,3,,0,0,4,0,21,0,16,3,0,11,0,0,0,0,0
+819,1108 - 10 Torresdale Ave,,43.772736,-79.452183,Westminister Branson,,918000,3,3,,1,0,3,0,16,0,0,1,0,0,0,0,0,0,0
+820,1171 Roselawn Ave,,43.699345,-79.454393,Briar Hill Belgravia,,2699000,3,1,,0,0,1,1,33,0,21,5,0,14,0,0,0,0,1
+821,801 - 8 Tippett Road,,43.732384,-79.446637,Clanton Park,,459000,1,1,,0,2,4,0,55,0,6,6,0,26,0,0,0,0,0
+822,404 Horner Ave,,43.604414,-79.534016,Alderwood,,1499900,3,4,,0,0,2,0,22,0,2,1,0,0,0,0,0,0,0
+823,110 Allenby Ave,,43.713629,-79.544542,Elms Old Rexdale,,1399000,6,5,,0,0,1,0,12,0,0,0,0,1,0,0,0,0,0
+824,162 Abbeywood Tr,,43.749649,-79.363305,Banbury Don Mills,,2680000,4,4,,0,0,4,1,21,1,8,3,0,6,0,0,0,0,2
+825,71 Riverwood Pkwy,,43.64146,-79.493483,Stonegate Queensway,,2399000,5,3,,0,1,3,0,29,0,0,0,0,0,0,0,0,0,0
+827,108 - 37 Four Winds Dr,,43.765261,-79.493675,York University Heights,,625000,3,2,,0,1,7,1,42,1,11,3,0,19,0,0,0,0,0
+828,3606 - 575 Bloor St E,,43.671713,-79.372389,Rosedale Moore Park,,578000,1,1,,0,2,11,7,54,2,37,13,0,11,0,0,0,0,0
+829,1105 - 2067 Lake Shore Boulevard W,,43.631453,-79.431636,Mimico,,750000,2,2,,1,0,2,1,12,1,5,3,0,6,0,0,0,0,0
+830,54-175 Trudelle Street,,43.741138,-79.237028,Eglinton East,,800000,4,4,,0,1,3,1,28,0,4,1,0,1,0,0,0,0,0
+831,521 The Kingsway,,43.672331,-79.5436,Princess Rosethorn,,2438000,4,3,,0,0,3,0,23,0,0,2,0,5,0,0,0,0,1
+832,302 - 99 Foxbar Rd,,43.686594,-79.400463,Yonge St. Clair,,1479000,2,2,,0,1,9,2,43,1,25,9,1,11,0,0,0,0,3
+833,44 Ladysbridge Drive,,43.767444,-79.205814,Morningside,,795900,3,2,,0,0,3,0,15,0,1,0,0,3,0,0,0,0,2
+834,3036 - 68 Corporate Drive,,43.780535,-79.251006,Woburn,,639900,3,2,,0,0,1,0,42,0,8,9,0,40,0,0,0,0,3
+835,36 Ridge Road,,43.722761,-79.49388,Downsview Roding Cfb,,779000,1,1,,1,0,7,1,17,0,3,2,2,1,0,0,0,0,0
+836,48 Dubray Ave,,43.729476,-79.479441,Downsview Roding Cfb,,1298000,3,3,,0,0,3,1,26,0,3,2,0,8,0,0,0,0,1
+837,512 - 55 East Liberty,,43.638615,-79.412742,Niagara,,799000,2,2,,0,1,0,3,31,6,41,29,0,22,0,0,0,0,1
+838,Th1 - 220 George St,,43.655797,-79.373035,Moss Park,,1500000,3,3,,0,3,41,16,61,22,139,78,0,134,0,0,0,0,6
+839,1 - 130 Clinton St,,43.657285,-79.414971,Palmerston Little Italy,,998000,3,2,,0,1,10,5,26,9,110,41,0,36,0,0,0,0,0
+840,293 Chaplin Cres,,43.701923,-79.415895,Forest Hill South,,2795000,5,4,,0,0,4,1,39,2,15,5,0,3,0,0,0,0,0
+841,1109 - 2645 Kipling Ave W,,43.746807,-79.583798,Mount Olive Silverstone Jamestown,,479900,2,2,,0,0,6,0,27,0,5,2,0,17,0,0,0,0,2
+842,407 - 10 Meadowglen Pl,,43.774291,-79.229879,Woburn,,499900,2,1,,0,0,7,0,23,0,9,3,0,17,0,0,0,0,0
+843,26 Dellbrook Crescent,,43.755306,-79.573696,Humber Summit,,1100000,4,2,,0,0,3,0,13,0,5,1,0,4,0,0,0,0,0
+844,716 - 20 Dean Park Road,,43.696626,-79.340371,Rouge,,614900,2,2,,0,0,1,1,43,1,8,1,0,1,0,0,0,0,0
+845,10 Cedar Springs Grove,,43.768408,-79.45904,Bathurst Manor,,1550000,4,3,,0,0,3,0,29,0,1,1,0,1,0,0,0,0,0
+846,605 - 55 Delisle Ave,,43.688292,-79.397092,Yonge St. Clair,,3195000,3,3,,0,1,8,3,44,3,30,10,1,12,0,0,0,0,3
+847,82 Roseneath Gdns,,43.684602,-79.435774,Oakwood Vaughan,,999000,4,2,,0,0,7,0,37,3,37,16,0,12,0,0,0,0,0
+848,7 Woodycrest Ave,,43.680213,-79.34178,Danforth,,1388000,5,3,,0,2,7,3,52,2,31,11,0,12,0,0,0,0,0
+849,50 St Andrews Boulevard,,43.686034,-79.374469,Kingsview Village The Westway,,1199900,4,2,,0,0,2,0,16,0,0,0,0,0,0,0,0,0,0
+850,114 - 371 Orton Park Rd,,43.779744,-79.215376,Morningside,,699000,3,2,,0,0,4,0,5,0,0,0,0,0,0,0,0,0,0
+851,105 - 39 Pemberton Ave,,43.781088,-79.412829,Newtonbrook East,,624000,1,1,,0,1,6,1,80,1,66,18,0,13,0,0,0,0,1
+852,32 Farley Cres,,43.681564,-79.561956,Willowridge Martingrove Richview,,1299000,4,3,,0,0,8,0,41,0,0,3,0,2,0,0,0,0,0
+853,31 Taunton Rd,,43.70712,-79.38803,Mount Pleasant East,,1100000,3,2,,0,0,5,4,46,4,33,13,3,18,0,0,0,0,2
+854,612 - 3237 Bayview Ave,,43.684212,-79.365215,Bayview Woods Steeles,,619000,3,2,,0,0,1,0,13,0,0,2,1,0,0,0,0,0,0
+855,627 - 150 Logan Avenue,,43.658054,-79.341682,South Riverdale,,1300000,3,2,,0,0,3,1,20,5,30,13,0,12,0,0,0,0,0
+856,6 Neelands Cres,,43.792673,-79.205176,Morningside,,990000,4,3,,0,0,2,1,28,0,1,0,0,3,0,0,0,0,0
+857,70 Watney Cres,,43.744208,-79.504555,Glenfield Jane Heights,,975000,4,3,,0,0,12,2,31,0,0,0,0,0,0,0,0,0,0
+858,2 - 7 Warwick Ave,,43.694839,-79.42456,Humewood Cedarvale,,592000,2,1,,0,0,3,1,36,1,17,3,0,6,0,0,0,0,1
+859,17 Chapais Cres,,43.782877,-79.142635,Centennial Scarborough,,1247300,4,3,,0,0,0,0,0,0,0,1,0,4,0,0,0,0,1
+860,28 Joel Swirsky Blvd,,43.746583,-79.45106,Clanton Park,,2599900,5,6,,0,0,5,0,25,0,5,2,0,3,0,0,0,0,0
+861,1004 - 10 Park Lawn Rd,,43.623213,-79.483931,Mimico,,689999,2,2,,0,0,2,1,27,0,15,10,0,15,0,0,0,0,0
+862,939 - 18 Mondeo Dr,,43.76543,-79.288231,Dorset Park,,499975,1,1,,0,0,0,1,30,1,6,3,0,2,0,0,0,0,0
+863,4308 - 8 Eglinton Ave E,,43.707141,-79.397703,Mount Pleasant West,,758000,2,2,,0,1,6,10,65,9,69,32,3,60,0,0,0,0,4
+864,80 Shandon Drive,,43.767431,-79.31443,Wexford Maryvale,,1379900,7,4,,0,0,6,0,18,1,2,1,0,1,0,0,0,0,0
+865,8 Park Hill Road,,43.698945,-79.437815,Forest Hill North,,1698000,4,3,,0,1,7,2,36,1,20,2,0,12,0,0,0,0,0
+866,186 Silverthorn Ave,,43.678699,-79.461834,Weston Pellam Park,,1099000,3,3,,0,0,1,2,45,1,17,3,0,6,0,0,0,0,0
+867,1009 - 714 The West Mall W,,43.655688,-79.57154,Eringate Centennial West Deane,,573900,3,2,,0,0,4,0,31,0,0,0,0,2,0,0,0,0,1
+868,1408 - 725 Don Mills Rd,,43.711436,-79.333347,Flemingdon Park,,299000,1,1,,0,0,4,1,32,0,4,0,0,3,0,0,0,0,1
+869,1001 - 30 Old Mill Rd,,43.651158,-79.492337,Kingsway South,,2995000,3,3,,0,2,1,0,25,2,13,5,1,4,0,0,0,0,0
+870,1028 - 125 Omni Dr,,43.771029,-79.260134,Bendale,,438000,1,1,,0,0,2,2,52,1,5,10,0,38,0,0,0,0,2
+871,3202 - 8 York St,,43.640486,-79.380812,Waterfront Communities West,,1098000,2,2,,0,3,0,10,32,14,76,69,0,136,0,0,0,0,5
+872,297 Bain Avenue,,43.67298,-79.341437,Blake Jones,,1399000,3,2,,0,2,8,4,43,2,25,19,0,25,0,0,0,0,0
+873,48 Ardgowan Cres,,43.812243,-79.271403,Agincourt North,,898000,4,3,,0,0,7,0,34,0,7,0,0,0,0,0,0,0,0
+874,18 Epsom Ave,,43.691601,-79.308027,Woodbine Lumsden,,1549000,4,3,,0,2,3,0,60,2,8,6,0,5,0,0,0,0,1
+875,122 Barker Ave,,43.694213,-79.317341,Danforth Village East York,,1349000,3,3,,1,0,5,0,54,0,3,2,0,1,0,0,0,0,0
+876,1507 - 60 Pavane Linkway,,43.711279,-79.322982,Flemingdon Park,,400000,2,1,,0,0,3,0,30,0,0,0,0,0,0,0,0,0,0
+877,316 - 60 Southport St,,43.638786,-79.473838,High Park Swansea,,858000,3,2,,0,0,1,0,30,0,0,1,0,1,0,0,0,0,0
+878,413 - 835 St Clair Ave W,,43.68015,-79.431791,Wychwood,,669000,1,1,,0,0,4,1,39,3,42,14,0,11,0,0,0,0,0
+879,11 Prince Rupert Ave,,43.658463,-79.453849,High Park North,,1849000,4,4,,0,3,7,4,49,7,24,16,0,25,0,0,0,0,1
+880,418 - 150 Sudbury St,,43.641504,-79.424224,Little Portugal,,599900,2,1,,0,1,3,8,38,7,81,32,0,37,0,0,0,0,2
+881,100 Roe Ave,,43.733405,-79.41572,Lawrence Park North,,3188800,5,5,,0,0,1,1,33,1,26,5,0,6,0,0,0,0,0
+882,21 - 115 Long Branch Ave,,43.591894,-79.532985,Long Branch,,799000,2,3,,0,0,3,0,12,3,6,5,0,10,0,0,0,0,1
+883,710 - 108 Peter St,,43.647679,-79.393277,Waterfront Communities West,,588000,2,1,,0,3,12,13,8,29,215,78,0,133,0,0,0,0,6
+884,619 - 96 Strachan Ave,,43.64106,-79.411892,Niagara,,798000,2,2,,0,1,3,4,28,7,54,35,0,28,0,0,0,0,2
+885,418 - 135 Village Green Sq,,43.777872,-79.280751,Agincourt South Malvern West,,549000,2,2,,0,1,0,1,28,0,8,5,0,9,0,0,0,0,0
+886,181 Earlscourt Ave,,43.682609,-79.449359,Corso Italia Davenport,,799900,3,2,,0,0,4,1,41,0,26,11,0,6,0,0,0,0,0
+887,501 - 9 Valhalla Inn Rd,,43.641041,-79.559565,Islington City Centre West,,549000,2,1,,0,0,3,0,47,0,4,4,0,5,0,0,0,0,0
+888,702 - 4 The Kingsway,,43.635076,-79.472421,Kingsway South,,2698000,2,3,,0,0,0,0,29,0,1,1,0,1,0,0,0,0,0
+889,502 - 31 Four Winds Dr,,43.765261,-79.493675,York University Heights,,545000,2,1,,0,1,7,1,42,1,11,3,0,19,0,0,0,0,0
+891,120 Neilson Dr,,43.63417,-79.567166,Markland Wood,,1848000,4,5,,0,0,3,0,31,0,4,1,0,4,0,0,0,0,0
+893,91 Hollyberry Tr,,43.80804,-79.348956,Hillcrest Village,,1125000,4,2,,0,0,4,0,30,0,2,0,0,0,0,0,0,0,0
+894,302 - 36 Zorra St,,43.663368,-79.324904,Islington City Centre West,,565000,2,1,,0,0,4,1,29,4,13,2,0,8,0,0,0,0,0
+895,43 Snowshoe Millway,,43.750779,-79.380064,St. Andrew Windfields,,1399900,4,3,,0,0,3,1,18,0,1,2,0,3,0,0,0,0,0
+896,314 - 60 George Butchart Dr,,43.736561,-79.483201,Downsview Roding Cfb,,505000,1,1,,0,0,3,0,20,0,3,0,0,4,0,0,0,0,0
+897,303 - 70 Old Sheppard Ave,,43.778274,-79.336511,Pleasant View,,520000,2,1,,0,0,3,1,15,1,7,4,0,19,0,0,0,0,0
+898,3105 - 30 Nelson St,,43.649062,-79.388476,Waterfront Communities West,,599800,2,1,,2,4,11,11,28,30,222,125,0,208,0,0,0,0,8
+899,1103 - 10 Dean Park Rd,,43.804217,-79.168775,Rouge,,579900,2,2,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+900,100 Rusty Crestway,,43.788441,-79.355423,Don Valley Village,,859000,3,2,,0,0,7,2,42,2,5,2,0,6,0,0,0,0,1
+901,3203 - 180 University Avenue,,43.648996,-79.386154,Bay Street Corridor,,1559000,2,2,,1,7,9,13,42,34,214,125,0,267,0,0,0,0,10
+902,805 - 160 Vanderhoof Avenue,,43.714359,-79.353187,Thorncliffe Park,,659999,2,2,,0,0,0,0,22,0,2,3,0,0,0,0,0,0,0
+903,521 - 255 The Donway W,,43.739826,-79.346034,Banbury Don Mills,,729000,2,2,,0,0,5,2,43,1,15,6,0,13,0,0,0,0,1
+904,4005 - 319 Jarvis St,,43.659814,-79.375308,Moss Park,,735000,1,1,,1,3,45,15,52,14,126,65,0,135,0,0,0,0,3
+905,258 Byng Ave E,,43.780324,-79.398837,Willowdale East,,1598000,4,2,,0,0,2,0,28,0,0,0,0,0,0,0,0,0,0
+906,118 High Park Ave,,43.657524,-79.467411,High Park North,,1988000,8,3,,0,2,5,0,50,4,26,9,0,11,0,0,0,0,2
+907,127 Weir Cres,,43.773648,-79.196582,West Hill,,1150000,3,3,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+908,1510 - 35 Hayden St E,,43.66955,-79.384654,Church Yonge Corridor,,655000,1,1,,2,4,50,14,69,14,129,66,0,104,0,0,0,0,3
+909,1602 - 10 Deerlick Crt,,43.759433,-79.332085,Parkwoods Donalda,,690000,2,2,,0,0,2,0,38,0,0,1,0,4,0,0,0,0,1
+910,221 - 251 Jarvis St,,43.657325,-79.374332,Moss Park,,488000,1,1,,0,2,46,13,47,20,142,75,0,139,0,0,0,0,7
+911,Gph3 - 8 Widmer St,,43.646752,-79.391805,Waterfront Communities West,,1290000,3,2,,0,3,11,10,9,31,177,83,0,147,0,0,0,0,5
+912,161 August Avenue,,43.652934,-79.401168,Oakridge,,1279000,5,4,,3,0,36,9,11,18,233,79,0,93,0,0,0,0,7
+913,354 Ranee Ave,,43.722078,-79.455298,Yorkdale Glen Park,,2688000,5,5,,0,1,2,2,46,0,21,9,0,35,0,0,0,0,1
+914,7b Clintwood Gate,,43.748509,-79.312891,Parkwoods Donalda,,898000,3,3,,0,0,7,0,34,0,5,2,0,13,0,0,0,0,1
+915,21 Treelawn Pkwy,,43.711385,-79.470803,Maple Leaf,,1398000,4,4,,0,0,2,1,37,0,2,2,1,6,0,0,0,0,1
+916,1006 Mount Pleasant Rd,,43.714199,-79.392613,Mount Pleasant East,,999000,3,1,,0,0,7,8,42,7,44,21,2,34,0,0,0,0,2
+917,5 Rosehill Ave 607,,43.686128,-79.392887,Rosedale Moore Park,,889000,2,2,,0,2,7,3,35,2,38,11,1,13,0,0,0,0,3
+918,1717 - 4725 Sheppard Ave E,,43.790016,-79.254657,Agincourt South Malvern West,,417171,2,1,,0,0,3,0,35,0,6,3,0,4,0,0,0,0,1
+919,1222 - 75 Bamburgh Circ,,43.815063,-79.327295,Steeles,,615000,2,2,,0,0,4,2,35,0,24,0,0,0,0,0,0,0,0
+920,1511 - 70 Temperance St,,43.650465,-79.382209,Bay Street Corridor,,850000,3,2,,0,8,28,13,62,40,247,145,0,281,0,0,0,0,11
+921,3 Langevin Cres,,43.780088,-79.146196,Centennial Scarborough,,1267800,4,3,,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0
+922,48 Westbrook Ave,,43.693539,-79.306305,Woodbine Lumsden,,1099000,3,3,,0,1,5,0,46,0,6,4,0,4,0,0,0,0,0
+923,408 - 155 Legion Rd N,,43.623942,-79.488447,Mimico,,550000,1,1,,0,0,2,1,29,0,12,6,0,11,0,0,0,0,0
+924,1102 - 20 Laidlaw St,,43.640503,-79.426858,South Parkdale,,745000,3,1,,1,0,4,5,28,5,43,25,0,27,0,0,0,0,0
+925,149 Sharpecroft Blvd,,43.750414,-79.489371,York University Heights,,995900,4,2,,0,0,3,3,58,0,7,1,0,6,0,0,0,0,1
+926,37 Holley Ave,,43.706346,-79.52964,Weston,,825000,3,2,,0,0,1,1,39,0,7,2,0,6,0,0,0,0,0
+927,Unit 12 - 57 Finch Avenue W,,43.778324,-79.420761,Willowdale West,,799999,3,3,,0,1,6,1,58,1,60,17,0,13,0,0,0,0,1
+928,409 - 3 Rowntree Rd,,43.681222,-79.460569,Mount Olive Silverstone Jamestown,,650000,2,2,,0,0,1,0,39,0,17,3,0,6,0,0,0,0,0
+929,Th1 - 51 Florence St,,43.64541,-79.431799,Little Portugal,,1380000,3,4,,0,0,7,5,29,6,52,29,0,35,0,0,0,0,3
+930,52 Acton Ave,,43.760296,-79.449789,Bathurst Manor,,1449900,5,3,,0,0,2,0,19,0,3,0,0,3,0,0,0,0,0
+931,73 Pettibone Sq,,43.798185,-79.329407,L'amoreaux,,898000,3,2,,0,0,5,0,36,0,1,1,0,2,0,0,0,0,1
+932,4011 - 395 Bloor St E,,43.672002,-79.377438,North St. Jamestown,,499000,2,1,,1,3,19,7,52,7,41,19,0,33,0,0,0,0,0
+933,2410 - 5500 Yonge Street,,43.710282,-79.398838,Willowdale West,,888000,2,2,,0,1,5,9,58,6,64,26,2,50,0,0,0,0,4
+934,622 - 859 The Queensway,,43.624262,-79.510293,Stonegate Queensway,,699000,3,2,,0,0,2,0,45,1,11,8,1,12,0,0,0,0,1
+935,1906 - 55 East Liberty Street,,43.638615,-79.412742,Niagara,,950000,2,2,,0,1,0,3,31,6,41,29,0,22,0,0,0,0,1
+936,Uph106 - 797 Don Mills Rd,,43.7195,-79.337719,Flemingdon Park,,569999,2,1,,0,0,0,2,29,0,11,0,0,4,0,0,0,0,1
+937,5 - 205 Bonis Ave,,43.672038,-79.345604,Tam O'shanter Sullivan,,899900,3,2,,0,1,12,3,30,2,54,22,0,22,0,0,0,0,0
+938,Ph17 - 2111 Lake Shore Blvd W,,43.628942,-79.477778,Mimico,,1475000,2,2,,0,0,0,1,24,0,11,8,0,8,0,0,0,0,0
+939,54 Flintridge Rd,,43.744651,-79.279067,Dorset Park,,988000,7,4,,0,0,5,2,35,0,6,3,0,9,0,0,0,0,1
+940,86 Blossom Cres,,43.750556,-79.524858,Glenfield Jane Heights,,799999,4,2,,0,0,3,0,10,0,4,1,0,8,0,0,0,0,0
+941,104 - 225 The Donway W,,43.733391,-79.347625,Banbury Don Mills,,1435000,2,3,,0,0,5,3,52,1,15,7,0,8,0,0,0,0,1
+942,405 - 2464 Weston Road,,43.708257,-79.534202,Weston,,405000,1,1,,0,0,0,1,30,0,4,1,0,4,0,0,0,0,0
+944,811 - 33 Shore Breeze Drive,,43.623886,-79.479223,Mimico,,699000,2,2,,0,0,1,1,23,0,11,8,0,9,0,0,0,0,0
+945,613 Old Weston Rd,,43.678775,-79.464784,Weston Pellam Park,,1088000,4,4,,0,0,1,3,45,2,24,6,0,18,0,0,0,0,1
+946,928 - 251 Jarvis Street,,43.657325,-79.374332,Moss Park,,589900,2,1,,0,2,46,13,47,20,142,75,0,139,0,0,0,0,7
+947,1205 - 6 Eva Rd,,43.639707,-79.563077,Etobicoke West Mall,,509000,1,1,,0,0,3,0,48,1,4,4,0,5,0,0,0,0,0
+948,169 Kennard Ave,,43.759786,-79.46168,Bathurst Manor,,1649900,5,3,,0,0,4,2,37,0,2,1,0,5,0,0,0,0,0
+949,518 - 1060 Sheppard Ave W,,43.756448,-79.435498,York University Heights,,670000,2,2,,0,0,1,1,21,0,5,1,0,6,0,0,0,0,1
+950,21 Cambridge Avenue,,43.676518,-79.359986,Playter Estates Danforth,,1850000,4,3,,0,1,9,2,23,3,18,11,1,12,0,0,0,0,1
+951,48d Crawford St,,43.642757,-79.414423,Niagara,,979000,2,3,,0,1,3,4,28,9,79,39,0,30,0,0,0,0,2
+952,503 - 75 Dalhousie St,,43.655627,-79.375858,Church Yonge Corridor,,629900,3,1,,0,4,44,13,61,27,171,97,0,167,0,0,0,0,10
+953,2114 - 158 Front Street,,43.650304,-79.368781,Moss Park,,528000,1,1,,0,0,6,9,72,16,89,45,0,52,0,0,0,0,5
+954,2405 - 36 Zorra St,,43.619778,-79.521779,Islington City Centre West,,600000,3,2,,0,0,0,1,36,1,5,8,0,10,0,0,0,0,0
+955,818 - 1 Bedford Rd,,43.668551,-79.397124,Yorkville,,878000,2,1,,0,4,120,2,65,7,57,41,0,39,0,0,0,0,0
+956,69 Laing Street,,43.663451,-79.3269,Greenwood Coxwell,,1075000,3,2,,0,0,4,1,31,4,13,3,0,8,0,0,0,0,0
+957,919 - 38 Joe Shuster Way,,43.640417,-79.424649,South Parkdale,,399990,1,1,,0,1,2,6,35,6,65,30,0,29,0,0,0,0,1
+958,303 - 18 Pemberton Ave,,43.781492,-79.413051,Newtonbrook East,,580000,2,1,,0,1,6,1,80,1,65,19,0,14,0,0,0,0,1
+959,906 - 47 Mutual St,,43.654927,-79.374681,Church Yonge Corridor,,549900,2,1,,0,3,41,14,66,25,158,89,0,160,0,0,0,0,9
+960,3909 - 11 Wellesley St W,,43.664526,-79.385583,Bay Street Corridor,,724900,2,1,,5,6,64,17,73,17,162,96,0,137,0,0,0,0,4
+961,1401 - 55 Charles St E,,43.668965,-79.383546,Church Yonge Corridor,,799000,1,1,,2,5,48,16,68,16,132,70,0,106,0,0,0,0,3
+962,425 Cranbrooke Avenue,,43.725527,-79.419632,Bedford Park Nortown,,2695000,3,5,,0,0,2,2,29,0,18,4,0,7,0,0,0,0,1
+963,905 - 10 Dean Park Road,,43.804217,-79.168775,Rouge,,529888,2,1,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+964,18 - 73 Driftwood Ave,,43.940271,-79.468319,Glenfield Jane Heights,,618000,3,2,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+966,S319 - 120 Bayview Ave,,43.74281,-79.383272,Waterfront Communities East,,468000,0,1,,0,0,2,1,25,0,1,2,0,3,0,0,0,0,0
+967,4610 - 138 Downes Street,,43.644513,-79.370966,Waterfront Communities East,,579000,0,1,,0,1,4,8,64,18,85,48,0,73,0,0,0,0,4
+968,903 - 1103 Leslie St,,43.720267,-79.347933,Banbury Don Mills,,698000,2,2,,0,0,0,1,22,0,3,0,0,0,0,0,0,0,0
+969,15 Wantanopa Crescent,,43.765039,-79.233239,Woburn,,1338800,5,4,,0,0,4,0,26,0,10,3,0,17,0,0,0,0,0
+970,28 Wuthering Heights Road,,43.782178,-79.129475,West Rouge,,899900,3,4,,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+971,458 Donlands Ave,,43.695206,-79.343583,Old East York,,899900,3,2,,0,0,2,1,62,1,7,3,0,2,0,0,0,0,0
+972,601 - 115 Antibes Dr,,43.779571,-79.445886,Westminister Branson,,770000,2,2,,1,0,5,0,34,0,1,4,0,3,0,0,0,0,0
+973,1310 - 55 Ontario St,,43.6535,-79.366255,Moss Park,,565000,1,1,,0,0,9,8,66,7,59,36,0,37,0,0,0,0,1
+974,1104 - 270 Dufferin St,,43.638483,-79.427467,South Parkdale,,699000,2,2,,1,1,4,4,27,5,43,22,0,26,0,0,0,0,0
+975,Lph14 - 270 Dufferin St,,43.638483,-79.427467,South Parkdale,,999000,4,2,,1,1,4,4,27,5,43,22,0,26,0,0,0,0,0
+976,206 Brandon Ave,,43.668907,-79.447512,Dovercourt Wallace Emerson Junction,,1198000,4,3,,0,0,5,3,59,2,18,12,0,6,0,0,0,0,1
+977,1103 - 123 Portland Street,,43.646104,-79.400477,Waterfront Communities West,,1189900,2,2,,1,0,4,13,10,17,178,66,0,76,0,0,0,0,9
+978,105 Gilroy Dr,,43.763739,-79.281836,Dorset Park,,999999,5,2,,0,0,0,1,26,0,6,5,0,1,0,0,0,0,0
+979,311 Holmes Avenue,,43.782536,-79.392457,Willowdale East,,3388000,6,8,,0,0,1,1,29,0,0,0,0,0,0,0,0,0,0
+980,608 - 68 Merton St,,43.696825,-79.39399,Mount Pleasant West,,579000,1,1,,0,2,4,4,50,6,43,14,1,19,0,0,0,0,4
+981,74 Natal Ave,,43.712217,-79.253922,Birchcliffe Cliffside,,1049000,5,2,,0,1,3,3,51,1,6,0,0,9,0,0,0,0,1
+982,5 - 369 Albany Avenue,,43.676334,-79.414275,Casa Loma,,989000,2,1,,0,2,8,1,53,1,26,11,0,15,0,0,0,0,0
+984,70 Don River Boulevard,,43.758226,-79.433172,Lansing Westgate,,3545000,4,3,,0,0,1,1,19,0,4,1,0,3,0,0,0,0,1
+985,204 - 123 Portland Street,,43.646104,-79.400477,Waterfront Communities West,,599900,1,1,,1,0,4,13,10,17,178,66,0,76,0,0,0,0,9
+986,1811 - 100 Quebec Ave,,43.655658,-79.46824,High Park North,,1049950,3,2,,0,3,5,0,40,4,11,6,0,10,0,0,0,0,1
+987,1803 - 100 Harrison Garden Blvd,,43.756982,-79.4044,Willowdale East,,799000,3,2,,0,1,0,5,40,0,17,10,0,26,0,0,0,0,0
+988,3503 - 290 Adelaide St W,,43.647816,-79.391122,Waterfront Communities West,,448888,0,1,,1,3,11,12,11,29,209,96,0,171,0,0,0,0,5
+989,322 - 500 Richmond St W,,43.647616,-79.399165,Waterfront Communities West,,649900,1,1,,1,0,5,15,10,18,213,81,0,98,0,0,0,0,8
+990,219 - 365 Beech Ave,,43.680037,-79.29045,The Beaches,,1199999,2,2,,0,0,9,1,32,3,25,11,0,9,0,0,0,0,1
+991,10 Yonge St 1001,,43.642491,-79.375449,Waterfront Communities West,,759000,1,2,,0,3,0,9,50,24,98,71,0,110,0,0,0,0,7
+992,5 - 40 Mendelssohn Street W,,43.71555,-79.281694,Clairlea Birchmount,,759000,2,2,,0,1,1,1,33,0,0,0,0,0,0,0,0,0,0
+993,59 Covewood St,,43.804171,-79.387861,Bayview Woods Steeles,,1750000,4,3,,0,0,2,0,14,0,1,0,0,0,0,0,0,0,0
+994,704 - 25 Neighbourhood Lane,,43.638218,-79.489363,Stonegate Queensway,,1178900,4,3,,0,0,3,0,24,0,3,1,0,0,0,0,0,0,0
+995,804 - 2045 Lake Shore Blvd W,,43.6315,-79.474516,Mimico,,1198000,3,2,,0,0,0,0,23,0,5,5,0,5,0,0,0,0,0
+996,48 - 651f Warden Avenue,,43.731911,-79.28929,Clairlea Birchmount,,799000,4,2,,0,0,2,2,23,2,12,3,0,22,0,0,0,0,1
+997,94 Meighen Ave,,43.703012,-79.296084,O'connor Parkview,,998000,3,3,,0,0,2,0,61,0,2,0,0,2,0,0,0,0,1
+998,61 Dane Ave,,43.7172,-79.449548,Yorkdale Glen Park,,3299000,9,5,,0,2,2,2,71,0,16,12,0,26,0,0,0,0,1
+999,600 Queens Quay W Sph22,,43.636856,-79.397245,Waterfront Communities West,,629500,1,1,,0,0,2,5,9,6,47,23,0,16,0,0,0,0,2
+1000,1101 - 100 Hayden St,,43.670504,-79.381661,Church Yonge Corridor,,685000,1,1,,1,4,25,13,71,13,105,52,0,83,0,0,0,0,3
+1001,305 - 125 Redpath Ave,,43.707523,-79.392402,Mount Pleasant West,,575000,2,2,,0,1,5,9,67,7,81,29,3,54,0,0,0,0,5
+1002,70 Oriole Road,,43.689811,-79.401305,Yonge St. Clair,,5350000,5,5,,0,1,6,2,48,2,20,9,1,10,0,0,0,0,2
+1003,759 Wilson Heights Blvd,,43.760363,-79.463893,Bathurst Manor,,949990,3,1,,0,0,4,2,40,0,4,2,0,4,0,0,0,0,0
+1004,3408 - 50 Town Centre Crt,,43.740833,-79.489167,Bendale,,568000,2,1,,0,0,4,1,30,0,4,0,0,5,0,0,0,0,1
+1005,326 - 38 Monte Kwinter Crt,,43.733592,-79.448826,Clanton Park,,519999,2,1,,0,1,4,0,41,0,6,6,0,27,0,0,0,0,0
+1006,301 - 30 Hayden St,,43.66987,-79.385006,Church Yonge Corridor,,499900,1,1,,2,5,48,11,70,13,125,62,0,89,0,0,0,0,2
+1007,Ph14 - 1060 Sheppard Ave W,,43.750492,-79.464045,York University Heights,,799900,2,3,,0,1,1,1,44,0,3,3,0,5,0,0,0,0,0
+1008,412 - 17 Zorra St,,43.621925,-79.522357,Islington City Centre West,,475000,1,1,,0,0,0,1,37,1,6,8,0,10,0,0,0,0,0
+1009,1802 - 3 Rowntree Rd,,43.681222,-79.460569,Mount Olive Silverstone Jamestown,,645900,2,2,,0,0,1,0,39,0,17,3,0,6,0,0,0,0,0
+1010,1806 - 15 Legion Rd,,43.621512,-79.484037,Mimico,,799880,3,2,,0,0,2,1,19,0,19,9,0,15,0,0,0,0,1
+1011,1801 - 225 Village Green Sq,,43.779842,-79.281958,Agincourt South Malvern West,,559000,2,1,,0,1,1,1,28,0,9,4,0,9,0,0,0,0,0
+1012,2611 - 8 Eglinton Ave E,,43.707141,-79.397703,Mount Pleasant West,,659800,2,2,,0,1,6,10,65,9,69,32,3,60,0,0,0,0,4
+1013,1904 - 20 Brin Dr,,43.746854,-79.304044,Edenbridge Humber Valley,,889000,2,2,,0,0,6,0,35,1,14,4,0,24,0,0,0,0,1
+1014,30 Fusilier Dr,,43.717641,-79.279203,Clairlea Birchmount,,939999,3,2,,0,1,1,1,40,0,1,0,0,0,0,0,0,0,0
+1015,57 Shanly St,,43.663806,-79.43205,Dovercourt Wallace Emerson Junction,,1800000,6,3,,0,2,3,3,60,12,40,16,0,30,0,0,0,0,2
+1016,244 Ashdale Ave,,43.671462,-79.32173,Greenwood Coxwell,,1488000,4,3,,0,0,2,2,29,1,19,4,0,11,0,0,0,0,0
+1017,43 Snowshoe Milway,,43.750779,-79.380064,St. Andrew Windfields,,13999900,4,3,,0,0,3,1,18,0,1,2,0,3,0,0,0,0,0
+1018,3711 - 2221 Yonge St,,43.70601,-79.397833,Mount Pleasant West,,638000,2,1,,0,2,6,11,77,9,68,32,3,62,0,0,0,0,5
+1019,1706 - 133 Torresdale Ave,,43.778604,-79.451801,Westminister Branson,,768000,4,2,,1,0,2,0,21,0,0,1,0,0,0,0,0,0,0
+1020,20 Cedar Avenue N,,43.674795,-79.287507,The Beaches,,1699000,3,4,,0,0,6,1,10,3,25,9,0,10,0,0,0,0,2
+1021,1474 Dufferin St,,43.672404,-79.441026,Dovercourt Wallace Emerson Junction,,899000,3,3,,0,0,6,3,63,3,36,11,0,14,0,0,0,0,1
+1022,115 - 15 La Rose Ave,,43.666151,-79.36993,Humber Heights,,639990,3,2,,0,2,15,11,46,1,53,14,0,12,0,0,0,0,0
+1023,1010 - 255 Richmond St,,43.652903,-79.370349,Moss Park,,589000,1,1,,0,1,15,11,74,19,100,53,0,71,0,0,0,0,5
+1024,602 - 155 Legion Rd N,,43.623942,-79.488447,Mimico,,549900,2,1,,0,0,2,1,29,0,12,6,0,11,0,0,0,0,0
+1025,374 Hillmount Ave,,43.706844,-79.450609,Yorkdale Glen Park,,1800000,9,4,,0,0,4,1,47,0,13,7,0,8,0,0,0,0,1
+1026,44 Anthia Dr,,43.763438,-79.573234,Humber Summit,,1099900,5,3,,0,0,0,0,25,1,5,2,0,5,0,0,0,0,0
+1027,507 - 2045 Lake Shore Blvd W,,43.6315,-79.474516,Mimico,,818000,2,2,,0,0,0,0,23,0,5,5,0,5,0,0,0,0,0
+1028,#1008 - 1 Bloor St E,,43.670123,-79.38623,Rosedale Moore Park,,919900,2,2,,2,4,46,10,71,12,121,62,0,91,0,0,0,0,2
+1029,1801 - 609 Avenue Rd,,43.689757,-79.402168,Yonge St. Clair,,2088880,3,3,,0,1,6,2,41,1,13,9,1,7,0,0,0,0,1
+1030,505 - 10 Muirhead Rd,,43.778087,-79.338531,Pleasant View,,550000,3,2,,0,1,4,2,28,1,4,4,0,16,0,0,0,0,0
+1031,706 - 2470 Eglinton Ave W,,43.692452,-79.468413,Beechborough Greenbrook,,559000,3,2,,0,0,3,2,42,1,6,2,0,10,0,0,0,0,1
+1032,136 Church Ave S,,43.77592,-79.405591,Willowdale East,,2688000,4,5,,0,0,2,0,30,0,27,2,0,4,0,0,0,0,0
+1033,28 Thorny Vineway,,43.78527,-79.368184,Bayview Village,,820000,5,3,,0,1,2,2,24,0,12,3,0,1,0,0,0,0,3
+1034,1508 - 4 Spadina Ave,,43.640736,-79.393521,Waterfront Communities West,,799000,2,2,,0,0,2,12,8,21,119,48,0,89,0,0,0,0,5
+1035,83 Norton Ave,,43.772769,-79.408839,Willowdale East,,2988000,9,7,,0,1,5,2,34,0,64,18,1,13,0,0,0,0,1
+1036,Lph3704 - 33 Shore Breeze Dr,,43.623886,-79.479223,Mimico,,915000,2,1,,0,0,1,1,23,0,11,8,0,9,0,0,0,0,0
+1037,705 - 28 Rosebank Dr,,43.792518,-79.235348,Malvern,,759000,3,3,,0,0,5,2,47,0,7,1,0,8,0,0,0,0,0
+1038,195 Valley Rd,,43.743651,-79.38411,Bridle Path Sunnybrook York Mills,,4000000,4,3,,0,0,1,1,27,0,1,2,0,3,0,0,0,0,0
+1039,210 - 4600 Steeles Ave E,,43.811125,-79.360784,Milliken,,579000,2,1,,0,0,8,0,37,0,2,0,0,0,0,0,0,0,0
+1040,703 - 320 Dixon Rd,,43.695333,-79.554061,Kingsview Village The Westway,,449900,2,1,,0,0,4,0,30,0,0,1,0,4,0,0,0,0,0
+1041,10 Clinton St,,43.653968,-79.413663,Trinity Bellwoods,,1900000,0,2,,1,0,10,2,20,11,93,37,0,50,0,0,0,0,0
+1042,66 - 441 Military Tr,,43.737438,-79.295402,Morningside,,719000,4,2,,0,0,1,0,27,1,8,6,0,16,0,0,0,0,1
+1043,Lph05 - 660 Sheppard Ave E,,43.755102,-79.44215,Bayview Village,,1498000,2,3,,0,0,3,1,22,0,6,1,0,7,0,0,0,0,1
+1044,30 Houndtrail Dr,,43.796435,-79.183864,Highland Creek,,1350000,4,4,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1045,Ph13 - 300 Balliol St,,43.699446,-79.387089,Mount Pleasant West,,949000,3,2,,0,0,4,1,28,2,22,7,1,9,0,0,0,0,1
+1046,1102 - 131 Torresdale Ave S,,43.777999,-79.452714,Westminister Branson,,879000,3,2,,1,0,2,0,18,0,0,0,0,0,0,0,0,0,0
+1047,802 - 575 Bloor St E,,43.671713,-79.372389,North St. Jamestown,,1330000,3,2,,0,2,11,7,54,2,37,13,0,11,0,0,0,0,0
+1048,50 Moore Park Ave,,43.793544,-79.421923,Newtonbrook West,,1680000,5,2,,0,0,2,2,58,0,26,14,0,23,0,0,0,0,1
+1049,1415 - 140 Simcoe St,,43.649529,-79.387146,Waterfront Communities West,,1159000,3,2,,2,6,10,14,42,32,224,132,0,261,0,0,0,0,10
+1050,1313 Gerrard St E,,43.671078,-79.326558,Greenwood Coxwell,,1499000,2,2,,0,0,3,2,29,1,17,4,0,6,0,0,0,0,0
+1051,509 - 1328 Birchmount Rd,,43.748506,-79.286068,Wexford Maryvale,,560000,2,1,,0,0,4,2,26,0,7,3,0,9,0,0,0,0,1
+1052,1 Versailles Crt,,43.879039,-79.431228,Banbury Don Mills,,4288888,6,7,,0,1,2,1,56,0,3,0,0,0,0,0,0,0,0
+1053,3142 Dundas St W,,43.665722,-79.474679,Junction Area,,1598000,3,2,,1,0,4,2,54,0,38,7,0,10,0,0,0,0,1
+1054,227 Glendora Ave,,43.762254,-79.394945,Willowdale East,,1499000,4,2,,0,1,3,1,35,0,9,1,0,4,0,0,0,0,0
+1055,1918 - 155 Yorkville Ave,,43.670312,-79.394299,Yorkville,,959000,2,2,,0,4,86,7,72,8,82,47,0,44,0,0,0,0,2
+1056,279 St. Helen's Ave S,,43.657023,-79.443242,Dufferin Grove,,1100000,4,3,,0,3,5,5,36,9,19,15,0,48,0,0,0,0,1
+1057,1102 - 100 Mornelle Crt,,43.78722,-79.194677,Morningside,,649000,5,3,,0,0,0,0,0,0,0,7,0,10,0,0,0,0,0
+1058,405 - 36 Forest Manor Rd,,43.687376,-79.404061,Henry Farm,,899000,3,2,,0,0,6,2,37,0,7,5,1,6,0,0,0,0,0
+1059,405 - 2221 Yonge St,,43.70601,-79.397833,Mount Pleasant West,,559000,1,1,,0,2,6,11,77,9,68,32,3,62,0,0,0,0,5
+1060,27 Alma Dr,,43.644524,-79.429162,Humber Heights,,999000,3,2,,0,0,8,7,23,6,55,26,0,38,0,0,0,0,3
+1061,34 Plymbridge Cres W,,43.740554,-79.400357,Bridle Path Sunnybrook York Mills,,3980000,4,5,,0,1,0,0,42,0,4,4,0,8,0,0,0,0,1
+1062,817 - 210 Victoria St,,43.654648,-79.379127,Church Yonge Corridor,,399000,0,1,,0,6,38,18,59,22,209,127,0,222,0,0,0,0,12
+1063,Ph 3 - 850 Steeles Ave W,,43.777253,-79.514493,Westminister Branson,,1198900,2,2,,0,1,10,0,44,0,0,1,0,0,0,0,0,0,0
+1064,159 Cortleigh Blvd,,43.712703,-79.412436,Lawrence Park South,,5990000,5,5,,0,0,3,1,19,0,6,2,0,2,0,0,0,0,0
+1065,702 - 20 Forest Manor Rd,,43.772715,-79.344591,Henry Farm,,499900,2,2,,0,1,4,2,40,0,2,3,0,16,0,0,0,0,0
+1066,1607 - 40 Richview Road,,43.685509,-79.512472,Humber Heights,,725000,2,2,,8,0,4,0,33,0,0,2,0,0,0,0,0,0,0
+1067,1019 Greenwood Avenue,,43.689464,-79.335576,Danforth Village East York,,600000,3,2,,0,2,4,1,60,1,7,2,0,2,0,0,0,0,0
+1068,17 Wintergreen Rd,,43.726306,-79.487547,Downsview Roding Cfb,,1129000,4,3,,1,0,5,1,29,0,3,2,0,8,0,0,0,0,1
+1069,1 & 3 Blithfield Ave,,43.632284,-79.353866,Bayview Village,,4600000,5,4,,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+1070,14 - 43 Wild Ginger Way,,43.759312,-79.440651,Bathurst Manor,,899000,3,3,,0,0,1,1,20,0,5,1,0,6,0,0,0,0,1
+1071,25 - 12 Dervock Cres,,43.767221,-79.380966,Bayview Village,,949900,2,3,,0,2,0,1,22,0,4,5,0,7,0,0,0,0,0
+1072,2709 - 210 Victoria St,,43.654648,-79.379127,Church Yonge Corridor,,532000,1,1,,0,6,38,18,59,22,209,127,0,222,0,0,0,0,12
+1073,1a Alder Rd,,43.702996,-79.325256,O'connor Parkview,,2988888,5,4,,0,0,2,1,39,0,4,3,0,3,0,0,0,0,0
+1074,212 Alton Avenue,,43.66934,-79.330525,South Riverdale,,849999,2,1,,0,0,7,1,35,4,25,5,0,17,0,0,0,0,0
+1075,2006 - 238 Simcoe Street,,43.653695,-79.389079,Kensington Chinatown,,598000,1,1,,6,5,37,11,39,29,218,129,0,222,0,0,0,0,6
+1076,Ph206 - 138 Downes Street,,43.644513,-79.370966,Waterfront Communities East,,2199999,6,6,,0,1,4,8,64,18,85,48,0,73,0,0,0,0,4
+1077,279 Reiner Rd,,43.747795,-79.458169,Downsview Roding Cfb,,1498000,3,2,,0,1,2,0,40,0,4,2,0,3,0,0,0,0,0
+1078,406 - 3303 Don Mills Rd,,43.702718,-79.334457,Don Valley Village,,1130000,2,2,,0,0,3,1,29,0,4,3,0,3,0,0,0,0,0
+1079,202 - 32 Forest Manor Rd,,43.687987,-79.403437,Henry Farm,,509999,1,1,,0,0,6,2,37,0,11,6,1,6,0,0,0,0,0
+1080,1008 - 327 King St W,,43.646129,-79.391089,Waterfront Communities West,,587900,1,1,,0,2,10,11,9,31,178,88,0,167,0,0,0,0,5
+1081,317 - 1 Michael Power Pl,,43.644648,-79.530789,Islington City Centre West,,479000,2,1,,0,2,1,2,74,2,16,7,2,16,0,0,0,0,1
+1082,119 - 5235 Finch Ave E,,43.809932,-79.254877,Agincourt North,,560000,3,2,,0,0,1,0,16,0,0,0,0,0,0,0,0,0,0
+1083,604 - 1888 Bayview Ave,,43.717438,-79.379154,Bridle Path Sunnybrook York Mills,,1275000,2,2,,21,0,3,1,30,0,2,3,0,3,0,0,0,0,0
+1084,812 - 10 Dean Park Rd,,43.804217,-79.168775,Rouge,,609000,2,2,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1085,10 Lloyd Manor Rd,,43.659547,-79.54684,Princess Rosethorn,,1174800,4,3,,0,0,2,0,31,0,0,0,0,0,0,0,0,0,0
+1086,741 - 38 Iannuzzi St,,43.637143,-79.401524,Niagara,,715000,3,2,,0,0,1,6,16,8,42,24,0,12,0,0,0,0,3
+1087,606 - 219 Fort York Blvd,,43.636659,-79.405582,Niagara,,639000,1,1,,0,0,1,5,19,4,26,19,0,15,0,0,0,0,3
+1088,3305 - 25 Town Centre Crt,,43.74069,-79.486601,Bendale,,690000,2,2,,0,0,4,1,28,0,4,0,0,5,0,0,0,0,1
+1089,307 - 1100 Briar Hill Ave,,43.703197,-79.45076,Briar Hill Belgravia,,999900,3,3,,0,0,2,1,41,0,25,6,0,18,0,0,0,0,1
+1090,36 Boniface Avenue,,43.713563,-79.548718,Elms Old Rexdale,,879900,3,2,,0,0,1,1,14,0,4,1,0,14,0,0,0,0,0
+1091,824 - 10 Guildwood Pkwy S,,43.749924,-79.205,Guildwood,,1200000,2,3,,0,0,0,1,12,1,0,1,0,3,0,0,0,0,1
+1092,200 Snowdon Ave,,43.732815,-79.396728,Lawrence Park North,,3950000,5,5,,0,1,0,0,38,1,10,8,0,8,0,0,0,0,2
+1093,3 Blithfield Ave,,43.777305,-79.389942,Bayview Village,,1588000,3,3,,0,0,4,1,23,0,0,1,0,0,0,0,0,0,0
+1094,112 Stapleton Dr,,43.688736,-79.546318,Kingsview Village The Westway,,1150000,4,3,,0,0,2,0,28,0,1,2,0,3,0,0,0,0,1
+1095,209 - 17 Zorra St,,43.621925,-79.522357,Islington City Centre West,,629000,2,2,,0,0,0,1,37,1,6,8,0,10,0,0,0,0,0
+1096,Ph63 - 60 Ann O'reilly Rd,,43.774367,-79.329418,Henry Farm,,1249900,3,3,,0,0,3,1,40,1,16,4,0,8,0,0,0,0,1
+1097,1116 - 88 Blue Jays Way,,43.64542,-79.392508,Waterfront Communities West,,399000,0,1,,0,2,10,10,7,29,179,73,0,136,0,0,0,0,5
+1098,1404 - 25 Sunrise Ave,,43.719092,-79.30226,Victoria Village,,529999,3,2,,0,0,3,2,48,1,7,2,0,11,0,0,0,0,1
+1099,527 - 7 Smith Cres,,43.625997,-79.505854,Stonegate Queensway,,545000,1,1,,0,0,5,0,39,2,19,4,1,15,0,0,0,0,1
+1100,323 Douglas Ave,,43.723361,-79.417098,Bedford Park Nortown,,3399000,5,3,,0,0,2,2,31,0,11,3,0,6,0,0,0,0,1
+1101,2117 - 5 Sheppard Ave E,,43.733338,-79.529127,Willowdale East,,919000,2,2,,0,0,1,0,14,0,0,1,0,0,0,0,0,0,0
+1102,32 Sabrina Dr,,43.69259,-79.564601,Willowridge Martingrove Richview,,999888,4,2,,0,0,3,0,36,0,1,0,0,4,0,0,0,0,0
+1103,4108 - 5 St. Joseph St S,,43.665776,-79.385633,Bay Street Corridor,,900000,2,1,,3,6,55,16,70,17,148,87,0,122,0,0,0,0,3
+1104,511 - 10 Old York Mills Rd,,43.725707,-79.458162,Bridle Path Sunnybrook York Mills,,979900,2,1,,0,0,2,2,30,0,27,12,0,36,0,0,0,0,1
+1105,49 Orpington Cres,,43.73693,-79.586988,Mount Olive Silverstone Jamestown,,849000,5,2,,0,0,7,1,59,0,4,3,0,19,0,0,0,0,1
+1106,2206 - 90 Park Lawn Road,,43.624401,-79.485288,Mimico,,860000,2,2,,0,0,2,1,33,0,15,10,0,13,0,0,0,0,0
+1107,2402 - 10 Bellair St,,43.669886,-79.390982,Yorkville,,9888000,3,3,,1,5,62,10,75,11,107,63,0,70,0,0,0,0,2
+1108,130 Broadlands Blvd,,43.746216,-79.3142,Parkwoods Donalda,,1458000,4,2,,0,0,4,1,32,0,3,1,0,9,0,0,0,0,1
+1109,228 Donlands Avenue,,43.688058,-79.340745,Danforth Village East York,,1899000,4,4,,0,1,3,2,71,1,15,8,0,7,0,0,0,0,0
+1110,308 - 625 Queen Street E,,43.658001,-79.352987,South Riverdale,,715000,2,1,,2,0,3,3,14,5,32,12,0,12,0,0,0,0,0
+1111,2208 - 1900 Sheppard Ave E,,43.735924,-79.529835,Pleasant View,,549000,2,2,,0,0,1,0,15,0,0,1,0,0,0,0,0,0,0
+1112,Ph704 - 399 Spring Garden Ave,,43.76867,-79.389623,Willowdale East,,1188000,3,2,,0,1,3,1,24,0,4,3,0,6,0,0,0,0,0
+1113,8 Chipper Cres,,43.73989,-79.259144,Eglinton East,,998800,5,2,,0,2,4,2,31,0,7,0,0,3,0,0,0,0,0
+1114,878 - 1 Greystone Walk Drive,,43.645415,-79.387361,Kennedy Park,,609900,2,2,,0,4,6,14,23,27,166,95,0,183,0,0,0,0,7
+1115,42 Wilmont Dr,,43.760363,-79.513433,Black Creek,,1298000,8,3,,0,0,6,0,40,0,5,3,0,23,0,0,0,0,0
+1116,14 Franklin Ave,,43.756456,-79.41058,Lansing Westgate,,1199900,6,2,,0,1,0,6,30,0,19,9,0,27,0,0,0,0,1
+1117,4106 - 28 Freeland St,,43.643622,-79.373959,Waterfront Communities East,,699900,2,1,,0,3,2,11,57,22,104,62,0,96,0,0,0,0,7
+1118,10 Rowallan Dr,,43.759467,-79.185416,West Hill,,970000,4,1,,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0
+1119,102 Seaton St,,43.657219,-79.369156,Moss Park,,1899900,4,4,,0,0,19,13,55,6,78,37,0,46,0,0,0,0,0
+1120,512w - 36 Lisgar St,,43.646563,-79.425062,Little Portugal,,545000,2,1,,0,0,7,8,21,8,87,32,0,37,0,0,0,0,2
+1121,Ph2606 - 225 Sackville St,,43.659755,-79.36265,Regent Park,,679900,2,2,,0,0,6,6,39,3,39,20,0,14,0,0,0,0,0
+1123,18 Haig Ave,,43.68473,-79.270723,Birchcliffe Cliffside,,1899900,4,4,,0,0,0,0,24,4,5,1,0,0,0,0,0,0,0
+1124,17 Bisset Ave,,43.608746,-79.553126,Alderwood,,1122000,3,2,,0,0,2,3,34,0,12,10,0,27,0,0,0,0,2
+1125,637 - 3 Everson Dr,,43.756938,-79.406496,Willowdale East,,649900,3,2,,0,1,0,5,37,0,16,9,0,25,0,0,0,0,0
+1126,1711 - 330 Richmond Street W,,43.64896,-79.392576,Waterfront Communities West,,689000,2,1,,3,3,12,12,9,28,231,88,0,146,0,0,0,0,5
+1127,408 - 17 Dundonald St,,43.665904,-79.383493,Church Yonge Corridor,,599900,2,1,,3,4,61,19,67,17,144,77,0,123,0,0,0,0,3
+1128,5301 - 100 Harbour St W,,43.641841,-79.379461,Waterfront Communities West,,649900,1,1,,0,4,0,11,39,25,97,76,0,153,0,0,0,0,8
+1129,103 Gloucester St,,43.667537,-79.379921,Church Yonge Corridor,,2250000,6,3,,1,4,29,20,63,15,115,56,0,94,0,0,0,0,3
+1130,47 Terrace Ave,,43.767589,-79.441138,Willowdale West,,2988000,7,6,,1,0,4,0,22,0,1,2,0,3,0,0,0,0,0
+1131,1510 - 19 Western Battery Rd,,43.63957,-79.411329,Niagara,,655000,3,2,,0,1,1,5,27,6,49,28,0,25,0,0,0,0,2
+1132,623 - 120 Dallimore Circ,,43.730082,-79.332265,Banbury Don Mills,,489000,1,1,,0,0,1,0,21,0,1,1,0,1,0,0,0,0,0
+1133,115 - 16 Litchfield Crt,,43.860061,-79.319494,West Humber Clairville,,669000,4,3,,0,0,3,1,19,0,6,0,0,0,0,0,0,0,0
+1135,Ph 16 - 2020 Bathurst St,,43.700578,-79.425623,Forest Hill South,,750000,2,1,,0,0,3,1,48,1,17,3,0,6,0,0,0,0,1
+1136,1009 - 5 Soudan Ave,,43.704308,-79.397063,Mount Pleasant West,,849000,2,2,,0,2,6,10,79,11,70,31,3,59,0,0,0,0,6
+1137,809 - 77 Harbour Square W,,43.639992,-79.378887,Waterfront Communities West,,795500,1,1,,0,2,0,8,34,16,70,55,0,102,0,0,0,0,4
+1138,3408 - 16 Brookers Lane,,43.6273,-79.47901,Mimico,,799000,2,2,,0,0,1,1,26,0,11,9,0,9,0,0,0,0,0
+1139,8 Grackle Tr,,43.828934,-79.23303,Rouge,,1099900,3,3,,0,0,3,0,14,0,0,0,0,0,0,0,0,0,0
+1140,32 Highgate Rd,,43.652373,-79.517571,Kingsway South,,2695000,5,5,,0,1,10,1,40,4,14,3,1,12,0,0,0,0,1
+1141,59 Edinborough Crt,,43.672487,-79.500731,Rockcliffe Smythe,,1150000,6,4,,0,0,2,1,42,0,4,0,1,7,0,0,0,0,0
+1142,2508 - 88 Sheppard Ave E,,43.734151,-79.537839,Willowdale East,,768000,2,1,,0,0,3,0,23,0,3,1,0,1,0,0,0,0,0
+1143,79 Weir Cres,,43.775794,-79.193404,West Hill,,1099000,4,2,,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0
+1144,16 - 150 Pinery Tr,,43.691734,-79.506841,Malvern,,699900,3,2,,8,0,3,1,43,0,3,2,0,7,0,0,0,0,1
+1145,79 Forest Grove Dr,,43.779707,-79.373498,Bayview Village,,4788000,4,3,,0,0,0,0,8,0,0,1,0,0,0,0,0,0,1
+1146,411 Main St,,43.692593,-79.30357,Crescent Town,,1549000,4,4,,0,2,5,0,52,0,9,3,0,7,0,0,0,0,1
+1147,4 Lloyd Manor Rd,,43.659229,-79.546535,Princess Rosethorn,,1098000,3,2,,0,0,2,0,30,0,0,0,0,0,0,0,0,0,0
+1148,9 Wellesley Ave,,43.669741,-79.364874,Cabbagetown South St. Jamestown,,1575000,4,2,,0,1,10,5,25,1,34,10,0,6,0,0,0,0,0
+1149,1414 - 197 Yonge St,,43.653337,-79.37937,Church Yonge Corridor,,569000,2,1,,0,8,35,19,62,31,215,137,0,233,0,0,0,0,11
+1150,804 - 3 Marine Parade Dr,,43.630233,-79.47622,Mimico,,675000,2,2,,0,0,0,0,19,0,8,7,0,7,0,0,0,0,0
+1151,1811 - 501 St Clair Ave W,,43.68301,-79.417709,Casa Loma,,848888,2,2,,0,1,3,2,50,1,23,11,0,16,0,0,0,0,1
+1152,215 Searle Ave,,43.756634,-79.456582,Bathurst Manor,,1789000,5,2,,0,0,3,0,39,0,5,2,0,4,0,0,0,0,0
+1153,603 - 430 Roncesvalles Ave,,43.651984,-79.451509,High Park Swansea,,799000,2,2,,0,3,5,5,28,8,35,18,0,24,0,0,0,0,1
+1154,5 Terrington Crt,,43.741986,-79.358048,Banbury Don Mills,,1858000,4,1,,0,0,5,0,20,0,1,1,0,0,0,0,0,0,0
