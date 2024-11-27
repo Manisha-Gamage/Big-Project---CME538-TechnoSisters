@@ -1,0 +1,6 @@
+Unnamed: 0,Street address,Zip/Postal Code,Latitude,Longitude,Region,Price,Bedrooms,Bathrooms,Square Footage,Hospital in area,Railway Station in area,School in area,Supermarket in area,Bus Stop in area,Pub in area,Restaurant in area,Cafe in area,Dentist in area,Fast Food in area,Kindergartens in area,Malls in area,Play Ground in area,Parks in area,Post Office in area,geometry,Neighbourhood,Total_crimes (2020-2024),Average_total_crime (per_year),Total_severe_crimes (2020-2024),Average_severe_crimes (per_year),Total_moderate_crimes (2020-2024),Average_moderate_crimes (per_year),Total_minor_crimes (2020-2024),Average_minor_crimes (per_year)
+761,Th5 - 118 Finch Avenue,,43.833506,-79.1526,,899000.0,3,3,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,POINT (-79.1526 43.833506),,,,,,,,,
+964,18 - 73 Driftwood Ave,,43.940271,-79.468319,,618000.0,3,2,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,POINT (-79.468319 43.940271),,,,,,,,,
+1052,1 Versailles Crt,,43.879039,-79.431228,,4288888.0,6,7,,0,1,4,3,111,0,9,0,0,0,0,0,0,0,0,POINT (-79.431228 43.879039),,,,,,,,,
+1063,Ph 3 - 850 Steeles Ave W,,43.777253,-79.514493,,1198900.0,2,2,,0,2,31,1,85,0,5,6,0,24,0,0,0,0,0,POINT (-79.514493 43.777253),,,,,,,,,
+1133,115 - 16 Litchfield Crt,,43.860061,-79.319494,,669000.0,4,3,,0,0,4,1,70,0,25,0,0,0,0,0,0,0,0,POINT (-79.319494 43.860061),,,,,,,,,
