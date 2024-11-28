@@ -1,0 +1,1134 @@
+,street address,latitude,longitude,neighbourhood,Income_Class,Crime_Class
+0,435 middlefield rd #56,43.808839,-79.256579,agincourt north,Low Class,Moderate Crime
+1,78 ashridge dr,43.815736,-79.268628,agincourt north,Low Class,Moderate Crime
+2,48 ardgowan cres,43.812243,-79.271403,agincourt north,Low Class,Moderate Crime
+3,119 - 5235 finch ave e,43.809932,-79.254877,agincourt north,Low Class,Moderate Crime
+4,60 manorglen cres,43.780125,-79.271026,agincourt south malvern west,Low Class,Moderate Crime
+5,61 fulbert cres,43.790312,-79.287079,agincourt south malvern west,Low Class,Moderate Crime
+6,135 village green sq #418,43.777872,-79.280751,agincourt south malvern west,Low Class,Moderate Crime
+7,418 - 135 village green sq,43.777872,-79.280751,agincourt south malvern west,Low Class,Moderate Crime
+8,1717 - 4725 sheppard ave e,43.790016,-79.254657,agincourt south malvern west,Low Class,Moderate Crime
+9,1801 - 225 village green sq,43.779842,-79.281958,agincourt south malvern west,Low Class,Moderate Crime
+10,408 browns line e #308,43.601488,-79.54545,alderwood,Moderate Class,Moderate Crime
+11,408 browns line s #312,43.601697,-79.545232,alderwood,Moderate Class,Moderate Crime
+12,17 edilou dr,43.605996,-79.531532,alderwood,Moderate Class,Moderate Crime
+13,671a - 671 browns line,43.59841,-79.543717,alderwood,Moderate Class,Moderate Crime
+14,404 horner ave,43.604414,-79.534016,alderwood,Moderate Class,Moderate Crime
+15,17 bisset ave,43.608746,-79.553126,alderwood,Moderate Class,Moderate Crime
+16,186 macpherson ave,43.677945,-79.396728,annex,High Class,Moderate Crime
+17,53 hazelton ave,43.672448,-79.393529,annex,High Class,Moderate Crime
+18,535 brunswick ave,43.673818,-79.410137,annex,High Class,Moderate Crime
+19,50 yorkville ave #4403,43.671667,-79.389667,annex,High Class,Moderate Crime
+20,104 albany ave,43.668716,-79.411569,annex,High Class,Moderate Crime
+21,160 howland ave,43.670989,-79.411014,annex,High Class,Moderate Crime
+22,483 dupont st #103,43.672797,-79.415295,annex,High Class,Moderate Crime
+23,200 cumberland st #3802,43.669867,-79.394244,annex,High Class,Moderate Crime
+24,225 christie st,43.669398,-79.420453,annex,High Class,Moderate Crime
+25,50 yorkville ave #5202,43.671667,-79.389667,annex,High Class,Moderate Crime
+26,12 madison ave,43.667759,-79.403321,annex,High Class,Moderate Crime
+27,91 bedford rd,43.671488,-79.398264,annex,High Class,Moderate Crime
+28,68 yorkville ave #304,43.671482,-79.390514,annex,High Class,Moderate Crime
+29,77 mcmurrich st #308,43.674812,-79.39012,annex,High Class,Moderate Crime
+30,128 hazelton ave #801,43.674903,-79.39488,annex,High Class,Moderate Crime
+31,411 - 188 cumberland st,43.669828,-79.394109,annex,High Class,Moderate Crime
+32,604 - 188 cumberland st,43.669828,-79.394109,annex,High Class,Moderate Crime
+33,818 - 1 bedford rd,43.668551,-79.397124,annex,High Class,Moderate Crime
+34,1918 - 155 yorkville ave,43.670312,-79.394299,annex,High Class,Moderate Crime
+35,2402 - 10 bellair st,43.669886,-79.390982,annex,High Class,Moderate Crime
+36,51 harrison garden blvd #707,43.756666,-79.407784,avondale,Moderate Class,Moderate Crime
+37,120 harrison garden blvd #2003,43.757733,-79.403149,avondale,Moderate Class,Moderate Crime
+38,100 harrison garden blvd #l02,43.756982,-79.4044,avondale,Moderate Class,Moderate Crime
+39,78 harrison garden blvd #2305,43.756049,-79.407113,avondale,Moderate Class,Moderate Crime
+40,3 everson dr #637,43.756938,-79.406496,avondale,Moderate Class,Moderate Crime
+41,33 sheppard ave e #1800,43.761229,-79.408934,avondale,Moderate Class,Moderate Crime
+42,3 everson dr #528,43.756938,-79.406496,avondale,Moderate Class,Moderate Crime
+43,511 - 3 everson dr,43.756938,-79.406496,avondale,Moderate Class,Moderate Crime
+44,1803 - 100 harrison garden blvd,43.756982,-79.4044,avondale,Moderate Class,Moderate Crime
+45,227 glendora ave,43.762254,-79.394945,avondale,Moderate Class,Moderate Crime
+46,637 - 3 everson dr,43.756938,-79.406496,avondale,Moderate Class,Moderate Crime
+47,160 the donway w #403,43.73383,-79.34844,banbury don mills,Moderate Class,Moderate Crime
+48,34 greengate rd,43.739958,-79.364228,banbury don mills,Moderate Class,Moderate Crime
+49,20 moccasin trl,43.731688,-79.339069,banbury don mills,Moderate Class,Moderate Crime
+50,9 overton pl,43.741095,-79.345984,banbury don mills,Moderate Class,Moderate Crime
+51,7 merredin pl,43.748513,-79.35726,banbury don mills,Moderate Class,Moderate Crime
+52,75 the donway w #805,43.732752,-79.345652,banbury don mills,Moderate Class,Moderate Crime
+53,97 post rd,43.738724,-79.367822,banbury don mills,Moderate Class,Moderate Crime
+54,3007 - 181 wynford dr,43.725064,-79.328704,banbury don mills,Moderate Class,Moderate Crime
+55,504 - 1103 leslie street,43.720267,-79.347933,banbury don mills,Moderate Class,Moderate Crime
+56,162 abbeywood tr,43.749649,-79.363305,banbury don mills,Moderate Class,Moderate Crime
+57,521 - 255 the donway w,43.739826,-79.346034,banbury don mills,Moderate Class,Moderate Crime
+58,104 - 225 the donway w,43.733391,-79.347625,banbury don mills,Moderate Class,Moderate Crime
+59,903 - 1103 leslie st,43.720267,-79.347933,banbury don mills,Moderate Class,Moderate Crime
+60,623 - 120 dallimore circ,43.730082,-79.332265,banbury don mills,Moderate Class,Moderate Crime
+61,5 terrington crt,43.741986,-79.358048,banbury don mills,Moderate Class,Moderate Crime
+62,270 brighton ave,43.757593,-79.458141,bathurst manor,Moderate Class,Moderate Crime
+63,333 brighton ave,43.756128,-79.462889,bathurst manor,Moderate Class,Moderate Crime
+64,212 cocksfield ave,43.753818,-79.454186,bathurst manor,Moderate Class,Moderate Crime
+65,53 codsell ave,43.757679,-79.443357,bathurst manor,Moderate Class,Moderate Crime
+66,10 cedar springs grove,43.768408,-79.45904,bathurst manor,Moderate Class,Moderate Crime
+67,52 acton ave,43.760296,-79.449789,bathurst manor,Moderate Class,Moderate Crime
+68,169 kennard ave,43.759786,-79.46168,bathurst manor,Moderate Class,Moderate Crime
+69,518 - 1060 sheppard ave w,43.756448,-79.435498,bathurst manor,Moderate Class,Moderate Crime
+70,759 wilson heights blvd,43.760363,-79.463893,bathurst manor,Moderate Class,Moderate Crime
+71,lph05 - 660 sheppard ave e,43.755102,-79.44215,bathurst manor,Moderate Class,Moderate Crime
+72,14 - 43 wild ginger way,43.759312,-79.440651,bathurst manor,Moderate Class,Moderate Crime
+73,215 searle ave,43.756634,-79.456582,bathurst manor,Moderate Class,Moderate Crime
+74,11 wellesley st w #612,43.664526,-79.385583,bay cloverhill,Moderate Class,Moderate Crime
+75,57 saint joseph st #523,43.665388,-79.388021,bay cloverhill,Moderate Class,Moderate Crime
+76,77 charles st w #906,43.667717,-79.390434,bay cloverhill,Moderate Class,Moderate Crime
+77,11 wellesley st w #4711,43.664526,-79.385583,bay cloverhill,Moderate Class,Moderate Crime
+78,5 saint joseph st #4309,43.665776,-79.385633,bay cloverhill,Moderate Class,Moderate Crime
+79,57 saint nicholas st,43.667191,-79.386232,bay cloverhill,Moderate Class,Moderate Crime
+80,35 balmuto st #2101,43.669472,-79.387488,bay cloverhill,Moderate Class,Moderate Crime
+81,4703 - 35 balmuto st,43.669472,-79.387488,bay cloverhill,Moderate Class,Moderate Crime
+82,2014 - 1001 bay st,43.665465,-79.387068,bay cloverhill,Moderate Class,Moderate Crime
+83,3909 - 11 wellesley st w,43.664526,-79.385583,bay cloverhill,Moderate Class,Moderate Crime
+84,4108 - 5 st. joseph st s,43.665776,-79.385633,bay cloverhill,Moderate Class,Moderate Crime
+85,2885 bayview ave unit 717,43.768608,-79.388063,bayview village,Moderate Class,Moderate Crime
+86,650 sheppard ave e #215,43.768577,-79.381429,bayview village,Moderate Class,Moderate Crime
+87,4 burleigh heights dr,43.779657,-79.390466,bayview village,Moderate Class,Moderate Crime
+88,42 heathview ave,43.783169,-79.385634,bayview village,Moderate Class,Moderate Crime
+89,40 thorny vine way,43.785524,-79.368264,bayview village,Moderate Class,Moderate Crime
+90,129 mcmahon dr #townhouse 03,43.767654,-79.371136,bayview village,Moderate Class,Moderate Crime
+91,3905 - 117 mcmahon drive,43.767209,-79.370405,bayview village,Moderate Class,Moderate Crime
+92,121 - 7 kenaston gardens,43.767167,-79.386112,bayview village,Moderate Class,Moderate Crime
+93,28 thorny vineway,43.78527,-79.368184,bayview village,Moderate Class,Moderate Crime
+94,25 - 12 dervock cres,43.767221,-79.380966,bayview village,Moderate Class,Moderate Crime
+95,3 blithfield ave,43.777305,-79.389942,bayview village,Moderate Class,Moderate Crime
+96,79 forest grove dr,43.779707,-79.373498,bayview village,Moderate Class,Moderate Crime
+97,3237 bayview ave #510,43.790112,-79.392793,bayview woods steeles,Moderate Class,Moderate Crime
+98,59 covewood st,43.804171,-79.387861,bayview woods steeles,Moderate Class,Moderate Crime
+99,112 mason blvd,43.741214,-79.412096,bedford park nortown,High Class,Moderate Crime
+100,40 sylvan valleyway #523,43.724203,-79.415282,bedford park nortown,High Class,Moderate Crime
+101,1 de vere gdns,43.736381,-79.407697,bedford park nortown,High Class,Moderate Crime
+102,215 strathallan wood,43.712754,-79.421209,bedford park nortown,High Class,Moderate Crime
+103,127 joicey blvd,43.736904,-79.416255,bedford park nortown,High Class,Moderate Crime
+104,60 alexandra wood,43.71411,-79.425653,bedford park nortown,High Class,Moderate Crime
+105,132 grey rd,43.731779,-79.423122,bedford park nortown,High Class,Moderate Crime
+106,703 - 355 bedford park avenue,43.724197,-79.416891,bedford park nortown,High Class,Moderate Crime
+107,425 cranbrooke avenue,43.725527,-79.419632,bedford park nortown,High Class,Moderate Crime
+108,323 douglas ave,43.723361,-79.417098,bedford park nortown,High Class,Moderate Crime
+109,706 - 2470 eglinton ave w,43.692452,-79.468413,beechborough greenbrook,Low Class,Moderate Crime
+110,60 town centre ct #306,43.7734,-79.255862,bendale glen andrew,Low Class,Moderate Crime
+111,190 borough dr #302,43.772874,-79.253995,bendale glen andrew,Low Class,Moderate Crime
+112,60 brian harrison way #302,43.774024,-79.258007,bendale glen andrew,Low Class,Moderate Crime
+113,117 omni dr #15,43.771256,-79.261225,bendale glen andrew,Low Class,Moderate Crime
+114,2103 - 60 brian harrison way,43.774024,-79.258007,bendale glen andrew,Low Class,Moderate Crime
+115,1028 - 125 omni dr,43.771029,-79.260134,bendale glen andrew,Low Class,Moderate Crime
+116,1400 kingston rd #501,43.686959,-79.272431,birchcliffe cliffside,Moderate Class,Moderate Crime
+117,141 eastwood ave,43.694987,-79.269234,birchcliffe cliffside,Moderate Class,Moderate Crime
+118,42 fishleigh dr,43.700556,-79.248654,birchcliffe cliffside,Moderate Class,Moderate Crime
+119,104 natal ave,43.714075,-79.254723,birchcliffe cliffside,Moderate Class,Moderate Crime
+120,223 kennedy rd,43.706363,-79.257097,birchcliffe cliffside,Moderate Class,Moderate Crime
+121,73 fishleigh dr,43.701371,-79.245529,birchcliffe cliffside,Moderate Class,Moderate Crime
+122,28 fishleigh dr,43.700665,-79.250643,birchcliffe cliffside,Moderate Class,Moderate Crime
+123,17a s woodrow blvd,43.699423,-79.260028,birchcliffe cliffside,Moderate Class,Moderate Crime
+124,271 victoria park ave,43.683316,-79.284726,birchcliffe cliffside,Moderate Class,Moderate Crime
+125,14 pinegrove ave,43.698491,-79.263913,birchcliffe cliffside,Moderate Class,Moderate Crime
+126,14 kildonan dr,43.687027,-79.266351,birchcliffe cliffside,Moderate Class,Moderate Crime
+127,197 s woodrow blvd,43.703661,-79.261775,birchcliffe cliffside,Moderate Class,Moderate Crime
+128,74 natal ave,43.712217,-79.253922,birchcliffe cliffside,Moderate Class,Moderate Crime
+129,18 haig ave,43.68473,-79.270723,birchcliffe cliffside,Moderate Class,Moderate Crime
+130,4737 jane st,43.771431,-79.519798,black creek,Low Class,Moderate Crime
+131,4673 jane st #318,43.770357,-79.520128,black creek,Low Class,Moderate Crime
+132,353 driftwood ave #2,43.768082,-79.512841,black creek,Low Class,Moderate Crime
+133,30 forge dr,43.759536,-79.513985,black creek,Low Class,Moderate Crime
+134,4689 jane st #503,43.770863,-79.520254,black creek,Low Class,Moderate Crime
+135,353 driftwood ave #7,43.768082,-79.512841,black creek,Low Class,Moderate Crime
+136,4645 jane st #720,43.769446,-79.519808,black creek,Low Class,Moderate Crime
+137,4645 jane st #818,43.769446,-79.519808,black creek,Low Class,Moderate Crime
+138,42 wilmont dr,43.760363,-79.513433,black creek,Low Class,Moderate Crime
+139,304 withrow avenue,43.672677,-79.340596,blake jones,Moderate Class,Moderate Crime
+140,297 bain avenue,43.67298,-79.341437,blake jones,Moderate Class,Moderate Crime
+141,62 schell ave,43.698338,-79.45509,briar hill belgravia,Low Class,Moderate Crime
+142,390 hopewell ave #130,43.700641,-79.444449,briar hill belgravia,Low Class,Moderate Crime
+143,1171 roselawn ave,43.699345,-79.454393,briar hill belgravia,Low Class,Moderate Crime
+144,307 - 1100 briar hill ave,43.703197,-79.45076,briar hill belgravia,Low Class,Moderate Crime
+145,278 dawlish ave,43.724134,-79.383185,bridle path sunnybrook york mills,High Class,Moderate Crime
+146,32 brookfield rd,43.741523,-79.400732,bridle path sunnybrook york mills,High Class,Moderate Crime
+147,85 the bridle path,43.732687,-79.364782,bridle path sunnybrook york mills,High Class,Moderate Crime
+148,19 country ln,43.74036,-79.380766,bridle path sunnybrook york mills,High Class,Moderate Crime
+149,45 park lane cir,43.730085,-79.369058,bridle path sunnybrook york mills,High Class,Moderate Crime
+150,45 bayview rdg,43.741938,-79.387871,bridle path sunnybrook york mills,High Class,Moderate Crime
+151,30 high point rd,43.731817,-79.368833,bridle path sunnybrook york mills,High Class,Moderate Crime
+152,76 arjay cres,43.739075,-79.384916,bridle path sunnybrook york mills,High Class,Moderate Crime
+153,34 green valley rd,43.739774,-79.388924,bridle path sunnybrook york mills,High Class,Moderate Crime
+154,82 york rd,43.746179,-79.384607,bridle path sunnybrook york mills,High Class,Moderate Crime
+155,2152 bayview ave,43.723305,-79.379711,bridle path sunnybrook york mills,High Class,Moderate Crime
+156,5 pembury ave,43.725688,-79.381034,bridle path sunnybrook york mills,High Class,Moderate Crime
+157,61 arjay cres,43.73848,-79.383368,bridle path sunnybrook york mills,High Class,Moderate Crime
+158,83 bayview rdg,43.740734,-79.385072,bridle path sunnybrook york mills,High Class,Moderate Crime
+159,19 hedgewood rd,43.743342,-79.397858,bridle path sunnybrook york mills,High Class,Moderate Crime
+160,s319 - 120 bayview ave,43.74281,-79.383272,bridle path sunnybrook york mills,High Class,Moderate Crime
+161,195 valley rd,43.743651,-79.38411,bridle path sunnybrook york mills,High Class,Moderate Crime
+162,34 plymbridge cres w,43.740554,-79.400357,bridle path sunnybrook york mills,High Class,Moderate Crime
+163,604 - 1888 bayview ave,43.717438,-79.379154,bridle path sunnybrook york mills,High Class,Moderate Crime
+164,236 browning ave,43.683222,-79.34711,broadview north,Moderate Class,Moderate Crime
+165,74 mortimer ave,43.684804,-79.353377,broadview north,Moderate Class,Moderate Crime
+166,20 amesbury dr,43.701261,-79.481426,brookhaven amesbury,Low Class,Moderate Crime
+167,1 monarchdale ave,43.698966,-79.493874,brookhaven amesbury,Low Class,Moderate Crime
+168,129 brookhaven dr,43.70416,-79.495728,brookhaven amesbury,Low Class,Moderate Crime
+169,40 homewood ave #2803,43.664229,-79.375535,cabbagetown south st james town,Moderate Class,Moderate Crime
+170,415 wellesley st e,43.668911,-79.364947,cabbagetown south st james town,Moderate Class,Moderate Crime
+171,274 carlton st,43.664973,-79.366388,cabbagetown south st james town,Moderate Class,Moderate Crime
+172,4 bowman st,43.665666,-79.364223,cabbagetown south st james town,Moderate Class,Moderate Crime
+173,391 wellesley st e,43.668839,-79.365713,cabbagetown south st james town,Moderate Class,Moderate Crime
+174,2310 - 40 homewood ave,43.664229,-79.375535,cabbagetown south st james town,Moderate Class,Moderate Crime
+175,115 - 15 la rose ave,43.666151,-79.36993,cabbagetown south st james town,Moderate Class,Moderate Crime
+176,9 wellesley ave,43.669741,-79.364874,cabbagetown south st james town,Moderate Class,Moderate Crime
+177,56 branstone rd,43.692013,-79.453838,caledonia fairbank,Low Class,Moderate Crime
+178,490 caledonia rd,43.689821,-79.461148,caledonia fairbank,Low Class,Moderate Crime
+179,1994 dufferin st,43.684965,-79.446149,caledonia fairbank,Low Class,Moderate Crime
+180,44 branstone rd,43.691621,-79.453661,caledonia fairbank,Low Class,Moderate Crime
+181,369 albany ave #5,43.676334,-79.414275,casa loma,High Class,Moderate Crime
+182,70 forest manor rd #3410,43.689144,-79.404683,casa loma,High Class,Moderate Crime
+183,31 russell hill rd,43.681167,-79.402842,casa loma,High Class,Moderate Crime
+184,100 ardwold gate,43.680418,-79.409322,casa loma,High Class,Moderate Crime
+185,17 ardwold gate,43.678881,-79.407258,casa loma,High Class,Moderate Crime
+186,200 russell hill rd #502,43.681737,-79.406631,casa loma,High Class,Moderate Crime
+187,101 russell hill rd,43.68178,-79.404985,casa loma,High Class,Moderate Crime
+188,11 shorncliffe ave,43.68559,-79.410873,casa loma,High Class,Moderate Crime
+189,418 davenport rd,43.678098,-79.406458,casa loma,High Class,Moderate Crime
+190,2201 - 70 forest manor rd,43.689144,-79.404683,casa loma,High Class,Moderate Crime
+191,203 - 195 poplar plains rd,43.682361,-79.402109,casa loma,High Class,Moderate Crime
+192,5 - 369 albany avenue,43.676334,-79.414275,casa loma,High Class,Moderate Crime
+193,405 - 36 forest manor rd,43.687376,-79.404061,casa loma,High Class,Moderate Crime
+194,202 - 32 forest manor rd,43.687987,-79.403437,casa loma,High Class,Moderate Crime
+195,1811 - 501 st clair ave w,43.68301,-79.417709,casa loma,High Class,Moderate Crime
+196,4 tredvalley grve,43.776477,-79.148234,centennial scarborough,Moderate Class,Moderate Crime
+197,435 meadowvale rd,43.78853,-79.161669,centennial scarborough,Moderate Class,Moderate Crime
+198,17 chapais cres,43.782877,-79.142635,centennial scarborough,Moderate Class,Moderate Crime
+199,3 langevin cres,43.780088,-79.146196,centennial scarborough,Moderate Class,Moderate Crime
+200,42 charles st e #2810,43.669355,-79.384182,church wellesley,Moderate Class,Moderate Crime
+201,101 charles st e #4202,43.669643,-79.380555,church wellesley,Moderate Class,Moderate Crime
+202,403 church st #2413,43.662103,-79.379236,church wellesley,Moderate Class,Moderate Crime
+203,85 bloor st e #1709,43.670479,-79.384571,church wellesley,Moderate Class,Moderate Crime
+204,1510 - 35 hayden st e,43.66955,-79.384654,church wellesley,Moderate Class,Moderate Crime
+205,1401 - 55 charles st e,43.668965,-79.383546,church wellesley,Moderate Class,Moderate Crime
+206,1101 - 100 hayden st,43.670504,-79.381661,church wellesley,Moderate Class,Moderate Crime
+207,301 - 30 hayden st,43.66987,-79.385006,church wellesley,Moderate Class,Moderate Crime
+208,#1008 - 1 bloor st e,43.670123,-79.38623,church wellesley,Moderate Class,Moderate Crime
+209,408 - 17 dundonald st,43.665904,-79.383493,church wellesley,Moderate Class,Moderate Crime
+210,103 gloucester st,43.667537,-79.379921,church wellesley,Moderate Class,Moderate Crime
+211,564 pharmacy ave,43.707103,-79.289985,clairlea birchmount,Low Class,Moderate Crime
+212,21 fusilier dr,43.717232,-79.279496,clairlea birchmount,Low Class,Moderate Crime
+213,3632a st clair avenue e,43.709125,-79.293489,clairlea birchmount,Low Class,Moderate Crime
+214,5 - 40 mendelssohn street w,43.71555,-79.281694,clairlea birchmount,Low Class,Moderate Crime
+215,30 fusilier dr,43.717641,-79.279203,clairlea birchmount,Low Class,Moderate Crime
+216,861 sheppard ave w #15,43.752102,-79.453675,clanton park,Moderate Class,Moderate Crime
+217,897 sheppard ave w #202,43.751649,-79.455201,clanton park,Moderate Class,Moderate Crime
+218,2 josephine rd,43.743761,-79.447819,clanton park,Moderate Class,Moderate Crime
+219,8 tippett rd #801,43.732384,-79.446637,clanton park,Moderate Class,Moderate Crime
+220,608 - 801 sheppard ave w,43.752922,-79.449493,clanton park,Moderate Class,Moderate Crime
+221,96 king high ave,43.740725,-79.446355,clanton park,Moderate Class,Moderate Crime
+222,801 - 8 tippett road,43.732384,-79.446637,clanton park,Moderate Class,Moderate Crime
+223,28 joel swirsky blvd,43.746583,-79.45106,clanton park,Moderate Class,Moderate Crime
+224,326 - 38 monte kwinter crt,43.733592,-79.448826,clanton park,Moderate Class,Moderate Crime
+225,32 lyme regis cres,43.718741,-79.228161,cliffcrest,Moderate Class,Moderate Crime
+226,7 brimley rd s #d78,43.706276,-79.231863,cliffcrest,Moderate Class,Moderate Crime
+227,12 gradwell dr,43.71325,-79.235129,cliffcrest,Moderate Class,Moderate Crime
+228,186 phyllis ave,43.730854,-79.230523,cliffcrest,Moderate Class,Moderate Crime
+229,89 cree ave,43.731936,-79.228243,cliffcrest,Moderate Class,Moderate Crime
+230,101 harewood ave,43.722271,-79.234402,cliffcrest,Moderate Class,Moderate Crime
+231,1778 dufferin st,43.680272,-79.444278,corso italia davenport,Moderate Class,Moderate Crime
+232,237 mcroberts ave,43.681676,-79.455673,corso italia davenport,Moderate Class,Moderate Crime
+233,181 earlscourt ave,43.682609,-79.449359,corso italia davenport,Moderate Class,Moderate Crime
+234,717 greenwood ave,43.683375,-79.332915,danforth,Moderate Class,Moderate Crime
+235,7 woodycrest ave,43.680213,-79.34178,danforth,Moderate Class,Moderate Crime
+236,211 woodycrest ave,43.687915,-79.344644,danforth east york,Moderate Class,Moderate Crime
+237,6 lankin blvd,43.692293,-79.328633,danforth east york,Moderate Class,Moderate Crime
+238,17 lesmount ave,43.690336,-79.339941,danforth east york,Moderate Class,Moderate Crime
+239,210 gowan ave,43.689278,-79.345064,danforth east york,Moderate Class,Moderate Crime
+240,135 holborne ave,43.69443,-79.318652,danforth east york,Moderate Class,Moderate Crime
+241,340 mortimer avenue,43.688028,-79.339301,danforth east york,Moderate Class,Moderate Crime
+242,244 gowan avenue,43.689592,-79.343813,danforth east york,Moderate Class,Moderate Crime
+243,122 barker ave,43.694213,-79.317341,danforth east york,Moderate Class,Moderate Crime
+244,1019 greenwood avenue,43.689464,-79.335576,danforth east york,Moderate Class,Moderate Crime
+245,228 donlands avenue,43.688058,-79.340745,danforth east york,Moderate Class,Moderate Crime
+246,6 esterbrooke ave #82,43.779624,-79.352763,don valley village,Moderate Class,Moderate Crime
+247,100 rusty crestway,43.788441,-79.355423,don valley village,Moderate Class,Moderate Crime
+248,301 prudential dr #1701,43.749918,-79.268628,dorset park,Low Class,Moderate Crime
+249,1950 kennedy rd #706,43.767632,-79.282853,dorset park,Low Class,Moderate Crime
+250,128 shropshire dr,43.758979,-79.281764,dorset park,Low Class,Moderate Crime
+251,939 - 18 mondeo dr,43.76543,-79.288231,dorset park,Low Class,Moderate Crime
+252,54 flintridge rd,43.744651,-79.279067,dorset park,Low Class,Moderate Crime
+253,105 gilroy dr,43.763739,-79.281836,dorset park,Low Class,Moderate Crime
+254,321 concord ave,43.662575,-79.426988,dovercourt village,Moderate Class,Moderate Crime
+255,990 dovercourt rd,43.666907,-79.431852,dovercourt village,Moderate Class,Moderate Crime
+256,73 pendrith st,43.666638,-79.422778,dovercourt village,Moderate Class,Moderate Crime
+257,254 salem ave,43.667018,-79.434545,dovercourt village,Moderate Class,Moderate Crime
+258,57 shanly st,43.663806,-79.43205,dovercourt village,Moderate Class,Moderate Crime
+259,295 downsview park blvd,43.73797,-79.476415,downsview,Low Class,Moderate Crime
+260,88 anthony rd,43.729155,-79.466301,downsview,Low Class,Moderate Crime
+261,83 anthony rd,43.72897,-79.465612,downsview,Low Class,Moderate Crime
+262,2737 keele st #821,43.725799,-79.480604,downsview,Low Class,Moderate Crime
+263,2737 keele st #402,43.725799,-79.480604,downsview,Low Class,Moderate Crime
+264,70 thomas mulholland dr #8,43.73587,-79.478063,downsview,Low Class,Moderate Crime
+265,1004 - 125 george appleton way,43.725725,-79.479422,downsview,Low Class,Moderate Crime
+266,48 dubray ave,43.729476,-79.479441,downsview,Low Class,Moderate Crime
+267,314 - 60 george butchart dr,43.736561,-79.483201,downsview,Low Class,Moderate Crime
+268,3408 - 50 town centre crt,43.740833,-79.489167,downsview,Low Class,Moderate Crime
+269,279 reiner rd,43.747795,-79.458169,downsview,Low Class,Moderate Crime
+270,3305 - 25 town centre crt,43.74069,-79.486601,downsview,Low Class,Moderate Crime
+271,7 carlton st #704,43.661094,-79.38259,downtown yonge east,Moderate Class,Moderate Crime
+272,60 colborne st #1608,43.649288,-79.374406,downtown yonge east,Moderate Class,Moderate Crime
+273,50 lombard st #1903,43.651856,-79.376003,downtown yonge east,Moderate Class,Moderate Crime
+274,220 victoria st #806,43.654877,-79.379218,downtown yonge east,Moderate Class,Moderate Crime
+275,8 colborne st #penthouse 2701,43.648745,-79.377021,downtown yonge east,Moderate Class,Moderate Crime
+276,65 mutual st #3004,43.655802,-79.374984,downtown yonge east,Moderate Class,Moderate Crime
+277,127 queen st e #406,43.653471,-79.373755,downtown yonge east,Moderate Class,Moderate Crime
+278,155 dalhousie st #1054,43.657615,-79.376789,downtown yonge east,Moderate Class,Moderate Crime
+279,712 - 159 dundas street n,43.657124,-79.375394,downtown yonge east,Moderate Class,Moderate Crime
+280,503 - 75 dalhousie st,43.655627,-79.375858,downtown yonge east,Moderate Class,Moderate Crime
+281,906 - 47 mutual st,43.654927,-79.374681,downtown yonge east,Moderate Class,Moderate Crime
+282,817 - 210 victoria st,43.654648,-79.379127,downtown yonge east,Moderate Class,Moderate Crime
+283,2709 - 210 victoria st,43.654648,-79.379127,downtown yonge east,Moderate Class,Moderate Crime
+284,1414 - 197 yonge st,43.653337,-79.37937,downtown yonge east,Moderate Class,Moderate Crime
+285,1244 college st,43.651641,-79.438166,dufferin grove,Moderate Class,Moderate Crime
+286,262 saint helens ave #106,43.656487,-79.443717,dufferin grove,Moderate Class,Moderate Crime
+287,50 merchant ln #105,43.656875,-79.445518,dufferin grove,Moderate Class,Moderate Crime
+288,279 st. helen's ave s,43.657023,-79.443242,dufferin grove,Moderate Class,Moderate Crime
+289,2335 1/2 gerrard st e,43.685302,-79.293178,east end danforth,Moderate Class,Moderate Crime
+290,6 newmarket ave,43.689384,-79.307654,east end danforth,Moderate Class,Moderate Crime
+291,140 brookside dr,43.680619,-79.306407,east end danforth,Moderate Class,Moderate Crime
+292,8 trent ave #1205,43.688207,-79.295862,east end danforth,Moderate Class,Moderate Crime
+293,198 lawlor ave,43.685388,-79.290756,east end danforth,Moderate Class,Moderate Crime
+294,2053 gerrard st e,43.68208,-79.307469,east end danforth,Moderate Class,Moderate Crime
+295,6 balfour ave,43.69059,-79.300945,east end danforth,Moderate Class,Moderate Crime
+296,12 waring ct,43.776906,-79.401025,east willowdale,Moderate Class,Moderate Crime
+297,80 chiswell cres,43.780901,-79.391894,east willowdale,Moderate Class,Moderate Crime
+298,208 holmes ave,43.781146,-79.399927,east willowdale,Moderate Class,Moderate Crime
+299,258 byng ave e,43.780324,-79.398837,east willowdale,Moderate Class,Moderate Crime
+300,311 holmes avenue,43.782536,-79.392457,east willowdale,Moderate Class,Moderate Crime
+301,136 church ave s,43.77592,-79.405591,east willowdale,Moderate Class,Moderate Crime
+302,83 norton ave,43.772769,-79.408839,east willowdale,Moderate Class,Moderate Crime
+303,ph704 - 399 spring garden ave,43.76867,-79.389623,east willowdale,Moderate Class,Moderate Crime
+304,25 finchley rd,43.657715,-79.526342,edenbridge humber valley,Moderate Class,Moderate Crime
+305,30 anglesey blvd #g2,43.663784,-79.522679,edenbridge humber valley,Moderate Class,Moderate Crime
+306,7 ashley park rd,43.662619,-79.516617,edenbridge humber valley,Moderate Class,Moderate Crime
+307,17 strath humber ct,43.661667,-79.515797,edenbridge humber valley,Moderate Class,Moderate Crime
+308,15 edenbrook hl,43.671624,-79.524004,edenbridge humber valley,Moderate Class,Moderate Crime
+309,43 edenvale cres,43.680741,-79.52895,edenbridge humber valley,Moderate Class,Moderate Crime
+310,91 valecrest dr,43.675971,-79.520516,edenbridge humber valley,Moderate Class,Moderate Crime
+311,37 pringdale gardens cir,43.742145,-79.24373,eglinton east,Low Class,Moderate Crime
+312,1346 danforth rd #901,43.743558,-79.244826,eglinton east,Low Class,Moderate Crime
+313,1304 - 330 mccowan rd,43.737512,-79.238359,eglinton east,Low Class,Moderate Crime
+314,54-175 trudelle street,43.741138,-79.237028,eglinton east,Low Class,Moderate Crime
+315,8 chipper cres,43.73989,-79.259144,eglinton east,Low Class,Moderate Crime
+316,3 chilcot ave,43.713267,-79.551602,elms old rexdale,Low Class,Moderate Crime
+317,56 grierson rd,43.715143,-79.545919,elms old rexdale,Low Class,Moderate Crime
+318,2476  islington ave,43.728461,-79.56107,elms old rexdale,Low Class,Moderate Crime
+319,110 allenby ave,43.713629,-79.544542,elms old rexdale,Low Class,Moderate Crime
+320,36 boniface avenue,43.713563,-79.548718,elms old rexdale,Low Class,Moderate Crime
+321,88 turtle island rd #5,43.722474,-79.444115,englemount lawrence,Moderate Class,Moderate Crime
+322,55 lynnhaven rd,43.721312,-79.439612,englemount lawrence,Moderate Class,Moderate Crime
+323,130 neptune dr #607,43.730295,-79.441115,englemount lawrence,Moderate Class,Moderate Crime
+324,106 varna dr #townhouse 10,43.723122,-79.445784,englemount lawrence,Moderate Class,Moderate Crime
+325,136 regina ave,43.725842,-79.442193,englemount lawrence,Moderate Class,Moderate Crime
+326,43 millburn dr,43.663271,-79.56261,eringate centennial west deane,Moderate Class,Moderate Crime
+327,335 mill rd #703,43.639973,-79.584581,eringate centennial west deane,Moderate Class,Moderate Crime
+328,76 dalegrove cres,43.672876,-79.566173,eringate centennial west deane,Moderate Class,Moderate Crime
+329,36 summerfield cres,43.660051,-79.572874,eringate centennial west deane,Moderate Class,Moderate Crime
+330,1009 - 714 the west mall w,43.655688,-79.57154,eringate centennial west deane,Moderate Class,Moderate Crime
+331,17 zorra st #701,43.621292,-79.52083,etobicoke city centre,Moderate Class,Moderate Crime
+332,5 mabelle ave #2328,43.646719,-79.525449,etobicoke city centre,Moderate Class,Moderate Crime
+333,235 sherway gardens rd #2010,43.609301,-79.559016,etobicoke city centre,Moderate Class,Moderate Crime
+334,30 fieldway rd #98,43.642292,-79.528276,etobicoke city centre,Moderate Class,Moderate Crime
+335,1195 the queensway e #102,43.621626,-79.522481,etobicoke city centre,Moderate Class,Moderate Crime
+336,53 lynnford dr,43.633447,-79.553653,etobicoke city centre,Moderate Class,Moderate Crime
+337,9 michael power pl e #615,43.644663,-79.529405,etobicoke city centre,Moderate Class,Moderate Crime
+338,1233 - 35 viking lane,43.639707,-79.535225,etobicoke city centre,Moderate Class,Moderate Crime
+339,8 - 275 van dusen boulevard,43.63981,-79.529475,etobicoke city centre,Moderate Class,Moderate Crime
+340,1202 islington ave,43.643159,-79.523086,etobicoke city centre,Moderate Class,Moderate Crime
+341,2405 - 36 zorra st,43.619778,-79.521779,etobicoke city centre,Moderate Class,Moderate Crime
+342,412 - 17 zorra st,43.621925,-79.522357,etobicoke city centre,Moderate Class,Moderate Crime
+343,317 - 1 michael power pl,43.644648,-79.530789,etobicoke city centre,Moderate Class,Moderate Crime
+344,209 - 17 zorra st,43.621925,-79.522357,etobicoke city centre,Moderate Class,Moderate Crime
+345,21 groverdale rd,43.650171,-79.575026,etobicoke west mall,Moderate Class,Moderate Crime
+346,10 eva rd #601,43.641355,-79.562771,etobicoke west mall,Moderate Class,Moderate Crime
+347,1205 - 6 eva rd,43.639707,-79.563077,etobicoke west mall,Moderate Class,Moderate Crime
+348,10 deerlick ct #518,43.759433,-79.332085,fenside parkwoods,Low Class,Moderate Crime
+349,70 pynford cres,43.758039,-79.318002,fenside parkwoods,Low Class,Moderate Crime
+350,301 - 1350 york mills rd,43.763222,-79.319141,fenside parkwoods,Low Class,Moderate Crime
+351,1602 - 10 deerlick crt,43.759433,-79.332085,fenside parkwoods,Low Class,Moderate Crime
+352,2 sonic way #1708,43.719497,-79.336408,flemingdon park,Low Class,Moderate Crime
+353,10 gateway blvd #402,43.709781,-79.332708,flemingdon park,Low Class,Moderate Crime
+354,10 edgecliff golfway #317,43.719222,-79.326516,flemingdon park,Low Class,Moderate Crime
+355,2809 - 2 sonic way,43.719497,-79.336408,flemingdon park,Low Class,Moderate Crime
+356,1408 - 725 don mills rd,43.711436,-79.333347,flemingdon park,Low Class,Moderate Crime
+357,1507 - 60 pavane linkway,43.711279,-79.322982,flemingdon park,Low Class,Moderate Crime
+358,uph106 - 797 don mills rd,43.7195,-79.337719,flemingdon park,Low Class,Moderate Crime
+359,740 eglinton ave w #301,43.702079,-79.421814,forest hill north,Moderate Class,Moderate Crime
+360,590 briar hill ave,43.709509,-79.420538,forest hill north,Moderate Class,Moderate Crime
+361,8 park hill road,43.698945,-79.437815,forest hill north,Moderate Class,Moderate Crime
+362,84 old forest hill rd,43.698984,-79.418189,forest hill south,High Class,Moderate Crime
+363,5 dewbourne ave,43.699375,-79.420442,forest hill south,High Class,Moderate Crime
+364,101 dunloe rd,43.696392,-79.413647,forest hill south,High Class,Moderate Crime
+365,314 rosemary rd,43.696839,-79.421627,forest hill south,High Class,Moderate Crime
+366,474 russell hill rd,43.697789,-79.413426,forest hill south,High Class,Moderate Crime
+367,253 dunvegan rd,43.699453,-79.414977,forest hill south,High Class,Moderate Crime
+368,302 richview ave,43.695952,-79.422548,forest hill south,High Class,Moderate Crime
+369,23 dewbourne ave,43.699157,-79.423254,forest hill south,High Class,Moderate Crime
+370,32 ava rd,43.697906,-79.421226,forest hill south,High Class,Moderate Crime
+371,217 richview ave,43.695007,-79.421605,forest hill south,High Class,Moderate Crime
+372,80 old forest hill rd,43.698893,-79.417749,forest hill south,High Class,Moderate Crime
+373,173 dunvegan rd,43.696803,-79.408729,forest hill south,High Class,Moderate Crime
+374,335 lonsdale rd #406,43.68827,-79.413549,forest hill south,High Class,Moderate Crime
+375,67 hillholm rd,43.697374,-79.411721,forest hill south,High Class,Moderate Crime
+376,293 chaplin cres,43.701923,-79.415895,forest hill south,High Class,Moderate Crime
+377,30 western battery rd #316,43.639688,-79.412489,fort york liberty village,High Class,Moderate Crime
+378,600 fleet st #717,43.636698,-79.400078,fort york liberty village,High Class,Moderate Crime
+379,21 grand magazine st #1907,43.636466,-79.402056,fort york liberty village,High Class,Moderate Crime
+380,215 fort york blvd #301,43.636466,-79.404588,fort york liberty village,High Class,Moderate Crime
+381,125 western battery rd #2207,43.639868,-79.416734,fort york liberty village,High Class,Moderate Crime
+382,86 sloping sky mews #townhouse 6,43.636887,-79.403026,fort york liberty village,High Class,Moderate Crime
+383,19 western battery rd #1803,43.63957,-79.411329,fort york liberty village,High Class,Moderate Crime
+384,50 bruyeres mews #718,43.637658,-79.402351,fort york liberty village,High Class,Moderate Crime
+385,50 ordnance st #1703,43.639789,-79.409842,fort york liberty village,High Class,Moderate Crime
+386,650 queens quay w #921,43.635702,-79.398839,fort york liberty village,High Class,Moderate Crime
+387,19 western battery rd #2310,43.63957,-79.411329,fort york liberty village,High Class,Moderate Crime
+388,826 - 35 bastion st,43.637197,-79.403572,fort york liberty village,High Class,Moderate Crime
+389,3002 - 20 bruyeres mews,43.637552,-79.4008,fort york liberty village,High Class,Moderate Crime
+390,413 - 600 fleet st w,43.636698,-79.400078,fort york liberty village,High Class,Moderate Crime
+391,824 - 231 fort york blvd,43.636971,-79.406075,fort york liberty village,High Class,Moderate Crime
+392,301 - 200 manitoba street,43.634873,-79.420868,fort york liberty village,High Class,Moderate Crime
+393,512 - 55 east liberty,43.638615,-79.412742,fort york liberty village,High Class,Moderate Crime
+394,1906 - 55 east liberty street,43.638615,-79.412742,fort york liberty village,High Class,Moderate Crime
+395,741 - 38 iannuzzi st,43.637143,-79.401524,fort york liberty village,High Class,Moderate Crime
+396,606 - 219 fort york blvd,43.636659,-79.405582,fort york liberty village,High Class,Moderate Crime
+397,1510 - 19 western battery rd,43.63957,-79.411329,fort york liberty village,High Class,Moderate Crime
+398,77 magellan dr,43.736555,-79.508517,glenfield jane heights,Low Class,Moderate Crime
+399,21 mayberry rd,43.741518,-79.518308,glenfield jane heights,Low Class,Moderate Crime
+400,70 watney cres,43.744208,-79.504555,glenfield jane heights,Low Class,Moderate Crime
+401,86 blossom cres,43.750556,-79.524858,glenfield jane heights,Low Class,Moderate Crime
+402,48 gondola cres,43.767244,-79.209421,golfdale cedarbrae woburn,Low Class,Moderate Crime
+403,64 chandler dr,43.765412,-79.220644,golfdale cedarbrae woburn,Low Class,Moderate Crime
+404,42 mossbank dr,43.765598,-79.212505,golfdale cedarbrae woburn,Low Class,Moderate Crime
+405,524 scarborough golf club rd,43.760083,-79.215919,golfdale cedarbrae woburn,Low Class,Moderate Crime
+406,7 wortham dr,43.762929,-79.224939,golfdale cedarbrae woburn,Low Class,Moderate Crime
+407,lph 01 - 10 meadowglen pl,43.774291,-79.229879,golfdale cedarbrae woburn,Low Class,Moderate Crime
+408,718 - 30 meadowglen pl,43.774774,-79.230498,golfdale cedarbrae woburn,Low Class,Moderate Crime
+409,407 - 10 meadowglen pl,43.774291,-79.229879,golfdale cedarbrae woburn,Low Class,Moderate Crime
+410,203 parkmount rd,43.682084,-79.32556,greenwood coxwell,Moderate Class,Moderate Crime
+411,191 parkmount rd,43.681804,-79.325548,greenwood coxwell,Moderate Class,Moderate Crime
+412,62 kent rd,43.667307,-79.321014,greenwood coxwell,Moderate Class,Moderate Crime
+413,10 - 1321 gerrard st e,43.67114,-79.326224,greenwood coxwell,Moderate Class,Moderate Crime
+414,229 craven rd,43.669466,-79.319759,greenwood coxwell,Moderate Class,Moderate Crime
+415,302 - 36 zorra st,43.663368,-79.324904,greenwood coxwell,Moderate Class,Moderate Crime
+416,69 laing street,43.663451,-79.3269,greenwood coxwell,Moderate Class,Moderate Crime
+417,244 ashdale ave,43.671462,-79.32173,greenwood coxwell,Moderate Class,Moderate Crime
+418,1313 gerrard st e,43.671078,-79.326558,greenwood coxwell,Moderate Class,Moderate Crime
+419,41 dearham wood,43.752788,-79.189511,guildwood,Moderate Class,Moderate Crime
+420,55 regency sq,43.752281,-79.194912,guildwood,Moderate Class,Moderate Crime
+421,423 guildwood pkwy,43.750362,-79.185067,guildwood,Moderate Class,Moderate Crime
+422,824 - 10 guildwood pkwy s,43.749924,-79.205,guildwood,Moderate Class,Moderate Crime
+423,17 bathurst st #4205,43.637435,-79.398908,harbourfront cityplace,Moderate Class,Moderate Crime
+424,270 queens quay w #805,43.639173,-79.386389,harbourfront cityplace,Moderate Class,Moderate Crime
+425,260 queens quay w #1304,43.63928,-79.385715,harbourfront cityplace,Moderate Class,Moderate Crime
+426,38 dan leckie way #2209,43.637492,-79.398104,harbourfront cityplace,Moderate Class,Moderate Crime
+427,8 telegram mews #622,43.640493,-79.394916,harbourfront cityplace,Moderate Class,Moderate Crime
+428,21 iceboat ter penthouse 10,43.640393,-79.397362,harbourfront cityplace,Moderate Class,Moderate Crime
+429,10 capreol ct #902,43.640268,-79.396014,harbourfront cityplace,Moderate Class,Moderate Crime
+430,11 brunel ct #5005,43.639441,-79.393173,harbourfront cityplace,Moderate Class,Moderate Crime
+431,208 queens quay w #511,43.64009,-79.381499,harbourfront cityplace,Moderate Class,Moderate Crime
+432,75 queens wharf rd #3901,43.63836,-79.398657,harbourfront cityplace,Moderate Class,Moderate Crime
+433,25 lower simcoe st #318,43.641411,-79.383308,harbourfront cityplace,Moderate Class,Moderate Crime
+434,38 dan leckie way #1607,43.637492,-79.398104,harbourfront cityplace,Moderate Class,Moderate Crime
+435,501 - 2045 lake shore blvd w,43.637539,-79.399222,harbourfront cityplace,Moderate Class,Moderate Crime
+436,3306 - 14 york st,43.641931,-79.381365,harbourfront cityplace,Moderate Class,Moderate Crime
+437,3202 - 8 york st,43.640486,-79.380812,harbourfront cityplace,Moderate Class,Moderate Crime
+438,600 queens quay w sph22,43.636856,-79.397245,harbourfront cityplace,Moderate Class,Moderate Crime
+439,1508 - 4 spadina ave,43.640736,-79.393521,harbourfront cityplace,Moderate Class,Moderate Crime
+440,102 george henry blvd #15,43.77432,-79.348116,henry farm,Moderate Class,Moderate Crime
+441,52 forest manor rd #521,43.772384,-79.344395,henry farm,Moderate Class,Moderate Crime
+442,30 herons hill way #506,43.774938,-79.335458,henry farm,Moderate Class,Moderate Crime
+443,32 forest manor rd #416,43.771726,-79.344794,henry farm,Moderate Class,Moderate Crime
+444,702 - 20 forest manor rd,43.772715,-79.344591,henry farm,Moderate Class,Moderate Crime
+445,ph63 - 60 ann o'reilly rd,43.774367,-79.329418,henry farm,Moderate Class,Moderate Crime
+446,579 indian rd,43.65804,-79.456608,high park north,Moderate Class,Moderate Crime
+447,194 clendenan ave,43.656977,-79.471809,high park north,Moderate Class,Moderate Crime
+448,901 - 100 quebec ave,43.655658,-79.46824,high park north,Moderate Class,Moderate Crime
+449,11 prince rupert ave,43.658463,-79.453849,high park north,Moderate Class,Moderate Crime
+450,118 high park ave,43.657524,-79.467411,high park north,Moderate Class,Moderate Crime
+451,1811 - 100 quebec ave,43.655658,-79.46824,high park north,Moderate Class,Moderate Crime
+452,284 ellis ave,43.645729,-79.472703,high park swansea,High Class,Moderate Crime
+453,133 westminster ave,43.646774,-79.450533,high park swansea,High Class,Moderate Crime
+454,248 garden ave,43.6432,-79.450769,high park swansea,High Class,Moderate Crime
+455,48 coe hill dr,43.639264,-79.469882,high park swansea,High Class,Moderate Crime
+456,25 boustead ave,43.653133,-79.452791,high park swansea,High Class,Moderate Crime
+457,155 grenadier rd,43.648363,-79.45151,high park swansea,High Class,Moderate Crime
+458,9 windermere ave #townhouse 94,43.636805,-79.468161,high park swansea,High Class,Moderate Crime
+459,277 indian rd,43.652109,-79.455322,high park swansea,High Class,Moderate Crime
+460,316 - 60 southport st,43.638786,-79.473838,high park swansea,High Class,Moderate Crime
+461,702 - 4 the kingsway,43.635076,-79.472421,high park swansea,High Class,Moderate Crime
+462,603 - 430 roncesvalles ave,43.651984,-79.451509,high park swansea,High Class,Moderate Crime
+463,29 tarsus cres,43.79372,-79.183513,highland creek,Moderate Class,Moderate Crime
+464,30 houndtrail dr,43.796435,-79.183864,highland creek,Moderate Class,Moderate Crime
+465,129 clansman blvd,43.802346,-79.361476,hillcrest village,Moderate Class,Moderate Crime
+466,25 janus ct,43.807397,-79.369761,hillcrest village,Moderate Class,Moderate Crime
+467,91 hollyberry tr,43.80804,-79.348956,hillcrest village,Moderate Class,Moderate Crime
+468,210 - 4600 steeles ave e,43.811125,-79.360784,hillcrest village,Moderate Class,Moderate Crime
+469,70 annie craig dr #4802,43.624739,-79.478962,humber bay shores,Moderate Class,Moderate Crime
+470,80 palace pier ct #101,43.630714,-79.474027,humber bay shores,Moderate Class,Moderate Crime
+471,36 park lawn rd #203,43.623467,-79.484321,humber bay shores,Moderate Class,Moderate Crime
+472,200 manitoba st #210,43.623676,-79.492078,humber bay shores,Moderate Class,Moderate Crime
+473,58 marine parade dr #1110,43.627469,-79.477128,humber bay shores,Moderate Class,Moderate Crime
+474,33 shore breeze dr e #1208,43.623886,-79.479223,humber bay shores,Moderate Class,Moderate Crime
+475,2200 lake shore blvd w #818,43.622743,-79.481934,humber bay shores,Moderate Class,Moderate Crime
+476,59 annie craig dr #3604,43.624949,-79.478244,humber bay shores,Moderate Class,Moderate Crime
+477,59 annie craig dr #1003,43.624949,-79.478244,humber bay shores,Moderate Class,Moderate Crime
+478,16 brookers ln #2207,43.62693,-79.47851,humber bay shores,Moderate Class,Moderate Crime
+479,70 annie craig dr #807,43.624739,-79.478962,humber bay shores,Moderate Class,Moderate Crime
+480,3 marine parade dr #808,43.630233,-79.47622,humber bay shores,Moderate Class,Moderate Crime
+481,1301 - 10 park lawn rd,43.623213,-79.483931,humber bay shores,Moderate Class,Moderate Crime
+482,2107 - 1 palace pier crt,43.631482,-79.472638,humber bay shores,Moderate Class,Moderate Crime
+483,1504 - 56 annie craig dr,43.625363,-79.478731,humber bay shores,Moderate Class,Moderate Crime
+484,908 - 65 annie craig drive,43.624631,-79.478535,humber bay shores,Moderate Class,Moderate Crime
+485,1004 - 10 park lawn rd,43.623213,-79.483931,humber bay shores,Moderate Class,Moderate Crime
+486,ph17 - 2111 lake shore blvd w,43.628942,-79.477778,humber bay shores,Moderate Class,Moderate Crime
+487,811 - 33 shore breeze drive,43.623886,-79.479223,humber bay shores,Moderate Class,Moderate Crime
+488,804 - 2045 lake shore blvd w,43.6315,-79.474516,humber bay shores,Moderate Class,Moderate Crime
+489,507 - 2045 lake shore blvd w,43.6315,-79.474516,humber bay shores,Moderate Class,Moderate Crime
+490,lph3704 - 33 shore breeze dr,43.623886,-79.479223,humber bay shores,Moderate Class,Moderate Crime
+491,2206 - 90 park lawn road,43.624401,-79.485288,humber bay shores,Moderate Class,Moderate Crime
+492,3408 - 16 brookers lane,43.6273,-79.47901,humber bay shores,Moderate Class,Moderate Crime
+493,804 - 3 marine parade dr,43.630233,-79.47622,humber bay shores,Moderate Class,Moderate Crime
+494,13 riverlea rd,43.699382,-79.522934,humber heights westmount,Moderate Class,Moderate Crime
+495,681 scarlett rd,43.694225,-79.51913,humber heights westmount,Moderate Class,Moderate Crime
+496,1607 - 40 richview road,43.685509,-79.512472,humber heights westmount,Moderate Class,Moderate Crime
+497,47 cherrylawn ave,43.752537,-79.559192,humber summit,Low Class,Moderate Crime
+498,26 dellbrook crescent,43.755306,-79.573696,humber summit,Low Class,Moderate Crime
+499,44 anthia dr,43.763438,-79.573234,humber summit,Low Class,Moderate Crime
+500,43 florida cres,43.735016,-79.543367,humbermede,Low Class,Moderate Crime
+501,2034 - 3043 finch ave,43.746064,-79.563237,humbermede,Low Class,Moderate Crime
+502,25 windhill cres,43.746687,-79.543139,humbermede,Low Class,Moderate Crime
+503,2208 - 1900 sheppard ave e,43.735924,-79.529835,humbermede,Low Class,Moderate Crime
+504,2508 - 88 sheppard ave e,43.734151,-79.537839,humbermede,Low Class,Moderate Crime
+505,168 pinewood ave,43.688172,-79.427079,humewood cedarvale,Moderate Class,Moderate Crime
+506,561 arlington ave,43.694701,-79.434216,humewood cedarvale,Moderate Class,Moderate Crime
+507,1707 - 2020 bathrust st,43.700578,-79.425623,humewood cedarvale,Moderate Class,Moderate Crime
+508,2 - 7 warwick ave,43.694839,-79.42456,humewood cedarvale,Moderate Class,Moderate Crime
+509,ph 16 - 2020 bathurst st,43.700578,-79.425623,humewood cedarvale,Moderate Class,Moderate Crime
+510,9 valhalla inn rd #501,43.639837,-79.559418,islington,Moderate Class,Moderate Crime
+511,1 oregon trl,43.639976,-79.552582,islington,Moderate Class,Moderate Crime
+512,11 park manor dr,43.650254,-79.557219,islington,Moderate Class,Moderate Crime
+513,7 appleby ct,43.654048,-79.549576,islington,Moderate Class,Moderate Crime
+514,364 the east mall #243,43.642465,-79.559589,islington,Moderate Class,Moderate Crime
+515,62 martin grove rd,43.643724,-79.547155,islington,Moderate Class,Moderate Crime
+516,38 smithwood dr,43.643535,-79.552893,islington,Moderate Class,Moderate Crime
+517,501 - 9 valhalla inn rd,43.641041,-79.559565,islington,Moderate Class,Moderate Crime
+518,163 brickworks ln,43.675475,-79.468816,junction area,Moderate Class,Moderate Crime
+519,303 maria st,43.666219,-79.482138,junction area,Moderate Class,Moderate Crime
+520,95 vine ave,43.66645,-79.468112,junction area,Moderate Class,Moderate Crime
+521,241 b evelyn ave,43.662514,-79.475521,junction area,Moderate Class,Moderate Crime
+522,30 northland ave,43.678734,-79.47552,junction area,Moderate Class,Moderate Crime
+523,131 brickworks ln #bl131,43.67497,-79.468291,junction area,Moderate Class,Moderate Crime
+524,37 vine ave,43.66642,-79.466366,junction area,Moderate Class,Moderate Crime
+525,203 medland st,43.66441,-79.466577,junction area,Moderate Class,Moderate Crime
+526,105 - 7 watkinson avenue,43.665107,-79.460013,junction area,Moderate Class,Moderate Crime
+527,193 brickworks lane,43.675683,-79.469543,junction area,Moderate Class,Moderate Crime
+528,3142 dundas st w,43.665722,-79.474679,junction area,Moderate Class,Moderate Crime
+529,63 ward st,43.664115,-79.446402,junction wallace emerson,Moderate Class,Moderate Crime
+530,816 lansdowne ave #1015,43.665661,-79.447378,junction wallace emerson,Moderate Class,Moderate Crime
+531,31 antler st,43.663867,-79.44993,junction wallace emerson,Moderate Class,Moderate Crime
+532,816 lansdowne ave #216,43.665661,-79.447378,junction wallace emerson,Moderate Class,Moderate Crime
+533,1285 dupont st #2301,43.667732,-79.442661,junction wallace emerson,Moderate Class,Moderate Crime
+534,1438a dufferin st,43.67111,-79.440411,junction wallace emerson,Moderate Class,Moderate Crime
+535,33 edwin ave,43.662925,-79.454429,junction wallace emerson,Moderate Class,Moderate Crime
+536,216 wallace ave,43.662268,-79.445568,junction wallace emerson,Moderate Class,Moderate Crime
+537,206 brandon ave,43.668907,-79.447512,junction wallace emerson,Moderate Class,Moderate Crime
+538,1474 dufferin st,43.672404,-79.441026,junction wallace emerson,Moderate Class,Moderate Crime
+539,147 cameron ave,43.689775,-79.471368,keelesdale eglinton west,Low Class,Moderate Crime
+540,112 laurel ave,43.72521,-79.258113,kennedy park,Low Class,Moderate Crime
+541,850 danforth rd,43.726901,-79.253184,kennedy park,Low Class,Moderate Crime
+542,195 mccaul st #909,43.6567,-79.392206,kensington chinatown,Moderate Class,Moderate Crime
+543,78 carr st #townhouse 32,43.649695,-79.403974,kensington chinatown,Moderate Class,Moderate Crime
+544,488 university ave #2507,43.655154,-79.38905,kensington chinatown,Moderate Class,Moderate Crime
+545,1901 - 195 mccaul st,43.6567,-79.392206,kensington chinatown,Moderate Class,Moderate Crime
+546,ph16 - 80 vanauley st,43.649677,-79.399231,kensington chinatown,Moderate Class,Moderate Crime
+547,161 august avenue,43.652934,-79.401168,kensington chinatown,Moderate Class,Moderate Crime
+548,2006 - 238 simcoe street,43.653695,-79.389079,kensington chinatown,Moderate Class,Moderate Crime
+549,320 dixon rd #506,43.696822,-79.552528,kingsview village the westway,Low Class,Moderate Crime
+550,20 fletcher pl,43.6912,-79.546078,kingsview village the westway,Low Class,Moderate Crime
+551,114 saskatoon dr,43.69309,-79.544397,kingsview village the westway,Low Class,Moderate Crime
+552,330 dixon rd #2705,43.695777,-79.553152,kingsview village the westway,Low Class,Moderate Crime
+553,340 dixon rd #1508,43.695609,-79.553852,kingsview village the westway,Low Class,Moderate Crime
+554,32 windsor rd,43.699963,-79.556916,kingsview village the westway,Low Class,Moderate Crime
+555,703 - 320 dixon rd,43.695333,-79.554061,kingsview village the westway,Low Class,Moderate Crime
+556,112 stapleton dr,43.688736,-79.546318,kingsview village the westway,Low Class,Moderate Crime
+557,11 kingsway cres,43.653748,-79.504572,kingsway south,High Class,Moderate Crime
+558,1001 - 30 old mill rd,43.651158,-79.492337,kingsway south,High Class,Moderate Crime
+559,32 highgate rd,43.652373,-79.517571,kingsway south,High Class,Moderate Crime
+560,65 huntingdale blvd unit 1507,43.795184,-79.324378,l amoreaux west,Low Class,Moderate Crime
+561,2800 warden ave #1004,43.795721,-79.315724,l amoreaux west,Low Class,Moderate Crime
+562,3151 bridletowne cir #1901,43.797559,-79.319846,l amoreaux west,Low Class,Moderate Crime
+563,73 pettibone sq,43.798185,-79.329407,l amoreaux west,Low Class,Moderate Crime
+564,3 thornhill ave,43.65734,-79.488801,lambton baby point,High Class,Moderate Crime
+565,4978 yonge st unit 1911,43.76562,-79.412725,lansing westgate,Moderate Class,Moderate Crime
+566,9 bogert ave #2801,43.760385,-79.411435,lansing westgate,Moderate Class,Moderate Crime
+567,78 cameron ave,43.75622,-79.415729,lansing westgate,Moderate Class,Moderate Crime
+568,108 sandringham dr,43.746887,-79.420259,lansing westgate,Moderate Class,Moderate Crime
+569,165 armour blvd,43.742751,-79.430794,lansing westgate,Moderate Class,Moderate Crime
+570,70 don river boulevard,43.758226,-79.433172,lansing westgate,Moderate Class,Moderate Crime
+571,14 franklin ave,43.756456,-79.41058,lansing westgate,Moderate Class,Moderate Crime
+572,175 teddington park ave,43.734233,-79.396869,lawrence park north,High Class,Moderate Crime
+573,195 brookdale ave,43.728471,-79.409622,lawrence park north,High Class,Moderate Crime
+574,100 roe ave,43.733405,-79.41572,lawrence park north,High Class,Moderate Crime
+575,200 snowdon ave,43.732815,-79.396728,lawrence park north,High Class,Moderate Crime
+576,64 glengowan rd,43.721159,-79.392357,lawrence park south,High Class,Moderate Crime
+577,58 lytton blvd,43.71588,-79.403981,lawrence park south,High Class,Moderate Crime
+578,1 strathgowan ave #403,43.718724,-79.400268,lawrence park south,High Class,Moderate Crime
+579,812 duplex ave,43.718239,-79.403956,lawrence park south,High Class,Moderate Crime
+580,170 strathallan blvd,43.714008,-79.417412,lawrence park south,High Class,Moderate Crime
+581,185 dawlish ave,43.722026,-79.390921,lawrence park south,High Class,Moderate Crime
+582,488 roselawn ave,43.70797,-79.414299,lawrence park south,High Class,Moderate Crime
+583,205 - 2550 lawrence ave e,43.727297,-79.391084,lawrence park south,High Class,Moderate Crime
+584,159 cortleigh blvd,43.712703,-79.412436,lawrence park south,High Class,Moderate Crime
+585,2 garden cir,43.694975,-79.375138,leaside bennington,High Class,Moderate Crime
+586,100 glenvale blvd,43.717745,-79.371309,leaside bennington,High Class,Moderate Crime
+587,272 rumsey rd,43.712369,-79.369841,leaside bennington,High Class,Moderate Crime
+588,319 laird dr,43.716006,-79.365486,leaside bennington,High Class,Moderate Crime
+589,161 parkhurst blvd,43.710267,-79.365619,leaside bennington,High Class,Moderate Crime
+590,612 - 3237 bayview ave,43.684212,-79.365215,leaside bennington,High Class,Moderate Crime
+591,36 lisgar st #1010,43.641739,-79.423316,little portugal,Moderate Class,Moderate Crime
+592,43 rusholme rd,43.650755,-79.426961,little portugal,Moderate Class,Moderate Crime
+593,20 gladstone ave #417,43.643481,-79.427721,little portugal,Moderate Class,Moderate Crime
+594,36 lisgar st #708w,43.641739,-79.423316,little portugal,Moderate Class,Moderate Crime
+595,68 abell st unit 1001,43.642434,-79.424538,little portugal,Moderate Class,Moderate Crime
+596,1005 - 8 dovercourt rd,43.641637,-79.421844,little portugal,Moderate Class,Moderate Crime
+597,418 - 150 sudbury st,43.641504,-79.424224,little portugal,Moderate Class,Moderate Crime
+598,th1 - 51 florence st,43.64541,-79.431799,little portugal,Moderate Class,Moderate Crime
+599,27 alma dr,43.644524,-79.429162,little portugal,Moderate Class,Moderate Crime
+600,512w - 36 lisgar st,43.646563,-79.425062,little portugal,Moderate Class,Moderate Crime
+601,3865 lake shore blvd w #217,43.589859,-79.545165,long branch,Moderate Class,Moderate Crime
+602,3845 lake shore blvd w unit 1601,43.590672,-79.544208,long branch,Moderate Class,Moderate Crime
+603,399 lake promenade,43.586922,-79.539539,long branch,Moderate Class,Moderate Crime
+604,16 muskoka ave,43.59184,-79.532076,long branch,Moderate Class,Moderate Crime
+605,40 exmoor dr,43.592477,-79.543761,long branch,Moderate Class,Moderate Crime
+606,67 lake promenade,43.590523,-79.522767,long branch,Moderate Class,Moderate Crime
+607,79 elder avenue,43.598997,-79.527244,long branch,Moderate Class,Moderate Crime
+608,21 - 115 long branch ave,43.591894,-79.532985,long branch,Moderate Class,Moderate Crime
+609,3 dailing gate,43.791382,-79.22969,malvern east,Low Class,Moderate Crime
+610,11 carisbrooke sq,43.81623,-79.214484,malvern east,Low Class,Moderate Crime
+611,84 chad cres,43.814889,-79.209796,malvern east,Low Class,Moderate Crime
+612,200 murison blvd unit 67,43.800088,-79.202935,malvern east,Low Class,Moderate Crime
+613,8 rosebank dr #7h,43.791844,-79.237284,malvern east,Low Class,Moderate Crime
+614,102 pennyhill dr,43.813775,-79.216708,malvern east,Low Class,Moderate Crime
+615,28 rosebank dr #1009,43.792518,-79.235348,malvern east,Low Class,Moderate Crime
+616,15 sewells rd #410,43.806694,-79.217112,malvern east,Low Class,Moderate Crime
+617,113 burrows hall blvd,43.791652,-79.231091,malvern east,Low Class,Moderate Crime
+618,21 tinbury pl,43.793992,-79.225331,malvern east,Low Class,Moderate Crime
+619,27 burkwood cres,43.802005,-79.213927,malvern east,Low Class,Moderate Crime
+620,2 dailing gate #19,43.791144,-79.229702,malvern east,Low Class,Moderate Crime
+621,8 rosebank dr #16h,43.791844,-79.237284,malvern east,Low Class,Moderate Crime
+622,705 - 28 rosebank dr,43.792518,-79.235348,malvern east,Low Class,Moderate Crime
+623,15 lenthall ave,43.797531,-79.238536,malvern west,Low Class,Moderate Crime
+624,66 loradeen cres,43.81339,-79.232371,malvern west,Low Class,Moderate Crime
+625,231 falstaff ave,43.718179,-79.490279,maple leaf,Low Class,Moderate Crime
+626,21 treelawn pkwy,43.711385,-79.470803,maple leaf,Low Class,Moderate Crime
+627,300 mill rd #a31,43.638084,-79.583984,markland wood,Moderate Class,Moderate Crime
+628,215 mill rd,43.633835,-79.57625,markland wood,Moderate Class,Moderate Crime
+629,18 burnt log cres,43.633137,-79.58094,markland wood,Moderate Class,Moderate Crime
+630,10 avery ave,43.633967,-79.564557,markland wood,Moderate Class,Moderate Crime
+631,120 neilson dr,43.63417,-79.567166,markland wood,Moderate Class,Moderate Crime
+632,23 radwell cres,43.81922,-79.289585,milliken,Low Class,Moderate Crime
+633,4 flatwoods dr,43.826499,-79.285113,milliken,Low Class,Moderate Crime
+634,121 valley stream dr,43.821396,-79.262866,milliken,Low Class,Moderate Crime
+635,2639 lake shore blvd w,43.603501,-79.492054,mimico queensway,Moderate Class,Moderate Crime
+636,4 allen ave,43.612936,-79.49066,mimico queensway,Moderate Class,Moderate Crime
+637,152 stanley ave,43.614753,-79.496794,mimico queensway,Moderate Class,Moderate Crime
+638,408 - 155 legion rd n,43.623942,-79.488447,mimico queensway,Moderate Class,Moderate Crime
+639,1806 - 15 legion rd,43.621512,-79.484037,mimico queensway,Moderate Class,Moderate Crime
+640,602 - 155 legion rd n,43.623942,-79.488447,mimico queensway,Moderate Class,Moderate Crime
+641,6 creekwood dr,43.785981,-79.215279,morningside,Low Class,Moderate Crime
+642,341 military trl #20,43.786061,-79.212348,morningside,Low Class,Moderate Crime
+643,11 livonia pl #18,43.785465,-79.205888,morningside,Low Class,Moderate Crime
+644,100 mornelle ct #1039,43.78722,-79.194677,morningside,Low Class,Moderate Crime
+645,10 livonia pl #149,43.785922,-79.206031,morningside,Low Class,Moderate Crime
+646,44 ladysbridge drive,43.767444,-79.205814,morningside,Low Class,Moderate Crime
+647,114 - 371 orton park rd,43.779744,-79.215376,morningside,Low Class,Moderate Crime
+648,6 neelands cres,43.792673,-79.205176,morningside,Low Class,Moderate Crime
+649,1102 - 100 mornelle crt,43.78722,-79.194677,morningside,Low Class,Moderate Crime
+650,111 knowles dr,43.825488,-79.213639,morningside heights,Low Class,Moderate Crime
+651,130 morningview trl,43.815394,-79.199609,morningside heights,Low Class,Moderate Crime
+652,4 muskox drive,43.81036,-79.18447,morningside heights,Low Class,Moderate Crime
+653,8 grackle tr,43.828934,-79.23303,morningside heights,Low Class,Moderate Crime
+654,333 adelaide st e #410,43.651843,-79.369052,moss park,Moderate Class,Moderate Crime
+655,120 parliament st penthouse 2404,43.653856,-79.363933,moss park,Moderate Class,Moderate Crime
+656,181 dundas st e unit 3811,43.656969,-79.374122,moss park,Moderate Class,Moderate Crime
+657,130 shuter st,43.655956,-79.371864,moss park,Moderate Class,Moderate Crime
+658,408 ontario st,43.662083,-79.370042,moss park,Moderate Class,Moderate Crime
+659,460 adelaide st e #820,43.652787,-79.3668,moss park,Moderate Class,Moderate Crime
+660,818 - 323 richmond st e,43.653384,-79.368447,moss park,Moderate Class,Moderate Crime
+661,1220 - 460 adelaide street e,43.652787,-79.3668,moss park,Moderate Class,Moderate Crime
+662,ph120 - 460 adelaide st e,43.652787,-79.3668,moss park,Moderate Class,Moderate Crime
+663,708 - 168 king st e,43.650812,-79.371199,moss park,Moderate Class,Moderate Crime
+664,th1 - 220 george st,43.655797,-79.373035,moss park,Moderate Class,Moderate Crime
+665,4005 - 319 jarvis st,43.659814,-79.375308,moss park,Moderate Class,Moderate Crime
+666,221 - 251 jarvis st,43.657325,-79.374332,moss park,Moderate Class,Moderate Crime
+667,928 - 251 jarvis street,43.657325,-79.374332,moss park,Moderate Class,Moderate Crime
+668,2114 - 158 front street,43.650304,-79.368781,moss park,Moderate Class,Moderate Crime
+669,1310 - 55 ontario st,43.6535,-79.366255,moss park,Moderate Class,Moderate Crime
+670,1010 - 255 richmond st,43.652903,-79.370349,moss park,Moderate Class,Moderate Crime
+671,102 seaton st,43.657219,-79.369156,moss park,Moderate Class,Moderate Crime
+672,85 emmett ave #1012,43.686963,-79.50605,mount dennis,Low Class,Moderate Crime
+673,16 - 150 pinery tr,43.691734,-79.506841,mount dennis,Low Class,Moderate Crime
+674,41 markbrook ln #614,43.75828,-79.58639,mount olive silverstone jamestown,Low Class,Moderate Crime
+675,5 wray ct,43.755083,-79.593103,mount olive silverstone jamestown,Low Class,Moderate Crime
+676,24 masseygrove cres,43.736326,-79.584228,mount olive silverstone jamestown,Low Class,Moderate Crime
+677,2901 kipling ave #907,43.758185,-79.588513,mount olive silverstone jamestown,Low Class,Moderate Crime
+678,58 masseygrove cres,43.737847,-79.58269,mount olive silverstone jamestown,Low Class,Moderate Crime
+679,62 kay dr,43.757867,-79.592178,mount olive silverstone jamestown,Low Class,Moderate Crime
+680,21 markbrook ln #407,43.758626,-79.587586,mount olive silverstone jamestown,Low Class,Moderate Crime
+681,61 markbrook ln #509,43.759225,-79.585149,mount olive silverstone jamestown,Low Class,Moderate Crime
+682,1109 - 2645 kipling ave w,43.746807,-79.583798,mount olive silverstone jamestown,Low Class,Moderate Crime
+683,49 orpington cres,43.73693,-79.586988,mount olive silverstone jamestown,Low Class,Moderate Crime
+684,63 cleveland st,43.701838,-79.37765,mount pleasant east,High Class,Moderate Crime
+685,478 merton st,43.699434,-79.38152,mount pleasant east,High Class,Moderate Crime
+686,31 taunton rd,43.70712,-79.38803,mount pleasant east,High Class,Moderate Crime
+687,1006 mount pleasant rd,43.714199,-79.392613,mount pleasant east,High Class,Moderate Crime
+688,86 17th st,43.602095,-79.517563,new toronto,Moderate Class,Moderate Crime
+689,1 lake shore dr,43.601114,-79.497504,new toronto,Moderate Class,Moderate Crime
+690,104 3rd st,43.60352,-79.501782,new toronto,Moderate Class,Moderate Crime
+691,35 emerald cres,43.59614,-79.502746,new toronto,Moderate Class,Moderate Crime
+692,115 10th st,43.599655,-79.508115,new toronto,Moderate Class,Moderate Crime
+693,111 3rd st,43.603827,-79.501393,new toronto,Moderate Class,Moderate Crime
+694,49 - 5 william jackson way,43.600769,-79.512121,new toronto,Moderate Class,Moderate Crime
+695,51 - 5 william jackson way,43.600769,-79.512121,new toronto,Moderate Class,Moderate Crime
+696,5765 yonge st #1204,43.783102,-79.415166,newtonbrook east,Moderate Class,Moderate Crime
+697,111 newton dr,43.794606,-79.410102,newtonbrook east,Moderate Class,Moderate Crime
+698,3 pemberton ave #2106,43.780486,-79.413866,newtonbrook east,Moderate Class,Moderate Crime
+699,10 greenyards dr,43.79625,-79.40879,newtonbrook east,Moderate Class,Moderate Crime
+700,5791 yonge st #penthouse 205,43.783997,-79.41604,newtonbrook east,Moderate Class,Moderate Crime
+701,926 willowdale ave,43.785882,-79.409553,newtonbrook east,Moderate Class,Moderate Crime
+702,5795 yonge st unit 611,43.784366,-79.415164,newtonbrook east,Moderate Class,Moderate Crime
+703,5949 yonge st #803,43.787691,-79.416986,newtonbrook east,Moderate Class,Moderate Crime
+704,105 - 39 pemberton ave,43.781088,-79.412829,newtonbrook east,Moderate Class,Moderate Crime
+705,303 - 18 pemberton ave,43.781492,-79.413051,newtonbrook east,Moderate Class,Moderate Crime
+706,85 drewry ave,43.78598,-79.421249,newtonbrook west,Low Class,Moderate Crime
+707,66 fontainbleau dr,43.793138,-79.432029,newtonbrook west,Low Class,Moderate Crime
+708,218 pleasant ave,43.790667,-79.430102,newtonbrook west,Low Class,Moderate Crime
+709,27 devondale ave,43.777838,-79.435334,newtonbrook west,Low Class,Moderate Crime
+710,180 patricia ave,43.788611,-79.426393,newtonbrook west,Low Class,Moderate Crime
+711,37 drewry ave unit 9,43.786348,-79.419345,newtonbrook west,Low Class,Moderate Crime
+712,428 connaught ave,43.784968,-79.43885,newtonbrook west,Low Class,Moderate Crime
+713,9 greenview ave,43.779808,-79.418417,newtonbrook west,Low Class,Moderate Crime
+714,d9 - 108 finch avenue w,43.778025,-79.424741,newtonbrook west,Low Class,Moderate Crime
+715,50 moore park ave,43.793544,-79.421923,newtonbrook west,Low Class,Moderate Crime
+716,557 logan ave,43.669004,-79.345758,north riverdale,High Class,Moderate Crime
+717,23 cavell ave,43.676192,-79.344974,north riverdale,High Class,Moderate Crime
+718,10 dearbourne ave,43.675665,-79.357432,north riverdale,High Class,Moderate Crime
+719,5 - 205 bonis ave,43.672038,-79.345604,north riverdale,High Class,Moderate Crime
+720,585 bloor st e #4218,43.671653,-79.371638,north st james town,Low Class,Moderate Crime
+721,585 bloor st e #521,43.671653,-79.371638,north st james town,Low Class,Moderate Crime
+722,2604 - 500 sherbourne st,43.667976,-79.375573,north st james town,Low Class,Moderate Crime
+723,3606 - 575 bloor st e,43.671713,-79.372389,north st james town,Low Class,Moderate Crime
+724,4011 - 395 bloor st e,43.672002,-79.377438,north st james town,Low Class,Moderate Crime
+725,802 - 575 bloor st e,43.671713,-79.372389,north st james town,Low Class,Moderate Crime
+726,30 roehampton ave unit 1902,43.708432,-79.397532,north toronto,Moderate Class,Moderate Crime
+727,185 roehampton ave #2907,43.708956,-79.392982,north toronto,Moderate Class,Moderate Crime
+728,185 roehampton ave #3201,43.708956,-79.392982,north toronto,Moderate Class,Moderate Crime
+729,8 eglinton ave e #1910,43.707141,-79.397703,north toronto,Moderate Class,Moderate Crime
+730,195 redpath ave #3307,43.7101,-79.393425,north toronto,Moderate Class,Moderate Crime
+731,161 roehampton ave #penthouse 05,43.70876,-79.393794,north toronto,Moderate Class,Moderate Crime
+732,99 broadway ave #2902,43.710514,-79.393306,north toronto,Moderate Class,Moderate Crime
+733,25 broadway ave unit 1105,43.709918,-79.395912,north toronto,Moderate Class,Moderate Crime
+734,1201 - 195 redpath avenue,43.7101,-79.393425,north toronto,Moderate Class,Moderate Crime
+735,th05 - 101 erskine ave,43.711659,-79.39535,north toronto,Moderate Class,Moderate Crime
+736,4308 - 8 eglinton ave e,43.707141,-79.397703,north toronto,Moderate Class,Moderate Crime
+737,2410 - 5500 yonge street,43.710282,-79.398838,north toronto,Moderate Class,Moderate Crime
+738,2611 - 8 eglinton ave e,43.707141,-79.397703,north toronto,Moderate Class,Moderate Crime
+739,228 westview blvd,43.71338,-79.305617,o connor parkview,Moderate Class,Moderate Crime
+740,4 park vis #1006,43.697968,-79.299349,o connor parkview,Moderate Class,Moderate Crime
+741,106 yardley ave,43.713354,-79.300924,o connor parkview,Moderate Class,Moderate Crime
+742,94 meighen ave,43.703012,-79.296084,o connor parkview,Moderate Class,Moderate Crime
+743,1a alder rd,43.702996,-79.325256,o connor parkview,Moderate Class,Moderate Crime
+744,54 judy sgro ave,43.727778,-79.523194,oakdale beverley heights,Low Class,Moderate Crime
+745,11 ashton manr,43.720735,-79.50042,oakdale beverley heights,Low Class,Moderate Crime
+746,36 ridge road,43.722761,-79.49388,oakdale beverley heights,Low Class,Moderate Crime
+747,17 wintergreen rd,43.726306,-79.487547,oakdale beverley heights,Low Class,Moderate Crime
+748,2117 - 5 sheppard ave e,43.733338,-79.529127,oakdale beverley heights,Low Class,Moderate Crime
+749,6 elward blvd,43.691459,-79.281882,oakridge,Low Class,Moderate Crime
+750,23 elba ave,43.699375,-79.274278,oakridge,Low Class,Moderate Crime
+751,24 coventry st,43.692746,-79.276677,oakridge,Low Class,Moderate Crime
+752,15 b medford ave,43.695692,-79.271575,oakridge,Low Class,Moderate Crime
+753,210 westmount ave,43.680554,-79.443098,oakwood village,Moderate Class,Moderate Crime
+754,1603 eglinton ave w #504,43.697042,-79.443072,oakwood village,Moderate Class,Moderate Crime
+755,437 westmount ave,43.686951,-79.445233,oakwood village,Moderate Class,Moderate Crime
+756,45 strader ave,43.693481,-79.44039,oakwood village,Moderate Class,Moderate Crime
+757,82 roseneath gdns,43.684602,-79.435774,oakwood village,Moderate Class,Moderate Crime
+758,500 donlands ave,43.696155,-79.346168,old east york,Moderate Class,Moderate Crime
+759,716 - 20 dean park road,43.696626,-79.340371,old east york,Moderate Class,Moderate Crime
+760,458 donlands ave,43.695206,-79.343583,old east york,Moderate Class,Moderate Crime
+761,406 - 3303 don mills rd,43.702718,-79.334457,old east york,Moderate Class,Moderate Crime
+762,368 markham st,43.658121,-79.410024,palmerston little italy,Moderate Class,Moderate Crime
+763,501 palmerston boulevard,43.662755,-79.412626,palmerston little italy,Moderate Class,Moderate Crime
+764,1 - 130 clinton st,43.657285,-79.414971,palmerston little italy,Moderate Class,Moderate Crime
+765,7b clintwood gate,43.748509,-79.312891,parkwoods o connor hills,Moderate Class,Moderate Crime
+766,130 broadlands blvd,43.746216,-79.3142,parkwoods o connor hills,Moderate Class,Moderate Crime
+767,95 gaydon ave,43.721696,-79.530577,pelmo park humberlea,Moderate Class,Moderate Crime
+768,59 arundel ave,43.679799,-79.351218,playter estates danforth,High Class,Moderate Crime
+769,21 cambridge avenue,43.676518,-79.359986,playter estates danforth,High Class,Moderate Crime
+770,41 pinto dr,43.791871,-79.339242,pleasant view,Low Class,Moderate Crime
+771,303 - 70 old sheppard ave,43.778274,-79.336511,pleasant view,Low Class,Moderate Crime
+772,505 - 10 muirhead rd,43.778087,-79.338531,pleasant view,Low Class,Moderate Crime
+773,31 twyford rd,43.665533,-79.539719,princess rosethorn,High Class,Moderate Crime
+774,45 oldham rd,43.677488,-79.542254,princess rosethorn,High Class,Moderate Crime
+775,5 pheasant ln,43.662472,-79.534898,princess rosethorn,High Class,Moderate Crime
+776,38 ravensbourne cres,43.67637,-79.539166,princess rosethorn,High Class,Moderate Crime
+777,18 kipling grove ct,43.662635,-79.551649,princess rosethorn,High Class,Moderate Crime
+778,521 the kingsway,43.672331,-79.5436,princess rosethorn,High Class,Moderate Crime
+779,10 lloyd manor rd,43.659547,-79.54684,princess rosethorn,High Class,Moderate Crime
+780,4 lloyd manor rd,43.659229,-79.546535,princess rosethorn,High Class,Moderate Crime
+781,225 sumach st #2511,43.661007,-79.360355,regent park,Moderate Class,Moderate Crime
+782,130 river st #2806,43.661484,-79.358579,regent park,Moderate Class,Moderate Crime
+783,20 tubman ave #2307,43.660593,-79.359349,regent park,Moderate Class,Moderate Crime
+784,ph2606 - 225 sackville st,43.659755,-79.36265,regent park,Moderate Class,Moderate Crime
+785,101 clearbrooke cir,43.721799,-79.561522,rexdale kipling,Low Class,Moderate Crime
+786,4 daysland rd,43.718979,-79.56295,rexdale kipling,Low Class,Moderate Crime
+787,29 checkendon dr,43.732732,-79.57325,rexdale kipling,Low Class,Moderate Crime
+788,80 north dr,43.678079,-79.501451,rockcliffe smythe,Low Class,Moderate Crime
+789,10 blakley ave,43.671732,-79.481226,rockcliffe smythe,Low Class,Moderate Crime
+790,56 rockcliffe blvd,43.679689,-79.4908,rockcliffe smythe,Low Class,Moderate Crime
+791,66 cliff st,43.679993,-79.485042,rockcliffe smythe,Low Class,Moderate Crime
+792,133 cordella ave,43.679261,-79.4857,rockcliffe smythe,Low Class,Moderate Crime
+793,27 cameo cres,43.677017,-79.491542,rockcliffe smythe,Low Class,Moderate Crime
+794,8 blakley ave,43.671695,-79.481214,rockcliffe smythe,Low Class,Moderate Crime
+795,59 edinborough crt,43.672487,-79.500731,rockcliffe smythe,Low Class,Moderate Crime
+796,40 fern ave,43.646039,-79.441856,roncesvalles,Moderate Class,Moderate Crime
+797,18 earnbridge st,43.643518,-79.432357,roncesvalles,Moderate Class,Moderate Crime
+798,64 marion st,43.642017,-79.443304,roncesvalles,Moderate Class,Moderate Crime
+799,25 ritchie ave #penthouse 510,43.652358,-79.450119,roncesvalles,Moderate Class,Moderate Crime
+800,213 macdonell ave,43.64631,-79.439954,roncesvalles,Moderate Class,Moderate Crime
+801,209 - 369 sorauren ave,43.649997,-79.444632,roncesvalles,Moderate Class,Moderate Crime
+802,11 beaumont rd,43.679924,-79.371459,rosedale moore park,High Class,Moderate Crime
+803,278 bloor st e #905,43.672265,-79.380454,rosedale moore park,High Class,Moderate Crime
+804,5 whitehall rd,43.683971,-79.38242,rosedale moore park,High Class,Moderate Crime
+805,11 thornwood rd,43.681926,-79.385029,rosedale moore park,High Class,Moderate Crime
+806,27 south dr,43.677229,-79.382582,rosedale moore park,High Class,Moderate Crime
+807,136 collier st,43.67275,-79.384146,rosedale moore park,High Class,Moderate Crime
+808,37 saint andrews gdns,43.685552,-79.374772,rosedale moore park,High Class,Moderate Crime
+809,36 astley ave,43.688906,-79.369921,rosedale moore park,High Class,Moderate Crime
+810,27 shaftesbury ave,43.68211,-79.390162,rosedale moore park,High Class,Moderate Crime
+811,27 glen elm ave,43.691389,-79.393694,rosedale moore park,High Class,Moderate Crime
+812,1 hawthorn ave,43.675042,-79.36985,rosedale moore park,High Class,Moderate Crime
+813,48 crescent rd,43.677803,-79.387068,rosedale moore park,High Class,Moderate Crime
+814,32 roxborough st e,43.678482,-79.387974,rosedale moore park,High Class,Moderate Crime
+815,62 elm ave,43.67613,-79.375547,rosedale moore park,High Class,Moderate Crime
+816,44 standish ave,43.688505,-79.371183,rosedale moore park,High Class,Moderate Crime
+817,39 standish ave,43.6885,-79.370482,rosedale moore park,High Class,Moderate Crime
+818,42 old bridle path,43.687267,-79.376363,rosedale moore park,High Class,Moderate Crime
+819,52 rosedale rd,43.676621,-79.384891,rosedale moore park,High Class,Moderate Crime
+820,80 crescent rd unit 300,43.67805,-79.384721,rosedale moore park,High Class,Moderate Crime
+821,48 shaftesbury ave,43.682521,-79.38967,rosedale moore park,High Class,Moderate Crime
+822,50 st andrews boulevard,43.686034,-79.374469,rosedale moore park,High Class,Moderate Crime
+823,5 rosehill ave 607,43.686128,-79.392887,rosedale moore park,High Class,Moderate Crime
+824,663 windermere ave,43.656998,-79.48273,runnymede bloor west village,High Class,Moderate Crime
+825,491 jane st,43.661375,-79.489035,runnymede bloor west village,High Class,Moderate Crime
+826,2191 yonge st #1708,43.705666,-79.39739,south eglinton davisville,Moderate Class,Moderate Crime
+827,1815 yonge st #1801,43.695918,-79.395842,south eglinton davisville,Moderate Class,Moderate Crime
+828,83 lillian st #15,43.706583,-79.393516,south eglinton davisville,Moderate Class,Moderate Crime
+829,200 ac merton st,43.697552,-79.390292,south eglinton davisville,Moderate Class,Moderate Crime
+830,709 - 2191 yonge st,43.705666,-79.39739,south eglinton davisville,Moderate Class,Moderate Crime
+831,4906 - 2191 yonge st,43.705666,-79.39739,south eglinton davisville,Moderate Class,Moderate Crime
+832,608 - 68 merton st,43.696825,-79.39399,south eglinton davisville,Moderate Class,Moderate Crime
+833,305 - 125 redpath ave,43.707523,-79.392402,south eglinton davisville,Moderate Class,Moderate Crime
+834,3711 - 2221 yonge st,43.70601,-79.397833,south eglinton davisville,Moderate Class,Moderate Crime
+835,ph13 - 300 balliol st,43.699446,-79.387089,south eglinton davisville,Moderate Class,Moderate Crime
+836,405 - 2221 yonge st,43.70601,-79.397833,south eglinton davisville,Moderate Class,Moderate Crime
+837,1009 - 5 soudan ave,43.704308,-79.397063,south eglinton davisville,Moderate Class,Moderate Crime
+838,38 joe shuster way #106,43.640417,-79.424649,south parkdale,Low Class,Moderate Crime
+839,1926 lake shore blvd w #1805,43.635856,-79.467386,south parkdale,Low Class,Moderate Crime
+840,20 joe shuster way #202,43.640144,-79.423917,south parkdale,Low Class,Moderate Crime
+841,36 wilson park rd,43.637544,-79.44199,south parkdale,Low Class,Moderate Crime
+842,25 laidlaw st #516,43.640554,-79.426294,south parkdale,Low Class,Moderate Crime
+843,2510 - 1926 lake shore boulevard w,43.635856,-79.467386,south parkdale,Low Class,Moderate Crime
+844,1105 - 2067 lake shore boulevard w,43.631453,-79.431636,south parkdale,Low Class,Moderate Crime
+845,1102 - 20 laidlaw st,43.640503,-79.426858,south parkdale,Low Class,Moderate Crime
+846,919 - 38 joe shuster way,43.640417,-79.424649,south parkdale,Low Class,Moderate Crime
+847,1104 - 270 dufferin st,43.638483,-79.427467,south parkdale,Low Class,Moderate Crime
+848,lph14 - 270 dufferin st,43.638483,-79.427467,south parkdale,Low Class,Moderate Crime
+849,625 queen st e #607,43.658001,-79.352987,south riverdale,Moderate Class,Moderate Crime
+850,665 queen st e #412,43.658361,-79.351159,south riverdale,Moderate Class,Moderate Crime
+851,39 bushell ave,43.671322,-79.334877,south riverdale,Moderate Class,Moderate Crime
+852,80 curzon st,43.665284,-79.332659,south riverdale,Moderate Class,Moderate Crime
+853,25 clark st,43.660183,-79.347772,south riverdale,Moderate Class,Moderate Crime
+854,90 broadview ave #526,43.65794,-79.349786,south riverdale,Moderate Class,Moderate Crime
+855,2 1st ave,43.664898,-79.351918,south riverdale,Moderate Class,Moderate Crime
+856,37 marjory ave,43.667421,-79.336653,south riverdale,Moderate Class,Moderate Crime
+857,52 sproat ave,43.668518,-79.33323,south riverdale,Moderate Class,Moderate Crime
+858,140 - 1173 dundas st e,43.664423,-79.34184,south riverdale,Moderate Class,Moderate Crime
+859,627 - 150 logan avenue,43.658054,-79.341682,south riverdale,Moderate Class,Moderate Crime
+860,212 alton avenue,43.66934,-79.330525,south riverdale,Moderate Class,Moderate Crime
+861,308 - 625 queen street e,43.658001,-79.352987,south riverdale,Moderate Class,Moderate Crime
+862,18 oaken gtwy #18,43.753729,-79.405545,st andrew windfields,High Class,Moderate Crime
+863,88 forest heights blvd,43.760595,-79.378477,st andrew windfields,High Class,Moderate Crime
+864,36 old colony rd,43.758104,-79.382893,st andrew windfields,High Class,Moderate Crime
+865,63 bannatyne dr,43.761125,-79.370406,st andrew windfields,High Class,Moderate Crime
+866,103 old colony rd,43.758834,-79.374583,st andrew windfields,High Class,Moderate Crime
+867,1 silvergrove rd,43.763519,-79.374045,st andrew windfields,High Class,Moderate Crime
+868,8 swansdown dr,43.759947,-79.373036,st andrew windfields,High Class,Moderate Crime
+869,166 gordon rd,43.749409,-79.388568,st andrew windfields,High Class,Moderate Crime
+870,195 upper canada dr,43.759994,-79.394588,st andrew windfields,High Class,Moderate Crime
+871,26 crimson millway,43.752006,-79.382613,st andrew windfields,High Class,Moderate Crime
+872,43 snowshoe millway,43.750779,-79.380064,st andrew windfields,High Class,Moderate Crime
+873,43 snowshoe milway,43.750779,-79.380064,st andrew windfields,High Class,Moderate Crime
+874,170 bayview ave #711,43.655305,-79.35375,st lawrence east bayfront the islands,High Class,Moderate Crime
+875,16 yonge st suite 4006,43.64325,-79.3764,st lawrence east bayfront the islands,High Class,Moderate Crime
+876,8 the esplanade #1908,43.646227,-79.376346,st lawrence east bayfront the islands,High Class,Moderate Crime
+877,20/22 park lane cir,43.633001,-79.354953,st lawrence east bayfront the islands,High Class,Moderate Crime
+878,222 the esplanade #713,43.649611,-79.365545,st lawrence east bayfront the islands,High Class,Moderate Crime
+879,28 freeland st #4404,43.643622,-79.373959,st lawrence east bayfront the islands,High Class,Moderate Crime
+880,65 harbour sq #3306,43.640082,-79.378599,st lawrence east bayfront the islands,High Class,Moderate Crime
+881,70 distillery ln #1508,43.650118,-79.357935,st lawrence east bayfront the islands,High Class,Moderate Crime
+882,65 scadding ave #422,43.648874,-79.365216,st lawrence east bayfront the islands,High Class,Moderate Crime
+883,905 - 398 front st e,43.653005,-79.357169,st lawrence east bayfront the islands,High Class,Moderate Crime
+884,329 - 155 merchants' wharf avenue,43.646203,-79.361412,st lawrence east bayfront the islands,High Class,Moderate Crime
+885,1233 - 15 merchants' wharf road,43.645111,-79.364299,st lawrence east bayfront the islands,High Class,Moderate Crime
+886,414 - 15 lower jarvis st,43.645272,-79.369349,st lawrence east bayfront the islands,High Class,Moderate Crime
+887,2506 - 33 mill st,43.650316,-79.360978,st lawrence east bayfront the islands,High Class,Moderate Crime
+888,4610 - 138 downes street,43.644513,-79.370966,st lawrence east bayfront the islands,High Class,Moderate Crime
+889,10 yonge st 1001,43.642491,-79.375449,st lawrence east bayfront the islands,High Class,Moderate Crime
+890,1 & 3 blithfield ave,43.632284,-79.353866,st lawrence east bayfront the islands,High Class,Moderate Crime
+891,ph206 - 138 downes street,43.644513,-79.370966,st lawrence east bayfront the islands,High Class,Moderate Crime
+892,4106 - 28 freeland st,43.643622,-79.373959,st lawrence east bayfront the islands,High Class,Moderate Crime
+893,5301 - 100 harbour st w,43.641841,-79.379461,st lawrence east bayfront the islands,High Class,Moderate Crime
+894,809 - 77 harbour square w,43.639992,-79.378887,st lawrence east bayfront the islands,High Class,Moderate Crime
+895,25 bamburgh cir #929,43.815497,-79.325582,steeles,Low Class,Moderate Crime
+896,1222 - 75 bamburgh circ,43.815063,-79.327295,steeles,Low Class,Moderate Crime
+897,51 lady bank rd #501,43.624575,-79.511602,stonegate queensway,Moderate Class,Moderate Crime
+898,38 s kingslea dr,43.641624,-79.496401,stonegate queensway,Moderate Class,Moderate Crime
+899,47 stephen dr,43.632836,-79.485005,stonegate queensway,Moderate Class,Moderate Crime
+900,21 kirk bradden rd w,43.638302,-79.502855,stonegate queensway,Moderate Class,Moderate Crime
+901,5j brussels street,43.626893,-79.491403,stonegate queensway,Moderate Class,Moderate Crime
+902,506 - 760 the queensway s,43.626178,-79.504717,stonegate queensway,Moderate Class,Moderate Crime
+903,71 riverwood pkwy,43.64146,-79.493483,stonegate queensway,Moderate Class,Moderate Crime
+904,622 - 859 the queensway,43.624262,-79.510293,stonegate queensway,Moderate Class,Moderate Crime
+905,704 - 25 neighbourhood lane,43.638218,-79.489363,stonegate queensway,Moderate Class,Moderate Crime
+906,527 - 7 smith cres,43.625997,-79.505854,stonegate queensway,Moderate Class,Moderate Crime
+907,3220 sheppard ave e #318,43.777968,-79.312305,tam o shanter sullivan,Low Class,Moderate Crime
+908,22 malamute cres,43.777993,-79.302685,tam o shanter sullivan,Low Class,Moderate Crime
+909,3220 sheppard ave e #1506,43.777968,-79.312305,tam o shanter sullivan,Low Class,Moderate Crime
+910,76 highhill drive,43.776605,-79.311642,tam o shanter sullivan,Low Class,Moderate Crime
+911,3 sutherland ave,43.691634,-79.289858,taylor massey,Low Class,Moderate Crime
+912,411 main st,43.692593,-79.30357,taylor massey,Low Class,Moderate Crime
+913,365 beech ave #219,43.680037,-79.29045,the beaches,High Class,Moderate Crime
+914,48 lockwood rd,43.669468,-79.310099,the beaches,High Class,Moderate Crime
+915,34 kippendavie ave,43.666604,-79.303104,the beaches,High Class,Moderate Crime
+916,2 bellefair ave unit 306,43.670263,-79.300053,the beaches,High Class,Moderate Crime
+917,73 maclean ave,43.670799,-79.290289,the beaches,High Class,Moderate Crime
+918,18 munro park ave,43.671794,-79.283123,the beaches,High Class,Moderate Crime
+919,98 spruce hill rd,43.675156,-79.290203,the beaches,High Class,Moderate Crime
+920,200 woodbine ave #601,43.668935,-79.306142,the beaches,High Class,Moderate Crime
+921,167 wineva ave,43.672156,-79.295951,the beaches,High Class,Moderate Crime
+922,55 hambly ave,43.673307,-79.297707,the beaches,High Class,Moderate Crime
+923,44 waverley rd,43.667585,-79.300136,the beaches,High Class,Moderate Crime
+924,127 boardwalk dr,43.666435,-79.305807,the beaches,High Class,Moderate Crime
+925,63 hammersmith ave,43.670396,-79.293932,the beaches,High Class,Moderate Crime
+926,29 glen stewart ave,43.678355,-79.295885,the beaches,High Class,Moderate Crime
+927,20 cedar ave e,43.674795,-79.287507,the beaches,High Class,Moderate Crime
+928,12 lark st,43.668319,-79.310823,the beaches,High Class,Moderate Crime
+929,365 beech ave #penthouse 1,43.680037,-79.29045,the beaches,High Class,Moderate Crime
+930,219 - 365 beech ave,43.680037,-79.29045,the beaches,High Class,Moderate Crime
+931,20 cedar avenue n,43.674795,-79.287507,the beaches,High Class,Moderate Crime
+932,35 brian peck cres #807,43.714593,-79.354388,thorncliffe park,Low Class,Moderate Crime
+933,805 - 160 vanderhoof avenue,43.714359,-79.353187,thorncliffe park,Low Class,Moderate Crime
+934,45 manning ave,43.647598,-79.408882,trinity bellwoods,Moderate Class,Moderate Crime
+935,259 claremont st,43.652938,-79.412094,trinity bellwoods,Moderate Class,Moderate Crime
+936,127 bellwoods ave,43.64966,-79.41204,trinity bellwoods,Moderate Class,Moderate Crime
+937,180 markham rd suite 707,43.652934,-79.407872,trinity bellwoods,Moderate Class,Moderate Crime
+938,10 clinton st,43.653968,-79.413663,trinity bellwoods,Moderate Class,Moderate Crime
+939,6 croft st,43.657306,-79.406124,university,Moderate Class,Moderate Crime
+940,271 major st,43.665445,-79.405732,university,Moderate Class,Moderate Crime
+941,6 wyndcliff cres,43.735574,-79.318059,victoria village,Low Class,Moderate Crime
+942,1785 eglinton ave e #203,43.724765,-79.307151,victoria village,Low Class,Moderate Crime
+943,1404 - 25 sunrise ave,43.719092,-79.30226,victoria village,Low Class,Moderate Crime
+944,80 john st #3201,43.646874,-79.390188,wellington place,High Class,Moderate Crime
+945,501 adelaide st w #1108,43.645422,-79.401295,wellington place,High Class,Moderate Crime
+946,455 wellington st w #509,43.643152,-79.397171,wellington place,High Class,Moderate Crime
+947,87 peter st unit 2915,43.646776,-79.392435,wellington place,High Class,Moderate Crime
+948,55 stewart st unit 625,43.643237,-79.401278,wellington place,High Class,Moderate Crime
+949,20 blue jays way #1106,43.643797,-79.391668,wellington place,High Class,Moderate Crime
+950,290 adelaide st w #2405,43.647816,-79.391122,wellington place,High Class,Moderate Crime
+951,20 niagara st #penthouse 1,43.642374,-79.400916,wellington place,High Class,Moderate Crime
+952,20 stewart st #204,43.643775,-79.400667,wellington place,High Class,Moderate Crime
+953,501 adelaide st w #909,43.645422,-79.401295,wellington place,High Class,Moderate Crime
+954,533 richmond st w penthouse 2,43.646874,-79.400841,wellington place,High Class,Moderate Crime
+955,30 nelson st #penthouse 101,43.649062,-79.388476,wellington place,High Class,Moderate Crime
+956,20 blue jays way #319,43.643797,-79.391668,wellington place,High Class,Moderate Crime
+957,629 king st w #1307,43.643972,-79.401585,wellington place,High Class,Moderate Crime
+958,357 king st w #1601,43.645835,-79.392529,wellington place,High Class,Moderate Crime
+959,125 peter st #1301,43.648321,-79.392887,wellington place,High Class,Moderate Crime
+960,295 adelaide st w #2303,43.647594,-79.390757,wellington place,High Class,Moderate Crime
+961,80 john st #1603,43.646874,-79.390188,wellington place,High Class,Moderate Crime
+962,375 king st w #2302,43.6457,-79.393154,wellington place,High Class,Moderate Crime
+963,470 front st w #1301,43.642512,-79.395988,wellington place,High Class,Moderate Crime
+964,11 charlotte st #402,43.646378,-79.39367,wellington place,High Class,Moderate Crime
+965,802 - 290 adelaide street w,43.647816,-79.391122,wellington place,High Class,Moderate Crime
+966,206 - 5 greystone walk dr,43.645415,-79.387361,wellington place,High Class,Moderate Crime
+967,1517 - 87 peter st,43.646776,-79.392435,wellington place,High Class,Moderate Crime
+968,321 - 451 the west mall,43.645415,-79.387361,wellington place,High Class,Moderate Crime
+969,810 - 38 widmer st,43.64818,-79.391974,wellington place,High Class,Moderate Crime
+970,710 - 108 peter st,43.647679,-79.393277,wellington place,High Class,Moderate Crime
+971,3105 - 30 nelson st,43.649062,-79.388476,wellington place,High Class,Moderate Crime
+972,gph3 - 8 widmer st,43.646752,-79.391805,wellington place,High Class,Moderate Crime
+973,1103 - 123 portland street,43.646104,-79.400477,wellington place,High Class,Moderate Crime
+974,204 - 123 portland street,43.646104,-79.400477,wellington place,High Class,Moderate Crime
+975,3503 - 290 adelaide st w,43.647816,-79.391122,wellington place,High Class,Moderate Crime
+976,322 - 500 richmond st w,43.647616,-79.399165,wellington place,High Class,Moderate Crime
+977,1415 - 140 simcoe st,43.649529,-79.387146,wellington place,High Class,Moderate Crime
+978,1008 - 327 king st w,43.646129,-79.391089,wellington place,High Class,Moderate Crime
+979,1116 - 88 blue jays way,43.64542,-79.392508,wellington place,High Class,Moderate Crime
+980,878 - 1 greystone walk drive,43.645415,-79.387361,wellington place,High Class,Moderate Crime
+981,1711 - 330 richmond street w,43.64896,-79.392576,wellington place,High Class,Moderate Crime
+982,52 amiens rd,43.776204,-79.188186,west hill,Low Class,Moderate Crime
+983,4060 lawrence ave e #108,43.766351,-79.197594,west hill,Low Class,Moderate Crime
+984,56 amiens rd,43.776434,-79.188258,west hill,Low Class,Moderate Crime
+985,55 deanscroft sq,43.764897,-79.176426,west hill,Low Class,Moderate Crime
+986,391 beechgrove dr #79,43.776785,-79.172058,west hill,Low Class,Moderate Crime
+987,224 coronation dr,43.762523,-79.181993,west hill,Low Class,Moderate Crime
+988,127 weir cres,43.773648,-79.196582,west hill,Low Class,Moderate Crime
+989,10 rowallan dr,43.759467,-79.185416,west hill,Low Class,Moderate Crime
+990,79 weir cres,43.775794,-79.193404,west hill,Low Class,Moderate Crime
+991,125 alicewood ct,43.730833,-79.596435,west humber clairville,Low Class,Moderate Crime
+992,15 helmsdale cres,43.747239,-79.603316,west humber clairville,Low Class,Moderate Crime
+993,8 attila ct,43.736459,-79.597189,west humber clairville,Low Class,Moderate Crime
+994,15 braddock road,43.719486,-79.584801,west humber clairville,Low Class,Moderate Crime
+995,46 - 2012 martin grove rd,43.741867,-79.594194,west humber clairville,Low Class,Moderate Crime
+996,1 sudbury st #101,43.641055,-79.417998,west queen west,High Class,Moderate Crime
+997,801 king st w #325,43.642734,-79.40707,west queen west,High Class,Moderate Crime
+998,11b crawford st #11b,43.640922,-79.413315,west queen west,High Class,Moderate Crime
+999,993 queen st w #223,43.644646,-79.415649,west queen west,High Class,Moderate Crime
+1000,570 wellington st w #13a,43.642841,-79.403108,west queen west,High Class,Moderate Crime
+1001,676 richmond st w #106,43.646269,-79.405919,west queen west,High Class,Moderate Crime
+1002,631 richmond st w,43.646133,-79.404423,west queen west,High Class,Moderate Crime
+1003,825 adelaide st w,43.643556,-79.410684,west queen west,High Class,Moderate Crime
+1004,24a massey st,43.642716,-79.413217,west queen west,High Class,Moderate Crime
+1005,700 king st w unit 604,43.644124,-79.403262,west queen west,High Class,Moderate Crime
+1006,1216 - 801 king street w,43.642734,-79.40707,west queen west,High Class,Moderate Crime
+1007,408 - 801 king st w,43.642734,-79.40707,west queen west,High Class,Moderate Crime
+1008,9 joseph salsberg lane,43.644349,-79.404053,west queen west,High Class,Moderate Crime
+1009,428 - 12 douro street,43.640766,-79.412339,west queen west,High Class,Moderate Crime
+1010,58b tecumseth st,43.642555,-79.40522,west queen west,High Class,Moderate Crime
+1011,619 - 96 strachan ave,43.64106,-79.411892,west queen west,High Class,Moderate Crime
+1012,48d crawford st,43.642757,-79.414423,west queen west,High Class,Moderate Crime
+1013,35 kirkdene dr,43.793789,-79.141364,west rouge,Moderate Class,Moderate Crime
+1014,1103 - 10 dean park rd,43.804217,-79.168775,west rouge,Moderate Class,Moderate Crime
+1015,905 - 10 dean park road,43.804217,-79.168775,west rouge,Moderate Class,Moderate Crime
+1016,28 wuthering heights road,43.782178,-79.129475,west rouge,Moderate Class,Moderate Crime
+1017,812 - 10 dean park rd,43.804217,-79.168775,west rouge,Moderate Class,Moderate Crime
+1018,214 antibes dr,43.781975,-79.448556,westminster branson,Low Class,Moderate Crime
+1019,296 torresdale ave #17,43.7896,-79.45287,westminster branson,Low Class,Moderate Crime
+1020,1108 - 10 torresdale ave,43.772736,-79.452183,westminster branson,Low Class,Moderate Crime
+1021,601 - 115 antibes dr,43.779571,-79.445886,westminster branson,Low Class,Moderate Crime
+1022,1706 - 133 torresdale ave,43.778604,-79.451801,westminster branson,Low Class,Moderate Crime
+1023,1102 - 131 torresdale ave s,43.777999,-79.452714,westminster branson,Low Class,Moderate Crime
+1024,10 wilby cres #1603,43.697794,-79.512333,weston,Low Class,Moderate Crime
+1025,79 john st,43.703998,-79.515164,weston,Low Class,Moderate Crime
+1026,2130 weston rd #304,43.702433,-79.524659,weston,Low Class,Moderate Crime
+1027,2088 lawrence ave w #603,43.699951,-79.518563,weston,Low Class,Moderate Crime
+1028,501 - 2464 weston rd,43.708257,-79.534202,weston,Low Class,Moderate Crime
+1029,37 holley ave,43.706346,-79.52964,weston,Low Class,Moderate Crime
+1030,405 - 2464 weston road,43.708257,-79.534202,weston,Low Class,Moderate Crime
+1031,1787 saint clair ave w #414,43.673553,-79.461868,weston pelham park,Moderate Class,Moderate Crime
+1032,10 ed clark gdns #14,43.674272,-79.46257,weston pelham park,Moderate Class,Moderate Crime
+1033,1787 saint clair ave w #917,43.673553,-79.461868,weston pelham park,Moderate Class,Moderate Crime
+1034,100 rosethorn ave,43.679352,-79.463314,weston pelham park,Moderate Class,Moderate Crime
+1035,74 connolly st,43.671959,-79.455369,weston pelham park,Moderate Class,Moderate Crime
+1036,121 ford st #109,43.673343,-79.462184,weston pelham park,Moderate Class,Moderate Crime
+1037,186 silverthorn ave,43.678699,-79.461834,weston pelham park,Moderate Class,Moderate Crime
+1038,409 - 3 rowntree rd,43.681222,-79.460569,weston pelham park,Moderate Class,Moderate Crime
+1039,613 old weston rd,43.678775,-79.464784,weston pelham park,Moderate Class,Moderate Crime
+1040,1802 - 3 rowntree rd,43.681222,-79.460569,weston pelham park,Moderate Class,Moderate Crime
+1041,1328 birchmount rd #penthouse 9,43.748506,-79.286068,wexford/maryvale,Low Class,Moderate Crime
+1042,46 singleton rd,43.733528,-79.298509,wexford/maryvale,Low Class,Moderate Crime
+1043,80 shandon drive,43.767431,-79.31443,wexford/maryvale,Low Class,Moderate Crime
+1044,48 - 651f warden avenue,43.731911,-79.28929,wexford/maryvale,Low Class,Moderate Crime
+1045,1904 - 20 brin dr,43.746854,-79.304044,wexford/maryvale,Low Class,Moderate Crime
+1046,66 - 441 military tr,43.737438,-79.295402,wexford/maryvale,Low Class,Moderate Crime
+1047,509 - 1328 birchmount rd,43.748506,-79.286068,wexford/maryvale,Low Class,Moderate Crime
+1048,509 beecroft rd #1209,43.778652,-79.417947,willowdale west,Moderate Class,Moderate Crime
+1049,271 park home ave,43.764323,-79.434004,willowdale west,Moderate Class,Moderate Crime
+1050,503 beecroft rd #515,43.778232,-79.417772,willowdale west,Moderate Class,Moderate Crime
+1051,5444 yonge st #108,43.776373,-79.415758,willowdale west,Moderate Class,Moderate Crime
+1052,5418 yonge st #901,43.775522,-79.415248,willowdale west,Moderate Class,Moderate Crime
+1053,319 betty ann dr,43.764741,-79.436434,willowdale west,Moderate Class,Moderate Crime
+1054,503 beecroft rd #905,43.778232,-79.417772,willowdale west,Moderate Class,Moderate Crime
+1055,262 senlac rd,43.770953,-79.428126,willowdale west,Moderate Class,Moderate Crime
+1056,909 - 7 lorraine drive,43.77874,-79.417139,willowdale west,Moderate Class,Moderate Crime
+1057,unit 12 - 57 finch avenue w,43.778324,-79.420761,willowdale west,Moderate Class,Moderate Crime
+1058,47 terrace ave,43.767589,-79.441138,willowdale west,Moderate Class,Moderate Crime
+1059,23 strathdee dr,43.681424,-79.544171,willowridge martingrove richview,Moderate Class,Moderate Crime
+1060,88 willowridge rd,43.678549,-79.57346,willowridge martingrove richview,Moderate Class,Moderate Crime
+1061,212 - 5 richgrove dr,43.676833,-79.564206,willowridge martingrove richview,Moderate Class,Moderate Crime
+1062,26 breadner dr,43.6931,-79.560049,willowridge martingrove richview,Moderate Class,Moderate Crime
+1063,32 farley cres,43.681564,-79.561956,willowridge martingrove richview,Moderate Class,Moderate Crime
+1064,32 sabrina dr,43.69259,-79.564601,willowridge martingrove richview,Moderate Class,Moderate Crime
+1065,45 pegasus trl,43.780196,-79.221561,woburn north,Low Class,Moderate Crime
+1066,62 portico dr,43.780543,-79.219347,woburn north,Low Class,Moderate Crime
+1067,24 sophia dr,43.762867,-79.227694,woburn north,Low Class,Moderate Crime
+1068,8 lee centre dr #702,43.780823,-79.247602,woburn north,Low Class,Moderate Crime
+1069,29 portico dr,43.779069,-79.22196,woburn north,Low Class,Moderate Crime
+1070,137 benleigh drive,43.762537,-79.238934,woburn north,Low Class,Moderate Crime
+1071,84 pandora circ,43.765568,-79.231436,woburn north,Low Class,Moderate Crime
+1072,3036 - 68 corporate drive,43.780535,-79.251006,woburn north,Low Class,Moderate Crime
+1073,15 wantanopa crescent,43.765039,-79.233239,woburn north,Low Class,Moderate Crime
+1074,17 maughan cres,43.670022,-79.316003,woodbine corridor,Moderate Class,Moderate Crime
+1075,2a battenberg ave,43.667336,-79.316773,woodbine corridor,Moderate Class,Moderate Crime
+1076,77 glenmore rd,43.678005,-79.310652,woodbine corridor,Moderate Class,Moderate Crime
+1077,7 doncaster ave,43.690493,-79.308029,woodbine lumsden,Moderate Class,Moderate Crime
+1078,18 epsom ave,43.691601,-79.308027,woodbine lumsden,Moderate Class,Moderate Crime
+1079,48 westbrook ave,43.693539,-79.306305,woodbine lumsden,Moderate Class,Moderate Crime
+1080,542 delaware ave n,43.672077,-79.432791,wychwood,Moderate Class,Moderate Crime
+1081,82 greensides ave,43.679843,-79.429992,wychwood,Moderate Class,Moderate Crime
+1082,17 regal rd,43.674962,-79.433701,wychwood,Moderate Class,Moderate Crime
+1083,3 biggar ave,43.678959,-79.433611,wychwood,Moderate Class,Moderate Crime
+1084,580 christie st #807,43.679182,-79.425403,wychwood,Moderate Class,Moderate Crime
+1085,26 winona dr,43.675393,-79.43073,wychwood,Moderate Class,Moderate Crime
+1086,413 - 835 st clair ave w,43.68015,-79.431791,wychwood,Moderate Class,Moderate Crime
+1087,1 king st w #2402,43.648987,-79.37807,yonge bay corridor,Moderate Class,Moderate Crime
+1088,20 edward st #1719,43.657059,-79.382187,yonge bay corridor,Moderate Class,Moderate Crime
+1089,1 king st w #1501,43.648987,-79.37807,yonge bay corridor,Moderate Class,Moderate Crime
+1090,311 bay st #4801,43.649756,-79.380323,yonge bay corridor,Moderate Class,Moderate Crime
+1091,73 richmond st w #l02,43.650733,-79.382286,yonge bay corridor,Moderate Class,Moderate Crime
+1092,1604 - 20 edward st,43.657059,-79.382187,yonge bay corridor,Moderate Class,Moderate Crime
+1093,l06 - 73 richmond st w,43.650733,-79.382286,yonge bay corridor,Moderate Class,Moderate Crime
+1094,3203 - 180 university avenue,43.648996,-79.386154,yonge bay corridor,Moderate Class,Moderate Crime
+1095,1511 - 70 temperance st,43.650465,-79.382209,yonge bay corridor,Moderate Class,Moderate Crime
+1096,65 spring garden ave #1802,43.764832,-79.409426,yonge doris,Moderate Class,Moderate Crime
+1097,70 byng ave #6,43.777634,-79.411524,yonge doris,Moderate Class,Moderate Crime
+1098,15 holmes ave #2405,43.777812,-79.413863,yonge doris,Moderate Class,Moderate Crime
+1099,28 empress ave #1916,43.769982,-79.411745,yonge doris,Moderate Class,Moderate Crime
+1100,176 castlefield ave,43.710283,-79.40786,yonge eglinton,High Class,Moderate Crime
+1101,570 oriole pkwy,43.705679,-79.406974,yonge eglinton,High Class,Moderate Crime
+1102,297 oriole pkwy,43.70077,-79.404051,yonge eglinton,High Class,Moderate Crime
+1103,83 lascelles blvd,43.701853,-79.401854,yonge eglinton,High Class,Moderate Crime
+1104,28a wilberton rd,43.694932,-79.401617,yonge st clair,High Class,Moderate Crime
+1105,97 lawton blvd #704,43.693514,-79.396234,yonge st clair,High Class,Moderate Crime
+1106,575 avenue rd #704,43.688637,-79.401726,yonge st clair,High Class,Moderate Crime
+1107,39b oriole rd,43.688419,-79.40019,yonge st clair,High Class,Moderate Crime
+1108,70 oriole rd,43.689811,-79.401305,yonge st clair,High Class,Moderate Crime
+1109,1205 - 5795 yonge st,43.681624,-79.391716,yonge st clair,High Class,Moderate Crime
+1110,302 - 99 foxbar rd,43.686594,-79.400463,yonge st clair,High Class,Moderate Crime
+1111,605 - 55 delisle ave,43.688292,-79.397092,yonge st clair,High Class,Moderate Crime
+1112,70 oriole road,43.689811,-79.401305,yonge st clair,High Class,Moderate Crime
+1113,1801 - 609 avenue rd,43.689757,-79.402168,yonge st clair,High Class,Moderate Crime
+1114,10 de boers dr #905,43.752055,-79.464264,york university heights,Low Class,Moderate Crime
+1115,91 fulwell cres,43.750867,-79.50285,york university heights,Low Class,Moderate Crime
+1116,50 grandravine dr #8,43.753029,-79.489411,york university heights,Low Class,Moderate Crime
+1117,411 - 10 de boers drive,43.75177,-79.463834,york university heights,Low Class,Moderate Crime
+1118,3 clayhall cres,43.751371,-79.499078,york university heights,Low Class,Moderate Crime
+1119,703 - 55 de boers dr,43.75177,-79.463834,york university heights,Low Class,Moderate Crime
+1120,108 - 37 four winds dr,43.765261,-79.493675,york university heights,Low Class,Moderate Crime
+1121,502 - 31 four winds dr,43.765261,-79.493675,york university heights,Low Class,Moderate Crime
+1122,149 sharpecroft blvd,43.750414,-79.489371,york university heights,Low Class,Moderate Crime
+1123,ph14 - 1060 sheppard ave w,43.750492,-79.464045,york university heights,Low Class,Moderate Crime
+1124,1150 briar hill ave #306,43.703091,-79.452004,yorkdale glen park,Moderate Class,Moderate Crime
+1125,160 flemington rd #512,43.723077,-79.448251,yorkdale glen park,Moderate Class,Moderate Crime
+1126,830 lawrence ave w #2207,43.71445,-79.454208,yorkdale glen park,Moderate Class,Moderate Crime
+1127,309 ranee ave,43.722361,-79.451974,yorkdale glen park,Moderate Class,Moderate Crime
+1128,1 bolingbroke rd,43.712749,-79.448179,yorkdale glen park,Moderate Class,Moderate Crime
+1129,354 ranee ave,43.722078,-79.455298,yorkdale glen park,Moderate Class,Moderate Crime
+1130,61 dane ave,43.7172,-79.449548,yorkdale glen park,Moderate Class,Moderate Crime
+1131,374 hillmount ave,43.706844,-79.450609,yorkdale glen park,Moderate Class,Moderate Crime
+1132,511 - 10 old york mills rd,43.725707,-79.458162,yorkdale glen park,Moderate Class,Moderate Crime

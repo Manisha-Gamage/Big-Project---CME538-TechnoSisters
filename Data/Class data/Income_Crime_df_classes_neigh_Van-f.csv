@@ -1,0 +1,1206 @@
+,street address,latitude,longitude,neighbourhood,Income_Class,Crime_Class
+0,2795 w 37th ave,49.238765,-123.167839,arbutus ridge,Moderate Class,Moderate Crime
+1,4422 quesnel dr,49.247018,-123.168268,arbutus ridge,Moderate Class,Moderate Crime
+2,4101 yew st #304,49.248583,-123.155246,arbutus ridge,Moderate Class,Moderate Crime
+3,2556 w 20th ave,49.254284,-123.163295,arbutus ridge,Moderate Class,Moderate Crime
+4,2638 w 22nd ave,49.252494,-123.16415,arbutus ridge,Moderate Class,Moderate Crime
+5,4578 puget dr,49.246025,-123.164932,arbutus ridge,Moderate Class,Moderate Crime
+6,2848 w 17th ave,49.256876,-123.168867,arbutus ridge,Moderate Class,Moderate Crime
+7,4393 puget dr,49.246957,-123.167479,arbutus ridge,Moderate Class,Moderate Crime
+8,2275 w 40th ave #204,49.235845,-123.159524,arbutus ridge,Moderate Class,Moderate Crime
+9,2671 mcbain ave,49.247322,-123.164319,arbutus ridge,Moderate Class,Moderate Crime
+10,2509 w 37th ave,49.238678,-123.1629,arbutus ridge,Moderate Class,Moderate Crime
+11,4658 elm st,49.244648,-123.164354,arbutus ridge,Moderate Class,Moderate Crime
+12,2721 w 24th ave,49.251219,-123.1659,arbutus ridge,Moderate Class,Moderate Crime
+13,2335 w 18th ave,49.256582,-123.158831,arbutus ridge,Moderate Class,Moderate Crime
+14,5584 mackenzie st,49.235982,-123.169781,arbutus ridge,Moderate Class,Moderate Crime
+15,4938 arbutus st,49.241702,-123.153154,arbutus ridge,Moderate Class,Moderate Crime
+16,2408 w 22nd ave,49.25243,-123.160486,arbutus ridge,Moderate Class,Moderate Crime
+17,5350 balsam st #503,49.237701,-123.160889,arbutus ridge,Moderate Class,Moderate Crime
+18,2767 w 21st ave,49.253915,-123.166853,arbutus ridge,Moderate Class,Moderate Crime
+19,7 5389 vine street,49.237777,-123.16025,arbutus ridge,Moderate Class,Moderate Crime
+20,1 2403 w 37th avenue,49.238667,-123.161317,arbutus ridge,Moderate Class,Moderate Crime
+21,5584 mackenzie street,49.235982,-123.169781,arbutus ridge,Moderate Class,Moderate Crime
+22,303 4101 yew street,49.24766,-123.154731,arbutus ridge,Moderate Class,Moderate Crime
+23,204 2275 w 40th avenue,49.235845,-123.159524,arbutus ridge,Moderate Class,Moderate Crime
+24,2795 w 37th avenue,49.238765,-123.167839,arbutus ridge,Moderate Class,Moderate Crime
+25,1525 coal harbour cay #b17,49.291479,-123.128047,downtown,Moderate Class,Severe Crime
+26,838 hamilton st #1009,49.278326,-123.116209,downtown,Moderate Class,Severe Crime
+27,1480 howe st #p5-502,49.274891,-123.131173,downtown,Moderate Class,Severe Crime
+28,1159 main st #505,49.274261,-123.100494,downtown,Moderate Class,Severe Crime
+29,138 hastings st e #206,49.281058,-123.101197,downtown,Moderate Class,Severe Crime
+30,1188 howe st #2403,49.278315,-123.12697,downtown,Moderate Class,Severe Crime
+31,1325 rolston st #1513,49.275617,-123.127925,downtown,Moderate Class,Severe Crime
+32,63 keefer pl #502,49.279933,-123.10662,downtown,Moderate Class,Severe Crime
+33,1189 melville st #3404,49.287784,-123.123458,downtown,Moderate Class,Severe Crime
+34,1499 w pender st #1802,49.289964,-123.128049,downtown,Moderate Class,Severe Crime
+35,53 hastings st w #503,49.282116,-123.106307,downtown,Moderate Class,Severe Crime
+36,560 cardero st #603,49.291362,-123.128679,downtown,Moderate Class,Severe Crime
+37,939 homer st #2402,49.278115,-123.119485,downtown,Moderate Class,Severe Crime
+38,488 helmcken st unit 605,49.276526,-123.122747,downtown,Moderate Class,Severe Crime
+39,583 beach cres #2903,49.273589,-123.129221,downtown,Moderate Class,Severe Crime
+40,610 granville st #811,49.28312,-123.116554,downtown,Moderate Class,Severe Crime
+41,1201 marinaside cres #1602,49.273129,-123.120638,downtown,Moderate Class,Severe Crime
+42,555 abbott st #312,49.280181,-123.108684,downtown,Moderate Class,Severe Crime
+43,277 thurlow st #3001,49.288884,-123.11914,downtown,Moderate Class,Severe Crime
+44,168 powell st #515,49.282968,-123.100636,downtown,Moderate Class,Severe Crime
+45,1288 marinaside cres #609,49.272079,-123.120377,downtown,Moderate Class,Severe Crime
+46,428 beach cres #2802,49.27233,-123.127311,downtown,Moderate Class,Severe Crime
+47,183 keefer pl #1004,49.280356,-123.10826,downtown,Moderate Class,Severe Crime
+48,1372 seymour st #2701,49.27459,-123.127563,downtown,Moderate Class,Severe Crime
+49,53 hastings st w #306,49.282116,-123.106307,downtown,Moderate Class,Severe Crime
+50,583 beach cres #3006,49.273589,-123.129221,downtown,Moderate Class,Severe Crime
+51,885 cambie st #2103,49.277518,-123.116547,downtown,Moderate Class,Severe Crime
+52,128 cordova st w #303,49.282525,-123.107958,downtown,Moderate Class,Severe Crime
+53,1077 marinaside cres #1106,49.273637,-123.116652,downtown,Moderate Class,Severe Crime
+54,1238 melville st #1205,49.288222,-123.125361,downtown,Moderate Class,Severe Crime
+55,1159 main st #406,49.274261,-123.100494,downtown,Moderate Class,Severe Crime
+56,1331 homer st #b1201,49.273879,-123.126066,downtown,Moderate Class,Severe Crime
+57,1372 seymour st unit 2101,49.27459,-123.127563,downtown,Moderate Class,Severe Crime
+58,1281 cordova st w #3402,49.290102,-123.123203,downtown,Moderate Class,Severe Crime
+59,1188 quebec st #402,49.27411,-123.101233,downtown,Moderate Class,Severe Crime
+60,1500 howe st #2201,49.274171,-123.132003,downtown,Moderate Class,Severe Crime
+61,1328 w pender st #2201,49.289067,-123.126664,downtown,Moderate Class,Severe Crime
+62,1415 georgia st w #2203,49.289455,-123.128288,downtown,Moderate Class,Severe Crime
+63,108 cordova st w #1401,49.282616,-123.107958,downtown,Moderate Class,Severe Crime
+64,1333 georgia st w #809,49.28899,-123.127532,downtown,Moderate Class,Severe Crime
+65,811 helmcken st #1903,49.279247,-123.125531,downtown,Moderate Class,Severe Crime
+66,1128 quebec st #604,49.274651,-123.101142,downtown,Moderate Class,Severe Crime
+67,555 jervis st #2204,49.288547,-123.125844,downtown,Moderate Class,Severe Crime
+68,1133 hornby st #809,49.279263,-123.127457,downtown,Moderate Class,Severe Crime
+69,438 seymour st #1708,49.284416,-123.113932,downtown,Moderate Class,Severe Crime
+70,66 cordova st w #1108,49.282561,-123.106278,downtown,Moderate Class,Severe Crime
+71,1155 seymour st penthouse 2703,49.277451,-123.124318,downtown,Moderate Class,Severe Crime
+72,1550 coal harbour cay #l302,49.291479,-123.128047,downtown,Moderate Class,Severe Crime
+73,33 smithe st #802,49.274436,-123.11196,downtown,Moderate Class,Severe Crime
+74,1283 howe st #2009,49.277218,-123.128625,downtown,Moderate Class,Severe Crime
+75,1492 hornby st,49.275736,-123.131665,downtown,Moderate Class,Severe Crime
+76,788 richards st #1108,49.280305,-123.117196,downtown,Moderate Class,Severe Crime
+77,128 cordova st w #706,49.282525,-123.107958,downtown,Moderate Class,Severe Crime
+78,161 georgia st w #110,49.278805,-123.111556,downtown,Moderate Class,Severe Crime
+79,939 homer st #3401,49.278115,-123.119485,downtown,Moderate Class,Severe Crime
+80,55 cordova st e #315,49.282595,-123.102962,downtown,Moderate Class,Severe Crime
+81,1189 melville st #2104,49.287784,-123.123458,downtown,Moderate Class,Severe Crime
+82,277 thurlow st #2601,49.288884,-123.11914,downtown,Moderate Class,Severe Crime
+83,128 cordova st w #4004,49.282525,-123.107958,downtown,Moderate Class,Severe Crime
+84,33 w pender st #504,49.281126,-123.106294,downtown,Moderate Class,Severe Crime
+85,885 cambie st #2104,49.277518,-123.116547,downtown,Moderate Class,Severe Crime
+86,1777 bayshore dr #1101,49.292959,-123.132023,downtown,Moderate Class,Severe Crime
+87,49 cordova st e,49.282152,-123.103059,downtown,Moderate Class,Severe Crime
+88,1188 richards st #402,49.27599,-123.123515,downtown,Moderate Class,Severe Crime
+89,1188 howe st #607,49.278315,-123.12697,downtown,Moderate Class,Severe Crime
+90,1111 richards st #2705,49.277007,-123.123204,downtown,Moderate Class,Severe Crime
+91,1239 georgia st w #2803,49.287732,-123.125626,downtown,Moderate Class,Severe Crime
+92,1000 beach ave #704,49.275624,-123.134213,downtown,Moderate Class,Severe Crime
+93,1283 howe st #3208,49.277218,-123.128625,downtown,Moderate Class,Severe Crime
+94,1499 w pender st #1303,49.289964,-123.128049,downtown,Moderate Class,Severe Crime
+95,499 broughton st #1703,49.29059,-123.127174,downtown,Moderate Class,Severe Crime
+96,910 beach ave #503,49.275321,-123.133399,downtown,Moderate Class,Severe Crime
+97,1616 bayshore dr #202,49.291509,-123.13015,downtown,Moderate Class,Severe Crime
+98,1283 howe st #3405,49.277218,-123.128625,downtown,Moderate Class,Severe Crime
+99,168 powell st #302,49.282968,-123.100636,downtown,Moderate Class,Severe Crime
+100,289 drake st #1405,49.273825,-123.123708,downtown,Moderate Class,Severe Crime
+101,1189 howe st #2703,49.278315,-123.12697,downtown,Moderate Class,Severe Crime
+102,1289 hornby st #3610,49.277771,-123.129738,downtown,Moderate Class,Severe Crime
+103,1199 marinaside cres #3203,49.273129,-123.120638,downtown,Moderate Class,Severe Crime
+104,1487 homer st,49.272027,-123.126813,downtown,Moderate Class,Severe Crime
+105,689 abbott st #3703,49.278704,-123.106873,downtown,Moderate Class,Severe Crime
+106,1600 hornby st #203,49.273984,-123.134119,downtown,Moderate Class,Severe Crime
+107,168 powell st #501,49.282968,-123.100636,downtown,Moderate Class,Severe Crime
+108,1330 burrard st #217,49.277302,-123.13129,downtown,Moderate Class,Severe Crime
+109,1182 quebec st #11,49.27411,-123.101233,downtown,Moderate Class,Severe Crime
+110,601 jervis st,49.288547,-123.125844,downtown,Moderate Class,Severe Crime
+111,833 seymour st #607,49.280497,-123.119756,downtown,Moderate Class,Severe Crime
+112,1480 howe st #5601,49.274891,-123.131173,downtown,Moderate Class,Severe Crime
+113,1372 seymour st #4102,49.27459,-123.127563,downtown,Moderate Class,Severe Crime
+114,1288 georgia st w penthouse 5,49.288097,-123.126151,downtown,Moderate Class,Severe Crime
+115,1283 howe st #2504,49.277218,-123.128625,downtown,Moderate Class,Severe Crime
+116,1500 hornby st #1805,49.275736,-123.131665,downtown,Moderate Class,Severe Crime
+117,1211 melville st #2404,49.288385,-123.124397,downtown,Moderate Class,Severe Crime
+118,1199 marinaside cres unit 3002,49.273129,-123.120638,downtown,Moderate Class,Severe Crime
+119,667 howe st #4601,49.283705,-123.119032,downtown,Moderate Class,Severe Crime
+120,1177 hornby st #203,49.278837,-123.128065,downtown,Moderate Class,Severe Crime
+121,822 homer st #1303,49.279045,-123.116954,downtown,Moderate Class,Severe Crime
+122,583 beach cres #1003,49.273589,-123.129221,downtown,Moderate Class,Severe Crime
+123,455 beach cres #1102,49.272668,-123.127769,downtown,Moderate Class,Severe Crime
+124,1131 homer st,49.276189,-123.12245,downtown,Moderate Class,Severe Crime
+125,928 richards st #2002,49.278357,-123.119901,downtown,Moderate Class,Severe Crime
+126,550 taylor st unit 1610,49.279776,-123.10558,downtown,Moderate Class,Severe Crime
+127,1159 main st #805,49.274261,-123.100494,downtown,Moderate Class,Severe Crime
+128,1255 seymour st penthouse 3401,49.276039,-123.126471,downtown,Moderate Class,Severe Crime
+129,1238 seymour st #1401,49.275778,-123.125761,downtown,Moderate Class,Severe Crime
+130,1335 howe st #1504,49.276569,-123.129609,downtown,Moderate Class,Severe Crime
+131,889 pacific st #1606,49.27632,-123.13079,downtown,Moderate Class,Severe Crime
+132,939 homer st #1907,49.278115,-123.119485,downtown,Moderate Class,Severe Crime
+133,938 beatty st,49.276389,-123.116312,downtown,Moderate Class,Severe Crime
+134,1333 hornby st #601,49.277062,-123.130919,downtown,Moderate Class,Severe Crime
+135,667 howe st #4801,49.283705,-123.119032,downtown,Moderate Class,Severe Crime
+136,811 helmcken st #1702,49.279247,-123.125531,downtown,Moderate Class,Severe Crime
+137,233 abbott st #306,49.283322,-123.106927,downtown,Moderate Class,Severe Crime
+138,501 pacific st #203,49.274344,-123.12714,downtown,Moderate Class,Severe Crime
+139,308 jervis mews,49.289549,-123.123764,downtown,Moderate Class,Severe Crime
+140,930 cambie st #1205,49.276672,-123.116591,downtown,Moderate Class,Severe Crime
+141,907 beach ave #505,49.275321,-123.133399,downtown,Moderate Class,Severe Crime
+142,1275 hamilton st #213,49.274135,-123.123556,downtown,Moderate Class,Severe Crime
+143,1159 main st #502,49.274261,-123.100494,downtown,Moderate Class,Severe Crime
+144,1625 hornby st #1202,49.27511,-123.133774,downtown,Moderate Class,Severe Crime
+145,1238 melville st #2601,49.288222,-123.125361,downtown,Moderate Class,Severe Crime
+146,1199 marinaside cres,49.273129,-123.120638,downtown,Moderate Class,Severe Crime
+147,1790 bayshore dr penthouse 3,49.292365,-123.132616,downtown,Moderate Class,Severe Crime
+148,950 cambie st #2104,49.27625,-123.117257,downtown,Moderate Class,Severe Crime
+149,233 robson st #603,49.278324,-123.114214,downtown,Moderate Class,Severe Crime
+150,138 hastings st e #605,49.281058,-123.101197,downtown,Moderate Class,Severe Crime
+151,150 cordova st e #903,49.282046,-123.100519,downtown,Moderate Class,Severe Crime
+152,1077 cordova st w penthouse 4201,49.288396,-123.117833,downtown,Moderate Class,Severe Crime
+153,885 cambie st #2500,49.277518,-123.116547,downtown,Moderate Class,Severe Crime
+154,1066 hamilton st #205,49.276179,-123.120217,downtown,Moderate Class,Severe Crime
+155,1777 bayshore dr penthouse 2,49.292959,-123.132023,downtown,Moderate Class,Severe Crime
+156,183 keefer pl #904,49.280356,-123.10826,downtown,Moderate Class,Severe Crime
+157,1128 quebec st #1806,49.274651,-123.101142,downtown,Moderate Class,Severe Crime
+158,1188 howe st #2303,49.278315,-123.12697,downtown,Moderate Class,Severe Crime
+159,1328 w pender st #2807,49.289067,-123.126664,downtown,Moderate Class,Severe Crime
+160,1500 howe st #2304,49.274171,-123.132003,downtown,Moderate Class,Severe Crime
+161,thk 1111 marinaside crescent,49.273637,-123.116652,downtown,Moderate Class,Severe Crime
+162,2302 1499 w pender street,49.289964,-123.128049,downtown,Moderate Class,Severe Crime
+163,1310 819 hamilton street,49.278803,-123.116521,downtown,Moderate Class,Severe Crime
+164,2610 89 nelson street,49.274967,-123.115376,downtown,Moderate Class,Severe Crime
+165,160 1 e cordova street,49.282576,-123.103734,downtown,Moderate Class,Severe Crime
+166,4004 128 w cordova street,49.282525,-123.107958,downtown,Moderate Class,Severe Crime
+167,503 53 w hastings street,49.282116,-123.106307,downtown,Moderate Class,Severe Crime
+168,301 345 water street,49.284779,-123.109806,downtown,Moderate Class,Severe Crime
+169,503 910 beach avenue,49.275321,-123.133399,downtown,Moderate Class,Severe Crime
+170,1802 1351 continental street,49.276267,-123.128981,downtown,Moderate Class,Severe Crime
+171,2402 939 homer street,49.278115,-123.119485,downtown,Moderate Class,Severe Crime
+172,203 1177 hornby street,49.278837,-123.128065,downtown,Moderate Class,Severe Crime
+173,1903 811 helmcken street,49.279247,-123.125531,downtown,Moderate Class,Severe Crime
+174,1102 455 beach crescent,49.272668,-123.127769,downtown,Moderate Class,Severe Crime
+175,609 1288 marinaside crescent,49.272079,-123.120377,downtown,Moderate Class,Severe Crime
+176,2505 777 richards street,49.280448,-123.118037,downtown,Moderate Class,Severe Crime
+177,402 1012 beach avenue,49.271591,-123.12802,downtown,Moderate Class,Severe Crime
+178,404 1790 bayshore drive,49.292046,-123.13078,downtown,Moderate Class,Severe Crime
+179,607 833 seymour street,49.280497,-123.119756,downtown,Moderate Class,Severe Crime
+180,1107 1068 hornby street,49.279642,-123.125742,downtown,Moderate Class,Severe Crime
+181,300 1055 homer street,49.276978,-123.121219,downtown,Moderate Class,Severe Crime
+182,3404 1335 howe street,49.276569,-123.129609,downtown,Moderate Class,Severe Crime
+183,1501 1483 homer street,49.272027,-123.126813,downtown,Moderate Class,Severe Crime
+184,1801 1155 seymour street,49.280507,-123.119571,downtown,Moderate Class,Severe Crime
+185,811 1325 rolston street,49.275617,-123.127925,downtown,Moderate Class,Severe Crime
+186,1204 1188 howe street,49.277764,-123.12779,downtown,Moderate Class,Severe Crime
+187,4102 777 richards street,49.280448,-123.118037,downtown,Moderate Class,Severe Crime
+188,ph 3401 1255 seymour street,49.276039,-123.126471,downtown,Moderate Class,Severe Crime
+189,2301 89 nelson street,49.274967,-123.115376,downtown,Moderate Class,Severe Crime
+190,506 55 e cordova street,49.282595,-123.102962,downtown,Moderate Class,Severe Crime
+191,402 1188 richards street,49.27599,-123.123515,downtown,Moderate Class,Severe Crime
+192,3702 833 seymour street,49.280497,-123.119756,downtown,Moderate Class,Severe Crime
+193,1801 183 keefer place,49.279559,-123.106509,downtown,Moderate Class,Severe Crime
+194,5203 1480 howe street,49.274891,-123.131173,downtown,Moderate Class,Severe Crime
+195,2611 610 granville street,49.28312,-123.116554,downtown,Moderate Class,Severe Crime
+196,1506 1188 howe street,49.274171,-123.132003,downtown,Moderate Class,Severe Crime
+197,902 1325 rolston street,49.275617,-123.127925,downtown,Moderate Class,Severe Crime
+198,2407 1155 seymour street,49.280507,-123.119571,downtown,Moderate Class,Severe Crime
+199,1701 1499 w pender street,49.289964,-123.128049,downtown,Moderate Class,Severe Crime
+200,3402 1335 howe street,49.276569,-123.129609,downtown,Moderate Class,Severe Crime
+201,502 1188 w pender street,49.288054,-123.123095,downtown,Moderate Class,Severe Crime
+202,2309 1009 expo boulevard,49.277722,-123.110809,downtown,Moderate Class,Severe Crime
+203,ph 2805 1323 homer street,49.273879,-123.126066,downtown,Moderate Class,Severe Crime
+204,213 1330 burrard street,49.277302,-123.13129,downtown,Moderate Class,Severe Crime
+205,407 590 nicola street,49.29105,-123.128192,downtown,Moderate Class,Severe Crime
+206,308 1478 w hastings street,49.290132,-123.127923,downtown,Moderate Class,Severe Crime
+207,806 928 beatty street,49.275828,-123.11563,downtown,Moderate Class,Severe Crime
+208,1809 1283 howe street,49.277218,-123.128625,downtown,Moderate Class,Severe Crime
+209,604 555 jervis street,49.288547,-123.125844,downtown,Moderate Class,Severe Crime
+210,2301 501 pacific street,49.274344,-123.12714,downtown,Moderate Class,Severe Crime
+211,1806 1128 quebec street,49.274651,-123.101142,downtown,Moderate Class,Severe Crime
+212,502 63 keefer place,49.279933,-123.10662,downtown,Moderate Class,Severe Crime
+213,584 87 nelson street,49.278959,-123.122848,downtown,Moderate Class,Severe Crime
+214,2301 667 howe street,49.283705,-123.119032,downtown,Moderate Class,Severe Crime
+215,614 933 seymour street,49.279249,-123.121626,downtown,Moderate Class,Severe Crime
+216,1608 788 hamilton street,49.278743,-123.115035,downtown,Moderate Class,Severe Crime
+217,906 833 seymour street,49.280497,-123.119756,downtown,Moderate Class,Severe Crime
+218,312 5077 cambie street,49.283044,-123.109049,downtown,Moderate Class,Severe Crime
+219,ph7 1082 seymour street,49.277631,-123.122958,downtown,Moderate Class,Severe Crime
+220,1107 1199 marinaside crescent,49.273637,-123.116652,downtown,Moderate Class,Severe Crime
+221,2510 1111 richards street,49.277007,-123.123204,downtown,Moderate Class,Severe Crime
+222,3111 1289 hornby street,49.277708,-123.129641,downtown,Moderate Class,Severe Crime
+223,2302 1325 rolston street,49.275617,-123.127925,downtown,Moderate Class,Severe Crime
+224,407 370 carrall street,49.281793,-123.104127,downtown,Moderate Class,Severe Crime
+225,1102 909 mainland street,49.275148,-123.120702,downtown,Moderate Class,Severe Crime
+226,3002 33 smithe street,49.274436,-123.11196,downtown,Moderate Class,Severe Crime
+227,1804 1239 w georgia street,49.287732,-123.125626,downtown,Moderate Class,Severe Crime
+228,973 mainland street,49.277571,-123.118543,downtown,Moderate Class,Severe Crime
+229,1233 933 hornby street,49.281533,-123.12422,downtown,Moderate Class,Severe Crime
+230,704 1000 beach avenue,49.275624,-123.134213,downtown,Moderate Class,Severe Crime
+231,205 1330 hornby street,49.276772,-123.130194,downtown,Moderate Class,Severe Crime
+232,1000 499 pacific street,49.273876,-123.126998,downtown,Moderate Class,Severe Crime
+233,3902 1033 marinaside crescent,49.273637,-123.116652,downtown,Moderate Class,Severe Crime
+234,2001 198 aquarius mews,49.273824,-123.119616,downtown,Moderate Class,Severe Crime
+235,1603 939 expo boulevard,49.277722,-123.110809,downtown,Moderate Class,Severe Crime
+236,908 189 keefer street,49.279725,-123.100172,downtown,Moderate Class,Severe Crime
+237,3601 1438 richards street,49.273201,-123.12775,downtown,Moderate Class,Severe Crime
+238,202 983 e hastings street,49.282178,-123.110244,downtown,Moderate Class,Severe Crime
+239,501 1255 main street,49.273589,-123.100527,downtown,Moderate Class,Severe Crime
+240,87 e cordova street,49.282073,-123.102643,downtown,Moderate Class,Severe Crime
+241,2801 535 smithe street,49.279553,-123.119352,downtown,Moderate Class,Severe Crime
+242,604 55 alexander street,49.283791,-123.102967,downtown,Moderate Class,Severe Crime
+243,2901 1483 homer street,49.272027,-123.126813,downtown,Moderate Class,Severe Crime
+244,1107 822 homer street,49.279045,-123.116954,downtown,Moderate Class,Severe Crime
+245,2703 667 howe street,49.283705,-123.119032,downtown,Moderate Class,Severe Crime
+246,1906 888 hamilton street,49.278011,-123.116673,downtown,Moderate Class,Severe Crime
+247,1116 610 granville street,49.283215,-123.116534,downtown,Moderate Class,Severe Crime
+248,4509 1289 hornby street,49.277708,-123.129641,downtown,Moderate Class,Severe Crime
+249,505 833 homer street,49.279404,-123.117734,downtown,Moderate Class,Severe Crime
+250,809 1333 w georgia street,49.28899,-123.127532,downtown,Moderate Class,Severe Crime
+251,3405 1283 howe street,49.277218,-123.128625,downtown,Moderate Class,Severe Crime
+252,504 36 water street,49.283372,-123.10525,downtown,Moderate Class,Severe Crime
+253,2002 928 richards street,49.278357,-123.119901,downtown,Moderate Class,Severe Crime
+254,2903 583 beach crescent,49.273589,-123.129221,downtown,Moderate Class,Severe Crime
+255,1101 1777 bayshore drive,49.292046,-123.13078,downtown,Moderate Class,Severe Crime
+256,503 1495 richards street,49.283281,-123.113486,downtown,Moderate Class,Severe Crime
+257,2701 1372 seymour street,49.27459,-123.127563,downtown,Moderate Class,Severe Crime
+258,1108 66 w cordova street,49.282561,-123.106278,downtown,Moderate Class,Severe Crime
+259,2303 1188 howe street,49.281089,-123.122333,downtown,Moderate Class,Severe Crime
+260,ph3 1790 bayshore drive,49.292365,-123.132616,downtown,Moderate Class,Severe Crime
+261,tha 1199 marinaside crescent,49.273129,-123.120638,downtown,Moderate Class,Severe Crime
+262,3688 w 49th ave,49.227055,-123.186489,dunbar southlands,High Class,Minor Crime
+263,4053 w 32nd ave,49.243624,-123.195417,dunbar southlands,High Class,Minor Crime
+264,3542 w 16th ave,49.257558,-123.183274,dunbar southlands,High Class,Minor Crime
+265,3363 w 19th ave,49.25581,-123.179967,dunbar southlands,High Class,Minor Crime
+266,4930 dunbar st,49.241926,-123.184888,dunbar southlands,High Class,Minor Crime
+267,3803 w 26th ave,49.249287,-123.18835,dunbar southlands,High Class,Minor Crime
+268,3908 w 17th ave,49.257166,-123.191147,dunbar southlands,High Class,Minor Crime
+269,3538 w 30th ave,49.244942,-123.183169,dunbar southlands,High Class,Minor Crime
+270,3668 w 28th ave,49.246845,-123.186095,dunbar southlands,High Class,Minor Crime
+271,3256 w 21st ave,49.253472,-123.177205,dunbar southlands,High Class,Minor Crime
+272,3982 w 35th ave,49.240226,-123.193184,dunbar southlands,High Class,Minor Crime
+273,4007 w 19th ave,49.255859,-123.193925,dunbar southlands,High Class,Minor Crime
+274,3838 w 50th ave,49.226212,-123.189398,dunbar southlands,High Class,Minor Crime
+275,4085 puget dr,49.250233,-123.171175,dunbar southlands,High Class,Minor Crime
+276,3108 w 31st ave,49.243946,-123.174462,dunbar southlands,High Class,Minor Crime
+277,3589 w 35th ave,49.240627,-123.184898,dunbar southlands,High Class,Minor Crime
+278,4006 w 34th ave,49.241167,-123.193962,dunbar southlands,High Class,Minor Crime
+279,3885 w 35th ave,49.240751,-123.190514,dunbar southlands,High Class,Minor Crime
+280,3852 w 50th ave,49.226214,-123.189675,dunbar southlands,High Class,Minor Crime
+281,3429 w 42nd ave,49.234078,-123.18096,dunbar southlands,High Class,Minor Crime
+282,3579 w 50th ave,49.226887,-123.184548,dunbar southlands,High Class,Minor Crime
+283,3522 sw marine dr,49.229891,-123.182894,dunbar southlands,High Class,Minor Crime
+284,3853 king edward ave w,49.250415,-123.18972,dunbar southlands,High Class,Minor Crime
+285,3518 king edward ave w,49.249672,-123.182512,dunbar southlands,High Class,Minor Crime
+286,5808 crown st,49.233799,-123.193358,dunbar southlands,High Class,Minor Crime
+287,3641 w 29th ave #201,49.24639,-123.185903,dunbar southlands,High Class,Minor Crime
+288,3941 w 33rd ave,49.242655,-123.19211,dunbar southlands,High Class,Minor Crime
+289,3337 quesnel dr,49.256448,-123.179346,dunbar southlands,High Class,Minor Crime
+290,3839 w 35th ave,49.240746,-123.189258,dunbar southlands,High Class,Minor Crime
+291,3123 w 27th ave,49.248277,-123.174557,dunbar southlands,High Class,Minor Crime
+292,4042 w 34th avenue,49.241176,-123.195008,dunbar southlands,High Class,Minor Crime
+293,1 3830 w 23rd avenue,49.25172,-123.188969,dunbar southlands,High Class,Minor Crime
+294,2 3772 w 20th avenue,49.254414,-123.187582,dunbar southlands,High Class,Minor Crime
+295,1 3772 w 20th avenue,49.254414,-123.187582,dunbar southlands,High Class,Minor Crime
+296,3868 w 23rd avenue,49.251723,-123.189695,dunbar southlands,High Class,Minor Crime
+297,3108 w 31st avenue,49.243946,-123.174462,dunbar southlands,High Class,Minor Crime
+298,3529 w 34th avenue,49.24167,-123.183031,dunbar southlands,High Class,Minor Crime
+299,3007 w 32nd avenue,49.243534,-123.173232,dunbar southlands,High Class,Minor Crime
+300,14 sennok crescent,49.235706,-123.204562,dunbar southlands,High Class,Minor Crime
+301,2984 w 31st avenue,49.243942,-123.172383,dunbar southlands,High Class,Minor Crime
+302,1201 lameys mill rd #22,49.267408,-123.134371,fairview,Moderate Class,Minor Crime
+303,1042 ironwork pass,49.268132,-123.128577,fairview,Moderate Class,Minor Crime
+304,1425 lameys mill rd #10,49.268443,-123.135844,fairview,Moderate Class,Minor Crime
+305,1101 w 8th ave #11,49.264598,-123.129408,fairview,Moderate Class,Minor Crime
+306,1350 w 6th ave #17,49.265879,-123.135055,fairview,Moderate Class,Minor Crime
+307,1205 w 7th ave,49.265,-123.131574,fairview,Moderate Class,Minor Crime
+308,1869 spyglass pl #213,49.268648,-123.115807,fairview,Moderate Class,Minor Crime
+309,874 w 6th ave #201,49.265695,-123.123456,fairview,Moderate Class,Minor Crime
+310,1596 w 14th ave #1b,49.258663,-123.140522,fairview,Moderate Class,Minor Crime
+311,2229 oak st,49.265755,-123.127872,fairview,Moderate Class,Minor Crime
+312,1210 w 8th ave #207,49.264145,-123.132201,fairview,Moderate Class,Minor Crime
+313,1717 w 13th ave #115,49.260182,-123.144071,fairview,Moderate Class,Minor Crime
+314,1468 w 14th ave #703,49.258615,-123.137357,fairview,Moderate Class,Minor Crime
+315,1633 w 8th ave #506,49.264789,-123.141695,fairview,Moderate Class,Minor Crime
+316,1502 island park walk #301,49.270581,-123.139126,fairview,Moderate Class,Minor Crime
+317,1068 w 15th ave,49.257605,-123.128894,fairview,Moderate Class,Minor Crime
+318,1450 w 6th ave #307,49.265704,-123.137742,fairview,Moderate Class,Minor Crime
+319,1735 w 16th ave,49.25741,-123.144543,fairview,Moderate Class,Minor Crime
+320,1616 w 13th ave #502,49.259605,-123.141727,fairview,Moderate Class,Minor Crime
+321,693 moberly rd,49.267062,-123.120499,fairview,Moderate Class,Minor Crime
+322,750 w 6th ave,49.265658,-123.121194,fairview,Moderate Class,Minor Crime
+323,1502 island park walk #107,49.270581,-123.139126,fairview,Moderate Class,Minor Crime
+324,964 w 15th ave,49.25762,-123.126543,fairview,Moderate Class,Minor Crime
+325,2838 birch st #3,49.260004,-123.133506,fairview,Moderate Class,Minor Crime
+326,939 w 7th ave #26,49.265369,-123.125488,fairview,Moderate Class,Minor Crime
+327,2209 alder st,49.265802,-123.131605,fairview,Moderate Class,Minor Crime
+328,2411 heather st #1801,49.264583,-123.120097,fairview,Moderate Class,Minor Crime
+329,2243 oak st,49.265755,-123.127872,fairview,Moderate Class,Minor Crime
+330,2851 heather st #604,49.260073,-123.120956,fairview,Moderate Class,Minor Crime
+331,3088 laurel st,49.258406,-123.124134,fairview,Moderate Class,Minor Crime
+332,1130 ironwork pass,49.268132,-123.128577,fairview,Moderate Class,Minor Crime
+333,1557 mariner walk,49.27023,-123.139812,fairview,Moderate Class,Minor Crime
+334,1425 lameys mill rd #33,49.268443,-123.135844,fairview,Moderate Class,Minor Crime
+335,690 w 6th ave,49.265627,-123.120135,fairview,Moderate Class,Minor Crime
+336,1445 marpole ave #508,49.257539,-123.138386,fairview,Moderate Class,Minor Crime
+337,688 w 6th ave,49.265627,-123.120135,fairview,Moderate Class,Minor Crime
+338,1296 w 6th ave,49.265875,-123.133367,fairview,Moderate Class,Minor Crime
+339,1075 w 13th ave #203,49.25993,-123.128457,fairview,Moderate Class,Minor Crime
+340,1450 pennyfarthing dr #1003,49.272062,-123.141305,fairview,Moderate Class,Minor Crime
+341,1530 w 8th ave #805,49.264277,-123.139811,fairview,Moderate Class,Minor Crime
+342,1318 w 6th ave #201,49.26586,-123.134113,fairview,Moderate Class,Minor Crime
+343,ph610 1540 w 2nd avenue,49.269418,-123.139838,fairview,Moderate Class,Minor Crime
+344,115 1717 w 13th avenue,49.260182,-123.144071,fairview,Moderate Class,Minor Crime
+345,688 w 6th avenue,49.265627,-123.120135,fairview,Moderate Class,Minor Crime
+346,213 1869 spyglass place,49.268942,-123.115296,fairview,Moderate Class,Minor Crime
+347,703 1468 w 14th avenue,49.258615,-123.137357,fairview,Moderate Class,Minor Crime
+348,208 788 w 8th avenue,49.263975,-123.12148,fairview,Moderate Class,Minor Crime
+349,204 788 w 8th avenue,49.263975,-123.12148,fairview,Moderate Class,Minor Crime
+350,205 788 w 8th avenue,49.263975,-123.12148,fairview,Moderate Class,Minor Crime
+351,202 788 w 8th avenue,49.263975,-123.12148,fairview,Moderate Class,Minor Crime
+352,201 788 w 8th avenue,49.263975,-123.12148,fairview,Moderate Class,Minor Crime
+353,105 788 w 8th avenue,49.263975,-123.12148,fairview,Moderate Class,Minor Crime
+354,l02 788 w 8th avenue,49.263975,-123.12148,fairview,Moderate Class,Minor Crime
+355,101 788 w 8th avenue,49.263975,-123.12148,fairview,Moderate Class,Minor Crime
+356,l01 788 w 8th avenue,49.263975,-123.12148,fairview,Moderate Class,Minor Crime
+357,208 633 w 16th avenue,49.257235,-123.119081,fairview,Moderate Class,Minor Crime
+358,1110 w 15th avenue,49.257618,-123.129723,fairview,Moderate Class,Minor Crime
+359,802 1565 w 6th avenue,49.266491,-123.140068,fairview,Moderate Class,Minor Crime
+360,17 1350 w 6th avenue,49.265879,-123.135055,fairview,Moderate Class,Minor Crime
+361,301 1502 island park walk,49.270581,-123.139126,fairview,Moderate Class,Minor Crime
+362,201 1318 w 6th avenue,49.26586,-123.134113,fairview,Moderate Class,Minor Crime
+363,103 788 w 8th avenue,49.263975,-123.12148,fairview,Moderate Class,Minor Crime
+364,203 788 w 8th avenue,49.263975,-123.12148,fairview,Moderate Class,Minor Crime
+365,206 788 w 8th avenue,49.263975,-123.12148,fairview,Moderate Class,Minor Crime
+366,102 788 w 8th avenue,49.263975,-123.12148,fairview,Moderate Class,Minor Crime
+367,106 788 w 8th avenue,49.263975,-123.12148,fairview,Moderate Class,Minor Crime
+368,104 788 w 8th avenue,49.263975,-123.12148,fairview,Moderate Class,Minor Crime
+369,l03 788 w 8th avenue,49.263975,-123.12148,fairview,Moderate Class,Minor Crime
+370,207 788 w 8th avenue,49.263975,-123.12148,fairview,Moderate Class,Minor Crime
+371,807 518 moberly road,49.267868,-123.116872,fairview,Moderate Class,Minor Crime
+372,204 1205 w 14th avenue,49.259071,-123.131812,fairview,Moderate Class,Minor Crime
+373,103 1266 w 13th avenue,49.259468,-123.133006,fairview,Moderate Class,Minor Crime
+374,103 835 w 7th avenue,49.265292,-123.122807,fairview,Moderate Class,Minor Crime
+375,901 1650 w 7th avenue,49.265153,-123.142063,fairview,Moderate Class,Minor Crime
+376,108 788 w 8th avenue,49.263975,-123.12148,fairview,Moderate Class,Minor Crime
+377,33 1425 lamey's mill road,49.268443,-123.135844,fairview,Moderate Class,Minor Crime
+378,201 874 w 6th avenue,49.265695,-123.123456,fairview,Moderate Class,Minor Crime
+379,502 1616 w 13th avenue,49.259605,-123.141727,fairview,Moderate Class,Minor Crime
+380,207 1210 w 8th avenue,49.264145,-123.132201,fairview,Moderate Class,Minor Crime
+381,1735 w 16 avenue,49.25741,-123.144543,fairview,Moderate Class,Minor Crime
+382,1611 e 3rd ave #107,49.268053,-123.071359,grandview woodland,Low Class,Severe Crime
+383,2305 turner st,49.279356,-123.057661,grandview woodland,Low Class,Severe Crime
+384,1422 parker st,49.275574,-123.075255,grandview woodland,Low Class,Severe Crime
+385,1618 grant st,49.271659,-123.071011,grandview woodland,Low Class,Severe Crime
+386,2272 dundas st #105,49.284558,-123.058355,grandview woodland,Low Class,Severe Crime
+387,2172 wall st,49.287898,-123.060013,grandview woodland,Low Class,Severe Crime
+388,2282 e 8th ave #3,49.262927,-123.05849,grandview woodland,Low Class,Severe Crime
+389,1375 graveley st,49.270826,-123.075628,grandview woodland,Low Class,Severe Crime
+390,2275 e pender st,49.280518,-123.058328,grandview woodland,Low Class,Severe Crime
+391,2210 willow st,49.288756,-123.060169,grandview woodland,Low Class,Severe Crime
+392,1919 e 3rd ave,49.268014,-123.065301,grandview woodland,Low Class,Severe Crime
+393,1330 graveley st #302,49.270304,-123.076584,grandview woodland,Low Class,Severe Crime
+394,1430 e 8th ave,49.263092,-123.074519,grandview woodland,Low Class,Severe Crime
+395,16 lakewood dr #305,49.284536,-123.061412,grandview woodland,Low Class,Severe Crime
+396,1615 frances st #201,49.27965,-123.071845,grandview woodland,Low Class,Severe Crime
+397,2248 e 3rd ave,49.267491,-123.058959,grandview woodland,Low Class,Severe Crime
+398,1625 e 8th ave,49.263461,-123.07134,grandview woodland,Low Class,Severe Crime
+399,2238 eton st penthouse 6,49.287252,-123.05848,grandview woodland,Low Class,Severe Crime
+400,1735 victoria dr,49.268977,-123.066178,grandview woodland,Low Class,Severe Crime
+401,1222 victoria dr,49.273427,-123.065333,grandview woodland,Low Class,Severe Crime
+402,328 semlin dr,49.281704,-123.063998,grandview woodland,Low Class,Severe Crime
+403,2018 e 6th ave,49.264772,-123.06343,grandview woodland,Low Class,Severe Crime
+404,1 2320 grant street,49.270954,-123.057629,grandview woodland,Low Class,Severe Crime
+405,102 1860 w 6th avenue,49.264776,-123.066519,grandview woodland,Low Class,Severe Crime
+406,2248 e 3rd avenue,49.267491,-123.058959,grandview woodland,Low Class,Severe Crime
+407,1071 semlin drive,49.274492,-123.063966,grandview woodland,Low Class,Severe Crime
+408,105 2272 dundas street,49.284558,-123.058355,grandview woodland,Low Class,Severe Crime
+409,313 2250 e 1st avenue,49.269251,-123.059164,grandview woodland,Low Class,Severe Crime
+410,411 2366 wall street,49.290158,-123.057169,grandview woodland,Low Class,Severe Crime
+411,2069 e 1st avenue,49.26981,-123.062398,grandview woodland,Low Class,Severe Crime
+412,1802 1200 w georgia street,49.278181,-123.067795,grandview woodland,Low Class,Severe Crime
+413,204 2001 wall street,49.285409,-123.063369,grandview woodland,Low Class,Severe Crime
+414,102 1450 e 7 avenue,49.263943,-123.07432,grandview woodland,Low Class,Severe Crime
+415,104 2333 eton street,49.287763,-123.057246,grandview woodland,Low Class,Severe Crime
+416,631 victoria drive,49.278882,-123.065141,grandview woodland,Low Class,Severe Crime
+417,2038 e 1st avenue,49.26929,-123.062928,grandview woodland,Low Class,Severe Crime
+418,1 1826 e 2nd avenue,49.268416,-123.067089,grandview woodland,Low Class,Severe Crime
+419,1986 e 8th avenue,49.26297,-123.064292,grandview woodland,Low Class,Severe Crime
+420,213 1545 e 2nd avenue,49.268967,-123.072733,grandview woodland,Low Class,Severe Crime
+421,2815 yale st,49.290923,-123.046093,hastings sunrise,Low Class,Severe Crime
+422,2419 grant st #201,49.271619,-123.055762,hastings sunrise,Low Class,Severe Crime
+423,3623 yale st,49.290988,-123.025089,hastings sunrise,Low Class,Severe Crime
+424,2889 e 1st ave #215,49.269961,-123.044686,hastings sunrise,Low Class,Severe Crime
+425,2737 oxford st,49.285419,-123.04837,hastings sunrise,Low Class,Severe Crime
+426,3449 e 4th ave,49.266885,-123.029764,hastings sunrise,Low Class,Severe Crime
+427,3609 turner st,49.27936,-123.025311,hastings sunrise,Low Class,Severe Crime
+428,3615 yale st,49.290383,-123.025333,hastings sunrise,Low Class,Severe Crime
+429,3240 napier st,49.274717,-123.035049,hastings sunrise,Low Class,Severe Crime
+430,3457 oxford st,49.285941,-123.029585,hastings sunrise,Low Class,Severe Crime
+431,3516 georgia st e,49.278004,-123.027789,hastings sunrise,Low Class,Severe Crime
+432,2636 mcgill st,49.288372,-123.05073,hastings sunrise,Low Class,Severe Crime
+433,3221 grant st,49.271608,-123.035912,hastings sunrise,Low Class,Severe Crime
+434,2556 hastings st e #l01,49.280884,-123.053231,hastings sunrise,Low Class,Severe Crime
+435,3491 e pender st,49.280492,-123.028763,hastings sunrise,Low Class,Severe Crime
+436,557 rupert st,49.279434,-123.034049,hastings sunrise,Low Class,Severe Crime
+437,2741 hastings st e #200,49.281423,-123.048362,hastings sunrise,Low Class,Severe Crime
+438,2925 mcgill st,49.289001,-123.04321,hastings sunrise,Low Class,Severe Crime
+439,3615 georgia st e,49.278475,-123.0253,hastings sunrise,Low Class,Severe Crime
+440,2715 e pender st #2,49.280519,-123.048778,hastings sunrise,Low Class,Severe Crime
+441,3166 e 5th ave,49.265378,-123.037434,hastings sunrise,Low Class,Severe Crime
+442,2537 trinity st,49.289998,-123.053696,hastings sunrise,Low Class,Severe Crime
+443,3592 turner st,49.278829,-123.026117,hastings sunrise,Low Class,Severe Crime
+444,2828 wall st,49.291182,-123.045857,hastings sunrise,Low Class,Severe Crime
+445,3418 adanac st #11,49.2768,-123.030082,hastings sunrise,Low Class,Severe Crime
+446,3186 grant st,49.271081,-123.036832,hastings sunrise,Low Class,Severe Crime
+447,2551 triumph st,49.284141,-123.053337,hastings sunrise,Low Class,Severe Crime
+448,2641 charles st,49.273541,-123.051021,hastings sunrise,Low Class,Severe Crime
+449,2403 cambridge st,49.287022,-123.05607,hastings sunrise,Low Class,Severe Crime
+450,3256 georgia st e,49.278011,-123.034836,hastings sunrise,Low Class,Severe Crime
+451,2232 renfrew st #1,49.264445,-123.043814,hastings sunrise,Low Class,Severe Crime
+452,3428 adanac st #13,49.2768,-123.030082,hastings sunrise,Low Class,Severe Crime
+453,3576 georgia st e,49.278003,-123.026556,hastings sunrise,Low Class,Severe Crime
+454,3513 triumph st,49.28412,-123.027764,hastings sunrise,Low Class,Severe Crime
+455,215 2889 e 1st avenue,49.269961,-123.044686,hastings sunrise,Low Class,Severe Crime
+456,2551 triumph street,49.284141,-123.053337,hastings sunrise,Low Class,Severe Crime
+457,557 rupert street,49.279434,-123.034049,hastings sunrise,Low Class,Severe Crime
+458,1 1186 kaslo street,49.27444,-123.046474,hastings sunrise,Low Class,Severe Crime
+459,3529 napier street,49.275177,-123.027651,hastings sunrise,Low Class,Severe Crime
+460,3163 e 1st avenue,49.26978,-123.037372,hastings sunrise,Low Class,Severe Crime
+461,2 3260 graveley street,49.270161,-123.034966,hastings sunrise,Low Class,Severe Crime
+462,1 2623 triumph street,49.284139,-123.051262,hastings sunrise,Low Class,Severe Crime
+463,2 2623 triumph street,49.284139,-123.051262,hastings sunrise,Low Class,Severe Crime
+464,3653 eton street,49.287388,-123.024308,hastings sunrise,Low Class,Severe Crime
+465,2 2444 napier street,49.27472,-123.055579,hastings sunrise,Low Class,Severe Crime
+466,3504 1288 west georgia,49.278491,-123.028053,hastings sunrise,Low Class,Severe Crime
+467,210 2408 grant street,49.271044,-123.056147,hastings sunrise,Low Class,Severe Crime
+468,3303 venables street,49.276859,-123.033177,hastings sunrise,Low Class,Severe Crime
+469,3256 e georgia street,49.278011,-123.034836,hastings sunrise,Low Class,Severe Crime
+470,3186 grant street,49.271081,-123.036832,hastings sunrise,Low Class,Severe Crime
+471,2798 yale street,49.29041,-123.047025,hastings sunrise,Low Class,Severe Crime
+472,2528 napier street,49.274736,-123.053896,hastings sunrise,Low Class,Severe Crime
+473,3188 grant street,49.271081,-123.036832,hastings sunrise,Low Class,Severe Crime
+474,3576 e georgia street,49.278003,-123.026556,hastings sunrise,Low Class,Severe Crime
+475,4513 nanaimo st,49.244586,-123.057159,kensington cedar cottage,Low Class,Severe Crime
+476,3945 alice st #2,49.249891,-123.066147,kensington cedar cottage,Low Class,Severe Crime
+477,1363 e 21st ave,49.251446,-123.077023,kensington cedar cottage,Low Class,Severe Crime
+478,4869 lanark st,49.240711,-123.075322,kensington cedar cottage,Low Class,Severe Crime
+479,2236 e 34th ave,49.238649,-123.060743,kensington cedar cottage,Low Class,Severe Crime
+480,4818 knight st,49.241341,-123.075952,kensington cedar cottage,Low Class,Severe Crime
+481,2550 garden dr #605,49.261596,-123.057753,kensington cedar cottage,Low Class,Severe Crime
+482,2550 garden dr #414,49.261596,-123.057753,kensington cedar cottage,Low Class,Severe Crime
+483,1219 e 29th ave,49.24482,-123.079651,kensington cedar cottage,Low Class,Severe Crime
+484,2550 garden dr #203,49.261596,-123.057753,kensington cedar cottage,Low Class,Severe Crime
+485,5595 dumfries st,49.233783,-123.074635,kensington cedar cottage,Low Class,Severe Crime
+486,3018 knight st,49.257463,-123.075921,kensington cedar cottage,Low Class,Severe Crime
+487,1369 e 24th ave,49.249252,-123.07696,kensington cedar cottage,Low Class,Severe Crime
+488,2550 garden dr #302,49.261596,-123.057753,kensington cedar cottage,Low Class,Severe Crime
+489,3225 clark dr,49.255906,-123.078186,kensington cedar cottage,Low Class,Severe Crime
+490,1419 e 27th ave,49.246654,-123.075422,kensington cedar cottage,Low Class,Severe Crime
+491,2277 e 30th ave #309,49.24154,-123.059303,kensington cedar cottage,Low Class,Severe Crime
+492,4559 beatrice st #1,49.243873,-123.066976,kensington cedar cottage,Low Class,Severe Crime
+493,2032 e 22nd ave,49.250008,-123.06413,kensington cedar cottage,Low Class,Severe Crime
+494,1907 e 38th ave,49.235477,-123.067132,kensington cedar cottage,Low Class,Severe Crime
+495,4638 gladstone st #1510,49.242466,-123.062508,kensington cedar cottage,Low Class,Severe Crime
+496,1965 e 37th ave,49.236934,-123.066233,kensington cedar cottage,Low Class,Severe Crime
+497,4078 knight st #523,49.248893,-123.075391,kensington cedar cottage,Low Class,Severe Crime
+498,2119 e 29th ave #1,49.245166,-123.062331,kensington cedar cottage,Low Class,Severe Crime
+499,4652 victoria dr,49.243247,-123.064884,kensington cedar cottage,Low Class,Severe Crime
+500,1417 e 27th ave,49.246662,-123.075282,kensington cedar cottage,Low Class,Severe Crime
+501,2047 mannering ave,49.240907,-123.064039,kensington cedar cottage,Low Class,Severe Crime
+502,760 kingsway #208,49.255851,-123.088796,kensington cedar cottage,Low Class,Severe Crime
+503,1917 e 22nd ave,49.250552,-123.066455,kensington cedar cottage,Low Class,Severe Crime
+504,e 35th ave #1391,49.238207,-123.081391,kensington cedar cottage,Low Class,Severe Crime
+505,3746 inverness st,49.251179,-123.079646,kensington cedar cottage,Low Class,Severe Crime
+506,5266 fraser st,49.237262,-123.090078,kensington cedar cottage,Low Class,Severe Crime
+507,5555 victoria dr #225,49.234005,-123.065906,kensington cedar cottage,Low Class,Severe Crime
+508,1559 e 41st ave,49.232936,-123.073512,kensington cedar cottage,Low Class,Severe Crime
+509,5187 culloden st,49.237759,-123.079439,kensington cedar cottage,Low Class,Severe Crime
+510,2550 garden dr #111,49.261596,-123.057753,kensington cedar cottage,Low Class,Severe Crime
+511,2293 e 37th ave,49.23706,-123.059199,kensington cedar cottage,Low Class,Severe Crime
+512,4341 elgin st,49.246121,-123.083083,kensington cedar cottage,Low Class,Severe Crime
+513,3649 prince albert st,49.252,-123.087998,kensington cedar cottage,Low Class,Severe Crime
+514,850 e 38th ave,49.235374,-123.087213,kensington cedar cottage,Low Class,Severe Crime
+515,1425 e 27th ave,49.246091,-123.075387,kensington cedar cottage,Low Class,Severe Crime
+516,1349 e 14th ave,49.258053,-123.076418,kensington cedar cottage,Low Class,Severe Crime
+517,3557 marshall st,49.252214,-123.063015,kensington cedar cottage,Low Class,Severe Crime
+518,1712 e 34th ave,49.239055,-123.070827,kensington cedar cottage,Low Class,Severe Crime
+519,4955 somerville st,49.239699,-123.086055,kensington cedar cottage,Low Class,Severe Crime
+520,3315 knight st,49.255054,-123.076285,kensington cedar cottage,Low Class,Severe Crime
+521,1895 e 39th ave,49.234713,-123.067314,kensington cedar cottage,Low Class,Severe Crime
+522,512 2220 kingsway street,49.242804,-123.061615,kensington cedar cottage,Low Class,Severe Crime
+523,1 1809 e 15th avenue,49.257088,-123.067721,kensington cedar cottage,Low Class,Severe Crime
+524,319 760 kingsway street,49.255851,-123.088796,kensington cedar cottage,Low Class,Severe Crime
+525,2 2260 e 25th avenue,49.24791,-123.059213,kensington cedar cottage,Low Class,Severe Crime
+526,ph1 979 e 19th avenue,49.253808,-123.084263,kensington cedar cottage,Low Class,Severe Crime
+527,309 2277 e 30th avenue,49.24154,-123.059303,kensington cedar cottage,Low Class,Severe Crime
+528,2061 e 41st avenue,49.233173,-123.064297,kensington cedar cottage,Low Class,Severe Crime
+529,1555 e 21st avenue,49.251893,-123.072681,kensington cedar cottage,Low Class,Severe Crime
+530,2293 e 37th avenue,49.23706,-123.059199,kensington cedar cottage,Low Class,Severe Crime
+531,1389 e 39th avenue,49.23492,-123.077373,kensington cedar cottage,Low Class,Severe Crime
+532,2216 e 38th avenue,49.235629,-123.061358,kensington cedar cottage,Low Class,Severe Crime
+533,1 1322 13th avenue,49.258966,-123.076979,kensington cedar cottage,Low Class,Severe Crime
+534,5306 culloden street,49.236371,-123.077923,kensington cedar cottage,Low Class,Severe Crime
+535,2 1322 13th avenue,49.258966,-123.076979,kensington cedar cottage,Low Class,Severe Crime
+536,2033 e 35th avenue,49.238349,-123.064563,kensington cedar cottage,Low Class,Severe Crime
+537,2035 e 35th avenue,49.238349,-123.064563,kensington cedar cottage,Low Class,Severe Crime
+538,5352 lanark street,49.236079,-123.075146,kensington cedar cottage,Low Class,Severe Crime
+539,2 1328 e 35th avenue,49.238304,-123.07845,kensington cedar cottage,Low Class,Severe Crime
+540,1 2260 e 25th avenue,49.24791,-123.059213,kensington cedar cottage,Low Class,Severe Crime
+541,1 1328 e 35th avenue,49.238304,-123.07845,kensington cedar cottage,Low Class,Severe Crime
+542,1112 e 21st avenue,49.251505,-123.081413,kensington cedar cottage,Low Class,Severe Crime
+543,109 1855 stainsbury avenue,49.251416,-123.064806,kensington cedar cottage,Low Class,Severe Crime
+544,1362 e 17th avenue,49.255063,-123.076684,kensington cedar cottage,Low Class,Severe Crime
+545,1136 e 26th avenue,49.247468,-123.081513,kensington cedar cottage,Low Class,Severe Crime
+546,2 1019 e 39th avenue,49.234971,-123.084294,kensington cedar cottage,Low Class,Severe Crime
+547,3315 knight street,49.255054,-123.076285,kensington cedar cottage,Low Class,Severe Crime
+548,1206 e 22nd avenue,49.250588,-123.079709,kensington cedar cottage,Low Class,Severe Crime
+549,1479 e king edward avenue,49.248251,-123.073835,kensington cedar cottage,Low Class,Severe Crime
+550,225 5555 victoria drive,49.234005,-123.065906,kensington cedar cottage,Low Class,Severe Crime
+551,2106 sw marine dr,49.214789,-123.15583,kerrisdale,High Class,Moderate Crime
+552,2870 sw marine dr,49.225986,-123.170995,kerrisdale,High Class,Moderate Crime
+553,8258 tugboat pl,49.210799,-123.153303,kerrisdale,High Class,Moderate Crime
+554,1925 sw marine dr,49.211681,-123.15033,kerrisdale,High Class,Moderate Crime
+555,7021 prescott st,49.222454,-123.177956,kerrisdale,High Class,Moderate Crime
+556,8083 angus dr,49.212693,-123.14893,kerrisdale,High Class,Moderate Crime
+557,7450 balaclava st,49.218032,-123.175623,kerrisdale,High Class,Moderate Crime
+558,3070 w 44th ave,49.231635,-123.174173,kerrisdale,High Class,Moderate Crime
+559,5788 vine st #206,49.233908,-123.159569,kerrisdale,High Class,Moderate Crime
+560,1501 atlas ln,49.220484,-123.141817,kerrisdale,High Class,Moderate Crime
+561,5755 angus dr,49.234042,-123.148231,kerrisdale,High Class,Moderate Crime
+562,6011 adera st,49.231498,-123.143836,kerrisdale,High Class,Moderate Crime
+563,5912 churchill st,49.232287,-123.141009,kerrisdale,High Class,Moderate Crime
+564,6011 macdonald st,49.231692,-123.167833,kerrisdale,High Class,Moderate Crime
+565,2843 w 44th ave,49.232135,-123.168845,kerrisdale,High Class,Moderate Crime
+566,6210 larch st,49.230031,-123.16252,kerrisdale,High Class,Moderate Crime
+567,6836 arbutus st,49.22343,-123.154671,kerrisdale,High Class,Moderate Crime
+568,6076 angus dr,49.231128,-123.147432,kerrisdale,High Class,Moderate Crime
+569,6299 angus dr,49.229058,-123.148374,kerrisdale,High Class,Moderate Crime
+570,6388 wiltshire st,49.228099,-123.146082,kerrisdale,High Class,Moderate Crime
+571,5723 balsam st penthouse 1,49.234394,-123.16177,kerrisdale,High Class,Moderate Crime
+572,5961 churchill st,49.23189,-123.142042,kerrisdale,High Class,Moderate Crime
+573,6615 balsam st,49.226012,-123.161976,kerrisdale,High Class,Moderate Crime
+574,6188 adera st,49.229828,-123.142947,kerrisdale,High Class,Moderate Crime
+575,2250 w 43rd ave #203,49.232514,-123.159518,kerrisdale,High Class,Moderate Crime
+576,6038 marguerite st,49.231293,-123.14444,kerrisdale,High Class,Moderate Crime
+577,6975 prescott st,49.222857,-123.17812,kerrisdale,High Class,Moderate Crime
+578,6262 angus dr,49.229273,-123.147476,kerrisdale,High Class,Moderate Crime
+579,6926 blenheim st,49.223172,-123.178516,kerrisdale,High Class,Moderate Crime
+580,6485 adera street,49.227299,-123.143927,kerrisdale,High Class,Moderate Crime
+581,6011 macdonald street,49.231692,-123.167833,kerrisdale,High Class,Moderate Crime
+582,209 2102 w 48th avenue,49.227453,-123.155893,kerrisdale,High Class,Moderate Crime
+583,6261 adera street,49.229214,-123.14392,kerrisdale,High Class,Moderate Crime
+584,2025 sw marine drive,49.213441,-123.152077,kerrisdale,High Class,Moderate Crime
+585,5755 angus drive,49.234042,-123.148231,kerrisdale,High Class,Moderate Crime
+586,6210 larch street,49.230031,-123.16252,kerrisdale,High Class,Moderate Crime
+587,2 2138 w 48th avenue,49.227865,-123.157185,kerrisdale,High Class,Moderate Crime
+588,2043 w 45th avenue,49.231092,-123.153254,kerrisdale,High Class,Moderate Crime
+589,206 5788 vine street,49.233908,-123.159569,kerrisdale,High Class,Moderate Crime
+590,612 7228 adera street,49.220721,-123.143419,kerrisdale,High Class,Moderate Crime
+591,8258 tugboat place,49.210799,-123.153303,kerrisdale,High Class,Moderate Crime
+592,509 2105 w 46th avenue,49.230383,-123.156123,kerrisdale,High Class,Moderate Crime
+593,508 2105 w 46th avenue,49.230383,-123.156123,kerrisdale,High Class,Moderate Crime
+594,3462 dartmoor pl,49.210305,-123.028942,killarney,Low Class,Severe Crime
+595,3337 flagstaff pl,49.211569,-123.031929,killarney,Low Class,Severe Crime
+596,3437 e 49th ave #80,49.224224,-123.031028,killarney,Low Class,Severe Crime
+597,6511 chambord pl #40,49.223979,-123.025559,killarney,Low Class,Severe Crime
+598,3061 e kent ave n #1205,49.207247,-123.044585,killarney,Low Class,Severe Crime
+599,2658 morningstar cres #17,49.206541,-123.0541,killarney,Low Class,Severe Crime
+600,3138 riverwalk ave #312,49.205651,-123.040863,killarney,Low Class,Severe Crime
+601,8410 cornerstone st,49.207854,-123.033394,killarney,Low Class,Severe Crime
+602,5884 ormidale st,49.230522,-123.024647,killarney,Low Class,Severe Crime
+603,3133 riverwalk ave #318,49.206257,-123.040733,killarney,Low Class,Severe Crime
+604,3438 sawmill cres #319,49.205784,-123.032766,killarney,Low Class,Severe Crime
+605,3689 borham cres,49.216123,-123.024749,killarney,Low Class,Severe Crime
+606,3204 coleridge ave,49.225992,-123.038514,killarney,Low Class,Severe Crime
+607,2549 e kent ave n,49.206175,-123.055214,killarney,Low Class,Severe Crime
+608,3364 marquette cres #439,49.212937,-123.031175,killarney,Low Class,Severe Crime
+609,3588 sawmill cres #101,49.206218,-123.02787,killarney,Low Class,Severe Crime
+610,1207 8533 river district crossing,49.20489,-123.031289,killarney,Low Class,Severe Crime
+611,6810 arlington street,49.221347,-123.030206,killarney,Low Class,Severe Crime
+612,210 3198 riverwalk avenue,49.205405,-123.03914,killarney,Low Class,Severe Crime
+613,808 8570 rivergrass drive,49.205371,-123.029248,killarney,Low Class,Severe Crime
+614,521 3438 sawmill crescent,49.205784,-123.032766,killarney,Low Class,Severe Crime
+615,2 3320 e 44th avenue,49.229808,-123.034038,killarney,Low Class,Severe Crime
+616,3224 marmion avenue,49.231313,-123.036689,killarney,Low Class,Severe Crime
+617,920 3557 sawmill crescent,49.205837,-123.028152,killarney,Low Class,Severe Crime
+618,6908 dawson street,49.221078,-123.048547,killarney,Low Class,Severe Crime
+619,2905 rosemont drive,49.217542,-123.046758,killarney,Low Class,Severe Crime
+620,504 3438 sawmill crescent,49.205784,-123.032766,killarney,Low Class,Severe Crime
+621,7137 camano street,49.219273,-123.0253,killarney,Low Class,Severe Crime
+622,408 3451 sawmill crescent,49.205837,-123.028152,killarney,Low Class,Severe Crime
+623,1309 3430 e kent avenue south,49.204897,-123.033371,killarney,Low Class,Severe Crime
+624,319 3438 sawmill crescent,49.205784,-123.032766,killarney,Low Class,Severe Crime
+625,3440 broadway w #126,49.264012,-123.180766,kitsilano,Moderate Class,Minor Crime
+626,2478 w 5th ave,49.267165,-123.161621,kitsilano,Moderate Class,Minor Crime
+627,2711 point grey rd,49.272416,-123.166684,kitsilano,Moderate Class,Minor Crime
+628,1675 larch st,49.271174,-123.162392,kitsilano,Moderate Class,Minor Crime
+629,1510 w 1st ave #305,49.270682,-123.146084,kitsilano,Moderate Class,Minor Crime
+630,86 creelman ave #2078,49.274486,-123.14967,kitsilano,Moderate Class,Minor Crime
+631,2612 balaclava st,49.263105,-123.173703,kitsilano,Moderate Class,Minor Crime
+632,2850 mackenzie st,49.260838,-123.169951,kitsilano,Moderate Class,Minor Crime
+633,1465 walnut st,49.272706,-123.149237,kitsilano,Moderate Class,Minor Crime
+634,2453 w 10th ave,49.263248,-123.161373,kitsilano,Moderate Class,Minor Crime
+635,1915 w 13th ave,49.259723,-123.148738,kitsilano,Moderate Class,Minor Crime
+636,1415 walnut st,49.273246,-123.149335,kitsilano,Moderate Class,Minor Crime
+637,2025 w 2nd ave #201,49.270112,-123.151099,kitsilano,Moderate Class,Minor Crime
+638,2765 w 15th ave,49.258911,-123.167736,kitsilano,Moderate Class,Minor Crime
+639,2057 w 3rd ave #penthouse 3,49.26924,-123.151753,kitsilano,Moderate Class,Minor Crime
+640,1817 w 15th ave,49.258381,-123.146445,kitsilano,Moderate Class,Minor Crime
+641,2025 stephens st #201,49.268069,-123.16671,kitsilano,Moderate Class,Minor Crime
+642,3220 w 4th ave #303,49.268211,-123.176302,kitsilano,Moderate Class,Minor Crime
+643,2618 w 15th ave,49.258348,-123.165387,kitsilano,Moderate Class,Minor Crime
+644,2190 w 7th ave #111,49.265347,-123.154679,kitsilano,Moderate Class,Minor Crime
+645,2437 w 1st ave #1,49.271146,-123.160658,kitsilano,Moderate Class,Minor Crime
+646,1782 w 6th ave,49.266351,-123.148513,kitsilano,Moderate Class,Minor Crime
+647,2596 w 14th ave,49.259056,-123.164641,kitsilano,Moderate Class,Minor Crime
+648,2528 maple st #407,49.263465,-123.149961,kitsilano,Moderate Class,Minor Crime
+649,2033 w 7th ave #306,49.265839,-123.151582,kitsilano,Moderate Class,Minor Crime
+650,1824 w 12th ave,49.260618,-123.146536,kitsilano,Moderate Class,Minor Crime
+651,2268 w 12th ave #102,49.260777,-123.156593,kitsilano,Moderate Class,Minor Crime
+652,3161 w 4th ave #205,49.268705,-123.174915,kitsilano,Moderate Class,Minor Crime
+653,1959 w 15th ave,49.25788,-123.149851,kitsilano,Moderate Class,Minor Crime
+654,2645 w 6th ave,49.266824,-123.16538,kitsilano,Moderate Class,Minor Crime
+655,2033 w 7th ave #305,49.265839,-123.151582,kitsilano,Moderate Class,Minor Crime
+656,2311 w 8th ave,49.265068,-123.158095,kitsilano,Moderate Class,Minor Crime
+657,2415 w 6th ave,49.266274,-123.16041,kitsilano,Moderate Class,Minor Crime
+658,1902 blenheim st,49.269223,-123.177348,kitsilano,Moderate Class,Minor Crime
+659,3449 w 7th ave,49.265744,-123.180899,kitsilano,Moderate Class,Minor Crime
+660,2783 w 8th ave,49.265184,-123.168051,kitsilano,Moderate Class,Minor Crime
+661,2433 broadway w,49.26424,-123.160905,kitsilano,Moderate Class,Minor Crime
+662,3132 w 7th ave,49.265614,-123.174671,kitsilano,Moderate Class,Minor Crime
+663,2121 w 6th ave #215,49.266657,-123.153534,kitsilano,Moderate Class,Minor Crime
+664,1937 creelman ave,49.274723,-123.148637,kitsilano,Moderate Class,Minor Crime
+665,2450 cornwall ave #205,49.272411,-123.161207,kitsilano,Moderate Class,Minor Crime
+666,3628 w 5th ave,49.26745,-123.184331,kitsilano,Moderate Class,Minor Crime
+667,1728 cypress st,49.270202,-123.148145,kitsilano,Moderate Class,Minor Crime
+668,2959 w 16th ave,49.258061,-123.171668,kitsilano,Moderate Class,Minor Crime
+669,1133 cypress st,49.275969,-123.147889,kitsilano,Moderate Class,Minor Crime
+670,2658 waterloo st,49.262836,-123.179458,kitsilano,Moderate Class,Minor Crime
+671,2545 broadway w #216,49.264294,-123.163584,kitsilano,Moderate Class,Minor Crime
+672,2811 w 12th ave,49.261638,-123.168606,kitsilano,Moderate Class,Minor Crime
+673,2365 w 3rd ave #301,49.269357,-123.159169,kitsilano,Moderate Class,Minor Crime
+674,3132 maple st,49.257641,-123.15101,kitsilano,Moderate Class,Minor Crime
+675,1344 laburnum st,49.274001,-123.151118,kitsilano,Moderate Class,Minor Crime
+676,412 2528 maple street,49.263465,-123.149961,kitsilano,Moderate Class,Minor Crime
+677,2783 w 8th avenue,49.265184,-123.168051,kitsilano,Moderate Class,Minor Crime
+678,1728 cypress street,49.270202,-123.148145,kitsilano,Moderate Class,Minor Crime
+679,2026 w 14th avenue,49.258839,-123.151437,kitsilano,Moderate Class,Minor Crime
+680,2453 w 10th avenue,49.263248,-123.161373,kitsilano,Moderate Class,Minor Crime
+681,1 3165 w 14th avenue,49.259926,-123.175365,kitsilano,Moderate Class,Minor Crime
+682,201 2025 stephens street,49.268069,-123.16671,kitsilano,Moderate Class,Minor Crime
+683,205 3161 w 4th avenue,49.268705,-123.174915,kitsilano,Moderate Class,Minor Crime
+684,2727 w 7th avenue,49.26552,-123.167185,kitsilano,Moderate Class,Minor Crime
+685,2721 w 7th avenue,49.266019,-123.167095,kitsilano,Moderate Class,Minor Crime
+686,2335 w 8th avenue,49.265074,-123.158514,kitsilano,Moderate Class,Minor Crime
+687,2325 w 8th avenue,49.26507,-123.158304,kitsilano,Moderate Class,Minor Crime
+688,2325/35 w 8th avenue,49.26507,-123.158304,kitsilano,Moderate Class,Minor Crime
+689,1344 laburnum street,49.274001,-123.151118,kitsilano,Moderate Class,Minor Crime
+690,1346 laburnum street,49.274001,-123.151118,kitsilano,Moderate Class,Minor Crime
+691,2959 w 16 avenue,49.258061,-123.171668,kitsilano,Moderate Class,Minor Crime
+692,302 2080 maple street,49.267488,-123.149955,kitsilano,Moderate Class,Minor Crime
+693,213 1424 walnut street,49.273117,-123.148713,kitsilano,Moderate Class,Minor Crime
+694,1675 larch street,49.271174,-123.162392,kitsilano,Moderate Class,Minor Crime
+695,1824 w 12th avenue,49.260618,-123.146536,kitsilano,Moderate Class,Minor Crime
+696,216 2545 w broadway,49.264294,-123.163584,kitsilano,Moderate Class,Minor Crime
+697,2770 w 5th avenue,49.267215,-123.167706,kitsilano,Moderate Class,Minor Crime
+698,200 2033 w 7th avenue,49.265839,-123.151582,kitsilano,Moderate Class,Minor Crime
+699,104 1933 w 5th avenue,49.267493,-123.148843,kitsilano,Moderate Class,Minor Crime
+700,303 2450 cornwall avenue,49.272411,-123.161207,kitsilano,Moderate Class,Minor Crime
+701,b 3538 w 14th avenue,49.259539,-123.183064,kitsilano,Moderate Class,Minor Crime
+702,2171 maple street,49.266651,-123.150738,kitsilano,Moderate Class,Minor Crime
+703,103 2256 w 7th avenue,49.265371,-123.156541,kitsilano,Moderate Class,Minor Crime
+704,303 3220 w 4th avenue,49.268211,-123.176302,kitsilano,Moderate Class,Minor Crime
+705,2850 mackenzie street,49.260838,-123.169951,kitsilano,Moderate Class,Minor Crime
+706,3132 maple street,49.257641,-123.15101,kitsilano,Moderate Class,Minor Crime
+707,8588 cornish st #1105,49.208948,-123.141934,marpole,Low Class,Minor Crime
+708,8988 hudson st #116,49.20355,-123.134225,marpole,Low Class,Minor Crime
+709,8555 granville st #2108,49.209294,-123.141287,marpole,Low Class,Minor Crime
+710,7428 alberta st #304,49.217347,-123.112657,marpole,Low Class,Minor Crime
+711,845 w 67th ave,49.210871,-123.125486,marpole,Low Class,Minor Crime
+712,455 sw marine dr #2006,49.211163,-123.115988,marpole,Low Class,Minor Crime
+713,7638 cambie st #103,49.215572,-123.116344,marpole,Low Class,Minor Crime
+714,477 w 59th ave #202,49.217183,-123.115644,marpole,Low Class,Minor Crime
+715,7303 granville st,49.218971,-123.139713,marpole,Low Class,Minor Crime
+716,7418 paulson st #903,49.217659,-123.119322,marpole,Low Class,Minor Crime
+717,8131 nunavut ln #2502,49.211335,-123.116532,marpole,Low Class,Minor Crime
+718,8283 heather st,49.210851,-123.124327,marpole,Low Class,Minor Crime
+719,8488 cornish st #619,49.208889,-123.141934,marpole,Low Class,Minor Crime
+720,8645 osler st #301,49.207578,-123.1322,marpole,Low Class,Minor Crime
+721,455 sw marine dr #1005,49.211163,-123.115988,marpole,Low Class,Minor Crime
+722,1328 w 73rd ave #8,49.204077,-123.135596,marpole,Low Class,Minor Crime
+723,260 w 63rd ave,49.213139,-123.111568,marpole,Low Class,Minor Crime
+724,1718 w 61st ave,49.215709,-123.146443,marpole,Low Class,Minor Crime
+725,156 w 62nd ave,49.213981,-123.109152,marpole,Low Class,Minor Crime
+726,1386 w 73rd ave #102,49.204706,-123.137817,marpole,Low Class,Minor Crime
+727,1649 w 69th ave,49.209824,-123.145369,marpole,Low Class,Minor Crime
+728,1573 w 66th avenue,49.211654,-123.142838,marpole,Low Class,Minor Crime
+729,1688 w 61st avenue,49.2157,-123.145815,marpole,Low Class,Minor Crime
+730,1109 8189 cambie street,49.210128,-123.118339,marpole,Low Class,Minor Crime
+731,1104 489 interurban way,49.209367,-123.115944,marpole,Low Class,Minor Crime
+732,1516 w 61st avenue,49.216157,-123.141098,marpole,Low Class,Minor Crime
+733,2501 7433 cambie street,49.217389,-123.117849,marpole,Low Class,Minor Crime
+734,1101 433 sw marine drive,49.203785,-123.13158,marpole,Low Class,Minor Crime
+735,108 7520 columbia street,49.216088,-123.111695,marpole,Low Class,Minor Crime
+736,202 8680 fremlin street,49.207229,-123.1273,marpole,Low Class,Minor Crime
+737,108 8622 selkirk street,49.208143,-123.132918,marpole,Low Class,Minor Crime
+738,3003 8131 nunavut lane,49.211335,-123.116532,marpole,Low Class,Minor Crime
+739,7789 birch street,49.215209,-123.136627,marpole,Low Class,Minor Crime
+740,304 7428 alberta street,49.217347,-123.112657,marpole,Low Class,Minor Crime
+741,103 7638 cambie street,49.215572,-123.116344,marpole,Low Class,Minor Crime
+742,2502 8131 nunavut lane,49.211335,-123.116532,marpole,Low Class,Minor Crime
+743,1718 w 61st avenue,49.215709,-123.146443,marpole,Low Class,Minor Crime
+744,156 w 62nd avenue,49.213981,-123.109152,marpole,Low Class,Minor Crime
+745,202 477 w 59th avenue,49.217183,-123.115644,marpole,Low Class,Minor Crime
+746,159 w 2nd ave #2/503,49.269571,-123.108504,mount pleasant,Moderate Class,Minor Crime
+747,250 e 6th ave #809,49.265226,-123.100379,mount pleasant,Moderate Class,Minor Crime
+748,540 e 11th ave,49.260377,-123.091996,mount pleasant,Moderate Class,Minor Crime
+749,209 e 7th ave #501,49.264857,-123.100405,mount pleasant,Moderate Class,Minor Crime
+750,289 e 6th ave #512,49.265741,-123.099417,mount pleasant,Moderate Class,Minor Crime
+751,616 e 10th ave,49.261269,-123.090603,mount pleasant,Moderate Class,Minor Crime
+752,110 switchmen st #1707,49.270809,-123.101516,mount pleasant,Moderate Class,Minor Crime
+753,250 e 6th ave #451,49.265226,-123.100379,mount pleasant,Moderate Class,Minor Crime
+754,195 w 12th ave,49.260583,-123.109316,mount pleasant,Moderate Class,Minor Crime
+755,1048 e 7th ave #3a,49.264003,-123.082144,mount pleasant,Moderate Class,Minor Crime
+756,239 w 16th ave,49.257072,-123.110548,mount pleasant,Moderate Class,Minor Crime
+757,45 w 15th ave,49.257827,-123.106234,mount pleasant,Moderate Class,Minor Crime
+758,371 e 16th ave,49.256801,-123.096832,mount pleasant,Moderate Class,Minor Crime
+759,356 w 15th ave #2,49.2575,-123.112465,mount pleasant,Moderate Class,Minor Crime
+760,2888 cambie st #702,49.259754,-123.114732,mount pleasant,Moderate Class,Minor Crime
+761,180 e 2nd ave #1012,49.268674,-123.101202,mount pleasant,Moderate Class,Minor Crime
+762,39 w 12th ave,49.260551,-123.105971,mount pleasant,Moderate Class,Minor Crime
+763,63 w 13th ave,49.25965,-123.106526,mount pleasant,Moderate Class,Minor Crime
+764,1775 quebec st #607,49.269514,-123.103314,mount pleasant,Moderate Class,Minor Crime
+765,830 e 7th ave #211,49.26404,-123.086412,mount pleasant,Moderate Class,Minor Crime
+766,311 e 6th ave #405,49.265607,-123.098523,mount pleasant,Moderate Class,Minor Crime
+767,445 w 2nd ave #townhouse 101,49.266828,-123.113794,mount pleasant,Moderate Class,Minor Crime
+768,1136 e 10th ave,49.261189,-123.08052,mount pleasant,Moderate Class,Minor Crime
+769,2112 prince edward st,49.265872,-123.095414,mount pleasant,Moderate Class,Minor Crime
+770,2239 saint catherines st #301,49.264578,-123.085505,mount pleasant,Moderate Class,Minor Crime
+771,830 e 7th ave #111,49.26404,-123.086412,mount pleasant,Moderate Class,Minor Crime
+772,88 w 1st ave #602,49.270596,-123.106408,mount pleasant,Moderate Class,Minor Crime
+773,2731 sophia st,49.260314,-123.097529,mount pleasant,Moderate Class,Minor Crime
+774,3199 saint george st,49.256755,-123.094078,mount pleasant,Moderate Class,Minor Crime
+775,1166 e 11th ave #1,49.260284,-123.079823,mount pleasant,Moderate Class,Minor Crime
+776,464 e 12th ave,49.25948,-123.093791,mount pleasant,Moderate Class,Minor Crime
+777,528 e 12th ave,49.259483,-123.092331,mount pleasant,Moderate Class,Minor Crime
+778,2316 prince albert st,49.264002,-123.086872,mount pleasant,Moderate Class,Minor Crime
+779,888 e 12th ave,49.25942,-123.085662,mount pleasant,Moderate Class,Minor Crime
+780,830 e 14th ave,49.25763,-123.086523,mount pleasant,Moderate Class,Minor Crime
+781,827 e 16th ave,49.256569,-123.086848,mount pleasant,Moderate Class,Minor Crime
+782,2817 clark dr #201,49.259353,-123.077979,mount pleasant,Moderate Class,Minor Crime
+783,302 379 e broadway,49.262994,-123.096474,mount pleasant,Moderate Class,Minor Crime
+784,217 678 w 7th avenue,49.265018,-123.110122,mount pleasant,Moderate Class,Minor Crime
+785,540 e 11th avenue,49.260377,-123.091996,mount pleasant,Moderate Class,Minor Crime
+786,1 1166 e 11th avenue,49.260284,-123.079823,mount pleasant,Moderate Class,Minor Crime
+787,1718 1618 quebec street,49.271542,-123.1015,mount pleasant,Moderate Class,Minor Crime
+788,319 2377 e 11th avenue,49.26103,-123.111724,mount pleasant,Moderate Class,Minor Crime
+789,403 2377 e 11th avenue,49.260926,-123.095549,mount pleasant,Moderate Class,Minor Crime
+790,106 2377 e 11th avenue,49.260868,-123.103296,mount pleasant,Moderate Class,Minor Crime
+791,309 2377 e 11th avenue,49.260799,-123.09801,mount pleasant,Moderate Class,Minor Crime
+792,311 2520 guelph street,49.262215,-123.094458,mount pleasant,Moderate Class,Minor Crime
+793,501 209 e 7th avenue,49.264857,-123.100405,mount pleasant,Moderate Class,Minor Crime
+794,1161 e 11th avenue,49.260807,-123.080088,mount pleasant,Moderate Class,Minor Crime
+795,153 2230 e 1st avenue,49.270484,-123.102109,mount pleasant,Moderate Class,Minor Crime
+796,1219 1768 cook street,49.269664,-123.109934,mount pleasant,Moderate Class,Minor Crime
+797,105 205 e 10th avenue,49.262278,-123.100641,mount pleasant,Moderate Class,Minor Crime
+798,923-925 e broadway,49.26273,-123.084629,mount pleasant,Moderate Class,Minor Crime
+799,371 e 16th avenue,49.256801,-123.096832,mount pleasant,Moderate Class,Minor Crime
+800,18 e 1st avenue,49.269926,-123.104176,mount pleasant,Moderate Class,Minor Crime
+801,1202 1788 ontario street,49.269533,-123.104232,mount pleasant,Moderate Class,Minor Crime
+802,903 1678 pullman porter street,49.270746,-123.103739,mount pleasant,Moderate Class,Minor Crime
+803,1010 38 w 1st avenue,49.26994,-123.105572,mount pleasant,Moderate Class,Minor Crime
+804,806 298 e 11 avenue,49.260833,-123.098885,mount pleasant,Moderate Class,Minor Crime
+805,802 123 w 1st avenue,49.270787,-123.107603,mount pleasant,Moderate Class,Minor Crime
+806,409 210 e 5th avenue,49.266061,-123.100355,mount pleasant,Moderate Class,Minor Crime
+807,411 298 e 11th avenue,49.260833,-123.098885,mount pleasant,Moderate Class,Minor Crime
+808,460 e 5th avenue,49.265884,-123.093391,mount pleasant,Moderate Class,Minor Crime
+809,1504 1775 quebec street,49.269514,-123.103314,mount pleasant,Moderate Class,Minor Crime
+810,405 288 e 8th avenue,49.263313,-123.09931,mount pleasant,Moderate Class,Minor Crime
+811,101 830 e 7th avenue,49.26404,-123.086412,mount pleasant,Moderate Class,Minor Crime
+812,309 285 e 10th avenue,49.262275,-123.099907,mount pleasant,Moderate Class,Minor Crime
+813,101 710 e 6th avenue,49.264962,-123.088729,mount pleasant,Moderate Class,Minor Crime
+814,204 975 e broadway,49.262724,-123.083955,mount pleasant,Moderate Class,Minor Crime
+815,1701 1708 ontario street,49.269924,-123.104139,mount pleasant,Moderate Class,Minor Crime
+816,403 2055 yukon street,49.267088,-123.113233,mount pleasant,Moderate Class,Minor Crime
+817,408 480 16th avenue,49.257139,-123.114427,mount pleasant,Moderate Class,Minor Crime
+818,103 1040 e broadway avenue,49.262105,-123.08251,mount pleasant,Moderate Class,Minor Crime
+819,2326 windsor street,49.264013,-123.083002,mount pleasant,Moderate Class,Minor Crime
+820,2731 sophia street,49.260314,-123.097529,mount pleasant,Moderate Class,Minor Crime
+821,1188 w 55th ave,49.220119,-123.132186,oakridge,Moderate Class,Moderate Crime
+822,1332 w 51st ave,49.22465,-123.135958,oakridge,Moderate Class,Moderate Crime
+823,1196 w 48th ave,49.227388,-123.133219,oakridge,Moderate Class,Moderate Crime
+824,6010 granville st,49.231439,-123.139215,oakridge,Moderate Class,Moderate Crime
+825,1198 w 55th ave,49.220129,-123.133097,oakridge,Moderate Class,Moderate Crime
+826,6076 tisdall st #605,49.230352,-123.121141,oakridge,Moderate Class,Moderate Crime
+827,185 w 45th ave,49.229855,-123.110477,oakridge,Moderate Class,Moderate Crime
+828,988 w 54th ave #203,49.221676,-123.137879,oakridge,Moderate Class,Moderate Crime
+829,7123 selkirk st,49.221187,-123.133918,oakridge,Moderate Class,Moderate Crime
+830,688 fairchild rd #204,49.230828,-123.120572,oakridge,Moderate Class,Moderate Crime
+831,1238 w 45th ave,49.230128,-123.133482,oakridge,Moderate Class,Moderate Crime
+832,1332 w 47th ave,49.228392,-123.135827,oakridge,Moderate Class,Moderate Crime
+833,1055 w 57th ave,49.219579,-123.130073,oakridge,Moderate Class,Moderate Crime
+834,7232 granville street,49.220342,-123.139696,oakridge,Moderate Class,Moderate Crime
+835,6789 cambie street,49.223577,-123.117208,oakridge,Moderate Class,Moderate Crime
+836,1188 w 55th avenue,49.220119,-123.132186,oakridge,Moderate Class,Moderate Crime
+837,6926 tisdall street,49.222376,-123.120409,oakridge,Moderate Class,Moderate Crime
+838,950 w 43rd avenue,49.230825,-123.130458,oakridge,Moderate Class,Moderate Crime
+839,1426 w 48th avenue,49.227561,-123.138059,oakridge,Moderate Class,Moderate Crime
+840,328 wethersfield drive,49.224606,-123.11404,oakridge,Moderate Class,Moderate Crime
+841,411 5733 alberta street,49.233114,-123.113905,oakridge,Moderate Class,Moderate Crime
+842,123 1010 w 47th avenue,49.227952,-123.108976,oakridge,Moderate Class,Moderate Crime
+843,141 1014 w 47th avenue,49.227961,-123.109528,oakridge,Moderate Class,Moderate Crime
+844,1332 w 47th avenue,49.228392,-123.135827,oakridge,Moderate Class,Moderate Crime
+845,920 w 49th avenue,49.226201,-123.127287,oakridge,Moderate Class,Moderate Crime
+846,1 1456 w 45th avenue,49.230317,-123.138647,oakridge,Moderate Class,Moderate Crime
+847,3625 monmouth ave,49.23952,-123.02554,renfrew collingwood,Low Class,Minor Crime
+848,2768 e 25th ave,49.247673,-123.047995,renfrew collingwood,Low Class,Minor Crime
+849,3987 rupert st,49.248973,-123.034214,renfrew collingwood,Low Class,Minor Crime
+850,2731 duke st,49.239163,-123.049351,renfrew collingwood,Low Class,Minor Crime
+851,4990 mcgeer st #315,49.239521,-123.032816,renfrew collingwood,Low Class,Minor Crime
+852,2699 duke st,49.239447,-123.050058,renfrew collingwood,Low Class,Minor Crime
+853,3126 e 17th ave,49.254518,-123.038276,renfrew collingwood,Low Class,Minor Crime
+854,2693 duke st,49.239447,-123.050058,renfrew collingwood,Low Class,Minor Crime
+855,2549 e 16th ave,49.25597,-123.054291,renfrew collingwood,Low Class,Minor Crime
+856,3661 e 27th ave,49.246432,-123.024918,renfrew collingwood,Low Class,Minor Crime
+857,2632 nanaimo st,49.260614,-123.056207,renfrew collingwood,Low Class,Minor Crime
+858,4573 slocan st #201,49.243776,-123.050776,renfrew collingwood,Low Class,Minor Crime
+859,4815 eldorado mews #2401,49.241221,-123.057581,renfrew collingwood,Low Class,Minor Crime
+860,5288 melbourne st #1205,49.234589,-123.028988,renfrew collingwood,Low Class,Minor Crime
+861,5665 boundary rd #2807,49.233386,-123.024471,renfrew collingwood,Low Class,Minor Crime
+862,5288 melbourne st #1905,49.234589,-123.028988,renfrew collingwood,Low Class,Minor Crime
+863,5380 oben st #1609,49.235142,-123.026165,renfrew collingwood,Low Class,Minor Crime
+864,4863 rupert st,49.240586,-123.038292,renfrew collingwood,Low Class,Minor Crime
+865,2891 e 19th ave,49.25343,-123.045223,renfrew collingwood,Low Class,Minor Crime
+866,4465 skeena st,49.244847,-123.028936,renfrew collingwood,Low Class,Minor Crime
+867,2707 e 26th ave,49.247327,-123.048814,renfrew collingwood,Low Class,Minor Crime
+868,5189 gaston st #1303,49.236997,-123.030296,renfrew collingwood,Low Class,Minor Crime
+869,2729 ward st,49.23942,-123.049016,renfrew collingwood,Low Class,Minor Crime
+870,4390 kaslo st,49.245353,-123.046751,renfrew collingwood,Low Class,Minor Crime
+871,4655 rupert st,49.243016,-123.035931,renfrew collingwood,Low Class,Minor Crime
+872,3644 e 28th ave #3,49.245106,-123.024899,renfrew collingwood,Low Class,Minor Crime
+873,5058 joyce st #1208,49.238596,-123.031047,renfrew collingwood,Low Class,Minor Crime
+874,4502 nanaimo st,49.244476,-123.056264,renfrew collingwood,Low Class,Minor Crime
+875,5120 killarney street,49.237924,-123.043571,renfrew collingwood,Low Class,Minor Crime
+876,708 1688 pullman porter street,49.234408,-123.025829,renfrew collingwood,Low Class,Minor Crime
+877,2768 e 25th avenue,49.247673,-123.047995,renfrew collingwood,Low Class,Minor Crime
+878,802 1688 pullman porter street,49.234408,-123.025829,renfrew collingwood,Low Class,Minor Crime
+879,906 4815 eldorado mews,49.241221,-123.057581,renfrew collingwood,Low Class,Minor Crime
+880,2707 e 26th avenue,49.247327,-123.048814,renfrew collingwood,Low Class,Minor Crime
+881,4557 reid street,49.243613,-123.036811,renfrew collingwood,Low Class,Minor Crime
+882,1907 4815 eldorado mews,49.241221,-123.057581,renfrew collingwood,Low Class,Minor Crime
+883,3625 monmouth avenue,49.23952,-123.02554,renfrew collingwood,Low Class,Minor Crime
+884,407 5399 joyce street,49.235396,-123.035085,renfrew collingwood,Low Class,Minor Crime
+885,4390 kaslo street,49.245353,-123.046751,renfrew collingwood,Low Class,Minor Crime
+886,202 2973 kingsway,49.236324,-123.043217,renfrew collingwood,Low Class,Minor Crime
+887,5630 lincoln street,49.233206,-123.025587,renfrew collingwood,Low Class,Minor Crime
+888,406 5399 joyce street,49.235396,-123.035085,renfrew collingwood,Low Class,Minor Crime
+889,2371 e 30th avenue,49.240627,-123.057494,renfrew collingwood,Low Class,Minor Crime
+890,2377 e 30th avenue,49.240576,-123.057389,renfrew collingwood,Low Class,Minor Crime
+891,3227 e 29th avenue,49.244802,-123.036051,renfrew collingwood,Low Class,Minor Crime
+892,2995 e 17th avenue,49.254696,-123.041804,renfrew collingwood,Low Class,Minor Crime
+893,3225 e 29th avenue,49.244802,-123.036051,renfrew collingwood,Low Class,Minor Crime
+894,1405 5410 shortcut road,49.234408,-123.025829,renfrew collingwood,Low Class,Minor Crime
+895,2636 ward street,49.240088,-123.050671,renfrew collingwood,Low Class,Minor Crime
+896,2634 ward street,49.240141,-123.050784,renfrew collingwood,Low Class,Minor Crime
+897,2632 ward street,49.240141,-123.050784,renfrew collingwood,Low Class,Minor Crime
+898,101 5189 gaston street,49.236997,-123.030296,renfrew collingwood,Low Class,Minor Crime
+899,5470 clarendon street,49.23501,-123.055135,renfrew collingwood,Low Class,Minor Crime
+900,2353 kingsway,49.241523,-123.056622,renfrew collingwood,Low Class,Minor Crime
+901,2375 kingsway,49.241365,-123.056284,renfrew collingwood,Low Class,Minor Crime
+902,2335 kingsway,49.24168,-123.056956,renfrew collingwood,Low Class,Minor Crime
+903,2361 kingsway,49.241469,-123.056502,renfrew collingwood,Low Class,Minor Crime
+904,4178 slocan street,49.24732,-123.049193,renfrew collingwood,Low Class,Minor Crime
+905,4951 rupert street,49.239893,-123.038926,renfrew collingwood,Low Class,Minor Crime
+906,4939 rupert street,49.239988,-123.038859,renfrew collingwood,Low Class,Minor Crime
+907,315 4990 mcgeer street,49.239521,-123.032816,renfrew collingwood,Low Class,Minor Crime
+908,197 w king edward avenue st #8,49.248613,-123.109833,riley park,Moderate Class,Minor Crime
+909,360 e 36th ave #213,49.237636,-123.098596,riley park,Moderate Class,Minor Crime
+910,460 w 16th ave #12,49.256561,-123.114012,riley park,Moderate Class,Minor Crime
+911,209 e 20th ave #103,49.253226,-123.100429,riley park,Moderate Class,Minor Crime
+912,4907 walden st,49.240342,-123.100534,riley park,Moderate Class,Minor Crime
+913,131 king edward ave e #1,49.249221,-123.108316,riley park,Moderate Class,Minor Crime
+914,142 e 27th ave,49.247028,-123.102357,riley park,Moderate Class,Minor Crime
+915,51 e 27th ave,49.247524,-123.104159,riley park,Moderate Class,Minor Crime
+916,557 e 20th ave,49.253106,-123.092568,riley park,Moderate Class,Minor Crime
+917,46 king edward ave w,49.24855,-123.106148,riley park,Moderate Class,Minor Crime
+918,3368 main st #203,49.255195,-123.100884,riley park,Moderate Class,Minor Crime
+919,428 e 24th ave,49.249087,-123.096034,riley park,Moderate Class,Minor Crime
+920,4078 columbia st #6,49.24926,-123.10968,riley park,Moderate Class,Minor Crime
+921,548 e 16th ave,49.256211,-123.092771,riley park,Moderate Class,Minor Crime
+922,3232 columbia st,49.256458,-123.109996,riley park,Moderate Class,Minor Crime
+923,155 e 23rd ave,49.250457,-123.102081,riley park,Moderate Class,Minor Crime
+924,676 w 26th avenue,49.247343,-123.091001,riley park,Moderate Class,Minor Crime
+925,1 351 e 38th avenue,49.23653,-123.098221,riley park,Moderate Class,Minor Crime
+926,402 1188 quebec street,49.25025,-123.102902,riley park,Moderate Class,Minor Crime
+927,206 688 e 19th avenue,49.253479,-123.090447,riley park,Moderate Class,Minor Crime
+928,410 215 e 33rd avenue,49.24077,-123.101062,riley park,Moderate Class,Minor Crime
+929,1 39 w 22nd avenue,49.251232,-123.10594,riley park,Moderate Class,Minor Crime
+930,2 39 w 22nd avenue,49.251232,-123.10594,riley park,Moderate Class,Minor Crime
+931,402 4988 cambie street,49.240173,-123.117258,riley park,Moderate Class,Minor Crime
+932,607 5168 cambie street,49.23884,-123.11579,riley park,Moderate Class,Minor Crime
+933,125 w 41st avenue,49.23355,-123.108809,riley park,Moderate Class,Minor Crime
+934,485 w 35th avenue,49.239443,-123.11647,riley park,Moderate Class,Minor Crime
+935,1 526 e 30th avenue,49.243301,-123.093564,riley park,Moderate Class,Minor Crime
+936,131 w 41st avenue,49.233559,-123.109005,riley park,Moderate Class,Minor Crime
+937,2 128 w woodstock avenue,49.233549,-123.108796,riley park,Moderate Class,Minor Crime
+938,2 351 e 38th avenue,49.23653,-123.098221,riley park,Moderate Class,Minor Crime
+939,36 e 37th avenue,49.237049,-123.104738,riley park,Moderate Class,Minor Crime
+940,51 e 27th avenue,49.247524,-123.104159,riley park,Moderate Class,Minor Crime
+941,142 e 27th avenue,49.247028,-123.102357,riley park,Moderate Class,Minor Crime
+942,360 e 24th avenue,49.24911,-123.09743,riley park,Moderate Class,Minor Crime
+943,46 w king edward avenue,49.24855,-123.106148,riley park,Moderate Class,Minor Crime
+944,4907 walden street,49.240342,-123.100534,riley park,Moderate Class,Minor Crime
+945,455 1483 e king edward avenue,49.248458,-123.09522,riley park,Moderate Class,Minor Crime
+946,305 222 e 30th avenue,49.24304,-123.100965,riley park,Moderate Class,Minor Crime
+947,203 3368 main street,49.255195,-123.100884,riley park,Moderate Class,Minor Crime
+948,305 188 e 32nd avenue,49.2418,-123.10183,riley park,Moderate Class,Minor Crime
+949,104 5089 quebec street,49.239403,-123.103206,riley park,Moderate Class,Minor Crime
+950,3205 carolina street,49.2562,-123.092081,riley park,Moderate Class,Minor Crime
+951,216 455 e 16th avenue,49.256334,-123.100145,riley park,Moderate Class,Minor Crime
+952,3823 cypress st,49.25175,-123.149196,shaughnessy,High Class,Moderate Crime
+953,1599 angus dr,49.254756,-123.141274,shaughnessy,High Class,Moderate Crime
+954,1626 avondale ave,49.236718,-123.141853,shaughnessy,High Class,Moderate Crime
+955,2023 w 36th ave,49.23888,-123.152567,shaughnessy,High Class,Moderate Crime
+956,1527 angus dr,49.254874,-123.140051,shaughnessy,High Class,Moderate Crime
+957,1483 king edward ave e #1056,49.249844,-123.138278,shaughnessy,High Class,Moderate Crime
+958,3290 cypress st,49.256513,-123.148065,shaughnessy,High Class,Moderate Crime
+959,4900 cartier st #306,49.240721,-123.136482,shaughnessy,High Class,Moderate Crime
+960,1667 w 40th ave,49.236008,-123.143513,shaughnessy,High Class,Moderate Crime
+961,1987 w 35th ave,49.240294,-123.151083,shaughnessy,High Class,Moderate Crime
+962,1510 w 33rd ave,49.241565,-123.139727,shaughnessy,High Class,Moderate Crime
+963,3707 hudson st,49.252101,-123.134899,shaughnessy,High Class,Moderate Crime
+964,1383 w 32nd ave,49.244418,-123.136819,shaughnessy,High Class,Moderate Crime
+965,3835 selkirk st,49.251221,-123.132307,shaughnessy,High Class,Moderate Crime
+966,1368 minto cres,49.242479,-123.136033,shaughnessy,High Class,Moderate Crime
+967,1080 wolfe ave,49.254646,-123.129873,shaughnessy,High Class,Moderate Crime
+968,1726 w 32nd ave,49.243344,-123.144295,shaughnessy,High Class,Moderate Crime
+969,1375 king edward ave w,49.249817,-123.135915,shaughnessy,High Class,Moderate Crime
+970,3998 granville st,49.250458,-123.13867,shaughnessy,High Class,Moderate Crime
+971,1591 nanton ave,49.247697,-123.141284,shaughnessy,High Class,Moderate Crime
+972,1191 w 40th ave,49.23528,-123.132242,shaughnessy,High Class,Moderate Crime
+973,1837 matthews ave,49.251583,-123.146601,shaughnessy,High Class,Moderate Crime
+974,1637 angus dr,49.254735,-123.14173,shaughnessy,High Class,Moderate Crime
+975,3402 osler st,49.255587,-123.131849,shaughnessy,High Class,Moderate Crime
+976,1307 w 41st ave,49.234482,-123.135094,shaughnessy,High Class,Moderate Crime
+977,4575 alexandra st,49.244421,-123.141555,shaughnessy,High Class,Moderate Crime
+978,1981 w 19th ave,49.254698,-123.150072,shaughnessy,High Class,Moderate Crime
+979,1691 w 41st ave,49.234766,-123.144399,shaughnessy,High Class,Moderate Crime
+980,1178 laurier ave,49.250332,-123.130784,shaughnessy,High Class,Moderate Crime
+981,1226 w 26th ave,49.247972,-123.132751,shaughnessy,High Class,Moderate Crime
+982,1564 w 26th ave,49.248098,-123.140657,shaughnessy,High Class,Moderate Crime
+983,5189 connaught dr,49.239228,-123.143001,shaughnessy,High Class,Moderate Crime
+984,1790 angus dr,49.252859,-123.14417,shaughnessy,High Class,Moderate Crime
+985,1533 balfour ave,49.252171,-123.139996,shaughnessy,High Class,Moderate Crime
+986,1487 minto cres,49.24305,-123.138757,shaughnessy,High Class,Moderate Crime
+987,5212 maple st,49.238864,-123.151651,shaughnessy,High Class,Moderate Crime
+988,1603 matthews ave,49.253184,-123.141679,shaughnessy,High Class,Moderate Crime
+989,1350 w 32nd ave,49.243717,-123.136418,shaughnessy,High Class,Moderate Crime
+990,3290 cypress street,49.256513,-123.148065,shaughnessy,High Class,Moderate Crime
+991,1020 wolfe avenue,49.25248,-123.128293,shaughnessy,High Class,Moderate Crime
+992,1987 w 35th avenue,49.240294,-123.151083,shaughnessy,High Class,Moderate Crime
+993,1638 marpole avenue,49.255328,-123.141728,shaughnessy,High Class,Moderate Crime
+994,1837 matthews avenue,49.251583,-123.146601,shaughnessy,High Class,Moderate Crime
+995,36 4900 cartier street,49.240721,-123.136482,shaughnessy,High Class,Moderate Crime
+996,3707 hudson street,49.252101,-123.134899,shaughnessy,High Class,Moderate Crime
+997,788 w 19th ave,49.254059,-123.121662,south cambie,Moderate Class,Moderate Crime
+998,950 w 17th ave,49.255966,-123.126198,south cambie,Moderate Class,Moderate Crime
+999,937 w 18th ave,49.255551,-123.125406,south cambie,Moderate Class,Moderate Crime
+1000,756 w 22nd ave,49.251345,-123.121503,south cambie,Moderate Class,Moderate Crime
+1001,638 w 17th ave,49.255812,-123.118959,south cambie,Moderate Class,Moderate Crime
+1002,5650 oak st #208,49.234715,-123.127612,south cambie,Moderate Class,Moderate Crime
+1003,871 w 33rd ave,49.241609,-123.124533,south cambie,Moderate Class,Moderate Crime
+1004,688 w 29th ave,49.244967,-123.120027,south cambie,Moderate Class,Moderate Crime
+1005,5189 cambie st #501,49.237902,-123.116631,south cambie,Moderate Class,Moderate Crime
+1006,3379 heather st,49.255423,-123.120533,south cambie,Moderate Class,Moderate Crime
+1007,585 w 26th avenue,49.247719,-123.117975,south cambie,Moderate Class,Moderate Crime
+1008,557 w 26th avenue,49.24771,-123.117467,south cambie,Moderate Class,Moderate Crime
+1009,627 w 39th avenue,49.235667,-123.118886,south cambie,Moderate Class,Moderate Crime
+1010,206 528 w king edward avenue,49.248669,-123.11692,south cambie,Moderate Class,Moderate Crime
+1011,505 3228 tupper street,49.256398,-123.115578,south cambie,Moderate Class,Moderate Crime
+1012,ph2 668 w 16th avenue,49.256719,-123.119065,south cambie,Moderate Class,Moderate Crime
+1013,563 w 26th avenue,49.248237,-123.117478,south cambie,Moderate Class,Moderate Crime
+1014,756 w 26th avenue,49.247789,-123.121506,south cambie,Moderate Class,Moderate Crime
+1015,3728 heather street,49.252237,-123.119876,south cambie,Moderate Class,Moderate Crime
+1016,950 w 17th avenue,49.255966,-123.126198,south cambie,Moderate Class,Moderate Crime
+1017,688 w 29th avenue,49.244967,-123.120027,south cambie,Moderate Class,Moderate Crime
+1018,231 e pender st #209,49.280617,-123.098724,strathcona,Low Class,Severe Crime
+1019,730 hawks ave,49.277678,-123.08707,strathcona,Low Class,Severe Crime
+1020,431 heatley ave,49.280531,-123.089821,strathcona,Low Class,Severe Crime
+1021,646 union st,49.277229,-123.090532,strathcona,Low Class,Severe Crime
+1022,548 georgia st e #2,49.278177,-123.092362,strathcona,Low Class,Severe Crime
+1023,762 e pender st,49.279895,-123.088165,strathcona,Low Class,Severe Crime
+1024,1133 keefer st,49.279386,-123.080493,strathcona,Low Class,Severe Crime
+1025,548 georgia st e #1,49.278177,-123.092362,strathcona,Low Class,Severe Crime
+1026,1152 georgia st e,49.277968,-123.08008,strathcona,Low Class,Severe Crime
+1027,110 prior st,49.276483,-123.098475,strathcona,Low Class,Severe Crime
+1028,983 hastings st e #202,49.28134,-123.084033,strathcona,Low Class,Severe Crime
+1029,1204 983 e hastings street,49.281639,-123.078845,strathcona,Low Class,Severe Crime
+1030,268 w 1st avenue,49.268485,-123.098107,strathcona,Low Class,Severe Crime
+1031,409 289 alexander street,49.284431,-123.09843,strathcona,Low Class,Severe Crime
+1032,1161 keefer street,49.279381,-123.079889,strathcona,Low Class,Severe Crime
+1033,730 hawks avenue,49.277678,-123.08707,strathcona,Low Class,Severe Crime
+1034,1128 e pender street,49.280291,-123.080584,strathcona,Low Class,Severe Crime
+1035,803 983 e hastings street,49.281393,-123.08681,strathcona,Low Class,Severe Crime
+1036,209 231 e pender street,49.280617,-123.098724,strathcona,Low Class,Severe Crime
+1037,453 e 47th ave,49.227715,-123.095493,sunset,Low Class,Severe Crime
+1038,445 e 57th ave #2,49.218602,-123.09638,sunset,Low Class,Severe Crime
+1039,275 e 65th ave,49.211978,-123.100764,sunset,Low Class,Severe Crime
+1040,474 e 43rd ave #204,49.230805,-123.094791,sunset,Low Class,Severe Crime
+1041,198 e 44th ave,49.230136,-123.1019,sunset,Low Class,Severe Crime
+1042,6384 windsor st,49.226523,-123.084808,sunset,Low Class,Severe Crime
+1043,352 w 62nd ave,49.214071,-123.099064,sunset,Low Class,Severe Crime
+1044,603 e 57th ave,49.218537,-123.092892,sunset,Low Class,Severe Crime
+1045,8006 chester st,49.212378,-123.089172,sunset,Low Class,Severe Crime
+1046,40 e 46th ave #1,49.228272,-123.104959,sunset,Low Class,Severe Crime
+1047,1362 e 60th ave,49.215236,-123.078257,sunset,Low Class,Severe Crime
+1048,288 e 59th ave,49.216461,-123.100018,sunset,Low Class,Severe Crime
+1049,812 e 51st ave,49.223276,-123.087828,sunset,Low Class,Severe Crime
+1050,250 e 54th ave,49.220757,-123.100626,sunset,Low Class,Severe Crime
+1051,433 sw marine dr #501,49.211409,-123.096518,sunset,Low Class,Severe Crime
+1052,1290 e 48th ave,49.225929,-123.080296,sunset,Low Class,Severe Crime
+1053,758 e 60th ave #1,49.21538,-123.089055,sunset,Low Class,Severe Crime
+1054,625 e 44th ave,49.230373,-123.092097,sunset,Low Class,Severe Crime
+1055,453 e 47th avenue,49.227715,-123.095493,sunset,Low Class,Severe Crime
+1056,1362 e 60th avenue,49.215236,-123.078257,sunset,Low Class,Severe Crime
+1057,250 e 54th avenue,49.220757,-123.100626,sunset,Low Class,Severe Crime
+1058,1290 e 48th avenue,49.225929,-123.080296,sunset,Low Class,Severe Crime
+1059,2 6273 windsor street,49.227628,-123.085569,sunset,Low Class,Severe Crime
+1060,1 6273 windsor street,49.227628,-123.085569,sunset,Low Class,Severe Crime
+1061,1150 e 41st avenue,49.232495,-123.081964,sunset,Low Class,Severe Crime
+1062,288 e 59th avenue,49.216461,-123.100018,sunset,Low Class,Severe Crime
+1063,3 se marine drive,49.212544,-123.106195,sunset,Low Class,Severe Crime
+1064,1371 e 63rd avenue,49.212623,-123.078173,sunset,Low Class,Severe Crime
+1065,636 e 51st avenue,49.223331,-123.092014,sunset,Low Class,Severe Crime
+1066,404 e 46th avenue,49.228115,-123.097251,sunset,Low Class,Severe Crime
+1067,198 e 44th avenue,49.230136,-123.1019,sunset,Low Class,Severe Crime
+1068,501 433 sw marine drive,49.211322,-123.094523,sunset,Low Class,Severe Crime
+1069,8481 portside ct,49.207213,-123.061855,victoria fraserview,Low Class,Severe Crime
+1070,1828 se marine dr,49.210319,-123.069152,victoria fraserview,Low Class,Severe Crime
+1071,1895 e 50th ave,49.224548,-123.067534,victoria fraserview,Low Class,Severe Crime
+1072,2600 e 49th ave #112,49.224313,-123.054098,victoria fraserview,Low Class,Severe Crime
+1073,2068 e 49th ave,49.22485,-123.064401,victoria fraserview,Low Class,Severe Crime
+1074,1958 e 47th ave #406,49.227335,-123.066077,victoria fraserview,Low Class,Severe Crime
+1075,1508 w 61st ave,49.214369,-123.075481,victoria fraserview,Low Class,Severe Crime
+1076,2020 e kent ave se #411,49.206558,-123.065143,victoria fraserview,Low Class,Severe Crime
+1077,1748 e 55th ave,49.219678,-123.070476,victoria fraserview,Low Class,Severe Crime
+1078,1461 e 64th ave,49.212239,-123.075886,victoria fraserview,Low Class,Severe Crime
+1079,7176 duff st,49.218979,-123.06423,victoria fraserview,Low Class,Severe Crime
+1080,2250 se marine dr #202,49.20747,-123.060625,victoria fraserview,Low Class,Severe Crime
+1081,1620 e 47th ave,49.226995,-123.0735,victoria fraserview,Low Class,Severe Crime
+1082,1789 e 63rd ave,49.213103,-123.069362,victoria fraserview,Low Class,Severe Crime
+1083,5756 st. margarets street,49.231853,-123.056188,victoria fraserview,Low Class,Severe Crime
+1084,2262 newport avenue,49.215041,-123.060701,victoria fraserview,Low Class,Severe Crime
+1085,1810 e 55th avenue,49.220106,-123.068967,victoria fraserview,Low Class,Severe Crime
+1086,2068 e 49th avenue,49.22485,-123.064401,victoria fraserview,Low Class,Severe Crime
+1087,1508 w 61st avenue,49.214369,-123.075481,victoria fraserview,Low Class,Severe Crime
+1088,2689 brightwood place,49.21552,-123.053135,victoria fraserview,Low Class,Severe Crime
+1089,2355 e 54th avenue,49.22056,-123.058468,victoria fraserview,Low Class,Severe Crime
+1090,411 2020 se kent avenue,49.206558,-123.065143,victoria fraserview,Low Class,Severe Crime
+1091,105 2250 se marine drive,49.20747,-123.060625,victoria fraserview,Low Class,Severe Crime
+1092,1219 harwood st #201,49.280802,-123.135616,west end,Moderate Class,Severe Crime
+1093,1251 cardero st #1808,49.284994,-123.139881,west end,Moderate Class,Severe Crime
+1094,1128 georgia st w #4903,49.285762,-123.123947,west end,Moderate Class,Severe Crime
+1095,1720 barclay st #503,49.289164,-123.136778,west end,Moderate Class,Severe Crime
+1096,1270 robson st #507,49.286589,-123.128605,west end,Moderate Class,Severe Crime
+1097,888 bute st #101,49.284652,-123.128638,west end,Moderate Class,Severe Crime
+1098,1019 gilford st #8,49.2903,-123.140972,west end,Moderate Class,Severe Crime
+1099,1251 cardero st #2001,49.284994,-123.139881,west end,Moderate Class,Severe Crime
+1100,1330 harwood st #1202,49.281647,-123.138072,west end,Moderate Class,Severe Crime
+1101,1788 georgia st w #601,49.292156,-123.133845,west end,Moderate Class,Severe Crime
+1102,1311 beach ave #1802,49.281167,-123.13834,west end,Moderate Class,Severe Crime
+1103,1345 comox st #204,49.284133,-123.132141,west end,Moderate Class,Severe Crime
+1104,717 jervis st #3101,49.287872,-123.12823,west end,Moderate Class,Severe Crime
+1105,1180 broughton st #1302,49.283567,-123.135527,west end,Moderate Class,Severe Crime
+1106,1165 burnaby st #402,49.280878,-123.133641,west end,Moderate Class,Severe Crime
+1107,1408 robson st #2901,49.28808,-123.13083,west end,Moderate Class,Severe Crime
+1108,710 chilco st #303,49.293438,-123.137924,west end,Moderate Class,Severe Crime
+1109,1534 harwood st #702,49.283224,-123.1405,west end,Moderate Class,Severe Crime
+1110,1330 harwood st #708,49.281647,-123.138072,west end,Moderate Class,Severe Crime
+1111,1410 bute st #500,49.279374,-123.136619,west end,Moderate Class,Severe Crime
+1112,1386 nicola st #24,49.282452,-123.140146,west end,Moderate Class,Severe Crime
+1113,1408 robson st #1006,49.28808,-123.13083,west end,Moderate Class,Severe Crime
+1114,1717 haro st #401,49.290223,-123.135177,west end,Moderate Class,Severe Crime
+1115,1331 alberni st #2701,49.288352,-123.127898,west end,Moderate Class,Severe Crime
+1116,1050 chilco st #503,49.290238,-123.142748,west end,Moderate Class,Severe Crime
+1117,1234 pendrell st #102,49.282739,-123.133262,west end,Moderate Class,Severe Crime
+1118,2055 pendrell st #1605,49.290618,-123.144258,west end,Moderate Class,Severe Crime
+1119,1200 alberni st #2903,49.28687,-123.12674,west end,Moderate Class,Severe Crime
+1120,1396 burnaby st #201,49.282669,-123.137432,west end,Moderate Class,Severe Crime
+1121,1355 harwood st #203,49.282084,-123.137655,west end,Moderate Class,Severe Crime
+1122,938 smithe st #1515,49.283215,-123.125593,west end,Moderate Class,Severe Crime
+1123,1568 alberni st #penthouse 1,49.289738,-123.131183,west end,Moderate Class,Severe Crime
+1124,1012 beach ave #402,49.277405,-123.134727,west end,Moderate Class,Severe Crime
+1125,1251 cardero st #1102,49.284994,-123.139881,west end,Moderate Class,Severe Crime
+1126,1119 pendrell st,49.281546,-123.130237,west end,Moderate Class,Severe Crime
+1127,1460 bute st #201,49.279255,-123.136797,west end,Moderate Class,Severe Crime
+1128,1236 bidwell st #1601,49.285534,-123.140717,west end,Moderate Class,Severe Crime
+1129,1568 alberni st #2903,49.289738,-123.131183,west end,Moderate Class,Severe Crime
+1130,1919 beach ave #1600,49.288974,-123.142904,west end,Moderate Class,Severe Crime
+1131,1274 barclay st #107,49.285107,-123.130595,west end,Moderate Class,Severe Crime
+1132,1003 burnaby st #1005,49.278791,-123.130299,west end,Moderate Class,Severe Crime
+1133,1315 cardero st #604,49.284113,-123.140719,west end,Moderate Class,Severe Crime
+1134,2095 beach ave #503,49.290514,-123.145319,west end,Moderate Class,Severe Crime
+1135,1861 beach ave #5,49.288355,-123.142148,west end,Moderate Class,Severe Crime
+1136,1511 barclay st,49.287638,-123.133308,west end,Moderate Class,Severe Crime
+1137,950 bidwell st penthouse 2,49.288731,-123.136078,west end,Moderate Class,Severe Crime
+1138,845 chilco st #1501,49.292989,-123.139433,west end,Moderate Class,Severe Crime
+1139,1050 chilco st #606,49.290238,-123.142748,west end,Moderate Class,Severe Crime
+1140,1230 comox st #303,49.283365,-123.13222,west end,Moderate Class,Severe Crime
+1141,1850 comox st #1206,49.288968,-123.140776,west end,Moderate Class,Severe Crime
+1142,1004 1003 burnaby street,49.278791,-123.130299,west end,Moderate Class,Severe Crime
+1143,8 1019 gilford street,49.2903,-123.140972,west end,Moderate Class,Severe Crime
+1144,1723 alberni street 1508,49.291713,-123.133091,west end,Moderate Class,Severe Crime
+1145,302 1080 pacific street,49.277822,-123.134387,west end,Moderate Class,Severe Crime
+1146,2309 233 robson street,49.283545,-123.123071,west end,Moderate Class,Severe Crime
+1147,901 1575 beach avenue,49.283096,-123.141367,west end,Moderate Class,Severe Crime
+1148,706 1725 pendrell street,49.287374,-123.139378,west end,Moderate Class,Severe Crime
+1149,1504 1568 alberni street,49.289738,-123.131183,west end,Moderate Class,Severe Crime
+1150,102 1311 beach avenue,49.281167,-123.13834,west end,Moderate Class,Severe Crime
+1151,109 1855 nelson street,49.290121,-123.139318,west end,Moderate Class,Severe Crime
+1152,402 1568 alberni street,49.289738,-123.131183,west end,Moderate Class,Severe Crime
+1153,604 1315 cardero street,49.284113,-123.140719,west end,Moderate Class,Severe Crime
+1154,301 1771 nelson street,49.289313,-123.137977,west end,Moderate Class,Severe Crime
+1155,202 1771 nelson street,49.289313,-123.137977,west end,Moderate Class,Severe Crime
+1156,ph2 950 bidwell street,49.288731,-123.136078,west end,Moderate Class,Severe Crime
+1157,1501 845 chilco street,49.292989,-123.139433,west end,Moderate Class,Severe Crime
+1158,311 1975 pendrell street,49.289836,-123.143061,west end,Moderate Class,Severe Crime
+1159,201 1147 nelson street,49.283404,-123.128962,west end,Moderate Class,Severe Crime
+1160,801 1236 bidwell street,49.285534,-123.140717,west end,Moderate Class,Severe Crime
+1161,702 1534 harwood street,49.283224,-123.1405,west end,Moderate Class,Severe Crime
+1162,2109 1111 alberni street,49.285963,-123.124175,west end,Moderate Class,Severe Crime
+1163,1005 1003 burnaby street,49.278791,-123.130299,west end,Moderate Class,Severe Crime
+1164,4788 belmont ave,49.274912,-123.219831,west point grey,High Class,Moderate Crime
+1165,1611 drummond dr,49.274087,-123.222267,west point grey,High Class,Moderate Crime
+1166,1784 drummond dr,49.271896,-123.220682,west point grey,High Class,Moderate Crime
+1167,3635 w 14th ave,49.26001,-123.184653,west point grey,High Class,Moderate Crime
+1168,3731 w 6th ave #203,49.26716,-123.18637,west point grey,High Class,Moderate Crime
+1169,4166 crown cres,49.2643,-123.198901,west point grey,High Class,Moderate Crime
+1170,4615 w 4th ave,49.269314,-123.212434,west point grey,High Class,Moderate Crime
+1171,4455 w 1st ave,49.272334,-123.207492,west point grey,High Class,Moderate Crime
+1172,4528 langara ave,49.272679,-123.209639,west point grey,High Class,Moderate Crime
+1173,4333 locarno cres,49.269209,-123.20402,west point grey,High Class,Moderate Crime
+1174,4309 locarno cres,49.269064,-123.203404,west point grey,High Class,Moderate Crime
+1175,4569 w 2nd ave,49.271603,-123.210982,west point grey,High Class,Moderate Crime
+1176,3888 w 13th ave,49.260558,-123.190619,west point grey,High Class,Moderate Crime
+1177,3814 w 15th ave,49.258712,-123.1885,west point grey,High Class,Moderate Crime
+1178,3806 w 3rd ave,49.269297,-123.187861,west point grey,High Class,Moderate Crime
+1179,4769 belmont ave,49.275514,-123.217758,west point grey,High Class,Moderate Crime
+1180,4417 w 16th ave,49.258606,-123.206867,west point grey,High Class,Moderate Crime
+1181,4687 w 15th ave,49.259633,-123.214851,west point grey,High Class,Moderate Crime
+1182,4677 simpson ave,49.274643,-123.214067,west point grey,High Class,Moderate Crime
+1183,3731 w 6th ave #106,49.26716,-123.18637,west point grey,High Class,Moderate Crime
+1184,3850 point grey rd,49.271533,-123.188906,west point grey,High Class,Moderate Crime
+1185,4215 w 13th ave #1,49.261211,-123.200574,west point grey,High Class,Moderate Crime
+1186,4755 belmont ave,49.275397,-123.217159,west point grey,High Class,Moderate Crime
+1187,4570 w 4th ave,49.268778,-123.210964,west point grey,High Class,Moderate Crime
+1188,4560 belmont ave,49.273478,-123.210627,west point grey,High Class,Moderate Crime
+1189,4190 w 11th ave,49.262489,-123.199551,west point grey,High Class,Moderate Crime
+1190,4627 w 15th ave,49.259608,-123.21319,west point grey,High Class,Moderate Crime
+1191,4650 nw marine dr,49.275009,-123.213294,west point grey,High Class,Moderate Crime
+1192,4347 w 9th ave,49.264875,-123.204433,west point grey,High Class,Moderate Crime
+1193,4586 w 8th ave,49.265369,-123.211463,west point grey,High Class,Moderate Crime
+1194,4535 w 1st ave,49.272378,-123.209913,west point grey,High Class,Moderate Crime
+1195,4266 w 10th avenue,49.263427,-123.201818,west point grey,High Class,Moderate Crime
+1196,3812 w 15th avenue,49.258707,-123.188484,west point grey,High Class,Moderate Crime
+1197,3814 w 15th avenue,49.258712,-123.1885,west point grey,High Class,Moderate Crime
+1198,4569 w 2nd avenue,49.271603,-123.210982,west point grey,High Class,Moderate Crime
+1199,4444 w 2nd avenue,49.270987,-123.207256,west point grey,High Class,Moderate Crime
+1200,4190 w 11th avenue,49.262489,-123.199551,west point grey,High Class,Moderate Crime
+1201,4517 w 4th avenue,49.269329,-123.210104,west point grey,High Class,Moderate Crime
+1202,301 4375 w 10th avenue,49.264023,-123.205245,west point grey,High Class,Moderate Crime
+1203,106 3731 w 6th avenue,49.26716,-123.18637,west point grey,High Class,Moderate Crime
+1204,3822 w 2nd avenue,49.270197,-123.188209,west point grey,High Class,Moderate Crime
