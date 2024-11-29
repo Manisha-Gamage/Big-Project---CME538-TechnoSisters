@@ -30,4 +30,4 @@ We combined these datasets and conducted exploratory data analysis (EDA) to iden
 
 **Link to Medium article:**
 
-Toronto vs. Vancouver: The Battle for Affordable and Safe Neighborhoods -  ENTER THE LINK
+* Toronto vs. Vancouver: The Battle for Affordable and Safe Neighborhoods - ENTER THE LINK
