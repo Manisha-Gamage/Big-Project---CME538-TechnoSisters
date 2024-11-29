@@ -1,0 +1,17 @@
+feature_selected 						   Importance
+
+total_rooms 							0.30920814520052764
+longitude 							0.27142336685802143
+bedrooms 							0.14640855672492073
+bathrooms 							0.05740946099305407
+total facilities 1000   					0.028652564390129448
+avg_faci_500_1500 						0.026312935773565693
+total facilities 1500 					        0.02573130849175411
+total facilities 500 						0.023031804923880524
+affordability_index 						0.01984215875417776
+restaurants_best_buffer_area_0.5_values 			0.019160456230980397
+public_transit_best_buffer_area_0.5_values 			0.01819759841747168
+house_category 							0.016173850937816495	
+other_dailylife_facilities_best_buffer_area_0.5_values 		0.014762795611870685
+area 								0.013345259691741825
+income_score 							0.010339737000087567

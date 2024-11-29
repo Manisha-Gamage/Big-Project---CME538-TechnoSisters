@@ -1,0 +1,145 @@
+* Ranking from lowest affordability to highest affodability,
+,
+neighbourhood_name,Affordability_Index
+kingsway south,13.3428762
+lawrence park north,15.74143507
+rosedale moore park,18.98889861
+yonge eglinton,19.32328195
+lambton baby point,20.7913125
+playter estates danforth,21.47793957
+lawrence park south,25.25050189
+princess rosethorn,26.50337603
+leaside bennington,26.82874983
+the beaches,27.10697339
+bedford park nortown,27.4580328
+st andrew windfields,30.97251869
+lansing westgate,32.44406386
+annex,32.64549791
+runnymede bloor west village,32.70310653
+north riverdale,35.09400338
+east willowdale,35.92405106
+yonge st clair,39.27986866
+mount pleasant east,40.75809154
+high park north,41.3193771
+casa loma,44.45550116
+high park swansea,45.00236413
+willowdale west,49.47114589
+west queen west,49.54047474
+forest hill south,49.94110622
+cabbagetown south st james town,50.09130022
+guildwood,56.68411216
+edenbridge humber valley,57.27250606
+pelmo park humberlea,58.59689703
+broadview north,58.7523453
+danforth east york,59.30257151
+st lawrence east bayfront the islands,60.83528077
+woodbine lumsden,61.63999821
+centennial scarborough,63.62644352
+fort york liberty village,64.13734899
+highland creek,64.13943887
+blake jones,64.4829101
+dovercourt village,65.15575201
+markland wood,68.61682087
+bridle path sunnybrook york mills,69.26340987
+parkwoods o connor hills,72.40507442
+cliffcrest,72.74861648
+danforth,72.7770428
+maple leaf,73.13077656
+humber heights westmount,74.64540883
+little portugal,78.62564154
+junction area,79.27936024
+birchcliffe cliffside,79.28269521
+moss park,82.21025367
+bathurst manor,83.77371391
+yorkdale glen park,87.65426058
+new toronto,87.8769167
+humber bay shores,88.80241124
+greenwood coxwell,88.80698898
+newtonbrook west,89.54730059
+south riverdale,90.14210275
+junction wallace emerson,91.35686429
+east end danforth,91.50840717
+willowridge martingrove richview,92.5399553
+roncesvalles,92.94935656
+mimico queensway,94.60785645
+morningside heights,97.30556575
+long branch,97.52004362
+woodbine corridor,99.19190295
+dufferin grove,99.86151646
+o connor parkview,102.9705792
+south eglinton davisville,105.5445261
+englemount lawrence,105.8572432
+old east york,108.6630336
+stonegate queensway,109.5000044
+corso italia davenport,110.7653386
+humewood cedarvale,112.0450339
+bayview village,112.9564352
+oakwood village,113.8132353
+bayview woods steeles,115.2112751
+taylor massey,115.9719287
+wychwood,116.2064341
+weston pelham park,116.9015564
+clanton park,118.0358771
+yonge doris,124.9519836
+alderwood,125.0261085
+oakdale beverley heights,127.050378
+humber summit,129.9321847
+hillcrest village,131.1839074
+west humber clairville,132.0779771
+harbourfront cityplace,132.4004048
+rexdale kipling,134.1904398
+brookhaven amesbury,135.8788802
+elms old rexdale,136.6156756
+banbury don mills,137.085916
+malvern west,138.1536815
+west rouge,140.1905165
+henry farm,140.5166881
+avondale,142.0164677
+west hill,143.2875768
+islington,143.9051019
+rockcliffe smythe,145.9530889
+forest hill north,150.458689
+eringate centennial west deane,151.1471194
+don valley village,152.4674723
+tam o shanter sullivan,152.4987056
+etobicoke city centre,154.5906107
+south parkdale,155.9746147
+agincourt north,162.1338568
+wexford/maryvale,162.8628874
+briar hill belgravia,165.186493
+oakridge,165.7647745
+milliken,166.8875112
+thorncliffe park,167.3859678
+caledonia fairbank,167.9272217
+etobicoke west mall,168.2684097
+glenfield jane heights,170.817033
+kennedy park,175.7324095
+agincourt south malvern west,177.8979532
+clairlea birchmount,180.2430001
+keelesdale eglinton west,180.5963085
+regent park,182.6158494
+westminster branson,184.1054614
+morningside,187.1737394
+fenside parkwoods,198.0511606
+humbermede,199.811117
+mount olive silverstone jamestown,202.6754273
+golfdale cedarbrae woburn,204.5955056
+north st james town,216.3416266
+newtonbrook east,217.8387531
+victoria village,229.1758279
+york university heights,230.7061486
+eglinton east,233.2809876
+dorset park,249.4220791
+kingsview village the westway,252.8713927
+malvern east,258.134027
+pleasant view,261.7686838
+mount dennis,277.24048
+woburn north,296.3830598
+beechborough greenbrook,311.5859698
+weston,318.5495478
+steeles,333.2680742
+flemingdon park,376.6353809
+bendale glen andrew,384.6112788
+downsview,403.3788718
+l amoreaux west,403.6766292
+black creek,748.6571169

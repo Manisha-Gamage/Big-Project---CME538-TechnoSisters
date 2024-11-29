@@ -1,0 +1,12 @@
+feature_selected 				   Importance
+
+bathrooms 					0.3301849951985575
+total_rooms 					0.13944196723196667
+affordability_index 				0.12416454603469376
+latitude 					0.12176486657001707
+house_category 					0.08160555510443794
+income_score 					0.05071295563153169
+average_price 					0.05033533679585139
+public_transit_best_buffer_area_0.5_values 	0.049736466497274964
+bedrooms 					0.03196261679384672
+bath_bed_ratio 					0.020090694141822327
