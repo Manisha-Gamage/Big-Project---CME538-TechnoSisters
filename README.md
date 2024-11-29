@@ -23,7 +23,9 @@ Overview of Folders:
 3.	Income and crime class selection: Contains the code and results for classifying neighborhoods based on income and crime data.  
 4.	Affodabilty_Safety_Price_prediction: Contains the code for clustering neighborhoods by affordability, ranking neighborhoods, analyzing safety, and predicting house prices, along with the results.  
 
-![Workflow [image](https://github.com/user-attachments/assets/7cf590f4-f2ac-4171-b6d0-5d28f553174d)]
+Workflow:
+
+![image](https://github.com/user-attachments/assets/7cf590f4-f2ac-4171-b6d0-5d28f553174d)
 
 Link to Medium article:
 Toronto vs. Vancouver: The Battle for Affordable and Safe Neighborhoods -  ENTER THE LINK
