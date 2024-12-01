@@ -10,7 +10,7 @@ Data for this project was gathered from several sources to ensure a comprehensiv
 
 * ```Crime Data```: Sourced from the [Toronto Police Service](https://data.torontopolice.on.ca/pages/open-data) and [Vancouver Police department](https://geodash.vpd.ca/opendata/) websites to assess neighborhood safety. 
 
-* ```Income Data```: Retrieved from [Census Canada](https://www12.statcan.gc.ca/census-recensement/2021/rt-td/income-revenu-eng.cfm) to understand income distribution across neighborhoods.
+* ```Income Data```: Retrieved from [Open Data Portal] ((https://open.toronto.ca/dataset/neighbourhood-profiles/) and [Census Canada](https://www12.statcan.gc.ca/census-recensement/2021/rt-td/income-revenu-eng.cfm) to understand income distribution per year across neighborhoods.
 
 * ```Amenities Data```: Extracted from [Open Street Maps](https://download.geofabrik.de/north-america/canada.html) to evaluate access to schools, hospitals, parks, and more.
 
@@ -28,7 +28,8 @@ We combined these datasets and conducted exploratory data analysis (EDA) to iden
 
 ![image](https://github.com/user-attachments/assets/7cf590f4-f2ac-4171-b6d0-5d28f553174d)
 
-** Data Cleaning-Filtering and combining** 
+**Data Cleaning-Filtering and combining**
+
 <img width="379" alt="image" src="https://github.com/user-attachments/assets/3ea67f88-8e4a-4cab-b8c2-4aedf2618c3e">
 
 **Link to Medium article:**
