@@ -10,7 +10,7 @@ Data for this project was gathered from several sources to ensure a comprehensiv
 
 * ```Crime Data```: Sourced from the [Toronto Police Service](https://data.torontopolice.on.ca/pages/open-data) and [Vancouver Police department](https://geodash.vpd.ca/opendata/) websites to assess neighborhood safety. 
 
-* ```Income Data```: Retrieved from [Open Data Portal](https://open.toronto.ca/dataset/neighbourhood-profiles/) and [Census Canada]([https://www12.statcan.gc.ca/census-recensement/2021/rt-td/income-revenu-eng.cfm](https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/details/page.cfm?Lang=E&GENDERlist=1,2,3&STATISTIClist=1,4&HEADERlist=0&DGUIDlist=2021A00055915022&SearchText=vancouver)) to understand income distribution per year across neighborhoods.
+* ```Income Data```: Retrieved from [Open Data Portal](https://open.toronto.ca/dataset/neighbourhood-profiles/) and [Census Canada](https://www12.statcan.gc.ca/census-recensement/2021/rt-td/income-revenu-eng.cfm) to understand income distribution per year across neighborhoods.
 
 * ```Amenities Data```: Extracted from [Open Street Maps](https://download.geofabrik.de/north-america/canada.html) to evaluate access to schools, hospitals, parks, and more.
 
