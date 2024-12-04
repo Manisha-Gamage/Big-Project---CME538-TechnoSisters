@@ -29,7 +29,8 @@ We combined these datasets and conducted exploratory data analysis (EDA) to iden
 ![image](https://github.com/user-attachments/assets/7cf590f4-f2ac-4171-b6d0-5d28f553174d)
 
 **Data Cleaning-Filtering-Combining**
-<img width="379" alt="image" src="https://github.com/user-attachments/assets/aef44eee-1de3-4af9-91a3-6a12e3e9df79">
+
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/aef44eee-1de3-4af9-91a3-6a12e3e9df79">
 
 **Link to Medium article:**
 
